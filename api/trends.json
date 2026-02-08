@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T03:25:22.095224+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-02-09T04:28:34.195368+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
-        },
-        {
-          "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
-          "url": "https://flash.jin10.com/detail/20260208234419221800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "日本财务大臣片山皋月：不会对汇率水平发表评论。 正与美国就汇率保持密切联系。 保持日元兑美元汇率稳定是财务主管的责任。 无需担心日本进入滞胀。",
@@ -38,20 +26,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
-          "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
-          "url": "https://flash.jin10.com/detail/20260208234215396800",
+          "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
+          "url": "https://flash.jin10.com/detail/20260208234419221800",
           "source": "金十数据",
           "ranks": [
-            2,
+            1,
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -61,30 +50,45 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
           "url": "https://flash.jin10.com/detail/20260209002129268800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 04时28分]"
         },
         {
           "title": "美国财长贝森特谈黄金行情",
           "url": "https://flash.jin10.com/detail/20260209000357405800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 04时28分]"
+        },
+        {
+          "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
+          "url": "https://flash.jin10.com/detail/20260208234215396800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -95,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "手眼通天！爱泼斯坦曾帮罗斯柴尔德家族“搞定”美国司法部交易，获利2500万美元",
@@ -107,8 +111,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "中国黄金调整回购规则",
@@ -118,8 +122,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "央行连续第15个月增持黄金",
@@ -131,8 +135,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -140,11 +144,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
@@ -155,8 +160,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
@@ -166,8 +171,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -177,8 +182,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
@@ -188,8 +193,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "比特币涨至71000美元，日内涨超2%。",
@@ -199,8 +204,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "知名科技记者古尔曼：料新款iPhone 17e搭载A19芯片和MagSafe充电功能，还将采用苹果最新的自研蜂窝网络和无线芯片。苹果计划将售价维持在599美元不变。",
@@ -208,11 +213,12 @@
           "source": "金十数据",
           "ranks": [
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
@@ -222,8 +228,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
@@ -231,11 +237,12 @@
           "source": "金十数据",
           "ranks": [
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "金价巨震下买黄金的人怎么样了",
@@ -243,11 +250,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            28
+            28,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
         },
         {
           "title": "韩国交易所误发超400亿美元比特币",
@@ -258,8 +266,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
         },
         {
           "title": "黄金ETF迎来布局时点了吗",
