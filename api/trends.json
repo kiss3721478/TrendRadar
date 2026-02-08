@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T17:31:43.022183+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-02-08T18:27:24.798632+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "中国央行黄金储备\"十五连增\"，1月环比增持4万盎司，增持节奏略有加快",
@@ -103,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 17时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 18时27分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -115,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 17时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 18时27分]"
         },
         {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
@@ -126,11 +126,12 @@
             8,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 17时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 18时27分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -186,6 +187,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时36分 ~ 14时50分]"
+        },
+        {
+          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
+          "url": "https://www.zhihu.com/question/2003305831391785957",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 18时27分]"
         },
         {
           "title": "中国黄金调整回购规则",
@@ -296,18 +311,16 @@
           "time_info": "[13时24分 ~ 16时33分]"
         },
         {
-          "title": "因金价飙升，意大利冬奥会金牌成史上最昂贵金牌，如何评价这一变化？",
-          "url": "https://www.zhihu.com/question/2003305831391785957",
-          "source": "知乎",
+          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
+          "url": "https://www.cls.cn/detail/2283800",
+          "source": "财联社热门",
           "ranks": [
-            11,
             7,
-            4,
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 17时31分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 18时27分]"
         },
         {
           "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
@@ -350,16 +363,30 @@
           "time_info": "[11时19分 ~ 16时33分]"
         },
         {
-          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
-          "url": "https://www.cls.cn/detail/2283800",
-          "source": "财联社热门",
+          "title": "中国黄金2月7日起调整回购规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559373",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            8
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 17时31分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 18时27分]"
+        },
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
@@ -392,16 +419,59 @@
           "time_info": "[11时19分 ~ 16时33分]"
         },
         {
-          "title": "中国黄金2月7日起调整回购规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32559373",
-          "source": "澎湃新闻",
+          "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
+          "url": "https://www.cls.cn/detail/2283820",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时19分 ~ 17时31分]"
+          "time_info": "[13时24分 ~ 18时27分]"
+        },
+        {
+          "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260208174127645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伊拉克将3月份发往亚洲的巴士拉中质原油官方销售价设定为较阿曼/迪拜均价贴水1.70美元/桶。 伊拉克将3月份发往欧洲的巴士拉中质原油官方销售价设定为较即期布伦特价格贴水3.55美元/桶。 伊拉克将3月份发往北美及南美的巴士拉中质原油官方销售价设定为较阿格斯含硫原油指数（ASCI）贴水1.30美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3051817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将3月巴士拉中质原油对北美和南美的官方售价定为较阿斯科基准价每桶贴水1.30美元。",
+          "url": "https://flash.jin10.com/detail/20260208174014589800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "泽连斯基：俄对美抛出12万亿美元经济合作方案",
+          "url": "https://news.ifeng.com/c/8qZdxbO9vTa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时50分 ~ 18时27分]"
         },
         {
           "title": "黄金工厂下班检查 小伙鞋被测出问题",
@@ -415,6 +485,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克3月巴士拉中质原油对欧洲的官方售价较即期布伦特原油贴水3.55美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260208173920605800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "韩员工错发超400亿美元比特币",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%91%98%E5%B7%A5%E9%94%99%E5%8F%91%E8%B6%85400%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AF%94%E7%89%B9%E5%B8%81",
           "source": "百度热搜",
@@ -424,6 +505,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将3月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜均价每桶贴水1.70美元。",
+          "url": "https://flash.jin10.com/detail/20260208173909106800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
+          "url": "https://wallstreetcn.com/articles/3765240",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时50分 ~ 18时27分]"
         },
         {
           "title": "东吴证券：在宏观不确定性与风险溢价上升的背景下，资金对黄金的定价方式逐步转向“情绪与预期驱动”",
@@ -438,6 +542,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时19分 ~ 15时39分]"
+        },
+        {
+          "title": "中国黄金调整回购规则",
+          "url": "https://www.douyin.com/hot/2393493",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时50分 ~ 18时27分]"
         },
         {
           "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
@@ -455,17 +573,6 @@
           "time_info": "[11时19分 ~ 16时33分]"
         },
         {
-          "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
-          "url": "https://www.cls.cn/detail/2283820",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 17时31分]"
-        },
-        {
           "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
           "url": "https://wallstreetcn.com/livenews/3051756",
           "source": "华尔街见闻-快讯",
@@ -481,54 +588,17 @@
           "time_info": "[11时19分 ~ 16时33分]"
         },
         {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8,
-            5
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时31分]"
-        },
-        {
-          "title": "泽连斯基：俄对美抛出12万亿美元经济合作方案",
-          "url": "https://news.ifeng.com/c/8qZdxbO9vTa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 17时31分]"
-        },
-        {
-          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
-          "url": "https://wallstreetcn.com/articles/3765240",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 17时31分]"
-        },
-        {
-          "title": "中国黄金调整回购规则",
-          "url": "https://www.douyin.com/hot/2393493",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 17时31分]"
+          "time_info": "[16时33分 ~ 18时27分]"
         },
         {
           "title": "黄金——资产再配置，金价走向何方？",
@@ -543,6 +613,19 @@
           "time_info": "[06时34分 ~ 07时38分]"
         },
         {
+          "title": "600万买了5.9公斤黄金 女子崩溃",
+          "url": "https://www.baidu.com/s?wd=600%E4%B8%87%E4%B9%B0%E4%BA%865.9%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%A5%B3%E5%AD%90%E5%B4%A9%E6%BA%83",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时27分]"
+        },
+        {
           "title": "学者：特朗普羞辱奥巴马引众怒",
           "url": "https://www.toutiao.com/trending/7604317625304223283/",
           "source": "今日头条",
@@ -554,6 +637,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时50分 ~ 16时33分]"
+        },
+        {
+          "title": "女子被骗600万 警察追回5900克黄金",
+          "url": "https://www.toutiao.com/trending/7603971369084780580/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时27分]"
         },
         {
           "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
@@ -581,40 +677,16 @@
           "time_info": "[14时50分 ~ 16时33分]"
         },
         {
-          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
-          "url": "https://wallstreetcn.com/articles/3765245",
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时31分]"
-        },
-        {
-          "title": "600万买了5.9公斤黄金 女子崩溃",
-          "url": "https://www.baidu.com/s?wd=600%E4%B8%87%E4%B9%B0%E4%BA%865.9%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91+%E5%A5%B3%E5%AD%90%E5%B4%A9%E6%BA%83",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时31分]"
-        },
-        {
-          "title": "女子被骗600万 警察追回5900克黄金",
-          "url": "https://www.toutiao.com/trending/7603971369084780580/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时31分]"
+          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
@@ -651,15 +723,26 @@
           "time_info": "11时19分"
         },
         {
-          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
-          "url": "https://wallstreetcn.com/articles/3765244",
-          "source": "华尔街见闻",
+          "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
+          "url": "https://www.cls.cn/detail/2283882",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "18时27分"
+        },
+        {
+          "title": "UP解读黄金涨跌背后的定价权",
+          "url": "https://search.bilibili.com/all?keyword=UP%E8%A7%A3%E8%AF%BB%E9%BB%84%E9%87%91%E6%B6%A8%E8%B7%8C%E8%83%8C%E5%90%8E%E7%9A%84%E5%AE%9A%E4%BB%B7%E6%9D%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "黄金手镯断裂内藏2颗钢珠",
@@ -668,7 +751,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -701,7 +784,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         }
