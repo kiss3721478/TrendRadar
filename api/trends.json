@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-02-08T07:38:08.394148+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-02-08T11:19:26.336550+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 15,
+      "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
+      "match_count": 38,
       "titles": [
+        {
+          "title": "中国央行黄金储备\"十五连增\"，1月环比增持4万盎司，增持节奏略有加快",
+          "url": "https://wallstreetcn.com/articles/3765215",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时38分]"
+        },
+        {
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 11时19分]"
+        },
         {
           "title": "特朗普宣布取消对印度商品25%关税",
           "url": "https://www.toutiao.com/trending/7603508009587326995/",
@@ -20,27 +45,15 @@
           "time_info": "[00时40分 ~ 07时38分]"
         },
         {
-          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
-          "url": "https://wallstreetcn.com/articles/3765222",
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
           "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
-          "url": "https://flash.jin10.com/detail/20260207232848013800",
-          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "time_info": "[00时40分 ~ 06时34分]"
         },
         {
           "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
@@ -55,15 +68,51 @@
           "time_info": "[00时40分 ~ 07时38分]"
         },
         {
+          "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
+          "url": "https://flash.jin10.com/detail/20260207232848013800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 11时19分]"
+        },
+        {
+          "title": "央行连续第15个月增持黄金",
+          "url": "https://www.cls.cn/detail/2283640",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 11时19分]"
+        },
+        {
+          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
+          "url": "https://www.cls.cn/detail/2283586",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 11时19分]"
+        },
+        {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
           "url": "https://www.cls.cn/detail/2283610",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 11时19分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -78,19 +127,6 @@
           "time_info": "[00时40分 ~ 07时38分]"
         },
         {
-          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
-          "url": "https://wallstreetcn.com/livenews/3051751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时38分]"
-        },
-        {
           "title": "特朗普支持媒体公司Nexstar吞并Tegna",
           "url": "https://wallstreetcn.com/livenews/3051747",
           "source": "华尔街见闻-快讯",
@@ -102,11 +138,61 @@
           "time_info": "[00时40分 ~ 03时31分]"
         },
         {
+          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
+          "url": "https://wallstreetcn.com/livenews/3051751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时36分 ~ 11时19分]"
+        },
+        {
+          "title": "中国黄金调整回购规则",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E8%B0%83%E6%95%B4%E5%9B%9E%E8%B4%AD%E8%A7%84%E5%88%99",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时34分]"
+        },
+        {
+          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2283417",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时34分]"
+        },
+        {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
           "url": "https://flash.jin10.com/detail/20260207200111862800",
           "source": "金十数据",
           "ranks": [
             15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时38分]"
+        },
+        {
+          "title": "2026年半导体产业有望首度冲破万亿美元大关",
+          "url": "https://flash.jin10.com/detail/20260207192154238800",
+          "source": "金十数据",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -160,6 +246,20 @@
           "time_info": "[00时40分 ~ 05时34分]"
         },
         {
+          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
+          "url": "https://wallstreetcn.com/livenews/3051747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时36分 ~ 11时19分]"
+        },
+        {
           "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
           "url": "https://wallstreetcn.com/articles/3765201",
           "source": "华尔街见闻",
@@ -171,201 +271,87 @@
           "time_info": "[00时40分 ~ 05时34分]"
         },
         {
-          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
-          "url": "https://wallstreetcn.com/livenews/3051747",
-          "source": "华尔街见闻-快讯",
+          "title": "央行连续第15个月增持黄金",
+          "url": "https://www.douyin.com/hot/2392517",
+          "source": "抖音",
           "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32555521",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
-          "url": "https://wallstreetcn.com/livenews/3051736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗外长：第二轮伊美谈判地点可能发生变化",
-          "url": "https://flash.jin10.com/detail/20260207210239858800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗外长会见卡塔尔首相兼外交大臣，就地区局势交换意见",
-          "url": "https://wallstreetcn.com/livenews/3051730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
             15,
-            16,
-            17
+            11,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 05时34分]"
         },
         {
-          "title": "伊朗外长会见卡塔尔首相兼外交大臣 就地区局势交换意见",
-          "url": "https://flash.jin10.com/detail/20260207195937294800",
+          "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
+          "url": "https://flash.jin10.com/detail/20260208105958137800",
           "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
-          "url": "https://flash.jin10.com/detail/20260207193925361800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗外长为伊美谈判划定“红线”",
-          "url": "https://wallstreetcn.com/livenews/3051726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
-          "url": "https://wallstreetcn.com/livenews/3051724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "与美接触后，伊朗外长划定国家核心利益的两条“红线”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32558478",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时38分]"
-        },
-        {
-          "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2283417",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
-          "url": "https://wallstreetcn.com/articles/3765209",
+          "title": "系好安全带！避险黄金进入大波动时代",
+          "url": "https://wallstreetcn.com/articles/3765227",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
+            7,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 4,
+          "time_info": "[06时34分 ~ 11时19分]"
+        },
+        {
+          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
+          "url": "https://flash.jin10.com/detail/20260208105726564800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
+          "url": "https://flash.jin10.com/detail/20260208105717509800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "韩员工错发超400亿美元比特币",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%91%98%E5%B7%A5%E9%94%99%E5%8F%91%E8%B6%85400%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AF%94%E7%89%B9%E5%B8%81",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "东吴证券：在宏观不确定性与风险溢价上升的背景下，资金对黄金的定价方式逐步转向“情绪与预期驱动”",
+          "url": "https://flash.jin10.com/detail/20260208095816356800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
         {
           "title": "黄金——资产再配置，金价走向何方？",
           "url": "https://wallstreetcn.com/articles/3765213",
@@ -377,6 +363,94 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时34分 ~ 07时38分]"
+        },
+        {
+          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
+          "url": "https://www.cls.cn/detail/2283800",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "韩员工误发超400亿美元比特币",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%91%98%E5%B7%A5%E8%AF%AF%E5%8F%91%E8%B6%85400%E4%BA%BF%E7%BE%8E%E5%85%83%E6%AF%94%E7%89%B9%E5%B8%81%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
+          "url": "https://wallstreetcn.com/livenews/3051758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
+          "url": "https://wallstreetcn.com/livenews/3051756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
+          "url": "https://flash.jin10.com/detail/20260207233303917800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "中国黄金2月7日起调整回购规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559373",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "韩员工错发超400亿美元比特币",
+          "url": "https://www.toutiao.com/trending/7604317446077615642/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     }
