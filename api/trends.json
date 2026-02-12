@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T12:58:37.380085+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-02-12T14:08:08.201927+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 138,
+      "match_count": 142,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -31,6 +31,21 @@
           "time_info": "[00时02分 ~ 07时32分]"
         },
         {
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时56分 ~ 14时08分]"
+        },
+        {
           "title": "财晓得｜当黄金开始暴涨暴跌，你得知道为何它这么“激动”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32549036",
           "source": "澎湃新闻",
@@ -43,21 +58,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时32分]"
-        },
-        {
-          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
-          "url": "https://wallstreetcn.com/articles/3765521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时56分 ~ 12时58分]"
         },
         {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
@@ -84,6 +84,17 @@
           "time_info": "[00时02分 ~ 05时34分]"
         },
         {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 14时08分]"
+        },
+        {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
           "url": "https://wallstreetcn.com/articles/3765455",
           "source": "华尔街见闻",
@@ -97,6 +108,32 @@
           "time_info": "[00时02分 ~ 07时32分]"
         },
         {
+          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
+          "url": "https://www.cls.cn/detail/2287778",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 14时08分]"
+        },
+        {
+          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2287796",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 14时08分]"
+        },
+        {
           "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
           "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
           "source": "澎湃新闻",
@@ -108,17 +145,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时32分]"
-        },
-        {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 12时58分]"
         },
         {
           "title": "黄金",
@@ -144,31 +170,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时32分]"
-        },
-        {
-          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
-          "url": "https://www.cls.cn/detail/2287778",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 12时58分]"
-        },
-        {
-          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2287796",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 12时58分]"
         },
         {
           "title": "墨西哥比索触及日内低点，此前墨西哥总统辛鲍姆称，不认为特朗普会退出《美墨加协定》。",
@@ -259,17 +260,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
-          "url": "https://wallstreetcn.com/livenews/3054194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
@@ -347,6 +337,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "阿波罗推进打造私募信贷二级市场 去年交易100亿美元投资级私募贷款",
+          "url": "https://wallstreetcn.com/livenews/3054210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2吨，当前持仓量为1081.32吨。",
           "url": "https://flash.jin10.com/detail/20260212071526208800",
           "source": "金十数据",
@@ -364,7 +365,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -403,6 +404,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时04分]"
+        },
+        {
+          "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
+          "url": "https://wallstreetcn.com/livenews/3054194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 14时08分]"
         },
         {
           "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
@@ -489,6 +502,64 @@
           "time_info": "[06时33分 ~ 07时32分]"
         },
         {
+          "title": "黄金白银直线下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 14时08分]"
+        },
+        {
+          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
+          "url": "https://www.cls.cn/detail/2287918",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时08分]"
+        },
+        {
+          "title": "深度推演美元霸权的续命逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A8%E6%BC%94%E7%BE%8E%E5%85%83%E9%9C%B8%E6%9D%83%E7%9A%84%E7%BB%AD%E5%91%BD%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时08分]"
+        },
+        {
           "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
           "url": "https://flash.jin10.com/detail/20260212055211838800",
           "source": "金十数据",
@@ -573,6 +644,17 @@
           "time_info": "[06时33分 ~ 07时32分]"
         },
         {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 14时08分]"
+        },
+        {
           "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
           "url": "https://flash.jin10.com/detail/20260212055115912800",
           "source": "金十数据",
@@ -609,6 +691,18 @@
           "time_info": "[06时33分 ~ 07时32分]"
         },
         {
+          "title": "联想集团第三财季营收222.0亿美元，预估207.6亿美元。 第三财季净利润5.455亿美元。 第三财季研发支出6.377亿美元，预估6.516亿美元。 第三财季毛利率15.1％，预估15.4％。",
+          "url": "https://wallstreetcn.com/livenews/3054184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 14时08分]"
+        },
+        {
           "title": "麦当劳四季度营收70.1亿美元，分析师预期68.3亿美元。 四季度同店销售增长5.7%，分析师预期3.76%。 四季度美国同店销售增长6.8%，分析师预期增长5.05%。 四季度调整后每股收益（EPS）为3.12美元，分析师预期3.04美元。",
           "url": "https://wallstreetcn.com/livenews/3053959",
           "source": "华尔街见闻-快讯",
@@ -621,6 +715,17 @@
           "time_info": "[05时34分 ~ 06时33分]"
         },
         {
+          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
+          "url": "https://www.cls.cn/detail/2287874",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 14时08分]"
+        },
+        {
           "title": "买房送1kg黄金住户资产增值25万",
           "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E6%88%BF%E9%80%811kg%E9%BB%84%E9%87%91%E4%BD%8F%E6%88%B7%E8%B5%84%E4%BA%A7%E5%A2%9E%E5%80%BC25%E4%B8%87",
           "source": "百度热搜",
@@ -631,18 +736,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时34分]"
-        },
-        {
-          "title": "黄金白银直线下跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 12时58分]"
         },
         {
           "title": "房子缩水87万送的黄金涨到112万",
@@ -678,17 +771,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
-          "url": "https://www.cls.cn/detail/2287918",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
           "title": "美国众议院多数议员支持一项旨在终止美国总统特朗普对加拿大关税的决议，投票仍在进行中。",
           "url": "https://flash.jin10.com/detail/20260212071315046800",
           "source": "金十数据",
@@ -698,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "杰富瑞：将麦当劳(MCD.N)目标价从360美元上调至375美元。",
+          "url": "https://flash.jin10.com/detail/20260212133848939800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "谷歌的母公司 Alphabet 拟发行百年期债券，科技圈 30 年来首次，如何解读？",
@@ -722,35 +815,13 @@
           "time_info": "03时04分"
         },
         {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "深度推演美元霸权的续命逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A8%E6%BC%94%E7%BE%8E%E5%85%83%E9%9C%B8%E6%9D%83%E7%9A%84%E7%BB%AD%E5%91%BD%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
           "title": "大和资本市场：将福特汽车(F.N)目标价从13美元上调至14美元。",
           "url": "https://flash.jin10.com/detail/20260212115333742800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -775,28 +846,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
-        },
-        {
-          "title": "联想集团第三财季营收222.0亿美元，预估207.6亿美元。 第三财季净利润5.455亿美元。 第三财季研发支出6.377亿美元，预估6.516亿美元。 第三财季毛利率15.1％，预估15.4％。",
-          "url": "https://wallstreetcn.com/livenews/3054184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
-          "url": "https://www.cls.cn/detail/2287759",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         },
         {
           "title": "现货金银周四高开，现分别报5093美元和84.62美元。",
@@ -860,7 +909,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -948,7 +997,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -959,7 +1008,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1036,7 +1085,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1454,7 +1503,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
