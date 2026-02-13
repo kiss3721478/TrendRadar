@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:05:51.538002+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-02-13T23:42:29.610844+08:00",
+  "total_titles_processed": 1977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 241,
+      "match_count": 254,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时10分 ~ 22时05分]"
+          "appearance_count": 15,
+          "time_info": "[10时10分 ~ 23时42分]"
         },
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时10分 ~ 22时05分]"
+          "appearance_count": 15,
+          "time_info": "[10时10分 ~ 23时42分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -91,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时53分 ~ 22时05分]"
+          "appearance_count": 14,
+          "time_info": "[12时53分 ~ 23时42分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -174,8 +174,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时10分 ~ 22时05分]"
+          "appearance_count": 15,
+          "time_info": "[10时10分 ~ 23时42分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -188,11 +188,25 @@
             20,
             25,
             30,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时58分 ~ 22时05分]"
+          "appearance_count": 20,
+          "time_info": "[00时58分 ~ 23时42分]"
+        },
+        {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时42分 ~ 23时42分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -204,20 +218,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时11分 ~ 22时05分]"
-        },
-        {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时42分 ~ 22时05分]"
+          "appearance_count": 11,
+          "time_info": "[15时11分 ~ 23时42分]"
         },
         {
           "title": "特朗普称期待4月访华",
@@ -268,8 +270,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时11分 ~ 22时05分]"
+          "appearance_count": 11,
+          "time_info": "[15时11分 ~ 23时42分]"
         },
         {
           "title": "深度推演美元霸权的续命逻辑",
@@ -427,7 +429,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -471,7 +473,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -627,7 +629,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -718,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "白宫贸易顾问纳瓦罗在通话中表示，有关特朗普政府计划削减钢铁和铝关税的说法没有“事实基础”。 对特朗普政府来说，金属关税“是神圣的”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3055271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -1128,6 +1141,19 @@
           "time_info": "[05时33分 ~ 07时29分]"
         },
         {
+          "title": "事关黄金！深圳十部门出手",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E9%BB%84%E9%87%91%EF%BC%81%E6%B7%B1%E5%9C%B3%E5%8D%81%E9%83%A8%E9%97%A8%E5%87%BA%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时42分]"
+        },
+        {
           "title": "黄金还能买吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
           "source": "bilibili 热搜",
@@ -1149,6 +1175,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 15时12分]"
+        },
+        {
+          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2289929",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 23时42分]"
+        },
+        {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 23时42分]"
         },
         {
           "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
@@ -1547,6 +1596,18 @@
           "time_info": "[05时33分 ~ 06时33分]"
         },
         {
+          "title": "黄金何时能反弹大涨",
+          "url": "https://www.toutiao.com/trending/7606326644776652326/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时05分 ~ 23时42分]"
+        },
+        {
           "title": "释新闻｜内塔尼亚胡紧急提前访美，说动特朗普打击伊朗了吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32591114",
           "source": "澎湃新闻",
@@ -1593,18 +1654,6 @@
           "time_info": "[18时39分 ~ 18时40分]"
         },
         {
-          "title": "事关黄金！深圳十部门出手",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E9%BB%84%E9%87%91%EF%BC%81%E6%B7%B1%E5%9C%B3%E5%8D%81%E9%83%A8%E9%97%A8%E5%87%BA%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时05分]"
-        },
-        {
           "title": "加纳矿业协会：预计2026年黄金产量为650万盎司。",
           "url": "https://flash.jin10.com/detail/20260213014014083800",
           "source": "金十数据",
@@ -1625,17 +1674,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
-        },
-        {
-          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2289929",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
         },
         {
           "title": "据CNN：派拉蒙公司的埃里森上周会见了特朗普。埃里森与特朗普进行了两次内容广泛的谈话。",
@@ -1671,24 +1709,24 @@
           "time_info": "17时44分"
         },
         {
+          "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
+          "url": "https://flash.jin10.com/detail/20260213230215077800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "美国CPI数据公布后，美股期货短线拉升",
           "url": "https://wallstreetcn.com/livenews/3055223",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1820,7 +1858,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1856,6 +1894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "Anthropic PBC：任命曾经担任美国总统特朗普助理的Chris Liddell为董事会成员。",
+          "url": "https://wallstreetcn.com/livenews/3055266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "阿里、谷歌接连“出手” AI购物元年将至？",
@@ -1902,6 +1951,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "纳斯达克金龙中国指数跌幅收窄至将近0.5%，美股盘初一度跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3055265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "现货黄金短线暴跌 分析师：原因不明",
           "url": "https://flash.jin10.com/detail/20260213003119238800",
           "source": "金十数据",
@@ -1946,6 +2006,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "麦当劳（MCD）一度涨约1%，刷新盘中历史高位至335.67美元，Argus Research Corp.将评级从持有上调至买入。",
+          "url": "https://wallstreetcn.com/livenews/3055263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "现货黄金日内暴跌200美元，现报4883.59美元/盎司，跌幅3.94%。现货白银日内暴跌10%，现报75.78美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260213002909506800",
           "source": "金十数据",
@@ -1974,7 +2045,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2040,7 +2111,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2062,7 +2133,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2106,7 +2177,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2120,6 +2191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "特朗普诉BBC诽谤案定于2027年2月开审",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596885",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉与美国的关系，用委婉的说法，可谓非同寻常。我们与罗德里格斯及其代表团合作非常顺利。石油已开始输送，多年未见的巨额资金即将为委内瑞拉人民带来巨大帮助。",
@@ -2142,6 +2224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260213223705054800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美股罗素3000卡车运输指数重挫7%",
@@ -2197,17 +2290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
-        },
-        {
-          "title": "黄金何时能反弹大涨",
-          "url": "https://www.toutiao.com/trending/7606326644776652326/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
         },
         {
           "title": "现货黄金短线跌势不止，现报4907美元/盎司，日内跌幅3.3%，现货白银日内重挫7.01美元，现报77.21美元/盎司，跌幅8.32%。纽约期银回落至77美元/盎司下方，日内跌8.32%。",
@@ -2348,9 +2430,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
+        },
+        {
+          "title": "图片社交平台Pinterest跌23%，创2020年4月份以来盘中新低。 该公司第四季度营收同比增长14%至13.2亿美元，低于预期；展望2026年首季，公司预计调整后EBITDA将介于1.66亿-1.86亿美元，低于市场预期的2.05亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3055256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
@@ -2373,6 +2466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "半导体设备制造商应用材料涨13%，创盘中历史新高。 该公司预计2026财年Q2营收约为76.5亿美元，上下浮动范围约5亿美元，超过预期。",
+          "url": "https://wallstreetcn.com/livenews/3055255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
@@ -2441,6 +2545,17 @@
           "time_info": "19时31分"
         },
         {
+          "title": "“特斯拉劲敌”Rivian涨28%，创2024年以来最大盘中涨幅。 该公司四季度营收12.9亿美元，高于分析师预期的12.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3055254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "美股延续跌势，纳指跌超1.5%，标普500指数跌超1%，道指下跌0.7%。",
           "url": "https://flash.jin10.com/detail/20260213001937238800",
           "source": "金十数据",
@@ -2461,6 +2576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "美股开盘，道指跌0.03%，标普500指数跌0.01%，纳指跌0.12%。Rivian(RIVN.O)大涨27%，公司预计2026年交付量将激增53%。部分中概股走低，阿里巴巴(BABA.N)跌3.6%，蔚来汽车(NIO.N)跌1.46%，百度(BIDU.O)跌4.5%。",
+          "url": "https://flash.jin10.com/detail/20260213223027809800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "纽约银日内跌幅达11.0%，报74.69美元/盎司。",
@@ -2540,6 +2666,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "医疗业ETF涨1.27%，生物科技指数ETF涨1.20%，在美股行业盘初领跑，半导体ETF涨0.63%，网络股指数ETF涨0.49%，科技行业ETF涨0.26%，全球科技股指数ETF跌0.11%，银行业ETF跌0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3055251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "水贝黄金暴雷后血本无归的普通人",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B4%E8%B4%9D%E9%BB%84%E9%87%91%E6%9A%B4%E9%9B%B7%E5%90%8E%E8%A1%80%E6%9C%AC%E6%97%A0%E5%BD%92%E7%9A%84%E6%99%AE%E9%80%9A%E4%BA%BA%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -2584,6 +2721,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "纳斯达克金龙中国指数盘初跌1.1%。 阿里巴巴跌3.7%。 世纪互联跌8%，阿里巴巴跌3.7%，万国数据跌3.6%，百度跌3.6%，金山云跌3.4%，阿特斯太阳能跌3.4%，晶科能源跌2.9%，理想跌2.3%。 百胜中国涨2.3%，网易有道涨2.9%，嘉银科技涨3.7%，再鼎医药涨6.9%。",
+          "url": "https://wallstreetcn.com/livenews/3055250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "谷歌发布Gemini 3深度思考推理模型的升级版，来解决现代科学研究面临的挑战。",
           "url": "https://wallstreetcn.com/livenews/3054635",
           "source": "华尔街见闻-快讯",
@@ -2623,7 +2771,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
