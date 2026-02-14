@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T14:44:34.066307+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-02-14T15:34:53.834645+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 134,
+      "match_count": 135,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -82,6 +82,30 @@
           "time_info": "[04时39分 ~ 13时45分]"
         },
         {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时30分 ~ 15时34分]"
+        },
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 15时34分]"
+        },
+        {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
           "url": "https://wallstreetcn.com/articles/3765624",
           "source": "华尔街见闻",
@@ -119,19 +143,6 @@
           "time_info": "[00时45分 ~ 07时31分]"
         },
         {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时30分 ~ 14时44分]"
-        },
-        {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -147,8 +158,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 14时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时45分 ~ 15时34分]"
         },
         {
           "title": "黄金何时能反弹大涨",
@@ -163,17 +174,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 07时31分]"
-        },
-        {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时44分]"
         },
         {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
@@ -260,6 +260,18 @@
           "time_info": "[00时45分 ~ 01时40分]"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 15时34分]"
+        },
+        {
           "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
           "url": "https://flash.jin10.com/detail/20260214094023773800",
           "source": "金十数据",
@@ -269,6 +281,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 15时34分]"
         },
         {
           "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
@@ -304,6 +329,18 @@
           "time_info": "07时31分"
         },
         {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 15时34分]"
+        },
+        {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
           "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
@@ -315,16 +352,17 @@
           "time_info": "[00时45分 ~ 03时42分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
+          "title": "中国持续减持美债意味着什么",
+          "url": "https://www.toutiao.com/trending/7606523556855287338/",
+          "source": "今日头条",
           "ranks": [
+            7,
             8,
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时44分]"
+          "time_info": "[12时17分 ~ 15时34分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -341,17 +379,17 @@
           "time_info": "[01时40分 ~ 04时39分]"
         },
         {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
           "ranks": [
             13,
             9,
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时44分]"
+          "time_info": "[12时17分 ~ 15时34分]"
         },
         {
           "title": "去年印度GDP达4.18万亿美元",
@@ -366,6 +404,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时42分 ~ 07时31分]"
+        },
+        {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 15时34分]"
         },
         {
           "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
@@ -480,18 +530,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 07时31分]"
-        },
-        {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 14时44分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
@@ -619,32 +657,6 @@
           "time_info": "[06时34分 ~ 07时31分]"
         },
         {
-          "title": "中国持续减持美债意味着什么",
-          "url": "https://www.toutiao.com/trending/7606523556855287338/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 14时44分]"
-        },
-        {
-          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
-          "url": "https://www.cls.cn/detail/2290186",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 14时44分]"
-        },
-        {
           "title": "现货钯金向上触及1700美元/盎司，日内涨5.27%。",
           "url": "https://flash.jin10.com/detail/20260214032659044800",
           "source": "金十数据",
@@ -677,18 +689,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时39分 ~ 07时31分]"
-        },
-        {
-          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
-          "url": "https://www.cls.cn/detail/2290112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 14时44分]"
         },
         {
           "title": "日媒披露特朗普拒绝在中日间力挺日本",
@@ -927,6 +927,17 @@
           "time_info": "[06时34分 ~ 07时31分]"
         },
         {
+          "title": "特朗普：不知道商务部长去过爱泼斯坦岛，反正我没去过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601087",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 15时34分]"
+        },
+        {
           "title": "金十图示：2026年02月14日（周六）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260214123305868800",
           "source": "金十数据",
@@ -1082,6 +1093,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉的石油只有我们能提炼。",
           "url": "https://flash.jin10.com/detail/20260214005844618800",
           "source": "金十数据",
@@ -1157,17 +1179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
-        },
-        {
-          "title": "特朗普：不知道商务部长去过爱泼斯坦岛，反正我没去过",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601087",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
         },
         {
           "title": "美国总统特朗普：目前正在就格陵兰岛问题进行谈判。",
