@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T22:27:59.597324+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-02-14T23:26:07.537809+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 160,
+      "match_count": 163,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时59分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[09时59分 ~ 23时26分]"
         },
         {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
@@ -117,8 +118,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时17分 ~ 22时27分]"
+          "appearance_count": 15,
+          "time_info": "[12时17分 ~ 23时26分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -146,6 +147,17 @@
           "time_info": "[04时39分 ~ 14时44分]"
         },
         {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时34分 ~ 23时26分]"
+        },
+        {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
           "url": "https://wallstreetcn.com/articles/3765636",
           "source": "华尔街见闻",
@@ -170,6 +182,21 @@
           "time_info": "[09时59分 ~ 18时27分]"
         },
         {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时30分 ~ 23时26分]"
+        },
+        {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
           "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
@@ -182,8 +209,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时17分 ~ 22时27分]"
+          "appearance_count": 15,
+          "time_info": "[12时17分 ~ 23时26分]"
         },
         {
           "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
@@ -233,15 +260,18 @@
           "time_info": "[00时45分 ~ 07时31分]"
         },
         {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
           "ranks": [
-            7
+            10,
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[15时34分 ~ 22时27分]"
+          "time_info": "[17时30分 ~ 23时26分]"
         },
         {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
@@ -292,34 +322,6 @@
           "time_info": "[03时42分 ~ 07时31分]"
         },
         {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时30分 ~ 22时27分]"
-        },
-        {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时30分 ~ 22时27分]"
-        },
-        {
           "title": "美国总统特朗普：希望与伊朗达成协议。",
           "url": "https://flash.jin10.com/detail/20260214030526351800",
           "source": "金十数据",
@@ -357,6 +359,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时32分 ~ 21时44分]"
+        },
+        {
+          "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://news.ifeng.com/c/8qkKQCMOmTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
+          "title": "特朗普：北约看在我的份上付了5%国防支出",
+          "url": "https://news.ifeng.com/c/8qk233NwWlu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 23时26分]"
         },
         {
           "title": "特朗普下令第二艘航母前往中东",
@@ -462,6 +486,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时31分 ~ 19时23分]"
+        },
+        {
+          "title": "美国要花383亿美元建拘留中心",
+          "url": "https://wallstreetcn.com/livenews/3055545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 23时26分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
@@ -593,19 +631,6 @@
           "time_info": "[03时42分 ~ 05时35分]"
         },
         {
-          "title": "美国要花383亿美元建拘留中心",
-          "url": "https://wallstreetcn.com/livenews/3055545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 22时27分]"
-        },
-        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9032元，较周四夜盘收盘涨1点。成交量305.62亿美元。",
           "url": "https://wallstreetcn.com/livenews/3055343",
           "source": "华尔街见闻-快讯",
@@ -617,17 +642,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时42分 ~ 05时35分]"
-        },
-        {
-          "title": "特朗普：北约看在我的份上付了5%国防支出",
-          "url": "https://news.ifeng.com/c/8qk233NwWlu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 22时27分]"
         },
         {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
@@ -653,6 +667,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 07时31分]"
+        },
+        {
+          "title": "美国2月13日当周高收益公司债销售160亿美元，之前一周供应56.9亿美元；发行人9家。 2月份迄今，垃圾债累计供应217亿美元，1月同期174亿美元。 2026年迄今，高收益债券累计发行591亿美元，上年同期发行457亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时26分]"
         },
         {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
@@ -745,18 +772,6 @@
           "time_info": "[04时39分 ~ 05时35分]"
         },
         {
-          "title": "美国2月13日当周高收益公司债销售160亿美元，之前一周供应56.9亿美元；发行人9家。 2月份迄今，垃圾债累计供应217亿美元，1月同期174亿美元。 2026年迄今，高收益债券累计发行591亿美元，上年同期发行457亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时27分]"
-        },
-        {
           "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
           "url": "https://wallstreetcn.com/livenews/3055316",
           "source": "华尔街见闻-快讯",
@@ -793,6 +808,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时35分]"
+        },
+        {
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时26分]"
         },
         {
           "title": "淡水河谷(VALE.N)首席财务官：随着净债务大幅降至150亿美元以下，支付特别股息的意愿有所增强。",
@@ -854,16 +882,31 @@
           "time_info": "[04时39分 ~ 05时35分]"
         },
         {
-          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055546",
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            10
+            7,
+            12,
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 23时26分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
+          "url": "https://flash.jin10.com/detail/20260214195624100800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 23时26分]"
         },
         {
           "title": "全球第二大黄金生产商CEO：愿意推进并购活动",
@@ -875,6 +918,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时39分 ~ 07时31分]"
+        },
+        {
+          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
+          "url": "https://wallstreetcn.com/livenews/3055534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 23时26分]"
+        },
+        {
+          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
+          "url": "https://wallstreetcn.com/livenews/3055527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 23时26分]"
         },
         {
           "title": "日媒披露特朗普拒绝在中日间力挺日本",
@@ -951,32 +1022,6 @@
           "time_info": "[03时42分 ~ 05时35分]"
         },
         {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 22时27分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
-          "url": "https://flash.jin10.com/detail/20260214195624100800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 22时27分]"
-        },
-        {
           "title": "日本宣布针对越南的、价值100亿美元的日元贷款，用于越南铁路线和天然气工厂。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3055326",
           "source": "华尔街见闻-快讯",
@@ -1001,19 +1046,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 04时39分]"
-        },
-        {
-          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
-          "url": "https://wallstreetcn.com/livenews/3055534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 22时27分]"
         },
         {
           "title": "特朗普：在俄乌冲突问题上，乌总统“必须行动起来”",
@@ -1093,6 +1125,18 @@
           "time_info": "[20时47分 ~ 22时27分]"
         },
         {
+          "title": "夜店告别黄金时代 面临倒闭命运",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9C%E5%BA%97%E5%91%8A%E5%88%AB%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3+%E9%9D%A2%E4%B8%B4%E5%80%92%E9%97%AD%E5%91%BD%E8%BF%90",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时27分 ~ 23时26分]"
+        },
+        {
           "title": "全球投资者为何不再“信仰”美债了",
           "url": "https://www.toutiao.com/trending/7606539464474627647/",
           "source": "今日头条",
@@ -1103,19 +1147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时32分 ~ 17时31分]"
-        },
-        {
-          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
-          "url": "https://wallstreetcn.com/livenews/3055527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 22时27分]"
         },
         {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
@@ -1332,6 +1363,17 @@
           "time_info": "[06时34分 ~ 07时31分]"
         },
         {
+          "title": "金价还能涨吗",
+          "url": "https://www.toutiao.com/trending/7606713454954548762/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持COMEX黄金净多头头寸减少400手合约，至93,038手合约，创16周新低。 所持COMEX铜净多头头寸降至54,270手合约，创19周新高。 所持NYMEX钯金净多头头寸增至724手合约，创逾三年新高。",
           "url": "https://wallstreetcn.com/livenews/3055355",
           "source": "华尔街见闻-快讯",
@@ -1353,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时30分 ~ 17时31分]"
+        },
+        {
+          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
@@ -1817,17 +1870,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "夜店告别黄金时代 面临倒闭命运",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9C%E5%BA%97%E5%91%8A%E5%88%AB%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3+%E9%9D%A2%E4%B8%B4%E5%80%92%E9%97%AD%E5%91%BD%E8%BF%90",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
