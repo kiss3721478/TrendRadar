@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T12:54:54.329536+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-02-15T13:56:52.868817+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 12时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 13时56分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -55,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 12时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 13时56分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -122,8 +122,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 12时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 13时56分]"
         },
         {
           "title": "美国2月13日当周高收益公司债销售160亿美元，之前一周供应56.9亿美元；发行人9家。 2月份迄今，垃圾债累计供应217亿美元，1月同期174亿美元。 2026年迄今，高收益债券累计发行591亿美元，上年同期发行457亿美元。（彭博）",
@@ -228,15 +228,17 @@
           "time_info": "[00时29分 ~ 03时25分]"
         },
         {
-          "title": "王毅：特朗普尊重中方 有人想打压中国",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            8,
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时56分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -247,20 +249,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时56分]"
         },
         {
-          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
-          "url": "https://wallstreetcn.com/articles/3765736",
-          "source": "华尔街见闻",
+          "title": "王毅：特朗普尊重中方 有人想打压中国",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            5
+            5,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时54分]"
+          "time_info": "[12时54分 ~ 13时56分]"
         },
         {
           "title": "黄金以旧换新国家标准已出台",
@@ -268,11 +270,83 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            16
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时56分]"
+        },
+        {
+          "title": "美计划花383亿美元建非法移民拘留中心",
+          "url": "https://wallstreetcn.com/livenews/3055585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时54分]"
+          "time_info": "[12时54分 ~ 13时56分]"
+        },
+        {
+          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
+          "url": "https://wallstreetcn.com/articles/3765749",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时56分]"
+        },
+        {
+          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
+          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时56分]"
+        },
+        {
+          "title": "印尼能源部：2月下旬4100大卡级煤炭基准价格定为每公吨47.34美元。",
+          "url": "https://flash.jin10.com/detail/20260215104926551800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时56分]"
+        },
+        {
+          "title": "谁在抛售美债",
+          "url": "https://www.toutiao.com/trending/7606913902068108850/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时56分]"
+        },
+        {
+          "title": "印尼能源部：2月下旬5300大卡级煤炭基准价格定为每公吨71.74美元。",
+          "url": "https://flash.jin10.com/detail/20260215104908913800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 13时56分]"
         },
         {
           "title": "黄金还能买吗",
@@ -287,17 +361,6 @@
           "time_info": "[06时23分 ~ 07时24分]"
         },
         {
-          "title": "美计划花383亿美元建非法移民拘留中心",
-          "url": "https://wallstreetcn.com/livenews/3055585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
           "url": "https://wallstreetcn.com/articles/3765726",
           "source": "华尔街见闻",
@@ -309,28 +372,6 @@
           "time_info": "10时10分"
         },
         {
-          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
-          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
-          "url": "https://wallstreetcn.com/articles/3765749",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
           "title": "黑龙江：做优做强生物医药 按照产品类别和试验进展阶段给予梯度支持",
           "url": "https://flash.jin10.com/detail/20260215085648895800",
           "source": "金十数据",
@@ -340,39 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
-        },
-        {
-          "title": "印尼能源部：2月下旬4100大卡级煤炭基准价格定为每公吨47.34美元。",
-          "url": "https://flash.jin10.com/detail/20260215104926551800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "谁在抛售美债",
-          "url": "https://www.toutiao.com/trending/7606913902068108850/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "印尼能源部：2月下旬5300大卡级煤炭基准价格定为每公吨71.74美元。",
-          "url": "https://flash.jin10.com/detail/20260215104908913800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -392,7 +400,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -403,7 +411,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
