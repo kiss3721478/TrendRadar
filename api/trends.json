@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T15:39:07.286692+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-02-15T16:33:28.748522+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -57,8 +57,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时10分 ~ 15时39分]"
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 16时33分]"
+        },
+        {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 16时33分]"
         },
         {
           "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
@@ -70,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 15时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 16时33分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -141,18 +153,6 @@
           "time_info": "[00时29分 ~ 15时39分]"
         },
         {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时10分 ~ 15时39分]"
-        },
-        {
           "title": "美国2月13日当周高收益公司债销售160亿美元，之前一周供应56.9亿美元；发行人9家。 2月份迄今，垃圾债累计供应217亿美元，1月同期174亿美元。 2026年迄今，高收益债券累计发行591亿美元，上年同期发行457亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3055548",
           "source": "华尔街见闻-快讯",
@@ -187,6 +187,35 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 10时10分]"
+        },
+        {
+          "title": "王毅：特朗普尊重中方 有人想打压中国",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            14,
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 16时33分]"
+        },
+        {
+          "title": "黄金以旧换新国家标准已出台",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%B7%B2%E5%87%BA%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            16,
+            10,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时10分 ~ 16时33分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -233,31 +262,28 @@
           "time_info": "[00时29分 ~ 07时24分]"
         },
         {
-          "title": "王毅：特朗普尊重中方 有人想打压中国",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8A%E9%87%8D%E4%B8%AD%E6%96%B9+%E6%9C%89%E4%BA%BA%E6%83%B3%E6%89%93%E5%8E%8B%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
+          "url": "https://wallstreetcn.com/articles/3765749",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 15时39分]"
-        },
-        {
-          "title": "黄金以旧换新国家标准已出台",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%B7%B2%E5%87%BA%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            16,
             10,
-            18
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时10分 ~ 15时39分]"
+          "time_info": "[12时54分 ~ 16时33分]"
+        },
+        {
+          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
+          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 16时33分]"
         },
         {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
@@ -282,42 +308,6 @@
           "time_info": "[00时29分 ~ 03时25分]"
         },
         {
-          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
-          "url": "https://wallstreetcn.com/articles/3765749",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 15时39分]"
-        },
-        {
-          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
-          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 15时39分]"
-        },
-        {
-          "title": "塔吉克斯坦据悉拟推出黄金ATM机服务",
-          "url": "https://flash.jin10.com/detail/20260215143658837800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时39分]"
-        },
-        {
           "title": "美计划花383亿美元建非法移民拘留中心",
           "url": "https://wallstreetcn.com/livenews/3055585",
           "source": "华尔街见闻-快讯",
@@ -325,11 +315,38 @@
             7,
             9,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时33分]"
+        },
+        {
+          "title": "曝特朗普发涉种族主义视频被批后发怒",
+          "url": "https://www.toutiao.com/trending/7606051537617649691/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 16时33分]"
+        },
+        {
+          "title": "塔吉克斯坦据悉拟推出黄金ATM机服务",
+          "url": "https://flash.jin10.com/detail/20260215143658837800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 16时33分]"
         },
         {
           "title": "谁在抛售美债",
@@ -345,28 +362,29 @@
           "time_info": "[12时54分 ~ 14时54分]"
         },
         {
-          "title": "曝特朗普发涉种族主义视频被批后发怒",
-          "url": "https://www.toutiao.com/trending/7606051537617649691/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 15时39分]"
-        },
-        {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
           "url": "https://flash.jin10.com/detail/20260215135912358800",
           "source": "金十数据",
           "ranks": [
             9,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 16时33分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 16时33分]"
         },
         {
           "title": "印尼能源部：2月下旬4100大卡级煤炭基准价格定为每公吨47.34美元。",
@@ -393,17 +411,6 @@
           "time_info": "[12时54分 ~ 13时56分]"
         },
         {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
           "title": "黄金还能买吗",
           "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -425,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "黑龙江：做优做强生物医药 按照产品类别和试验进展阶段给予梯度支持",
