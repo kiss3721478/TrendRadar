@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T03:26:00.786424+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-02-16T04:27:09.759712+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
@@ -72,19 +72,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -95,8 +96,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -107,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "黄金中事件 录音",
@@ -120,8 +121,22 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
+        },
+        {
+          "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
+          "url": "https://www.zhihu.com/question/2004209286281205228",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            15,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时26分]"
+          "time_info": "[01时25分 ~ 04时27分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
@@ -131,8 +146,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
@@ -142,8 +157,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
@@ -153,21 +168,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时26分]"
-        },
-        {
-          "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
-          "url": "https://www.zhihu.com/question/2004209286281205228",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "黄金投资者周报上新！",
@@ -177,8 +179,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
@@ -188,8 +190,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
@@ -200,8 +202,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 04时27分]"
         },
         {
           "title": "黄金和房子买哪个更保值",
