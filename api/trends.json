@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:28:27.853862+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-02-15T23:26:36.583509+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时29分 ~ 15时39分]"
+        },
+        {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时32分 ~ 23时26分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -60,19 +71,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时54分 ~ 22时28分]"
-        },
-        {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时32分 ~ 22时28分]"
+          "appearance_count": 16,
+          "time_info": "[12时54分 ~ 23时26分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -84,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时10分 ~ 22时28分]"
+          "appearance_count": 17,
+          "time_info": "[10时10分 ~ 23时26分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -100,6 +100,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时24分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时33分 ~ 23时26分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -196,19 +211,17 @@
           "time_info": "[00时29分 ~ 15时39分]"
         },
         {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
+          "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
+          "url": "https://wallstreetcn.com/articles/3765748",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
             8,
-            9,
-            7,
-            6
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[16时33分 ~ 22时28分]"
+          "time_info": "[17时32分 ~ 23时26分]"
         },
         {
           "title": "美国2月13日当周高收益公司债销售160亿美元，之前一周供应56.9亿美元；发行人9家。 2月份迄今，垃圾债累计供应217亿美元，1月同期174亿美元。 2026年迄今，高收益债券累计发行591亿美元，上年同期发行457亿美元。（彭博）",
@@ -245,19 +258,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 10时10分]"
-        },
-        {
-          "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
-          "url": "https://wallstreetcn.com/articles/3765748",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时32分 ~ 22时28分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -393,16 +393,16 @@
           "time_info": "[00时29分 ~ 03时25分]"
         },
         {
-          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
-          "url": "https://flash.jin10.com/detail/20260215212555860800",
-          "source": "金十数据",
+          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
+          "url": "https://wallstreetcn.com/livenews/3055629",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            5
+            2,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时28分]"
+          "time_info": "[22时28分 ~ 23时26分]"
         },
         {
           "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
@@ -416,26 +416,17 @@
           "time_info": "[00时29分 ~ 03时25分]"
         },
         {
-          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
-          "url": "https://wallstreetcn.com/livenews/3055629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
-          "url": "https://flash.jin10.com/detail/20260215215525567800",
+          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
+          "url": "https://flash.jin10.com/detail/20260215212555860800",
           "source": "金十数据",
           "ranks": [
-            3
+            1,
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时26分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
@@ -445,11 +436,26 @@
             2,
             7,
             12,
-            16
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 23时26分]"
+        },
+        {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260215200000000800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时23分 ~ 22时28分]"
+          "time_info": "[20时51分 ~ 23时26分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -492,29 +498,41 @@
           "time_info": "[19时22分 ~ 21时46分]"
         },
         {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260215200000000800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时28分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
           "url": "https://flash.jin10.com/detail/20260215211009575800",
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时26分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
+          "url": "https://flash.jin10.com/detail/20260215215525567800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时28分]"
+          "time_info": "[22时28分 ~ 23时26分]"
+        },
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时45分 ~ 23时26分]"
         },
         {
           "title": "谁在抛售美债",
@@ -530,17 +548,6 @@
           "time_info": "[12时54分 ~ 14时54分]"
         },
         {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时28分]"
-        },
-        {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
           "url": "https://www.toutiao.com/trending/7606703474663063593/",
           "source": "今日头条",
@@ -551,6 +558,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 18时27分]"
+        },
+        {
+          "title": "黄金中事件 录音",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%B8%AD%E4%BA%8B%E4%BB%B6%20%E5%BD%95%E9%9F%B3&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时26分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时26分]"
         },
         {
           "title": "印尼能源部：2月下旬4100大卡级煤炭基准价格定为每公吨47.34美元。",
@@ -598,28 +629,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "黄金中事件 录音",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%B8%AD%E4%BA%8B%E4%BB%B6%20%E5%BD%95%E9%9F%B3&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
         },
         {
           "title": "黑龙江：做优做强生物医药 按照产品类别和试验进展阶段给予梯度支持",
