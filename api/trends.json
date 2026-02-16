@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T19:40:55.547571+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-02-16T21:02:55.730930+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 71,
+      "match_count": 79,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时59分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时59分 ~ 21时02分]"
         },
         {
           "title": "外省游客“打飞的”买黄金 深圳水贝黄金商家忙疯了",
@@ -108,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 19时40分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 21时02分]"
         },
         {
           "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
@@ -183,6 +183,19 @@
           "time_info": "[02时36分 ~ 07时27分]"
         },
         {
+          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
+          "url": "https://wallstreetcn.com/articles/3765769",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 21时02分]"
+        },
+        {
           "title": "首席展望｜淡水泉陶冬：现阶段黄金“只会买贵不会买错”，人民币资产的机会已经到来",
           "url": "https://m.thepaper.cn/newsDetail_forward_32583422",
           "source": "澎湃新闻",
@@ -206,19 +219,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时54分 ~ 16时48分]"
-        },
-        {
-          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
-          "url": "https://wallstreetcn.com/articles/3765769",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 19时40分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
@@ -283,15 +283,26 @@
           "time_info": "10时06分"
         },
         {
-          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
-          "url": "https://flash.jin10.com/detail/20260216191824464800",
-          "source": "金十数据",
+          "title": "中信建投黄文涛：2026年仍是黄金的机会，黄金与白银是较长期的投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3055747",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美元指数DXY突破97，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20260216202327950800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "李家超：拓展黄金交易中心将是机遇所在",
@@ -303,6 +314,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "避险模式！大摩：市场开始买美债了",
+          "url": "https://wallstreetcn.com/articles/3765775",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 21时02分]"
         },
         {
           "title": "黄金和房子买哪个更保值",
@@ -443,6 +466,18 @@
           "time_info": "[17时54分 ~ 19时40分]"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
+          "url": "https://flash.jin10.com/detail/20260216191824464800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时02分]"
+        },
+        {
           "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
           "url": "https://flash.jin10.com/detail/20260216153508680800",
           "source": "金十数据",
@@ -465,18 +500,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时54分 ~ 18时51分]"
-        },
-        {
-          "title": "避险模式！大摩：市场开始买美债了",
-          "url": "https://wallstreetcn.com/articles/3765775",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 18时51分]"
         },
         {
           "title": "现货黄金跌破5000美元关口，最低至4995.60美元/盎司。",
@@ -516,6 +539,19 @@
           "time_info": "[05时25分 ~ 07时27分]"
         },
         {
+          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
+          "url": "https://wallstreetcn.com/livenews/3055714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 21时02分]"
+        },
+        {
           "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
           "url": "https://flash.jin10.com/detail/20260216042836136800",
           "source": "金十数据",
@@ -539,6 +575,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时59分 ~ 15时55分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时02分]"
         },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
@@ -565,16 +613,40 @@
           "time_info": "[15时55分 ~ 16时48分]"
         },
         {
-          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
-          "url": "https://wallstreetcn.com/livenews/3055714",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
+          "url": "https://flash.jin10.com/detail/20260216191100927800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            17
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时40分]"
+          "time_info": "[19时40分 ~ 21时02分]"
+        },
+        {
+          "title": "印度1月石油进口额为133.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260216191050312800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时02分]"
+        },
+        {
+          "title": "印度1月黄金进口额为120.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260216190751519800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时02分]"
         },
         {
           "title": "美元兑日元日内涨幅达0.5%，现报153.47。",
@@ -589,6 +661,18 @@
           "time_info": "[18时51分 ~ 19时40分]"
         },
         {
+          "title": "美元兑瑞郎USD/CHF站上0.77，日内涨0.32%。",
+          "url": "https://flash.jin10.com/detail/20260216190607735800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时02分]"
+        },
+        {
           "title": "布伦特原油回落至67美元/桶下方，日内跌0.15%。",
           "url": "https://flash.jin10.com/detail/20260216165842234800",
           "source": "金十数据",
@@ -599,6 +683,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时54分 ~ 18时51分]"
+        },
+        {
+          "title": "印度贸易官员：黄金进口额高主要是由于单价高企，但1月份进口量下降。",
+          "url": "https://flash.jin10.com/detail/20260216190510132800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 21时02分]"
         },
         {
           "title": "大摩：市场开始买美债了",
@@ -612,15 +708,15 @@
           "time_info": "[15时54分 ~ 15时55分]"
         },
         {
-          "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
-          "url": "https://flash.jin10.com/detail/20260216191100927800",
+          "title": "欧元兑美元EUR/USD一周波动率达到4.93%，为1月22日以来新低。",
+          "url": "https://flash.jin10.com/detail/20260216195645484800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "21时02分"
         },
         {
           "title": "栾川钼业(03993.HK)、老铺黄金(06181.HK)盘中上涨5.9%及5.6%，二者均获纳入香港恒生指数成份股。",
@@ -645,37 +741,26 @@
           "time_info": "14时10分"
         },
         {
-          "title": "印度1月石油进口额为133.9亿美元。",
-          "url": "https://flash.jin10.com/detail/20260216191050312800",
-          "source": "金十数据",
+          "title": "法国农业信贷银行：最新数据料显示市场对长期美元资产需求依然强劲",
+          "url": "https://wallstreetcn.com/livenews/3055738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "21时02分"
         },
         {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
+          "title": "欧元兑美元一周波动率达到4.93%，创1月22日以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3055737",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "印度1月黄金进口额为120.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260216190751519800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "21时02分"
         },
         {
           "title": "黄金是不是不会暴涨了？",
@@ -689,17 +774,6 @@
           "time_info": "14时10分"
         },
         {
-          "title": "美元兑瑞郎USD/CHF站上0.77，日内涨0.32%。",
-          "url": "https://flash.jin10.com/detail/20260216190607735800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
           "title": "现货黄金延续跌势，跌破4970美元/盎司，日内跌1.53%。",
           "url": "https://flash.jin10.com/detail/20260216130406843800",
           "source": "金十数据",
@@ -711,15 +785,15 @@
           "time_info": "14时10分"
         },
         {
-          "title": "印度贸易官员：黄金进口额高主要是由于单价高企，但1月份进口量下降。",
-          "url": "https://flash.jin10.com/detail/20260216190510132800",
+          "title": "匈牙利总理欧尔班：自美国总统特朗普上台以来，美匈关系中不存在任何冲突点。",
+          "url": "https://flash.jin10.com/detail/20260216192059299800",
           "source": "金十数据",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时40分"
+          "time_info": "21时02分"
         },
         {
           "title": "现货金银跌幅收窄，现货黄金现报5025.15美元/盎司，日内跌约0.36%；现货白银现报76.56美元/盎司，日内跌1.14%。",
@@ -739,7 +813,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -753,6 +827,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
+          "url": "https://wallstreetcn.com/livenews/3055729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "千问3.5成本仅为谷歌大模型5%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "现货白银日内跌逾3%，至每盎司74.94美元。",
@@ -772,7 +868,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -794,7 +890,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -816,7 +912,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -827,7 +923,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -838,7 +934,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
