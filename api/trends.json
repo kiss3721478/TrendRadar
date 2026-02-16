@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T04:31:08.003002+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-02-17T05:29:20.758196+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 32,
+      "match_count": 41,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时29分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时29分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -41,30 +41,64 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时29分]"
+        },
+        {
+          "title": "OpenAI：系统（恢复）全面运作。",
+          "url": "https://wallstreetcn.com/livenews/3055842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "据法新社：法国总统马克龙周二将开始对印度为期三天的访问，重点讨论人工智能合作以及可能达成的数十亿美元达索猎鹰战斗机交易。",
+          "url": "https://flash.jin10.com/detail/20260217051608443800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "以黑石为首的投资者将向印度AI公司Neysa注资最高达6亿美元",
+          "url": "https://wallstreetcn.com/livenews/3055839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3055826",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时29分]"
         },
         {
-          "title": "布伦特4月原油期货收报68.65美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3055824",
+          "title": "周一（2月16日），现货黄金最终跌0.99%，报4992.08美元/盎司，全天处于下跌状态，整体呈现出W形走势。 COMEX黄金期货跌0.66%，报5013.10美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3055838",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "LME期铜收跌30美元，报12850美元/吨。 LME期铝收跌25美元，报3052美元/吨。 LME期锌收跌48美元，报3290美元/吨。 LME期铅收跌2美元，报1958美元/吨。 LME期镍收涨131美元，报17155美元/吨。 LME期锡收跌1021美元，报45681美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -72,11 +106,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 05时29分]"
+        },
+        {
+          "title": "布伦特4月原油期货收报68.65美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3055824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时43分 ~ 04时31分]"
+          "time_info": "[03时33分 ~ 05时29分]"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：加拿大与墨西哥还将围绕安全问题开会。 加墨两国将扩“大港口对港口的贸易”。 我们在医药、农业领域看到投资机会。",
@@ -146,6 +193,19 @@
           "time_info": "[02时43分 ~ 04时31分]"
         },
         {
+          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
+          "url": "https://flash.jin10.com/detail/20260217024524973800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时29分]"
+        },
+        {
           "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260217014706786800",
           "source": "金十数据",
@@ -159,28 +219,30 @@
           "time_info": "[02时43分 ~ 04时31分]"
         },
         {
-          "title": "特朗普：“和平委员会”将决定如何使用50亿美元加沙援款",
-          "url": "https://flash.jin10.com/detail/20260217024524973800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时31分]"
-        },
-        {
           "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
           "url": "https://flash.jin10.com/detail/20260217024318964800",
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时31分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时29分]"
+        },
+        {
+          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
+          "url": "https://wallstreetcn.com/livenews/3055815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 05时29分]"
         },
         {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
@@ -194,18 +256,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时38分 ~ 04时31分]"
-        },
-        {
-          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
-          "url": "https://wallstreetcn.com/livenews/3055815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 04时31分]"
         },
         {
           "title": "WTI原油日内涨幅达1.0%，报63.4美元/桶。 布伦特原油日内涨幅达1.0%，报68.43美元/桶。",
@@ -340,6 +390,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时38分]"
+        },
+        {
+          "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
+          "url": "https://flash.jin10.com/detail/20260217050055263800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "周一（2月16日）纽约尾盘，ICE美元指数涨0.16%，报97.066点，日内交投区间为96.907-97.120点。 彭博美元指数涨0.13%，报1182.94点，日内交投区间为1181.33-1183.44点。",
+          "url": "https://wallstreetcn.com/livenews/3055833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "声明显示，必和必拓(BHP.N)和伦丁旗下的维库纳公司（Vicuna Corp）预计将在未来数年对阿根廷铜矿项目投资180亿美元。",
+          "url": "https://flash.jin10.com/detail/20260217043631932800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
+          "url": "https://flash.jin10.com/detail/20260217040455048800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
