@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T14:10:44.098112+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-02-16T15:55:05.334411+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 45,
+      "match_count": 53,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -93,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 14时10分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 15时55分]"
         },
         {
           "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
@@ -219,6 +219,17 @@
           "time_info": "[00时31分 ~ 10时06分]"
         },
         {
+          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
           "title": "港股有色金属板块多数走强，洛阳钼业(03993.HK)涨约7%，灵宝黄金(03330.HK)涨超6%、 中国有色矿业(01258.HK)、山东黄金(01787.HK)涨超5%。",
           "url": "https://flash.jin10.com/detail/20260216095943602800",
           "source": "金十数据",
@@ -230,6 +241,30 @@
           "time_info": "10时06分"
         },
         {
+          "title": "美银：美元的结构性贬值更可能源自欧洲",
+          "url": "https://flash.jin10.com/detail/20260216154758612800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 15时55分]"
+        },
+        {
           "title": "李家超：拓展黄金交易中心将是机遇所在",
           "url": "https://flash.jin10.com/detail/20260216095106231800",
           "source": "金十数据",
@@ -239,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
+          "url": "https://flash.jin10.com/detail/20260216153508680800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "黄金和房子买哪个更保值",
@@ -354,6 +400,18 @@
           "time_info": "[10时06分 ~ 12时59分]"
         },
         {
+          "title": "首席展望｜淡水泉陶冬：现阶段黄金“只会买贵不会买错”，人民币资产的机会已经到来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583422",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 15时55分]"
+        },
+        {
           "title": "特朗普或支持以色列打击伊朗",
           "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
           "source": "凤凰网",
@@ -391,6 +449,30 @@
           "time_info": "[05时25分 ~ 07时27分]"
         },
         {
+          "title": "现货黄金跌破5000美元关口，最低至4995.60美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3055670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 15时55分]"
+        },
+        {
+          "title": "洛阳钼业港股涨幅扩大至7%，老铺黄金港股涨5.55%，此前获纳入恒生指数成份股。",
+          "url": "https://wallstreetcn.com/livenews/3055662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 15时55分]"
+        },
+        {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2006637072895738078",
           "source": "知乎",
@@ -403,49 +485,48 @@
           "time_info": "[12时59分 ~ 14时10分]"
         },
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
+          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
+          "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时10分]"
+          "time_info": "[15时54分 ~ 15时55分]"
         },
         {
-          "title": "现货黄金跌破5000美元关口，最低至4995.60美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3055670",
-          "source": "华尔街见闻-快讯",
+          "title": "避险模式！大摩：市场开始买美债了",
+          "url": "https://wallstreetcn.com/articles/3765775",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时10分]"
+          "time_info": "[15时54分 ~ 15时55分]"
         },
         {
-          "title": "首席展望｜淡水泉陶冬：现阶段黄金“只会买贵不会买错”，人民币资产的机会已经到来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583422",
-          "source": "澎湃新闻",
+          "title": "大摩：市场开始买美债了",
+          "url": "https://www.toutiao.com/trending/7607327141323083327/",
+          "source": "今日头条",
           "ranks": [
-            15
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时10分]"
+          "time_info": "[15时54分 ~ 15时55分]"
         },
         {
-          "title": "洛阳钼业港股涨幅扩大至7%，老铺黄金港股涨5.55%，此前获纳入恒生指数成份股。",
-          "url": "https://wallstreetcn.com/livenews/3055662",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI创始人奥尔特曼：Codex的周活跃用户数量自年初以来增长了两倍多。",
+          "url": "https://flash.jin10.com/detail/20260216153347079800",
+          "source": "金十数据",
           "ranks": [
-            21
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "栾川钼业(03993.HK)、老铺黄金(06181.HK)盘中上涨5.9%及5.6%，二者均获纳入香港恒生指数成份股。",
@@ -465,7 +546,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -476,7 +557,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -487,7 +568,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -556,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "乌拉圭财长：我们计划今年筹集约60亿美元资金，其中大部分将通过发行债券的方式实现。",
+          "url": "https://flash.jin10.com/detail/20260216140139741800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     }
