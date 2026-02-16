@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T07:27:21.055173+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-02-16T10:06:24.609158+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 10时06分]"
         },
         {
           "title": "外省游客“打飞的”买黄金 深圳水贝黄金商家忙疯了",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 10时06分]"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -36,11 +37,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 10时06分]"
         },
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
@@ -55,6 +57,19 @@
           "time_info": "[00时30分 ~ 03时26分]"
         },
         {
+          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
+          "url": "https://wallstreetcn.com/livenews/3055629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 10时06分]"
+        },
+        {
           "title": "哪怕投资者砸崩股价，2000亿美元也必须“烧下去”，亚马逊要“重整旗鼓”",
           "url": "https://wallstreetcn.com/articles/3765748",
           "source": "华尔街见闻",
@@ -63,8 +78,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 10时06分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -76,8 +91,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 10时06分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -96,18 +111,6 @@
           "time_info": "[01时25分 ~ 07时27分]"
         },
         {
-          "title": "比特币盘中走低，再度跌破7万美元关口，现报68988美元。",
-          "url": "https://wallstreetcn.com/livenews/3055629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时27分]"
-        },
-        {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
@@ -116,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 10时06分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -125,11 +128,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 10时06分]"
         },
         {
           "title": "黄金中事件 录音",
@@ -201,28 +205,6 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
-          "title": "金十图示：2026年02月16日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260216065806401800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "现货金银低开低走，现货黄金跌0.57%，报5014.13美元/盎司，现货白银一度跌超3%，现报75.41美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3055637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
           "title": "黄金投资者周报上新！",
           "url": "https://flash.jin10.com/detail/20260215200000000800",
           "source": "金十数据",
@@ -231,8 +213,52 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 10时06分]"
+        },
+        {
+          "title": "金十图示：2026年02月16日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260216065806401800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "港股有色金属板块多数走强，洛阳钼业(03993.HK)涨约7%，灵宝黄金(03330.HK)涨超6%、 中国有色矿业(01258.HK)、山东黄金(01787.HK)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260216095943602800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "突然火了 有人戴上4万元“黄金甲”",
+          "url": "https://www.baidu.com/s?wd=%E7%AA%81%E7%84%B6%E7%81%AB%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%88%B4%E4%B8%8A4%E4%B8%87%E5%85%83%E2%80%9C%E9%BB%84%E9%87%91%E7%94%B2%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "李家超：拓展黄金交易中心将是机遇所在",
+          "url": "https://flash.jin10.com/detail/20260216095106231800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "黄金和房子买哪个更保值",
@@ -298,6 +324,18 @@
           "time_info": "[06时24分 ~ 07时27分]"
         },
         {
+          "title": "现货金银低开低走，现货黄金跌0.57%，报5014.13美元/盎司，现货白银一度跌超3%，现报75.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3055637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 10时06分]"
+        },
+        {
           "title": "消息人士：特朗普曾支持以打击伊朗弹道导弹 美军已就协助方案进行讨论",
           "url": "https://flash.jin10.com/detail/20260216044347034800",
           "source": "金十数据",
@@ -335,6 +373,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时25分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "栾川钼业(03993.HK)、老铺黄金(06181.HK)盘中上涨5.9%及5.6%，二者均获纳入香港恒生指数成份股。",
+          "url": "https://flash.jin10.com/detail/20260216094140572800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "现货金银跌幅收窄，现货黄金现报5025.15美元/盎司，日内跌约0.36%；现货白银现报76.56美元/盎司，日内跌1.14%。",
+          "url": "https://wallstreetcn.com/livenews/3055644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     }
