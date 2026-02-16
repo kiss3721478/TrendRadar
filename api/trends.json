@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T06:29:23.999948+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-02-17T07:29:52.878688+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时29分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时29分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -42,8 +42,47 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 07时29分]"
+        },
+        {
+          "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3055826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 07时29分]"
+        },
+        {
+          "title": "布伦特4月原油期货收报68.65美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3055824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 07时29分]"
+        },
+        {
+          "title": "惠顿贵金属：预计到2030年黄金产量将增长约50%，达到120万黄金当量盎司。",
+          "url": "https://flash.jin10.com/detail/20260217071539561800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "LME期铜收跌30美元，报12850美元/吨。 LME期铝收跌25美元，报3052美元/吨。 LME期锌收跌48美元，报3290美元/吨。 LME期铅收跌2美元，报1958美元/吨。 LME期镍收涨131美元，报17155美元/吨。 LME期锡收跌1021美元，报45681美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -60,30 +99,15 @@
           "time_info": "[02时43分 ~ 06时29分]"
         },
         {
-          "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3055826",
-          "source": "华尔街见闻-快讯",
+          "title": "惠顿贵金属：预计2026年产量为86万至94万盎司黄金当量，2025年产量约为69.2万盎司黄金当量。",
+          "url": "https://flash.jin10.com/detail/20260217071423035800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            11,
-            21
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时29分]"
-        },
-        {
-          "title": "布伦特4月原油期货收报68.65美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3055824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：加拿大与墨西哥还将围绕安全问题开会。 加墨两国将扩“大港口对港口的贸易”。 我们在医药、农业领域看到投资机会。",
@@ -114,6 +138,19 @@
           "time_info": "[00时43分 ~ 04时31分]"
         },
         {
+          "title": "OpenAI：系统（恢复）全面运作。",
+          "url": "https://wallstreetcn.com/livenews/3055842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时29分]"
+        },
+        {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
           "url": "https://flash.jin10.com/detail/20260217020218911800",
           "source": "金十数据",
@@ -127,16 +164,17 @@
           "time_info": "[02时43分 ~ 04时31分]"
         },
         {
-          "title": "OpenAI：系统（恢复）全面运作。",
-          "url": "https://wallstreetcn.com/livenews/3055842",
+          "title": "以黑石为首的投资者将向印度AI公司Neysa注资最高达6亿美元",
+          "url": "https://wallstreetcn.com/livenews/3055839",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            11
+            3,
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时29分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
@@ -178,6 +216,19 @@
           "time_info": "[03时33分 ~ 05时29分]"
         },
         {
+          "title": "周一（2月16日），现货黄金最终跌0.99%，报4992.08美元/盎司，全天处于下跌状态，整体呈现出W形走势。 COMEX黄金期货跌0.66%，报5013.10美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3055838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时29分]"
+        },
+        {
           "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260217014706786800",
           "source": "金十数据",
@@ -216,30 +267,6 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
-          "title": "以黑石为首的投资者将向印度AI公司Neysa注资最高达6亿美元",
-          "url": "https://wallstreetcn.com/livenews/3055839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时29分]"
-        },
-        {
-          "title": "周一（2月16日），现货黄金最终跌0.99%，报4992.08美元/盎司，全天处于下跌状态，整体呈现出W形走势。 COMEX黄金期货跌0.66%，报5013.10美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3055838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时29分]"
-        },
-        {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
           "url": "https://wallstreetcn.com/livenews/3055815",
           "source": "华尔街见闻-快讯",
@@ -266,6 +293,19 @@
           "time_info": "[01时38分 ~ 04时31分]"
         },
         {
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时29分]"
+        },
+        {
           "title": "WTI原油日内涨幅达1.0%，报63.4美元/桶。 布伦特原油日内涨幅达1.0%，报68.43美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3055794",
           "source": "华尔街见闻-快讯",
@@ -277,6 +317,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 02时43分]"
+        },
+        {
+          "title": "周一（2月16日）纽约尾盘，ICE美元指数涨0.16%，报97.066点，日内交投区间为96.907-97.120点。 彭博美元指数涨0.13%，报1182.94点，日内交投区间为1181.33-1183.44点。",
+          "url": "https://wallstreetcn.com/livenews/3055833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时29分]"
         },
         {
           "title": "墨西哥国家石油公司PEMEX上周发行315亿比索（折合18亿美元）本币债券，为该国历史上最大一笔公司债供应量。 Grupo Financiero Banorte数据显示，2月份墨西哥债券发行规模达到655亿比索，已经突破2022年11月（527亿比索）所创单月历史最高。",
@@ -316,18 +369,6 @@
           "time_info": "[01时38分 ~ 02时43分]"
         },
         {
-          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
-          "url": "https://wallstreetcn.com/livenews/3055834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时29分]"
-        },
-        {
           "title": "现货钯金上涨逾3%，至1741.69美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260217002907635800",
           "source": "金十数据",
@@ -338,18 +379,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时43分]"
-        },
-        {
-          "title": "周一（2月16日）纽约尾盘，ICE美元指数涨0.16%，报97.066点，日内交投区间为96.907-97.120点。 彭博美元指数涨0.13%，报1182.94点，日内交投区间为1181.33-1183.44点。",
-          "url": "https://wallstreetcn.com/livenews/3055833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时29分]"
         },
         {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
@@ -374,6 +403,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时29分]"
+        },
+        {
+          "title": "必和必拓(BHP.N)上半年净利润56.4亿美元，同比增长28%；上半年营收为279.02亿美元，高于市场预估的269.07亿美元。",
+          "url": "https://flash.jin10.com/detail/20260217054300772800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时29分]"
+        },
+        {
+          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时29分]"
         },
         {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
@@ -448,26 +501,15 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
-          "title": "必和必拓(BHP.N)上半年净利润56.4亿美元，同比增长28%；上半年营收为279.02亿美元，高于市场预估的269.07亿美元。",
-          "url": "https://flash.jin10.com/detail/20260217054300772800",
+          "title": "金十图示：2026年02月17日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260217070207018800",
           "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时29分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -487,7 +529,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
