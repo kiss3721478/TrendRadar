@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T22:44:57.311430+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-02-17T23:54:10.518509+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 125,
+      "match_count": 139,
       "titles": [
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -45,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 22时44分]"
+          "appearance_count": 14,
+          "time_info": "[10时03分 ~ 23时54分]"
         },
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -82,8 +82,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时40分 ~ 22时44分]"
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 23时54分]"
+        },
+        {
+          "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时53分 ~ 23时54分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -147,17 +158,6 @@
           "time_info": "21时03分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3056022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "LME期铜收跌30美元，报12850美元/吨。 LME期铝收跌25美元，报3052美元/吨。 LME期锌收跌48美元，报3290美元/吨。 LME期铅收跌2美元，报1958美元/吨。 LME期镍收涨131美元，报17155美元/吨。 LME期锡收跌1021美元，报45681美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3055817",
           "source": "华尔街见闻-快讯",
@@ -170,6 +170,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时43分 ~ 06时29分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时44分 ~ 23时54分]"
         },
         {
           "title": "惠顿贵金属：预计2026年产量为86万至94万盎司黄金当量，2025年产量约为69.2万盎司黄金当量。",
@@ -194,15 +207,48 @@
           "time_info": "19时40分"
         },
         {
-          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
-          "url": "https://wallstreetcn.com/livenews/3056021",
-          "source": "华尔街见闻-快讯",
+          "title": "布伦特原油日内跌超2.00%，现报66.73美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260217232600009800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时44分"
+          "time_info": "23时54分"
+        },
+        {
+          "title": "特朗普关税引发损失，企业加大货币对冲力度",
+          "url": "https://flash.jin10.com/detail/20260217231948785800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "报道：为解决“除草安”除草剂面临的一系列官司，拜耳准备推出规模超100亿美元的和解方案",
+          "url": "https://wallstreetcn.com/livenews/3056037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "拜耳将斥资105亿美元推动草甘膦除草剂诉讼案和解。",
+          "url": "https://flash.jin10.com/detail/20260217231655458800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "现货白银抹去此前大部分跌幅，最新报75.58美元/盎司，其最低一度跌破73美元/盎司。",
@@ -225,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "Prosus于2月9-13日当周按均价44.2229欧元回购股票239.4919万股，合计1.059亿欧元（折合约1.259亿美元）。 Naspers同期按919.5514南非兰特回购股票106.9750万股，合计约9.837亿兰特（折合约0.618亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3056035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -311,6 +368,31 @@
           "time_info": "[10时03分 ~ 15时06分]"
         },
         {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 23时54分]"
+        },
+        {
+          "title": "中国黄金第一卖场：1000克金条卖断货",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E7%AC%AC%E4%B8%80%E5%8D%96%E5%9C%BA%EF%BC%9A1000%E5%85%8B%E9%87%91%E6%9D%A1%E5%8D%96%E6%96%AD%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 23时54分]"
+        },
+        {
           "title": "现货黄金一度向下触及4860美元/盎司，现跌2.36%。纽约期金日内跌超3%。现货白银一度跌破73美元/盎司，日内跌4.58%。",
           "url": "https://wallstreetcn.com/livenews/3055888",
           "source": "华尔街见闻-快讯",
@@ -387,6 +469,18 @@
           "time_info": "[12时52分 ~ 13时58分]"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时54分]"
+        },
+        {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
           "url": "https://flash.jin10.com/detail/20260216235622274800",
           "source": "金十数据",
@@ -424,6 +518,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时33分 ~ 05时29分]"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
+          "url": "https://wallstreetcn.com/livenews/3056021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时54分]"
         },
         {
           "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
@@ -561,6 +667,18 @@
           "time_info": "[18时44分 ~ 19时40分]"
         },
         {
+          "title": "十年来最看空美元！机构蜂拥对冲美元头寸",
+          "url": "https://wallstreetcn.com/articles/3765798",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 23时54分]"
+        },
+        {
           "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
           "url": "https://wallstreetcn.com/livenews/3055862",
           "source": "华尔街见闻-快讯",
@@ -602,17 +720,16 @@
           "time_info": "[01时38分 ~ 04时31分]"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "世界各国为什么都在准备去美元化？",
+          "url": "https://www.zhihu.com/question/593757938",
+          "source": "知乎",
           "ranks": [
-            13,
-            11,
-            21
+            16,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时44分 ~ 22时44分]"
+          "time_info": "[21时03分 ~ 23时54分]"
         },
         {
           "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
@@ -639,6 +756,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 15时06分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时44分 ~ 23时54分]"
         },
         {
           "title": "WTI原油日内涨幅达1.0%，报63.4美元/桶。 布伦特原油日内涨幅达1.0%，报68.43美元/桶。",
@@ -691,17 +820,6 @@
           "time_info": "[06时29分 ~ 10时03分]"
         },
         {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时40分 ~ 22时44分]"
-        },
-        {
           "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
           "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
           "source": "澎湃新闻",
@@ -725,19 +843,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 02时43分]"
-        },
-        {
-          "title": "中国黄金第一卖场：1000克金条卖断货",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E7%AC%AC%E4%B8%80%E5%8D%96%E5%9C%BA%EF%BC%9A1000%E5%85%8B%E9%87%91%E6%9D%A1%E5%8D%96%E6%96%AD%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时40分 ~ 22时44分]"
         },
         {
           "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
@@ -824,16 +929,16 @@
           "time_info": "[18时44分 ~ 19时40分]"
         },
         {
-          "title": "十年来最看空美元！机构蜂拥对冲美元头寸",
-          "url": "https://wallstreetcn.com/articles/3765798",
-          "source": "华尔街见闻",
+          "title": "美国天然气期货跌近5%，现报2.966美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3056015",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            8,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时03分 ~ 22时44分]"
+          "time_info": "[22时44分 ~ 23时54分]"
         },
         {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
@@ -944,6 +1049,18 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
+          "title": "风投公司Thrive Capital募资逾100亿美元 加码AI等前沿领域",
+          "url": "https://wallstreetcn.com/livenews/3056010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时54分]"
+        },
+        {
           "title": "现货钯金站上1700美元/盎司，日内涨1.56%。",
           "url": "https://flash.jin10.com/detail/20260216232153565800",
           "source": "金十数据",
@@ -978,17 +1095,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时38分]"
-        },
-        {
-          "title": "世界各国为什么都在准备去美元化？",
-          "url": "https://www.zhihu.com/question/593757938",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 22时44分]"
         },
         {
           "title": "黄金多头无惧历史性回调 加码押注黄金远期看涨期权",
@@ -1070,26 +1176,15 @@
           "time_info": "17时48分"
         },
         {
-          "title": "美国天然气期货跌近5%，现报2.966美元/百万英热。",
-          "url": "https://wallstreetcn.com/livenews/3056015",
+          "title": "纽约银日内跌幅达7.5%，报72.11美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3056029",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时44分"
+          "time_info": "23时54分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -1147,15 +1242,15 @@
           "time_info": "10时03分"
         },
         {
-          "title": "风投公司Thrive Capital募资逾100亿美元 加码AI等前沿领域",
-          "url": "https://wallstreetcn.com/livenews/3056010",
-          "source": "华尔街见闻-快讯",
+          "title": "土耳其总统埃尔多安表示，土耳其和埃塞俄比亚的目标是实现10亿美元的贸易额。",
+          "url": "https://flash.jin10.com/detail/20260217230917969800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时44分"
+          "time_info": "23时54分"
         },
         {
           "title": "纽约期银向下触及74美元/盎司，日内跌5.28%。",
@@ -1224,6 +1319,17 @@
           "time_info": "15时06分"
         },
         {
+          "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
+          "url": "https://flash.jin10.com/detail/20260217230755682800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "Paramount美股盘前涨超4%，报道称华纳兄弟探索将暂时重启与Paramount的交易谈判。",
           "url": "https://wallstreetcn.com/livenews/3055969",
           "source": "华尔街见闻-快讯",
@@ -1233,6 +1339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
+          "url": "https://wallstreetcn.com/livenews/3056025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "现货黄金失守4900美元",
@@ -1252,7 +1369,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -1274,7 +1391,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -1318,7 +1435,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -1362,9 +1479,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
+        },
+        {
+          "title": "美元兑瑞郎USD/CHF日内涨幅达0.50%，现报0.7730。",
+          "url": "https://flash.jin10.com/detail/20260217230235390800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "现货白银跌破72美元/盎司，为2月6日以来新低，日内跌5.69%。",
+          "url": "https://flash.jin10.com/detail/20260217230101003800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "WTI原油日内涨幅扩大至1.00%，现报63.44美元/桶。",
@@ -1409,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD日内走低0.50%，现报0.7036。",
+          "url": "https://flash.jin10.com/detail/20260217230029887800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
@@ -1483,9 +1633,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
+        },
+        {
+          "title": "市场消息：巴克莱银行预测，到2035年，物理人工智能（机器人、自动驾驶汽车、工业自动化和无人机）市场规模可能达到0.5万亿美元至1.4万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260217225704382800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超1%，标普500指数期货跌0.6%，道指期货跌0.4%。",
@@ -1494,7 +1655,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         }
