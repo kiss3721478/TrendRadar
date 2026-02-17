@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T17:48:45.119894+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-02-17T18:44:54.850165+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 93,
+      "match_count": 96,
       "titles": [
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -35,6 +35,17 @@
           "time_info": "[00时43分 ~ 07时29分]"
         },
         {
+          "title": "特朗普：将间接参与美伊谈判",
+          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 18时44分]"
+        },
+        {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
           "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
           "source": "澎湃新闻",
@@ -46,19 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 17时48分]"
-        },
-        {
-          "title": "特朗普：将间接参与美伊谈判",
-          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时03分 ~ 17时48分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 18时44分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -71,8 +71,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时03分 ~ 17时48分]"
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 18时44分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -150,17 +150,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "美元兑日元下跌0.5%，至152.70。",
-          "url": "https://wallstreetcn.com/livenews/3055926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
           "title": "现货白银抹去此前大部分跌幅，最新报75.58美元/盎司，其最低一度跌破73美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260217093414747800",
           "source": "金十数据",
@@ -172,15 +161,15 @@
           "time_info": "10时03分"
         },
         {
-          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
-          "url": "https://wallstreetcn.com/livenews/3055925",
+          "title": "2028年应当由谁来接棒 特朗普称万斯和卢比奥都很“出色”",
+          "url": "https://wallstreetcn.com/livenews/3055943",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "18时44分"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -293,6 +282,19 @@
           "time_info": "[07时29分 ~ 13时58分]"
         },
         {
+          "title": "布伦特原油日内跌幅达1%，报67.96美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3055918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 18时44分]"
+        },
+        {
           "title": "现货黄金跌破4900美元/盎司，日内跌幅1.83%。现货白银日内跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3055887",
           "source": "华尔街见闻-快讯",
@@ -328,18 +330,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时58分]"
-        },
-        {
-          "title": "布伦特原油日内跌幅达1%，报67.96美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3055918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时48分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
@@ -431,6 +421,18 @@
           "time_info": "[16时45分 ~ 17时48分]"
         },
         {
+          "title": "美元兑日元下跌0.5%，至152.70。",
+          "url": "https://wallstreetcn.com/livenews/3055926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时44分]"
+        },
+        {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
           "url": "https://wallstreetcn.com/livenews/3055815",
           "source": "华尔街见闻-快讯",
@@ -454,6 +456,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时06分 ~ 16时45分]"
+        },
+        {
+          "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
+          "url": "https://wallstreetcn.com/livenews/3055925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时44分]"
         },
         {
           "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
@@ -790,6 +804,18 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
+          "title": "冬奥女选手庆祝举动或赚百万美元",
+          "url": "https://www.toutiao.com/trending/7607270947598680073/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时44分]"
+        },
+        {
           "title": "特朗普反应低调 日本怕中美搞大动作",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
           "source": "百度热搜",
@@ -840,9 +866,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
+          "url": "https://wallstreetcn.com/livenews/3055940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -873,7 +910,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -887,6 +924,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "纽约期银向下触及74美元/盎司，日内跌5.28%。",
@@ -917,7 +965,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -1054,24 +1102,13 @@
           "time_info": "16时45分"
         },
         {
-          "title": "冬奥女选手庆祝举动或赚百万美元",
-          "url": "https://www.toutiao.com/trending/7607270947598680073/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
           "title": "美股盘前，部分明星科技股走软，AMD(AMD.O)跌1.3%、英特尔(INTC.O)跌近1%、美光科技(MU.O)跌超1%。",
           "url": "https://flash.jin10.com/detail/20260217170115300800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
