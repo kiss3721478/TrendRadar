@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-18T06:32:54.762433+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-02-18T07:29:24.426447+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 82,
+      "match_count": 88,
       "titles": [
+        {
+          "title": "哈梅内伊回应特朗普威胁",
+          "url": "https://news.ifeng.com/c/8qpTdmSckn9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时56分 ~ 07时29分]"
+        },
         {
           "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
           "url": "https://wallstreetcn.com/articles/3765810",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 06时32分]"
-        },
-        {
-          "title": "哈梅内伊回应特朗普威胁",
-          "url": "https://news.ifeng.com/c/8qpTdmSckn9",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时56分 ~ 06时32分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时58分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[02时58分 ~ 07时29分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -63,8 +63,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -76,8 +76,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "十年来最看空美元！机构蜂拥对冲美元头寸",
@@ -86,11 +86,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "世界各国为什么都在准备去美元化？",
@@ -101,8 +102,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "金价",
@@ -113,8 +114,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "金价银价直线跳水",
@@ -124,11 +125,12 @@
             27,
             28,
             25,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "中国黄金第一卖场：1000克金条卖断货",
@@ -139,11 +141,12 @@
             28,
             23,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时29分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -153,8 +156,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时58分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[03时58分 ~ 07时29分]"
         },
         {
           "title": "特朗普称希拉里精神错乱",
@@ -164,8 +167,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时58分 ~ 06时32分]"
+          "appearance_count": 7,
+          "time_info": "[03时58分 ~ 07时29分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -190,37 +193,48 @@
           "time_info": "03时59分"
         },
         {
-          "title": "（美股）费城金银指数收跌3.14%，报406.62点。 （全球时段）纽约证交所ARCA金矿开采商指数跌2.83%，报2884.06点，亚太盘初至北京时间22:30窄幅震荡于于2960点附近——维持微幅下跌的状态，美股开盘时“跳空”下挫，23:14刷新日低至2811.85点，随后逐步收复失地。 （美股）原材料指数收跌1.66%，金属与矿业指数收跌1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3056154",
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
+          "url": "https://wallstreetcn.com/livenews/3056166",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
+          "url": "https://flash.jin10.com/detail/20260218063655343800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时29分"
         },
         {
-          "title": "周二（2月17日）纽约尾盘，现货白银跌4.08%，报73.4851美元/盎司，北京时间23:00刷新日低至72.0204美元。 COMEX白银期货跌5.74%，报73.525美元/盎司。 COMEX铜期货跌2.14%，报5.7370美元/磅。 现货铂金跌1.72%，现货钯金跌2.14%。",
-          "url": "https://wallstreetcn.com/livenews/3056153",
+          "title": "两年期美债收益率涨约2.5个基点",
+          "url": "https://wallstreetcn.com/livenews/3056163",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "据路透社/IPSOS民调，特朗普的整体支持率维持在38%的总统低点。",
-          "url": "https://flash.jin10.com/detail/20260218060047004800",
-          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时29分"
         },
         {
           "title": "LME期铜收跌231美元，报12620美元/吨。 LME期铝收跌18美元，报3035美元/吨。 LME期锌收跌4美元，报3286美元/吨。 LME期铅收跌12美元，报1946美元/吨。 LME期镍收跌254美元，报16861美元/吨。 LME期锡收涨250美元，报45931美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -235,6 +249,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时56分 ~ 04时38分]"
+        },
+        {
+          "title": "MKS Inc.预计一季度营收10亿-10.8亿美元，分析师预期10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时29分]"
+        },
+        {
+          "title": "亚马逊收涨1.19%，结束此前连续九个交易日下跌的趋势——期间市值蒸发超过4500亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时29分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3056137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时29分]"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -261,18 +314,6 @@
           "time_info": "[04时38分 ~ 05时36分]"
         },
         {
-          "title": "MKS Inc.预计一季度营收10亿-10.8亿美元，分析师预期10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时32分]"
-        },
-        {
           "title": "金十图示：2026年02月17日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260218052455449800",
           "source": "金十数据",
@@ -295,18 +336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
-          "title": "亚马逊收涨1.19%，结束此前连续九个交易日下跌的趋势——期间市值蒸发超过4500亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时32分]"
         },
         {
           "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
@@ -359,16 +388,16 @@
           "time_info": "[04时38分 ~ 05时36分]"
         },
         {
-          "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/3056137",
+          "title": "（美股）费城金银指数收跌3.14%，报406.62点。 （全球时段）纽约证交所ARCA金矿开采商指数跌2.83%，报2884.06点，亚太盘初至北京时间22:30窄幅震荡于于2960点附近——维持微幅下跌的状态，美股开盘时“跳空”下挫，23:14刷新日低至2811.85点，随后逐步收复失地。 （美股）原材料指数收跌1.66%，金属与矿业指数收跌1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3056154",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时32分]"
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "据Politico：美国国土安全部发言人特里西娅·麦克劳克林将离开特朗普政府。",
@@ -405,6 +434,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时32分]"
+        },
+        {
+          "title": "周二（2月17日）纽约尾盘，现货白银跌4.08%，报73.4851美元/盎司，北京时间23:00刷新日低至72.0204美元。 COMEX白银期货跌5.74%，报73.525美元/盎司。 COMEX铜期货跌2.14%，报5.7370美元/磅。 现货铂金跌1.72%，现货钯金跌2.14%。",
+          "url": "https://wallstreetcn.com/livenews/3056153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
+          "title": "据路透社/IPSOS民调，特朗普的整体支持率维持在38%的总统低点。",
+          "url": "https://flash.jin10.com/detail/20260218060047004800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
@@ -528,6 +581,18 @@
           "time_info": "[05时36分 ~ 06时32分]"
         },
         {
+          "title": "周二（2月17日）纽约尾盘，现货黄金跌2.30%，报4877.79美元/盎司，日内交投区间为5000.65-48432.51美元，整体持续走低。 COMEX黄金期货跌2.93%，报4897.80美元/盎司，北京时间22:01刷新日低至4854.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3056151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
           "title": "巴拿马政府发行30亿美元债券，共两种到期时间。",
           "url": "https://wallstreetcn.com/livenews/3056108",
           "source": "华尔街见闻-快讯",
@@ -588,6 +653,18 @@
           "time_info": "[05时36分 ~ 06时32分]"
         },
         {
+          "title": "Sandisk股东西部数据申请（增加）发行30.8亿美元股票。",
+          "url": "https://wallstreetcn.com/livenews/3056149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
           "title": "电子设计自动化/EDA供应商铿腾电子（CNDS）四季度营收14.4亿美元，分析师预期14.2亿美元。 四季度调整后每股收益（EPS）为1.99美元，分析师预期19.1亿美元。 预计2026年营收59亿-60亿美元，分析师预期59.4亿美元。 预计2026年调整后EPS为8.05-8.15美元，分析师预期8.03美元。 预计一季度调整后EPS为1.89-1.95美元，分析师预期1.81美元。",
           "url": "https://wallstreetcn.com/livenews/3056128",
           "source": "华尔街见闻-快讯",
@@ -636,6 +713,18 @@
           "time_info": "[03时59分 ~ 04时38分]"
         },
         {
+          "title": "惠誉：预计特朗普政府将在必要时动用其他权力征收关税。",
+          "url": "https://flash.jin10.com/detail/20260218054627557800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的4.41亿美元。",
           "url": "https://flash.jin10.com/detail/20260218021637433800",
           "source": "金十数据",
@@ -646,6 +735,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时59分]"
+        },
+        {
+          "title": "应用材料美股盘后跌7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时29分]"
         },
         {
           "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
@@ -684,17 +785,6 @@
           "time_info": "[01时56分 ~ 02时59分]"
         },
         {
-          "title": "周二（2月17日）纽约尾盘，现货黄金跌2.30%，报4877.79美元/盎司，日内交投区间为5000.65-48432.51美元，整体持续走低。 COMEX黄金期货跌2.93%，报4897.80美元/盎司，北京时间22:01刷新日低至4854.20美元。",
-          "url": "https://wallstreetcn.com/livenews/3056151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
           "url": "https://flash.jin10.com/detail/20260218041935194800",
           "source": "金十数据",
@@ -706,15 +796,15 @@
           "time_info": "04时38分"
         },
         {
-          "title": "Sandisk股东西部数据申请（增加）发行30.8亿美元股票。",
-          "url": "https://wallstreetcn.com/livenews/3056149",
+          "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3056161",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时29分"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -726,6 +816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "周二（2月17日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.8852元，较周一纽约尾盘跌8点，日内整体交投于6.8813-6.8922元区间。 日线图上，离岸人民币2月16日曾涨至6.8810元。",
+          "url": "https://wallstreetcn.com/livenews/3056157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "英镑兑美元GBP/USD跌破1.35，为1月23日以来首次，日内跌0.96%。",
@@ -761,17 +862,6 @@
           "time_info": "05时36分"
         },
         {
-          "title": "惠誉：预计特朗普政府将在必要时动用其他权力征收关税。",
-          "url": "https://flash.jin10.com/detail/20260218054627557800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "英镑/美元下跌0.9%，至1.3502，为1月23日以来最低水平。",
           "url": "https://flash.jin10.com/detail/20260217233758588800",
           "source": "金十数据",
@@ -792,17 +882,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        },
-        {
-          "title": "应用材料美股盘后跌7.6%。",
-          "url": "https://wallstreetcn.com/livenews/3056144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "WTI原油跌破62美元/桶，为2月3日以来首次，日内跌2.75%。",
