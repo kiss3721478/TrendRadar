@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T12:52:45.070064+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-02-17T13:58:29.106951+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 65,
+      "match_count": 75,
       "titles": [
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 12时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 13时58分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 12时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 13时58分]"
         },
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时58分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -98,17 +98,6 @@
           "time_info": "07时29分"
         },
         {
-          "title": "美元兑日元USD/JPY跌破153，日内跌0.28%。",
-          "url": "https://flash.jin10.com/detail/20260217124018353800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
           "title": "LME期铜收跌30美元，报12850美元/吨。 LME期铝收跌25美元，报3052美元/吨。 LME期锌收跌48美元，报3290美元/吨。 LME期铅收跌2美元，报1958美元/吨。 LME期镍收涨131美元，报17155美元/吨。 LME期锡收跌1021美元，报45681美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3055817",
           "source": "华尔街见闻-快讯",
@@ -132,6 +121,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "现货黄金一度向下触及4860美元/盎司，现跌2.36%。纽约期金日内跌超3%。现货白银一度跌破73美元/盎司，日内跌4.58%。",
+          "url": "https://wallstreetcn.com/livenews/3055888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "现货黄金跌破4900美元/盎司，日内跌幅1.83%。现货白银日内跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3055887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
+          "url": "https://wallstreetcn.com/articles/3765796",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时58分]"
         },
         {
           "title": "现货白银抹去此前大部分跌幅，最新报75.58美元/盎司，其最低一度跌破73美元/盎司。",
@@ -215,28 +238,17 @@
           "time_info": "[05时29分 ~ 10时03分]"
         },
         {
-          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
-          "url": "https://wallstreetcn.com/articles/3765796",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时52分]"
-        },
-        {
           "title": "金十图示：2026年02月17日（周二）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260217070207018800",
           "source": "金十数据",
           "ranks": [
             6,
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 12时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 13时58分]"
         },
         {
           "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
@@ -250,6 +262,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时31分]"
+        },
+        {
+          "title": "美元兑日元USD/JPY跌破153，日内跌0.28%。",
+          "url": "https://flash.jin10.com/detail/20260217124018353800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 13时58分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
@@ -317,6 +341,19 @@
           "time_info": "[03时33分 ~ 05时29分]"
         },
         {
+          "title": "现货黄金失守4970美元/盎司，日内跌0.42％。",
+          "url": "https://wallstreetcn.com/livenews/3055866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时58分]"
+        },
+        {
           "title": "据法新社：法国总统马克龙周二将开始对印度为期三天的访问，重点讨论人工智能合作以及可能达成的数十亿美元达索猎鹰战斗机交易。",
           "url": "https://flash.jin10.com/detail/20260217051608443800",
           "source": "金十数据",
@@ -340,18 +377,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时43分 ~ 05时29分]"
-        },
-        {
-          "title": "现货黄金失守4970美元/盎司，日内跌0.42％。",
-          "url": "https://wallstreetcn.com/livenews/3055866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时52分]"
         },
         {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
@@ -406,6 +431,31 @@
           "time_info": "[05时29分 ~ 07时29分]"
         },
         {
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时58分]"
+        },
+        {
+          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3055862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时58分]"
+        },
+        {
           "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
           "source": "澎湃新闻",
@@ -416,6 +466,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时29分 ~ 10时03分]"
+        },
+        {
+          "title": "特朗普称他将间接参与美国和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3055860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 13时58分]"
         },
         {
           "title": "墨西哥国家石油公司PEMEX上周发行315亿比索（折合18亿美元）本币债券，为该国历史上最大一笔公司债供应量。 Grupo Financiero Banorte数据显示，2月份墨西哥债券发行规模达到655亿比索，已经突破2022年11月（527亿比索）所创单月历史最高。",
@@ -455,6 +518,18 @@
           "time_info": "[01时38分 ~ 02时43分]"
         },
         {
+          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
+          "url": "https://wallstreetcn.com/livenews/3055873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 13时58分]"
+        },
+        {
           "title": "现货钯金上涨逾3%，至1741.69美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260217002907635800",
           "source": "金十数据",
@@ -465,18 +540,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时43分]"
-        },
-        {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时52分]"
         },
         {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
@@ -515,18 +578,6 @@
           "time_info": "[06时29分 ~ 07时29分]"
         },
         {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时52分]"
-        },
-        {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
           "url": "https://flash.jin10.com/detail/20260217002446619800",
           "source": "金十数据",
@@ -537,18 +588,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时43分]"
-        },
-        {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 12时52分]"
         },
         {
           "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
@@ -617,20 +656,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
         {
-          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
-          "url": "https://wallstreetcn.com/livenews/3055873",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金跌势扩大，向下触及4860美元/盎司，日内跌2.60%。",
+          "url": "https://flash.jin10.com/detail/20260217133247568800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时52分"
+          "time_info": "13时58分"
         },
         {
           "title": "避险模式！大摩：市场开始买美债了",
@@ -642,6 +681,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "纽约期金日内大跌3.00%，现报4886.00美元/盎司；纽约期银日内重挫7.00%，现报72.51美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260217133227247800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "现货黄金延续跌势，回落至4890美元/盎司下方，日内跌2.01%。",
+          "url": "https://flash.jin10.com/detail/20260217132244504800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -688,6 +760,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "美光科技拟斥资2000亿美元 以突破AI内存瓶颈",
+          "url": "https://flash.jin10.com/detail/20260217132112980800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "现货黄金日内跌超1.00%，现报4938.83美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260217085920687800",
           "source": "金十数据",
@@ -697,6 +780,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "现货钯金下跌3%，至每盎司1671.25美元。",
+          "url": "https://flash.jin10.com/detail/20260217131925043800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "现货黄金失守4900美元",
+          "url": "https://flash.jin10.com/detail/20260217131859994800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "现货黄金回落至4910美元/盎司下方，日内跌1.59%。",
+          "url": "https://flash.jin10.com/detail/20260217131705849800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "OpenAI：系统已恢复全面运作。",
@@ -782,7 +898,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
