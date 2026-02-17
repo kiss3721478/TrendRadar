@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T03:59:10.886754+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-02-18T04:38:04.798499+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 49,
+      "match_count": 58,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 04时38分]"
         },
         {
           "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 04时38分]"
         },
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 04时38分]"
         },
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 03时59分]"
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 04时38分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -62,19 +62,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 04时38分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 04时38分]"
         },
         {
           "title": "十年来最看空美元！机构蜂拥对冲美元头寸",
@@ -85,8 +86,45 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 04时38分]"
+        },
+        {
+          "title": "世界各国为什么都在准备去美元化？",
+          "url": "https://www.zhihu.com/question/593757938",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 04时38分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 04时38分]"
+        },
+        {
+          "title": "金价银价直线跳水",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 04时38分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -106,67 +144,53 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
         {
-          "title": "世界各国为什么都在准备去美元化？",
-          "url": "https://www.zhihu.com/question/593757938",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时59分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时59分]"
-        },
-        {
-          "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
-          "url": "https://wallstreetcn.com/livenews/3056104",
+          "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
+          "url": "https://wallstreetcn.com/livenews/3056114",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "04时38分"
         },
         {
-          "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
-          "url": "https://wallstreetcn.com/livenews/3056103",
+          "title": "周二（2月17日）纽约尾盘，美元兑日元跌0.12%，报153.29日元，日内交投区间为153.92-152.70日元。 欧元兑日元跌0.15%，英镑兑日元跌0.62%。",
+          "url": "https://wallstreetcn.com/livenews/3056113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "周二（2月17日）纽约尾盘，ICE美元指数涨0.25%，报97.161点，整体处于上涨状态，北京时间20:00-02:00出现——波冲高回落行情23:42达到97.546点。 彭博美元指数涨0.05%，报1183.53点，日内交投区间为1182.91-1187.83点。",
+          "url": "https://wallstreetcn.com/livenews/3056112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "美国总统特朗普称，日本推进5500亿美元对美国投资承诺中的第一批投资。 目前，美元兑日元维持超过0.1%的跌幅，暂报153.27日元。",
+          "url": "https://wallstreetcn.com/livenews/3056110",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "金价银价直线跳水",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时59分]"
+          "time_info": "04时38分"
         },
         {
           "title": "LME期铜收跌231美元，报12620美元/吨。 LME期铝收跌18美元，报3035美元/吨。 LME期锌收跌4美元，报3286美元/吨。 LME期铅收跌12美元，报1946美元/吨。 LME期镍收跌254美元，报16861美元/吨。 LME期锡收涨250美元，报45931美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -175,11 +199,47 @@
           "ranks": [
             2,
             10,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 04时38分]"
+        },
+        {
+          "title": "中国黄金第一卖场：1000克金条卖断货",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E7%AC%AC%E4%B8%80%E5%8D%96%E5%9C%BA%EF%BC%9A1000%E5%85%8B%E9%87%91%E6%9D%A1%E5%8D%96%E6%96%AD%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时38分]"
+        },
+        {
+          "title": "特朗普涉台最新表态，台当局和日本都慌了",
+          "url": "https://news.ifeng.com/c/8qpOucjNxj3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时58分 ~ 04时38分]"
+        },
+        {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时58分 ~ 04时38分]"
         },
         {
           "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
@@ -193,6 +253,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 03时59分]"
+        },
+        {
+          "title": "周二（2月17日），美联储隔夜逆回购协议（RRP）使用规模为4.41亿美元（交易对手5家），上个交易日报3.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 04时38分]"
         },
         {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
@@ -219,6 +292,18 @@
           "time_info": "[00时57分 ~ 01时56分]"
         },
         {
+          "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
+          "url": "https://wallstreetcn.com/livenews/3056104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时38分]"
+        },
+        {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
           "url": "https://flash.jin10.com/detail/20260218023219855800",
           "source": "金十数据",
@@ -231,16 +316,16 @@
           "time_info": "[02时59分 ~ 03时59分]"
         },
         {
-          "title": "周二（2月17日），美联储隔夜逆回购协议（RRP）使用规模为4.41亿美元（交易对手5家），上个交易日报3.77亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056088",
+          "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
+          "url": "https://wallstreetcn.com/livenews/3056103",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时59分]"
+          "time_info": "[03时59分 ~ 04时38分]"
         },
         {
           "title": "美国纽约市长Mamdani计划上调房产税，希望能弥补50亿美元预算缺口。",
@@ -254,40 +339,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 03时59分]"
-        },
-        {
-          "title": "中国黄金第一卖场：1000克金条卖断货",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E7%AC%AC%E4%B8%80%E5%8D%96%E5%9C%BA%EF%BC%9A1000%E5%85%8B%E9%87%91%E6%9D%A1%E5%8D%96%E6%96%AD%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时59分]"
-        },
-        {
-          "title": "特朗普涉台最新表态，台当局和日本都慌了",
-          "url": "https://news.ifeng.com/c/8qpOucjNxj3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 03时59分]"
-        },
-        {
-          "title": "特朗普称希拉里精神错乱",
-          "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 03时59分]"
         },
         {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
@@ -314,6 +365,18 @@
           "time_info": "[02时59分 ~ 03时59分]"
         },
         {
+          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
+          "url": "https://wallstreetcn.com/livenews/3056102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时38分]"
+        },
+        {
           "title": "拜耳：就集体诉讼问题协议 总体金额至多72.5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056056",
           "source": "华尔街见闻-快讯",
@@ -336,6 +399,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时56分]"
+        },
+        {
+          "title": "巴克莱银行： “机器人十年”点燃万亿美元市场希望",
+          "url": "https://wallstreetcn.com/livenews/3056094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时38分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的4.41亿美元。",
@@ -374,15 +449,59 @@
           "time_info": "[01时56分 ~ 02时59分]"
         },
         {
-          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
-          "url": "https://wallstreetcn.com/livenews/3056102",
+          "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260218042000423800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "美国副总统万斯：总统特朗普在伊朗问题上有很多选择。",
+          "url": "https://wallstreetcn.com/livenews/3056109",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "04时38分"
+        },
+        {
+          "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
+          "url": "https://flash.jin10.com/detail/20260218041935194800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "巴拿马政府发行30亿美元债券，共两种到期时间。",
+          "url": "https://wallstreetcn.com/livenews/3056108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "WTI 3月原油期货收跌0.56美元，跌幅0.89%，报62.33美元/桶。 布伦特4月原油期货收跌1.23美元，跌幅1.79%，报67.42美元/桶。 NYMEX 3月天然气期货收报3.0310美元/百万英热单位。 NYMEX 3月汽油期货收报1.9144美元/加仑，NYMEX 3月取暖油期货收报2.3906美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3056107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -405,17 +524,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "巴克莱银行： “机器人十年”点燃万亿美元市场希望",
-          "url": "https://wallstreetcn.com/livenews/3056094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
         },
         {
           "title": "英镑/美元下跌0.9%，至1.3502，为1月23日以来最低水平。",
