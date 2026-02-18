@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T07:29:24.426447+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-02-18T10:09:28.281960+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 88,
+      "match_count": 100,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -31,6 +31,18 @@
           "time_info": "[00时57分 ~ 06时32分]"
         },
         {
+          "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
+          "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时58分 ~ 10时09分]"
+        },
+        {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
           "url": "https://wallstreetcn.com/articles/3765796",
           "source": "华尔街见闻",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 05时36分]"
-        },
-        {
-          "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
-          "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时58分 ~ 07时29分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -73,11 +74,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 10时09分]"
         },
         {
           "title": "十年来最看空美元！机构蜂拥对冲美元头寸",
@@ -129,8 +131,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时09分]"
         },
         {
           "title": "中国黄金第一卖场：1000克金条卖断货",
@@ -199,20 +201,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
         {
-          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
-          "url": "https://wallstreetcn.com/livenews/3056166",
-          "source": "华尔街见闻-快讯",
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "10时09分"
         },
         {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
@@ -221,9 +223,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "新西兰元兑美元下跌0.4%，此前新西兰央行维持利率不变。",
+          "url": "https://wallstreetcn.com/livenews/3056190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "两年期美债收益率涨约2.5个基点",
@@ -232,7 +245,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -336,6 +349,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时36分]"
+        },
+        {
+          "title": "美国食品药品管理局（FDA）主管Makary宣称：特朗普政府是“非常支持疫苗的”。",
+          "url": "https://wallstreetcn.com/livenews/3056166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 10时09分]"
         },
         {
           "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
@@ -785,6 +810,17 @@
           "time_info": "[01时56分 ~ 02时59分]"
         },
         {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
           "url": "https://flash.jin10.com/detail/20260218041935194800",
           "source": "金十数据",
@@ -802,9 +838,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "日本首相高市早苗：日本与美国就贸易协议中5500亿美元承诺下的首轮投资项目达成一致。 项目包括工业用合成钻石、原油出口基础设施以及为人工智能数据中心提供能源的燃气发电。 这些项目将使日本和美国互利共赢。",
+          "url": "https://wallstreetcn.com/livenews/3056184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -824,7 +871,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -862,6 +909,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "英镑/美元下跌0.9%，至1.3502，为1月23日以来最低水平。",
           "url": "https://flash.jin10.com/detail/20260217233758588800",
           "source": "金十数据",
@@ -895,6 +953,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "谷歌母公司Alphabet：谷歌年度开发者大会（I/O developer conference）将于5月19-20日举行。",
+          "url": "https://wallstreetcn.com/livenews/3056192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
           "url": "https://flash.jin10.com/detail/20260218021023992800",
           "source": "金十数据",
@@ -906,6 +975,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "现货白银日内涨幅达1.00%，现报73.04美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260218091911052800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
           "url": "https://wallstreetcn.com/livenews/3056047",
           "source": "华尔街见闻-快讯",
@@ -915,6 +995,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示谷歌(GOOG.O)的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260218091820831800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
@@ -983,6 +1074,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "现货黄金向上触及4890美元/盎司，日内涨0.65%。",
+          "url": "https://flash.jin10.com/detail/20260218091415009800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "英镑兑美元跌0.9%，刷新1月23日以来低点至1.3502。",
           "url": "https://wallstreetcn.com/livenews/3056042",
           "source": "华尔街见闻-快讯",
@@ -1003,6 +1105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD短线下挫约30点，最新报0.6022，此前新西兰联储将利率维持不变。",
+          "url": "https://flash.jin10.com/detail/20260218091409596800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美债的信用游戏会崩溃吗",
@@ -1038,6 +1151,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
+          "url": "https://wallstreetcn.com/livenews/3056169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "Prosus于2月9-13日当周按均价44.2229欧元回购股票239.4919万股，合计1.059亿欧元（折合约1.259亿美元）。 Naspers同期按919.5514南非兰特回购股票106.9750万股，合计约9.837亿兰特（折合约0.618亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3056035",
           "source": "华尔街见闻-快讯",
@@ -1047,6 +1171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "分析师：黄金上涨的趋势并没有完结",
+          "url": "https://www.toutiao.com/trending/7607338076263989290/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     }
