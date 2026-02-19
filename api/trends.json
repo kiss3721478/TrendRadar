@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T17:45:30.920961+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-02-19T18:43:38.335437+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 149,
+      "match_count": 154,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时33分 ~ 17时45分]"
+          "appearance_count": 10,
+          "time_info": "[06时33分 ~ 18时43分]"
+        },
+        {
+          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
+          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 18时43分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -28,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 17时45分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 18时43分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -58,17 +69,6 @@
           "time_info": "[01时03分 ~ 10时06分]"
         },
         {
-          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
-          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 17时45分]"
-        },
-        {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
@@ -89,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 17时45分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 18时43分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -103,8 +103,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 17时45分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 18时43分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -188,28 +188,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-19）",
-          "url": "https://flash.jin10.com/detail/20260219174052852800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "DoorDash美股盘前上涨超13%，公司一季度可销售的GOV的预测优于市场预估。",
-          "url": "https://wallstreetcn.com/livenews/3056610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
           "title": "三星据悉正就HBM4组件的价格进行谈判，预计价格约为700美元。",
           "url": "https://flash.jin10.com/detail/20260219071347327800",
           "source": "金十数据",
@@ -241,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "两名消息人士称，石油交易商贡渥集团创始人托恩奎斯特已向员工出借逾40亿美元，用于管理层收购。",
+          "url": "https://flash.jin10.com/detail/20260219182717913800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "白宫新闻秘书Leavitt：所谓“和平委员会”与加沙相关的超过50亿美元资金承诺将来自美国的多个州。",
@@ -276,6 +265,17 @@
           "time_info": "15时11分"
         },
         {
+          "title": "两名消息人士表示，石油交易商贡渥集团估值约为50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219182649971800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
           "url": "https://wallstreetcn.com/livenews/3056519",
           "source": "华尔街见闻-快讯",
@@ -296,17 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
-        },
-        {
-          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3056607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
@@ -440,6 +429,30 @@
           "time_info": "[06时33分 ~ 07时30分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-19）",
+          "url": "https://flash.jin10.com/detail/20260219174052852800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时43分]"
+        },
+        {
+          "title": "DoorDash美股盘前上涨超13%，公司一季度可销售的GOV的预测优于市场预估。",
+          "url": "https://wallstreetcn.com/livenews/3056610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时43分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
           "url": "https://wallstreetcn.com/livenews/3056412",
           "source": "华尔街见闻-快讯",
@@ -512,6 +525,18 @@
           "time_info": "[06时33分 ~ 07时30分]"
         },
         {
+          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3056607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时43分]"
+        },
+        {
           "title": "WTI原油日内涨幅达3.5%，报64.44美元/桶。 布伦特原油日内涨幅达3.5%，报69.78美元/桶。 日内瓦会谈结束，乌克兰总统泽连斯基职责俄方拖延谈判进程。",
           "url": "https://wallstreetcn.com/livenews/3056408",
           "source": "华尔街见闻-快讯",
@@ -576,6 +601,19 @@
           "time_info": "[15时11分 ~ 17时45分]"
         },
         {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时43分]"
+        },
+        {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056488",
           "source": "华尔街见闻-快讯",
@@ -600,6 +638,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时11分 ~ 17时45分]"
+        },
+        {
+          "title": "现货白银向上触及79美元/盎司，日内涨2.39%。",
+          "url": "https://wallstreetcn.com/livenews/3056594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时43分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时43分]"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
@@ -641,6 +704,19 @@
           "time_info": "[12时53分 ~ 15时11分]"
         },
         {
+          "title": "现货黄金站上5020美元/盎司，日内涨0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3056591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时43分]"
+        },
+        {
           "title": "小孩姐三年压岁钱都买了黄金",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A9%E5%A7%90%E4%B8%89%E5%B9%B4%E5%8E%8B%E5%B2%81%E9%92%B1%E9%83%BD%E4%B9%B0%E4%BA%86%E9%BB%84%E9%87%91",
           "source": "百度热搜",
@@ -677,16 +753,28 @@
           "time_info": "[06时33分 ~ 07时30分]"
         },
         {
-          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
-          "url": "https://wallstreetcn.com/livenews/3056596",
+          "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3056605",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            15
+            6,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时45分]"
+          "time_info": "[17时45分 ~ 18时43分]"
+        },
+        {
+          "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时43分]"
         },
         {
           "title": "金价涨约2%，白银涨约5%",
@@ -699,30 +787,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时30分]"
-        },
-        {
-          "title": "现货白银向上触及79美元/盎司，日内涨2.39%。",
-          "url": "https://wallstreetcn.com/livenews/3056594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时45分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时45分]"
         },
         {
           "title": "eBay预计一季度净营收30亿-30.5亿美元，分析师预期27.9亿美元。 将按大约12亿美元现金从Etsy收购Depop。",
@@ -759,18 +823,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时33分]"
-        },
-        {
-          "title": "现货黄金站上5020美元/盎司，日内涨0.86%。",
-          "url": "https://wallstreetcn.com/livenews/3056591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时45分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗不与我达成一份协议，美国可能就需要英属迪戈加西亚岛（Diego Garcia）。 英国不应当放弃Diego Garcia，否则将是英国势衰的体现。",
@@ -893,6 +945,18 @@
           "time_info": "[10时06分 ~ 12时53分]"
         },
         {
+          "title": "金价迎来新一轮大涨",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%8E%E6%9D%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E6%B6%A8&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时43分]"
+        },
+        {
           "title": "据路透调查：69%的经济学家表示，日本将干预汇市以遏制日元疲软；美元兑日元USD/JPY触及160很可能成为干预的触发点。",
           "url": "https://flash.jin10.com/detail/20260219120759525800",
           "source": "金十数据",
@@ -904,15 +968,15 @@
           "time_info": "12时53分"
         },
         {
-          "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
-          "url": "https://wallstreetcn.com/livenews/3056605",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260219181201454800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时45分"
+          "time_info": "18时43分"
         },
         {
           "title": "地缘局势升温推高金银油，黄金站上5000美元，日韩股市收涨",
@@ -935,17 +999,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -990,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "“抛售美国”论暂不成立：去年海外投资者净买1.55万亿美元美长期金融资产",
+          "url": "https://wallstreetcn.com/articles/3765850",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "美国12月外资净买入美国公债 -416亿美元，前值856亿美元。",
@@ -1311,6 +1375,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "储殷：我被朋友嘲笑黄金卖早了",
+          "url": "https://www.toutiao.com/trending/7607689025717321770/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "布伦特原油站上70美元/桶，日内涨4.69%。",
           "url": "https://flash.jin10.com/detail/20260219032202699800",
           "source": "金十数据",
@@ -1553,17 +1628,6 @@
           "time_info": "16时43分"
         },
         {
-          "title": "金价迎来新一轮大涨",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%8E%E6%9D%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E6%B6%A8&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
           "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
           "url": "https://flash.jin10.com/detail/20260219024513181800",
           "source": "金十数据",
@@ -1713,7 +1777,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
