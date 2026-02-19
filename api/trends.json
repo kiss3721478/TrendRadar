@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T15:11:32.675757+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-02-19T16:43:54.671980+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 134,
+      "match_count": 142,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时33分 ~ 15时11分]"
+          "appearance_count": 8,
+          "time_info": "[06时33分 ~ 16时43分]"
+        },
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 16时43分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -57,16 +70,15 @@
           "time_info": "[01时03分 ~ 05时35分]"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
+          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
+          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时03分 ~ 15时11分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 16时43分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -77,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时03分 ~ 15时11分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 16时43分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -86,22 +98,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时03分 ~ 15时11分]"
-        },
-        {
-          "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
-          "url": "https://news.ifeng.com/c/8qri3CsyaiS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 15时11分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 16时43分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -111,8 +113,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 15时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 16时43分]"
         },
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -218,17 +220,6 @@
           "time_info": "02时55分"
         },
         {
-          "title": "现货白银日内涨超2％，现报78.8美元/盎司。现货黄金涨0.76%，报5015.2美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3056589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时11分"
-        },
-        {
           "title": "美元指数DXY日内涨幅扩大至0.50%，现报97.61。",
           "url": "https://flash.jin10.com/detail/20260219021838411800",
           "source": "金十数据",
@@ -246,7 +237,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -260,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 16时43分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）黄金ETF持仓报告",
@@ -366,17 +368,6 @@
           "time_info": "[05时35分 ~ 07时30分]"
         },
         {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 15时11分]"
-        },
-        {
           "title": "现货白银站上78美元/盎司，日内涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3056568",
           "source": "华尔街见闻-快讯",
@@ -424,6 +415,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时35分]"
+        },
+        {
+          "title": "现货白银日内涨超2％，现报78.8美元/盎司。现货黄金涨0.76%，报5015.2美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3056589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 16时43分]"
         },
         {
           "title": "美联储会议纪要公布后，现货黄金保持涨势，现涨2.3%，报4992美元/盎司。",
@@ -613,6 +616,30 @@
           "time_info": "[06时33分 ~ 07时30分]"
         },
         {
+          "title": "现货黄金再次站上5000美元/盎司，日内涨0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3056583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 16时43分]"
+        },
+        {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 16时43分]"
+        },
+        {
           "title": "金价涨约2%，白银涨约5%",
           "url": "https://wallstreetcn.com/livenews/3056504",
           "source": "华尔街见闻-快讯",
@@ -792,15 +819,26 @@
           "time_info": "12时53分"
         },
         {
-          "title": "现货黄金再次站上5000美元/盎司，日内涨0.48%。",
-          "url": "https://wallstreetcn.com/livenews/3056583",
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时11分"
+          "time_info": "16时43分"
+        },
+        {
+          "title": "地缘局势升温推高金银油，黄金站上5000美元，日韩股市收涨",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
@@ -812,17 +850,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3056582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时11分"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -842,7 +869,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -858,15 +885,37 @@
           "time_info": "07时30分"
         },
         {
+          "title": "现货白银向上触及79美元/盎司，日内涨2.39%。",
+          "url": "https://wallstreetcn.com/livenews/3056594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "科技股担忧暂缓，日韩股市收涨，韩股创新高，三星电子涨4%，日元走弱至154，地缘局势升温推高金银油，黄金重回5000",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "美国12月外资净买入美国公债 -416亿美元，前值856亿美元。",
@@ -897,9 +946,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "WTI原油日内涨超1.00%，现报65.67美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260219155354702800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "现货黄金站上5020美元/盎司，日内涨0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3056591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "美国12月国际资本净流入 449亿美元，前值2120亿美元。",
@@ -988,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "布伦特原油日内涨幅扩大至1.00%，现报70.31美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260219155105299800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "布伦特原油期货涨4%，刷新日高至70美元/桶整数位心理关口上方。 WTI原油日内涨幅达4.0%，报64.78美元/桶。",
@@ -1304,7 +1386,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -1397,6 +1479,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "力拓2025年基础盈利108.7亿美元，上年同期108.7亿美元，市场预估108.1亿美元。 2025年净利润99.7亿美元，同比下降14%，市场预估107亿美元。 2025年基本每股收益6.692美元，上年同期6.695美元，市场预估6.65美元。 2025年营收576.4亿美元，同比增长7.4%，市场预估567.6亿美元。 2025年资本支出122.9亿美元，同比增长28%。",
+          "url": "https://wallstreetcn.com/livenews/3056593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
           "url": "https://flash.jin10.com/detail/20260219024513181800",
           "source": "金十数据",
@@ -1414,7 +1507,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -1469,7 +1562,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
