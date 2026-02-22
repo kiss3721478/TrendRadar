@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T06:25:23.268319+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-02-23T07:26:46.957999+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "美州长向特朗普发账单，要求退回87亿美元关税",
@@ -60,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
@@ -82,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
@@ -93,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -104,19 +104,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
           "url": "https://wallstreetcn.com/articles/3765941",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -126,8 +127,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时26分]"
         },
         {
           "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
@@ -138,11 +139,12 @@
             4,
             10,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 07时26分]"
         },
         {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
@@ -151,25 +153,12 @@
           "ranks": [
             3,
             5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普要求网飞开除苏珊·赖斯，司法部正审查华纳收购案",
-          "url": "https://wallstreetcn.com/livenews/3057281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            11,
-            12
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时26分 ~ 06时25分]"
+          "time_info": "[02时35分 ~ 07时26分]"
         },
         {
           "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
@@ -180,11 +169,39 @@
             19,
             25,
             27,
-            28
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普要求网飞开除苏珊·赖斯，司法部正审查华纳收购案",
+          "url": "https://wallstreetcn.com/livenews/3057281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            11,
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时30分 ~ 06时25分]"
+          "time_info": "[01时26分 ~ 07时26分]"
+        },
+        {
+          "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
+          "url": "https://www.cls.cn/detail/2292521",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 07时26分]"
         },
         {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
@@ -200,17 +217,6 @@
           "time_info": "[00时30分 ~ 05时24分]"
         },
         {
-          "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
-          "url": "https://www.cls.cn/detail/2292521",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时35分 ~ 06时25分]"
-        },
-        {
           "title": "俄罗斯开始卖黄金背后有何考量",
           "url": "https://www.toutiao.com/trending/7609554066401660443/",
           "source": "今日头条",
@@ -220,8 +226,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 06时25分]"
+          "appearance_count": 6,
+          "time_info": "[03时24分 ~ 07时26分]"
+        },
+        {
+          "title": "现货黄金向上触及5150美元",
+          "url": "https://flash.jin10.com/detail/20260223071735337800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "现货白银突破86美元/盎司，日内涨1.75%。纽约期银站上86美元/盎司，日内涨4.44%。",
+          "url": "https://flash.jin10.com/detail/20260223071535398800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "现货黄金短线持续上扬，向上触及5140美元/盎司，日内涨0.64%。纽约期金突破5150美元/盎司，日内涨1.36%。",
+          "url": "https://flash.jin10.com/detail/20260223070908067800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
@@ -247,6 +286,30 @@
           "time_info": "[00时29分 ~ 01时26分]"
         },
         {
+          "title": "美媒：特朗普倾向未来几天对伊实施初步打击 未来数月可能发动更大规模攻击",
+          "url": "https://flash.jin10.com/detail/20260223053731991800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时26分]"
+        },
+        {
+          "title": "据纽约时报：知情人士透露，特朗普已告知顾问，如果外交手段或初步的针对性打击未能迫使伊朗屈服，将考虑在未来数月内发动更大规模攻击。",
+          "url": "https://flash.jin10.com/detail/20260223053236773800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时26分]"
+        },
+        {
           "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
           "url": "https://wallstreetcn.com/livenews/3057256",
           "source": "华尔街见闻-快讯",
@@ -259,26 +322,59 @@
           "time_info": "[00时30分 ~ 01时26分]"
         },
         {
-          "title": "美媒：特朗普倾向未来几天对伊实施初步打击 未来数月可能发动更大规模攻击",
-          "url": "https://flash.jin10.com/detail/20260223053731991800",
+          "title": "现货白银短线持续走高，日内涨超1.00%，现报85.46美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260223070741519800",
           "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时26分"
         },
         {
-          "title": "据纽约时报：知情人士透露，特朗普已告知顾问，如果外交手段或初步的针对性打击未能迫使伊朗屈服，将考虑在未来数月内发动更大规模攻击。",
-          "url": "https://flash.jin10.com/detail/20260223053236773800",
+          "title": "WTI原油周一大幅低开，一度跌超1.00%，随后部分反弹，现报65.82美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260223070449670800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "周一开盘，现货黄金短线小幅震荡，日内微涨0.04%，现货白银短线走高，站上85美元/盎司，日内涨超0.5%。",
+          "url": "https://flash.jin10.com/detail/20260223070209865800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260223065903222800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时26分"
+        },
+        {
+          "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
+          "url": "https://flash.jin10.com/detail/20260223062904190800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
