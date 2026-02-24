@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T07:35:14.232984+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-02-24T10:03:35.686748+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 98,
+      "match_count": 118,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时03分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
@@ -67,8 +68,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时03分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -87,11 +88,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时03分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -103,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时03分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -116,6 +118,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时41分 ~ 07时35分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
+          "url": "https://www.cls.cn/detail/2293072",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -138,6 +162,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 10时03分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 10时03分]"
         },
         {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
@@ -406,17 +465,6 @@
           "time_info": "[06时41分 ~ 07时35分]"
         },
         {
-          "title": "特朗普否认美军将领“反对与伊朗开战”",
-          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
-        },
-        {
           "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
           "url": "https://flash.jin10.com/detail/20260224055403039800",
           "source": "金十数据",
@@ -559,17 +607,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时46分]"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
           "title": "亚马逊(AMZN.O)：将在路易斯安那州投资120亿美元建设首个数据中心园区。",
@@ -716,6 +753,17 @@
           "time_info": "[00时57分 ~ 02时03分]"
         },
         {
+          "title": "美元兑日元USD/JPY站上155，日内涨0.25%。",
+          "url": "https://flash.jin10.com/detail/20260224092249164800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "纽约金5分钟内上涨5美元/盎司，报5241.8美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3057631",
           "source": "华尔街见闻-快讯",
@@ -733,9 +781,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美国众议院议长约翰逊：在最高法院作出裁决后，将由白宫决定是否退还1340亿美元关税。",
@@ -760,6 +830,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "现货黄金失守5150美元/盎司，日内跌幅1.50%。",
+          "url": "https://flash.jin10.com/detail/20260224091702045800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "美国众议院议长约翰逊称：不认为特朗普政府应该退还关税款项。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3057629",
           "source": "华尔街见闻-快讯",
@@ -777,9 +858,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "拆解黄金白银为何震荡",
+          "url": "https://www.douyin.com/hot/2409647",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "欧盟警告称特朗普的新关税政策违反了贸易协定",
@@ -788,9 +891,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "现货白银回落至85美元/盎司下方，日内跌3.67%。",
+          "url": "https://flash.jin10.com/detail/20260224091632184800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "WTI 4月原油期货收跌0.27美元，跌幅0.38%，报66.31美元/桶。 布伦特4月原油期货收报71.49美元/桶。 NYMEX 3月天然气期货收报2.9850美元/百万英热单位。 NYMEX 3月汽油期货收报1.9892美元/加仑，NYMEX 3月取暖油期货收报2.6782美元/加仑。",
@@ -821,9 +935,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "现货白银日内跌幅达3.00%，现报85.31美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260224091625593800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "纽约期银日内下跌2.00%，现报84.80美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260224091622959800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "据华尔街日报：特朗普政府正在考虑对六种行业征收新的“国家安全关税”。",
@@ -832,9 +968,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "现货白银回落至86美元/盎司下方，日内跌2.52%。",
+          "url": "https://flash.jin10.com/detail/20260224091550997800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
@@ -854,9 +1001,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "现货黄金失守5170美元/盎司，日内跌幅1.12%。现货白银日内跌幅达2.00%，现报86.40美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260224091527347800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美国参议院民主党领导人Schumer：参议院民主党将阻挠总统特朗普延长关税的企图。",
@@ -868,6 +1026,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "现货黄金回落至5190美元/盎司下方，日内跌0.73%。",
+          "url": "https://flash.jin10.com/detail/20260224091306132800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美国民主党力推强制退款方案，此前最高法院判定特朗普关税违宪",
@@ -903,6 +1072,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "特朗普释放美伊局势缓和信号：更倾向协议而非战争",
           "url": "https://flash.jin10.com/detail/20260224053130374800",
           "source": "金十数据",
@@ -920,9 +1100,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "现货黄金、白银短线快速走低，现货黄金跌破5150美元，日内跌超1.5%；现货白银跌破85美元，日内跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3057760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "现货黄金失守5200美元/盎司，日内跌幅0.53%。现货钯金回落至1700美元/盎司下方，日内跌1.73%。",
+          "url": "https://flash.jin10.com/detail/20260224090652301800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "摩根士丹利：美国最高法院对特朗普关税政策的判决结果不至于在短期内改变赤字路径。 特朗普政府可能会挖空心思，从其他方面重新实施关税。 这将让投资者预计短期赤字路径“不至于发生实质性变化”。",
@@ -945,6 +1147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9414，下调16点；上一交易日中间价6.9398，上一交易日官方收盘价6.9114，上日夜盘报收6.9032。",
+          "url": "https://wallstreetcn.com/livenews/3057757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -989,6 +1202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月24日（周二）早盘盘初上涨4.42%报1156.17元/克；<br/>上海黄金交易所白银T+D 2月24日（周二）早盘盘初上涨13.84%报21462.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260224090223366800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "数据显示，委内瑞拉黄金储备在2025年下降11%至47吨。",
@@ -1140,7 +1364,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
