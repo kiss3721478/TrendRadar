@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T10:03:35.686748+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-02-24T12:52:24.310128+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 118,
+      "match_count": 124,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -89,11 +89,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 10时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 12时52分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -120,15 +121,41 @@
           "time_info": "[06时41分 ~ 07时35分]"
         },
         {
+          "title": "特朗普否认美军将领“反对与伊朗开战”",
+          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 12时52分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 12时52分]"
+        },
+        {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时52分]"
         },
         {
           "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
@@ -137,9 +164,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时52分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时52分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -153,6 +192,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "据悉特朗普要求科技企业高管承诺承担数据中心相关费用",
+          "url": "https://flash.jin10.com/detail/20260224123615325800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "澳元兑美元AUD/USD日内跌幅达0.50%，现报0.7048。",
           "url": "https://flash.jin10.com/detail/20260224014128825800",
           "source": "金十数据",
@@ -162,41 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "特朗普否认美军将领“反对与伊朗开战”",
-          "url": "https://news.ifeng.com/c/8qzrgfsJcR3",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 10时03分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 10时03分]"
         },
         {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
@@ -319,6 +334,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时44分]"
+        },
+        {
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时52分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -465,6 +492,18 @@
           "time_info": "[06时41分 ~ 07时35分]"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时52分]"
+        },
+        {
           "title": "欧盟方面警告称，特朗普的新关税政策违反了现有的贸易协定。",
           "url": "https://flash.jin10.com/detail/20260224055403039800",
           "source": "金十数据",
@@ -487,6 +526,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时41分]"
+        },
+        {
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 12时52分]"
         },
         {
           "title": "机构：特朗普关税引发不确定性，金价有望再创新高",
@@ -759,9 +810,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260224115540703800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "纽约金5分钟内上涨5美元/盎司，报5241.8美元/盎司。",
@@ -784,28 +846,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
         },
         {
           "title": "美国众议院议长约翰逊：在最高法院作出裁决后，将由白宫决定是否退还1340亿美元关税。",
@@ -836,7 +876,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -863,24 +903,24 @@
           "time_info": "07时35分"
         },
         {
+          "title": "渣打集团第四季度除税前利润8.14亿美元，预估11亿美元。 渣打集团第四季度经调整除税前利润12.4亿美元，预估13.8亿美元。 渣打集团第四季度调整后有形股本回报率9.6％。 渣打集团第四季度普通股一级资本充足率14.1%。 渣打集团2025年全年经调整经营收入208.9亿美元，预估209.2亿美元。 渣打集团宣布回购15亿美元股票。",
+          "url": "https://wallstreetcn.com/livenews/3057865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "拆解黄金白银为何震荡",
           "url": "https://www.douyin.com/hot/2409647",
           "source": "抖音",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -902,7 +942,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -929,6 +969,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "美媒：特朗普政府考虑对六大行业征收新的国家安全关税 涵盖电池、生铁与铁质配件等",
           "url": "https://flash.jin10.com/detail/20260224065013551800",
           "source": "金十数据",
@@ -946,7 +997,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -957,7 +1008,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -979,7 +1030,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1012,7 +1063,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1034,7 +1085,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1078,7 +1129,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1105,13 +1156,24 @@
           "time_info": "07时35分"
         },
         {
+          "title": "交易员称，印度央行可能抛售美元以阻止卢比汇率跌破91。",
+          "url": "https://flash.jin10.com/detail/20260224114015948800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
           "title": "现货黄金、白银短线快速走低，现货黄金跌破5150美元，日内跌超1.5%；现货白银跌破85美元，日内跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3057760",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1122,7 +1184,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1155,7 +1217,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1210,7 +1272,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1224,6 +1286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "先为达生物：与辉瑞中国达成商业化战略合作协议，双方就新一代偏向型GLP-1达成商业化战略合作协议，公司将有权获得辉瑞支付的最高可达4.95亿美元付款总额。",
+          "url": "https://wallstreetcn.com/livenews/3057840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "谷爱凌去年收入超2300万美元",
