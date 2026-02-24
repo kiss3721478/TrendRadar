@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T14:21:15.301491+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-02-24T15:11:23.813522+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 131,
+      "match_count": 138,
       "titles": [
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -97,6 +97,19 @@
           "time_info": "[00时57分 ~ 12时52分]"
         },
         {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 15时11分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://www.cls.cn/detail/2292753",
           "source": "财联社热门",
@@ -110,19 +123,6 @@
           "time_info": "[00时57分 ~ 10时03分]"
         },
         {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 14时21分]"
-        },
-        {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
@@ -130,8 +130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时11分]"
         },
         {
           "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
@@ -141,8 +141,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时11分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -153,8 +153,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时11分]"
+        },
+        {
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时11分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -181,30 +194,6 @@
           "time_info": "[07时34分 ~ 12时52分]"
         },
         {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 14时21分]"
-        },
-        {
-          "title": "银行家表示，土耳其央行上周的净储备预计已减少70亿美元，降至890亿美元。",
-          "url": "https://flash.jin10.com/detail/20260224135322527800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260224015251428800",
           "source": "金十数据",
@@ -227,26 +216,27 @@
           "time_info": "02时03分"
         },
         {
-          "title": "WTI原油日内涨超1.00%，现报67.03美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260224134352915800",
+          "title": "日本钢铁公司将筹集83亿美元，其中包括32亿美元的可转换债券。",
+          "url": "https://flash.jin10.com/detail/20260224143820201800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "15时11分"
         },
         {
-          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
-          "url": "https://flash.jin10.com/detail/20260224134038685800",
-          "source": "金十数据",
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
           "ranks": [
-            5
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 15时11分]"
         },
         {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
@@ -323,6 +313,18 @@
           "time_info": "[06时41分 ~ 07时35分]"
         },
         {
+          "title": "银行家表示，土耳其央行上周的净储备预计已减少70亿美元，降至890亿美元。",
+          "url": "https://flash.jin10.com/detail/20260224135322527800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时11分]"
+        },
+        {
           "title": "美国众议长约翰逊：国会山不可能将总统特朗普的关税写入法律。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3057636",
           "source": "华尔街见闻-快讯",
@@ -381,18 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时44分]"
-        },
-        {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 14时21分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -455,6 +445,18 @@
           "time_info": "[05时44分 ~ 06时41分]"
         },
         {
+          "title": "WTI原油日内涨超1.00%，现报67.03美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260224134352915800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时11分]"
+        },
+        {
           "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
           "url": "https://wallstreetcn.com/livenews/3057661",
           "source": "华尔街见闻-快讯",
@@ -503,6 +505,18 @@
           "time_info": "[06时41分 ~ 07时35分]"
         },
         {
+          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
+          "url": "https://flash.jin10.com/detail/20260224134038685800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时11分]"
+        },
+        {
           "title": "德国10年期国债收益率跌约3个基点，特朗普关税带来的不确定性迫使投资者避险",
           "url": "https://wallstreetcn.com/livenews/3057598",
           "source": "华尔街见闻-快讯",
@@ -546,8 +560,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时11分]"
         },
         {
           "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
@@ -557,8 +571,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时11分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -1087,7 +1101,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1112,6 +1126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "现货黄金失守5170美元/盎司，日内跌幅1.12%。现货白银日内跌幅达2.00%，现报86.40美元/盎司。",
@@ -1153,7 +1178,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -1191,6 +1216,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3057913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "黄金",
           "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -1200,6 +1236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普：很多人想置我于死地",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%83%B3%E7%BD%AE%E6%88%91%E4%BA%8E%E6%AD%BB%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "特朗普释放美伊局势缓和信号：更倾向协议而非战争",
@@ -1257,6 +1304,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "总部位于香港的加密支付金融科技公司RedotPay据悉考虑赴美进行10亿美元的IPO。消息人士称RedotPay可能最早今年在美国上市，可能在IPO中寻求超过40亿美元的估值。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3057911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "摩根士丹利：美国最高法院对特朗普关税政策的判决结果不至于在短期内改变赤字路径。 特朗普政府可能会挖空心思，从其他方面重新实施关税。 这将让投资者预计短期赤字路径“不至于发生实质性变化”。",
           "url": "https://wallstreetcn.com/livenews/3057568",
           "source": "华尔街见闻-快讯",
@@ -1290,6 +1348,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "特朗普第二任期首场国情咨文谈什么",
+          "url": "https://www.toutiao.com/trending/7610257077706457134/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
           "url": "https://flash.jin10.com/detail/20260224002048880800",
           "source": "金十数据",
@@ -1310,6 +1379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "银行家表示，土耳其央行上周的外汇储备预计减少58亿美元，降至2060亿美元。",
+          "url": "https://flash.jin10.com/detail/20260224135420710800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "纽约期金日内大涨3.00%，现报5233.40美元/盎司。",
@@ -1373,7 +1453,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
