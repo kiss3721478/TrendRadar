@@ -1,12 +1,70 @@
 {
-  "generated_at": "2026-02-25T06:09:12.492431+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-02-25T06:34:45.140160+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 78,
+      "match_count": 81,
       "titles": [
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时34分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时34分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时34分]"
+        },
+        {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时34分]"
+        },
+        {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时34分]"
+        },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
@@ -19,60 +77,18 @@
           "time_info": "[00时00分 ~ 06时09分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时09分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时09分]"
-        },
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
+          "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
+          "url": "https://wallstreetcn.com/articles/3766076",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时09分]"
-        },
-        {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时09分]"
-        },
-        {
-          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时34分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -85,21 +101,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时09分]"
-        },
-        {
-          "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
-          "url": "https://wallstreetcn.com/articles/3766076",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时34分]"
         },
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -110,8 +113,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 06时34分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -120,11 +123,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时26分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[02时26分 ~ 06时34分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -132,11 +136,12 @@
           "source": "微博",
           "ranks": [
             18,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时35分 ~ 06时09分]"
+          "appearance_count": 5,
+          "time_info": "[04时35分 ~ 06时34分]"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -172,26 +177,15 @@
           "time_info": "04时36分"
         },
         {
-          "title": "Mosaic预计2026年资本开支大约15亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3058359",
+          "title": "周二（2月24日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.8793元，较周一纽约尾盘涨86点，日内整体交投于6.89 64-6.8725元区间。",
+          "url": "https://wallstreetcn.com/livenews/3058366",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3058357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "06时34分"
         },
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -216,17 +210,6 @@
           "time_info": "04时36分"
         },
         {
-          "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
-          "url": "https://wallstreetcn.com/livenews/3058355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "LME期铜收涨298美元，报13166美元/吨。 LME期铝收涨4美元，报3094美元/吨。 LME期锌收涨25美元，报3380美元/吨。 LME期铅收涨4美元，报1955美元/吨。 LME期镍收涨626美元，报17909美元/吨。 LME期锡收涨2582美元，报5030美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3058283",
           "source": "华尔街见闻-快讯",
@@ -238,6 +221,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 04时36分]"
+        },
+        {
+          "title": "Mosaic预计2026年资本开支大约15亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3058359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3058357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
         },
         {
           "title": "周二（2月24日），韩元兑美元最终涨0.17%，报1440.66韩元。",
@@ -252,6 +259,18 @@
           "time_info": "[02时26分 ~ 03时02分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
+          "url": "https://wallstreetcn.com/livenews/3058355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
           "title": "特朗普政府被1000多家企业起诉",
           "url": "https://www.toutiao.com/trending/7609548645095964718/",
           "source": "今日头条",
@@ -262,6 +281,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 03时02分]"
+        },
+        {
+          "title": "白宫：特朗普对伊朗首选方案是外交",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时08分 ~ 06时34分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月24日（周二）晚盘收盘下跌0.17%报1146.0元/克；<br/>上海黄金交易所白银T+D 2月24日（周二）晚盘收盘下跌0.0%报21360.0元/千克。",
@@ -288,6 +319,30 @@
           "time_info": "[02时26分 ~ 03时02分]"
         },
         {
+          "title": "华纳兄弟探索公司（WBD）：派拉蒙将收购报价提高至每股31美元现金。",
+          "url": "https://wallstreetcn.com/livenews/3058354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
+          "url": "https://wallstreetcn.com/livenews/3058353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
           "url": "https://wallstreetcn.com/livenews/3058275",
           "source": "华尔街见闻-快讯",
@@ -312,6 +367,42 @@
           "time_info": "[02时26分 ~ 03时02分]"
         },
         {
+          "title": "惠普第一财季调整后每股收益（EPS）为0.81美元，分析师预期0.77美元。 第一财季净营收144.4亿美元，分析师预期139亿美元。 第一财季个人系统营收102.5亿美元，分析师预期97.6亿美元。 维持全年调整后EPS预期在2.90-3.20美元不变，分析师预期3美元。 预计第二财季调整后EPS为0.70-0.76美元，分析师预期0.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3058351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "华纳兄弟探索公司(WBD.O)：派拉蒙将现金报价提高至每股 31 美元。派拉蒙的提议可能促成更优报价。",
+          "url": "https://flash.jin10.com/detail/20260225053146138800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
+          "url": "https://flash.jin10.com/detail/20260225052942727800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
           "title": "周二（2月24日），美联储隔夜逆回购协议（RRP）使用规模为9.17亿美元（交易对手17家），上个交易日报8.77亿美元。",
           "url": "https://wallstreetcn.com/livenews/3058289",
           "source": "华尔街见闻-快讯",
@@ -322,6 +413,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时36分]"
+        },
+        {
+          "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3058348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "第一太阳能四季度净销售16.8亿美元，分析师预期15.6亿美元。 预计全年净销售49亿-52亿美元，分析师预期60.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3058347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -336,15 +451,88 @@
           "time_info": "[02时26分 ~ 03时02分]"
         },
         {
-          "title": "白宫：特朗普对伊朗首选方案是外交",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
-          "source": "百度热搜",
+          "title": "Lucid集团四季度营收5.227亿美元，分析师预期4.594亿美元。 四季度调整后每股亏损3.08美元，分析师预期亏损2.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3058346",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            13,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时08分 ~ 06时09分]"
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
+          "url": "https://wallstreetcn.com/livenews/3058339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050547207800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050527378800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
+          "url": "https://wallstreetcn.com/livenews/3058334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
+          "url": "https://flash.jin10.com/detail/20260225050111394800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
+        },
+        {
+          "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
+          "url": "https://flash.jin10.com/detail/20260225045852872800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
         },
         {
           "title": "为什么说黄金这波春节上涨“不健康”",
@@ -358,15 +546,16 @@
           "time_info": "[00时00分 ~ 00时01分]"
         },
         {
-          "title": "华纳兄弟探索公司（WBD）：派拉蒙将收购报价提高至每股31美元现金。",
-          "url": "https://wallstreetcn.com/livenews/3058354",
-          "source": "华尔街见闻-快讯",
+          "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",
+          "url": "https://flash.jin10.com/detail/20260225045144248800",
+          "source": "金十数据",
           "ranks": [
-            6
+            28,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 06时34分]"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -402,15 +591,15 @@
           "time_info": "04时36分"
         },
         {
-          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
-          "url": "https://wallstreetcn.com/livenews/3058353",
+          "title": "美债市场持仓更新：债券交易员押注美联储降息将持续至2027年",
+          "url": "https://wallstreetcn.com/livenews/3058362",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "06时34分"
         },
         {
           "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
@@ -446,6 +635,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "现货黄金跌约1.5%，白银跌1.1%，纽约铜期货涨2%",
+          "url": "https://wallstreetcn.com/livenews/3058361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
           "url": "https://flash.jin10.com/detail/20260225032658019800",
           "source": "金十数据",
@@ -468,17 +668,6 @@
           "time_info": "04时36分"
         },
         {
-          "title": "惠普第一财季调整后每股收益（EPS）为0.81美元，分析师预期0.77美元。 第一财季净营收144.4亿美元，分析师预期139亿美元。 第一财季个人系统营收102.5亿美元，分析师预期97.6亿美元。 维持全年调整后EPS预期在2.90-3.20美元不变，分析师预期3美元。 预计第二财季调整后EPS为0.70-0.76美元，分析师预期0.75美元。",
-          "url": "https://wallstreetcn.com/livenews/3058351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "WTI原油日内跌幅达1.00%，现报65.69美元/桶。",
           "url": "https://flash.jin10.com/detail/20260225031708396800",
           "source": "金十数据",
@@ -488,17 +677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "华纳兄弟探索公司(WBD.O)：派拉蒙将现金报价提高至每股 31 美元。派拉蒙的提议可能促成更优报价。",
-          "url": "https://flash.jin10.com/detail/20260225053146138800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了17个对手方的9.17亿美元。",
@@ -523,17 +701,6 @@
           "time_info": "04时36分"
         },
         {
-          "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
-          "url": "https://flash.jin10.com/detail/20260225052942727800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "WTI原油日内跌幅达0.5%，报65.87美元/桶。 据媒体报道，伊朗副外长塔赫特-拉万奇表示，德黑兰准备采取任何必要措施与美国达成协议。",
           "url": "https://wallstreetcn.com/livenews/3058229",
           "source": "华尔街见闻-快讯",
@@ -543,17 +710,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        },
-        {
-          "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3058348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
         },
         {
           "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
@@ -578,17 +734,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "第一太阳能四季度净销售16.8亿美元，分析师预期15.6亿美元。 预计全年净销售49亿-52亿美元，分析师预期60.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3058347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "西方石油公司首席执行官：在油价维持在每桶60至65美元的区间内，美国的石油产量可以保持稳定。",
           "url": "https://flash.jin10.com/detail/20260225022104993800",
           "source": "金十数据",
@@ -609,17 +754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        },
-        {
-          "title": "Lucid集团四季度营收5.227亿美元，分析师预期4.594亿美元。 四季度调整后每股亏损3.08美元，分析师预期亏损2.68美元。",
-          "url": "https://wallstreetcn.com/livenews/3058346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
         },
         {
           "title": "西方石油公司首席执行官：油价需达到70美元才能推动行业增产。",
@@ -655,17 +789,6 @@
           "time_info": "00时01分"
         },
         {
-          "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
-          "url": "https://wallstreetcn.com/livenews/3058339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "WTI原油期货日内跌超1.00%，现报65.64美元/桶。",
           "url": "https://flash.jin10.com/detail/20260224233311312800",
           "source": "金十数据",
@@ -688,17 +811,6 @@
           "time_info": "04时36分"
         },
         {
-          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260225050547207800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260225013329714800",
           "source": "金十数据",
@@ -708,28 +820,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260225050527378800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
-          "url": "https://wallstreetcn.com/livenews/3058334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股盘中）",
@@ -743,24 +833,13 @@
           "time_info": "02时26分"
         },
         {
-          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
-          "url": "https://flash.jin10.com/detail/20260225050111394800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
           "url": "https://wallstreetcn.com/livenews/3058330",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -774,17 +853,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
-        },
-        {
-          "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
-          "url": "https://flash.jin10.com/detail/20260225045852872800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
         },
         {
           "title": "花旗：短期看涨铜价，预计未来三个月铜价将触及每吨14,000美元。",
@@ -804,18 +872,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",
-          "url": "https://flash.jin10.com/detail/20260225045144248800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -881,7 +938,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         }
