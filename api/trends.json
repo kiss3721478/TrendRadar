@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T07:32:13.144932+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-02-25T10:06:49.152853+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 91,
+      "match_count": 113,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 10时06分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -85,11 +85,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时26分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[02时26分 ~ 10时06分]"
         },
         {
           "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
@@ -100,11 +101,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 10时06分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -126,11 +128,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 10时06分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -154,8 +157,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时06分]"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -175,7 +189,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -202,15 +216,49 @@
           "time_info": "04时36分"
         },
         {
+          "title": "美媒曝光特朗普国情咨文 提及住房、成本、国家安全等内容",
+          "url": "https://flash.jin10.com/detail/20260225095456929800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时06分]"
+        },
+        {
           "title": "Lucid Group(LCID.O)：预计2026年的资本支出将在12亿至14亿美元之间。",
           "url": "https://flash.jin10.com/detail/20260225070542666800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "特朗普夫人梅拉尼娅在国情咨文演讲上身着杜嘉班纳服饰。",
+          "url": "https://flash.jin10.com/detail/20260225095115822800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
@@ -219,7 +267,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -230,9 +278,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
+          "url": "https://www.cls.cn/detail/2294110",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -268,6 +327,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时08分 ~ 07时32分]"
+        },
+        {
+          "title": "为什么说黄金这波春节上涨“不健康”",
+          "url": "https://www.toutiao.com/trending/7610286715936345651/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 10时06分]"
         },
         {
           "title": "LME期铜收涨298美元，报13166美元/吨。 LME期铝收涨4美元，报3094美元/吨。 LME期锌收涨25美元，报3380美元/吨。 LME期铅收涨4美元，报1955美元/吨。 LME期镍收涨626美元，报17909美元/吨。 LME期锡收涨2582美元，报5030美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -344,18 +416,6 @@
           "time_info": "[06时09分 ~ 06时34分]"
         },
         {
-          "title": "为什么说黄金这波春节上涨“不健康”",
-          "url": "https://www.toutiao.com/trending/7610286715936345651/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 07时32分]"
-        },
-        {
           "title": "华纳兄弟探索公司(WBD.O)：派拉蒙将现金报价提高至每股 31 美元。派拉蒙的提议可能促成更优报价。",
           "url": "https://flash.jin10.com/detail/20260225053146138800",
           "source": "金十数据",
@@ -392,17 +452,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 03时02分]"
-        },
-        {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月24日（周二）晚盘收盘下跌0.17%报1146.0元/克；<br/>上海黄金交易所白银T+D 2月24日（周二）晚盘收盘下跌0.0%报21360.0元/千克。",
@@ -657,15 +706,59 @@
           "time_info": "[06时09分 ~ 06时34分]"
         },
         {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "Lucid Group(LCID.O)：美国近期的裁员预计将在未来三年内带来高达5亿美元的成本节约。",
           "url": "https://flash.jin10.com/detail/20260225065034233800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "美国总统特朗普将于十分钟后发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260225095000000800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "特朗普走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -701,6 +794,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "韩国股市总市值达到3.76万亿美元，超过法国股市。",
+          "url": "https://wallstreetcn.com/livenews/3058448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
           "url": "https://flash.jin10.com/detail/20260225033140480800",
           "source": "金十数据",
@@ -710,6 +814,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普抵达国会山发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260225094447407800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
@@ -740,7 +855,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -767,6 +882,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "WTI原油日内跌幅达1.00%，现报65.69美元/桶。",
           "url": "https://flash.jin10.com/detail/20260225031708396800",
           "source": "金十数据",
@@ -776,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "特朗普将要求国会禁止投资公司购买独栋住宅",
+          "url": "https://wallstreetcn.com/livenews/3058444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了17个对手方的9.17亿美元。",
@@ -833,6 +970,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "市场消息：特朗普离开白宫，准备发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260225094052863800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "西方石油公司首席执行官：在油价维持在每桶60至65美元的区间内，美国的石油产量可以保持稳定。",
           "url": "https://flash.jin10.com/detail/20260225022104993800",
           "source": "金十数据",
@@ -842,6 +990,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将表示，正在恢复美国在西半球的安全和主导地位。",
+          "url": "https://flash.jin10.com/detail/20260225093851641800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "【闪迪遭香橼做空，股价盘中跌超5％】知名做空机构香橼称正在做空闪迪，指当前存储芯片市场繁荣为“供应幻象”。闪迪股价跌5.4％，报630美元/股。",
@@ -872,9 +1031,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将表示，要充分发挥美国的潜力，首先必须保障社区安全。",
+          "url": "https://flash.jin10.com/detail/20260225093829467800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8812元，较上个交易日夜盘收盘涨220点。成交量365.49亿美元。",
@@ -888,15 +1058,48 @@
           "time_info": "04时36分"
         },
         {
+          "title": "市场消息：美国总统特朗普将表示，作为总统，我会尽可能地促进和平，但只要是我们必须采取行动的时候，我绝不会退缩，会毫不犹豫地应对对美国构成的威胁。",
+          "url": "https://flash.jin10.com/detail/20260225093816678800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
           "url": "https://wallstreetcn.com/livenews/3058374",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年5月11日来新高",
+          "url": "https://wallstreetcn.com/livenews/3058431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将表示，要求立即全面恢复美国边境安全和国土安全部的所有资金。",
+          "url": "https://flash.jin10.com/detail/20260225093620104800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "Prosus于2月16-20日当周按均价43.5011欧元回购股票205.8244万股，合计超过0.895亿欧元（折合将近1.057亿美元）。 同期，Naspers按均价900.6142南非兰特回购79.6820万股，合计超7.176亿兰特（折合将近0.447亿美元）。",
@@ -919,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将在国情咨文中表示，请求国会永久实施禁止华尔街大型投资公司大量收购独栋住宅的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260225093421945800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "花旗：短期看涨铜价，预计未来三个月将升至1.4万美元",
@@ -954,6 +1168,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "美国总统特朗普：我还要终结处方药价格的飞涨。其他总统也尝试过，但他们都失败了。他们只会空谈，没有实际行动。而我做到了。",
+          "url": "https://flash.jin10.com/detail/20260225092719887800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
           "url": "https://wallstreetcn.com/livenews/3058330",
           "source": "华尔街见闻-快讯",
@@ -976,6 +1201,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "美国总统特朗普：展望未来，工厂、就业、投资和数万亿美元将继续涌入美国——因为我们终于有了一位把美国放在首位的总统。",
+          "url": "https://flash.jin10.com/detail/20260225092652948800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "花旗：短期看涨铜价，预计未来三个月铜价将触及每吨14,000美元。",
           "url": "https://flash.jin10.com/detail/20260225012259334800",
           "source": "金十数据",
@@ -985,6 +1221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "美国总统特朗普：我们实现了前所未有的变革，实现了划时代的逆转。",
+          "url": "https://flash.jin10.com/detail/20260225092635757800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "据标普全球评级，美国私立学校年度学费上涨3.6%至48,922美元，寄宿制学校学费涨3.5%至75,466美元。",
