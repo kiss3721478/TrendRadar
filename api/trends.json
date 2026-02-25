@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:41:06.220707+08:00",
-  "total_titles_processed": 1571,
+  "generated_at": "2026-02-25T21:04:27.535426+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 192,
+      "match_count": 200,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时31分 ~ 19时41分]"
+          "appearance_count": 13,
+          "time_info": "[07时31分 ~ 21时04分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -97,11 +97,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时26分 ~ 19时41分]"
+          "appearance_count": 21,
+          "time_info": "[02时26分 ~ 21时04分]"
         },
         {
           "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
@@ -158,6 +159,18 @@
           "time_info": "[00时00分 ~ 12时54分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 21时04分]"
+        },
+        {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
           "url": "https://www.cls.cn/detail/2294131",
           "source": "财联社热门",
@@ -168,6 +181,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时31分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 21时04分]"
         },
         {
           "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
@@ -195,29 +219,6 @@
           "time_info": "[10时06分 ~ 16时49分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时41分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时41分]"
-        },
-        {
           "title": "中方回应特朗普3月31日将访问中国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -241,6 +242,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 14时01分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 21时04分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
@@ -288,20 +303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时15分 ~ 16时49分]"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 19时41分]"
         },
         {
           "title": "特朗普打还是不打，只是时间问题了",
@@ -480,7 +481,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -529,6 +530,19 @@
           "time_info": "16时49分"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 21时04分]"
+        },
+        {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
           "url": "https://flash.jin10.com/detail/20260225040115362800",
           "source": "金十数据",
@@ -575,6 +589,20 @@
           "time_info": "[06时08分 ~ 07时32分]"
         },
         {
+          "title": "金店1000余件3055克黄金首饰被盗",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%971000%E4%BD%99%E4%BB%B63055%E5%85%8B%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E8%A2%AB%E7%9B%97",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 21时04分]"
+        },
+        {
           "title": "LME期铜收涨298美元，报13166美元/吨。 LME期铝收涨4美元，报3094美元/吨。 LME期锌收涨25美元，报3380美元/吨。 LME期铅收涨4美元，报1955美元/吨。 LME期镍收涨626美元，报17909美元/吨。 LME期锡收涨2582美元，报5030美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3058283",
           "source": "华尔街见闻-快讯",
@@ -599,19 +627,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时09分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时41分]"
         },
         {
           "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
@@ -686,6 +701,18 @@
           "time_info": "[06时09分 ~ 06时34分]"
         },
         {
+          "title": "静待英伟达财报，美国科技股盘前小幅上涨，欧股续创新高，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时04分]"
+        },
+        {
           "title": "周二（2月24日），韩元兑美元最终涨0.17%，报1440.66韩元。",
           "url": "https://wallstreetcn.com/livenews/3058278",
           "source": "华尔街见闻-快讯",
@@ -724,30 +751,6 @@
           "time_info": "[15时15分 ~ 18时52分]"
         },
         {
-          "title": "金店1000余件3055克黄金首饰被盗",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%971000%E4%BD%99%E4%BB%B63055%E5%85%8B%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E8%A2%AB%E7%9B%97",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时41分]"
-        },
-        {
-          "title": "静待英伟达财报，美国科技股盘前小幅上涨，欧股续创新高，现货黄金日内涨超1%",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时41分]"
-        },
-        {
           "title": "华纳兄弟探索公司(WBD.O)：派拉蒙将现金报价提高至每股 31 美元。派拉蒙的提议可能促成更优报价。",
           "url": "https://flash.jin10.com/detail/20260225053146138800",
           "source": "金十数据",
@@ -772,6 +775,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时09分 ~ 07时32分]"
+        },
+        {
+          "title": "老相机成“电子黄金”",
+          "url": "https://www.toutiao.com/trending/7610397908298383396/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 21时04分]"
         },
         {
           "title": "特朗普政府被1000多家企业起诉",
@@ -917,6 +932,18 @@
           "time_info": "[06时09分 ~ 06时34分]"
         },
         {
+          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 21时04分]"
+        },
+        {
           "title": "特朗普发表国情咨文演讲",
           "url": "https://www.douyin.com/hot/2411058",
           "source": "抖音",
@@ -1045,17 +1072,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 06时34分]"
-        },
-        {
-          "title": "老相机成“电子黄金”",
-          "url": "https://www.toutiao.com/trending/7610397908298383396/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
@@ -1272,6 +1288,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
           "url": "https://flash.jin10.com/detail/20260225032658019800",
           "source": "金十数据",
@@ -1300,7 +1327,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -1325,17 +1352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
-        },
-        {
-          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3058828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
         },
         {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
@@ -1388,9 +1404,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "美国联邦住房金融局局长普尔特：房利美、房地美估值在5000亿至7000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260225201051946800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "特朗普将要求国会禁止投资公司购买独栋住宅",
@@ -1553,7 +1580,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -1589,6 +1616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "特朗普：我们赢得太多了",
+          "url": "https://www.douyin.com/hot/2411181",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "西方石油公司首席执行官：油价需达到70美元才能推动行业增产。",
@@ -1756,6 +1794,17 @@
           "time_info": "14时01分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 2月25日（周三）晚盘盘初暂无成交；<br/>上海黄金交易所白银T+D 2月25日（周三）晚盘盘初上涨1.46%报22165.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260225200647494800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "人民币兑美元中间价创2023年5月11日来新高",
           "url": "https://wallstreetcn.com/livenews/3058431",
           "source": "华尔街见闻-快讯",
@@ -1787,6 +1836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "现货铂金上涨近3%，至每盎司2,232.45美元。",
+          "url": "https://wallstreetcn.com/livenews/3058855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "WTI原油期货日内跌超1.00%，现报65.64美元/桶。",
@@ -1822,6 +1882,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "花旗：短期看涨铜价，预计未来三个月将升至1.4万美元",
           "url": "https://flash.jin10.com/detail/20260225025348041800",
           "source": "金十数据",
@@ -1855,6 +1926,17 @@
           "time_info": "12时54分"
         },
         {
+          "title": "甲骨文美股盘前涨3%，此前Oppenheimer将甲骨文评级从与大盘一致上调至“跑赢大盘”，目标价185美元。",
+          "url": "https://wallstreetcn.com/livenews/3058852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260225013329714800",
           "source": "金十数据",
@@ -1883,7 +1965,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -1930,6 +2012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "分析师：美债收益率加速攀升",
+          "url": "https://flash.jin10.com/detail/20260225200106256800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国总统特朗普：伊朗已研发出能够威胁欧洲和美军海外基地的导弹。",
@@ -2092,7 +2185,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
