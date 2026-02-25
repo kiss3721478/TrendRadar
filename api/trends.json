@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T16:49:44.197634+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-02-25T17:55:28.906189+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 165,
+      "match_count": 181,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -84,8 +84,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时31分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 17时55分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -100,8 +100,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时26分 ~ 16时49分]"
+          "appearance_count": 17,
+          "time_info": "[02时26分 ~ 17时55分]"
         },
         {
           "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
@@ -116,8 +116,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时00分 ~ 16时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时00分 ~ 17时55分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -301,6 +301,17 @@
           "time_info": "14时01分"
         },
         {
+          "title": "金十图示：2026年02月25日（周三）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260225175238679800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "芝加哥大豆期货涨0.4%，纽约可可期货一度跌穿3000美元整数位心理关口",
           "url": "https://wallstreetcn.com/livenews/3058319",
           "source": "华尔街见闻-快讯",
@@ -310,6 +321,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "中使馆：勿信安哥拉遍地是黄金谣言",
+          "url": "https://www.toutiao.com/trending/7610573513422913555/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 17时55分]"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 17时55分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
@@ -401,6 +447,28 @@
           "time_info": "07时32分"
         },
         {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
+          "url": "https://wallstreetcn.com/livenews/3058780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "现货白银盘初跌幅达1.00%，现报86.28美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260225070137510800",
           "source": "金十数据",
@@ -412,13 +480,24 @@
           "time_info": "07时32分"
         },
         {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
+          "url": "https://flash.jin10.com/detail/20260225173456379800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.8672，较上一交易日官方收盘价涨177点，较上日夜盘收盘涨140点。",
           "url": "https://wallstreetcn.com/livenews/3058735",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -454,29 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "中使馆：勿信安哥拉遍地是黄金谣言",
-          "url": "https://www.toutiao.com/trending/7610573513422913555/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 16时49分]"
-        },
-        {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时53分 ~ 16时49分]"
         },
         {
           "title": "白宫：特朗普对伊朗首选方案是外交",
@@ -602,6 +658,19 @@
           "time_info": "[06时09分 ~ 06时34分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时55分]"
+        },
+        {
           "title": "华纳兄弟探索公司(WBD.O)：派拉蒙将现金报价提高至每股 31 美元。派拉蒙的提议可能促成更优报价。",
           "url": "https://flash.jin10.com/detail/20260225053146138800",
           "source": "金十数据",
@@ -723,6 +792,18 @@
           "time_info": "[06时34分 ~ 07时32分]"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时55分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
           "url": "https://wallstreetcn.com/livenews/3058275",
           "source": "华尔街见闻-快讯",
@@ -769,18 +850,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 06时34分]"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时49分]"
         },
         {
           "title": "特朗普发表国情咨文演讲",
@@ -1103,6 +1172,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
           "url": "https://flash.jin10.com/detail/20260225032658019800",
           "source": "金十数据",
@@ -1145,6 +1225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "WTI原油日内跌幅达1.00%，现报65.69美元/桶。",
@@ -1224,6 +1315,17 @@
           "time_info": "14时01分"
         },
         {
+          "title": "美元兑日元USD/JPY日内涨幅达0.50%，现报156.59。",
+          "url": "https://flash.jin10.com/detail/20260225172313898800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "WTI原油日内跌幅达0.5%，报65.87美元/桶。 据媒体报道，伊朗副外长塔赫特-拉万奇表示，德黑兰准备采取任何必要措施与美国达成协议。",
           "url": "https://wallstreetcn.com/livenews/3058229",
           "source": "华尔街见闻-快讯",
@@ -1233,17 +1335,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
         },
         {
           "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
@@ -1301,6 +1392,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "据塔斯社：谷歌(GOOG.O)被俄罗斯当局罚款超过2200万卢布。",
+          "url": "https://flash.jin10.com/detail/20260225172229198800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "台币兑美元上涨0.5%至31.303。",
           "url": "https://wallstreetcn.com/livenews/3058656",
           "source": "华尔街见闻-快讯",
@@ -1310,6 +1412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "美元兑日元上涨0.4%，触及两周新高至156.45。",
+          "url": "https://wallstreetcn.com/livenews/3058761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "西方石油公司首席执行官：在油价维持在每桶60至65美元的区间内，美国的石油产量可以保持稳定。",
@@ -1343,6 +1456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "机构：预估2026年全球八大CSP合计资本支出将破7100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3058759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "西方石油公司首席执行官：油价需达到70美元才能推动行业增产。",
@@ -1417,7 +1541,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1466,6 +1590,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "美元兑日元USD/JPY向上触及156.45的两周新高，最新上涨0.32%。",
+          "url": "https://flash.jin10.com/detail/20260225171106882800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
           "url": "https://wallstreetcn.com/livenews/3058374",
           "source": "华尔街见闻-快讯",
@@ -1508,6 +1643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "韩女子用ChatGPT策划连环杀人案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "市场消息：美国总统特朗普将表示，要求立即全面恢复美国边境安全和国土安全部的所有资金。",
@@ -1763,6 +1909,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "特朗普试戴美冰球队的奥运金牌",
+          "url": "https://www.toutiao.com/trending/7610318993089400356/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "花旗：短期看涨铜价，预计未来三个月铜价将触及每吨14,000美元。",
           "url": "https://flash.jin10.com/detail/20260225012259334800",
           "source": "金十数据",
@@ -1785,6 +1942,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "字节跳动在拟议的股票出售中估值达5500亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3058742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "纽约期金日内涨超1.00%，现报5228.10美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260225135002149800",
           "source": "金十数据",
@@ -1805,6 +1973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "金店1000余件3055克黄金首饰被盗",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%971000%E4%BD%99%E4%BB%B63055%E5%85%8B%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E8%A2%AB%E7%9B%97",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
@@ -1857,7 +2036,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
