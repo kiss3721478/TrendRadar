@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T07:28:52.091109+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-02-26T10:01:38.158781+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 69,
+      "match_count": 81,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 10时01分]"
         },
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -61,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 10时01分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -85,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 10时01分]"
         },
         {
           "title": "字节跳动新估值，5500亿美元！",
@@ -97,8 +98,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 10时01分]"
         },
         {
           "title": "金价高的已经推出红绳戒指了",
@@ -152,11 +153,12 @@
             8,
             28,
             27,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 07时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 10时01分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -165,9 +167,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 10时01分]"
+        },
+        {
+          "title": "韩元兑美元升破1420关口，至2025年10月30日以来最高。",
+          "url": "https://wallstreetcn.com/livenews/3059199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "10时01分"
         },
         {
           "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
@@ -179,6 +192,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "离岸人民币兑美元日内涨逾100点，接近6.84元关口，最高触及6.8421元。 在岸人民币对美元升破6.85，创2023年4月以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3059191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "据新浪报价，离岸人民币兑美元一度升穿6.84，为2023年4月14日以来首次。",
+          "url": "https://flash.jin10.com/detail/20260226094903618800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
+          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "Thrive Capital以2850亿美元估值投资OpenAI",
@@ -201,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "韩元兑美元汇率升破1420，为2025年10月30日以来新高。",
+          "url": "https://flash.jin10.com/detail/20260226094810903800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "谷歌(GOOG.O)：聊天功能现已作为数据源在Gemini应用中可用。",
@@ -296,6 +353,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时35分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 10时01分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -538,6 +607,17 @@
           "time_info": "[06时34分 ~ 07时28分]"
         },
         {
+          "title": "被批“脱离群众”，特朗普演讲后民调出炉",
+          "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260226050531438800",
           "source": "金十数据",
@@ -547,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
@@ -580,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美股收盘：三大股指收涨 Circle涨超30%",
@@ -637,24 +739,13 @@
           "time_info": "04时36分"
         },
         {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
           "url": "https://wallstreetcn.com/livenews/3059092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -679,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9228，上调93点；上一交易日中间价6.9321，上一交易日16:30官方收盘价6.8672，上日夜盘报收6.8592。",
+          "url": "https://wallstreetcn.com/livenews/3059167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "委内瑞拉去年因美元严重短缺出售黄金",
@@ -747,6 +849,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，陈志和、赵长鹏两大知名案件获利近200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3059162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 2月25日（周三）晚盘收盘上涨0.32%报1149.48元/克；<br/>上海黄金交易所白银T+D 2月25日（周三）晚盘收盘上涨2.62%报22418.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260226023134886800",
           "source": "金十数据",
@@ -767,6 +880,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "韩元兑美元保持涨势，此前韩国央行维持政策利率不变。",
+          "url": "https://wallstreetcn.com/livenews/3059155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "中国创新药“出海”势头强劲，年内海外授权总金额突破530亿美元",
+          "url": "https://wallstreetcn.com/livenews/3059152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
