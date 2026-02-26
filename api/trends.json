@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T18:46:02.073324+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-02-26T19:40:55.100142+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 129,
+      "match_count": 137,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时28分 ~ 18时46分]"
+          "appearance_count": 13,
+          "time_info": "[07时28分 ~ 19时40分]"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -171,6 +171,17 @@
           "time_info": "[00时03分 ~ 07时28分]"
         },
         {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时57分 ~ 19时40分]"
+        },
+        {
           "title": "美国从陈志案获利150亿美元",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -180,6 +191,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时57分 ~ 16时49分]"
+        },
+        {
+          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010322310536590565",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 19时40分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
@@ -193,17 +218,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时28分 ~ 15时06分]"
-        },
-        {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时57分 ~ 18时46分]"
         },
         {
           "title": "离岸人民币兑美元升破 6.9 元关口创新高，驱动因素是什么？人民币升值后续空间还有多大？",
@@ -249,17 +263,43 @@
           "time_info": "[12时24分 ~ 17时51分]"
         },
         {
-          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2010322310536590565",
-          "source": "知乎",
+          "title": "男子杀鸭从鸭肚中剖出黄金颗粒",
+          "url": "https://www.toutiao.com/trending/7611031515153842182/",
+          "source": "今日头条",
           "ranks": [
-            9,
             7,
-            5
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 18时46分]"
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 19时40分]"
+        },
+        {
+          "title": "游客泰国机场1110元金价买了周大福",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 19时40分]"
+        },
+        {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 19时40分]"
         },
         {
           "title": "英伟达第四财季营收 681 亿美元，同比增长 73%，净利润同比增长 94％，为什么能增长这么多？",
@@ -274,18 +314,6 @@
           "time_info": "[12时24分 ~ 16时49分]"
         },
         {
-          "title": "男子杀鸭从鸭肚中剖出黄金颗粒",
-          "url": "https://www.toutiao.com/trending/7611031515153842182/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 18时46分]"
-        },
-        {
           "title": "韩元兑美元升破1420关口，至2025年10月30日以来最高。",
           "url": "https://wallstreetcn.com/livenews/3059199",
           "source": "华尔街见闻-快讯",
@@ -295,31 +323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "游客泰国机场1110元金价买了周大福",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 18时46分]"
-        },
-        {
-          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 18时46分]"
         },
         {
           "title": "现货白银回落至87美元/盎司下方，日内跌2.53%。",
@@ -339,7 +342,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -375,17 +378,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
-        },
-        {
-          "title": "规范黄金珠宝行业回收服务！上海黄金饰品行业协会建议落实强制身份登记",
-          "url": "https://wallstreetcn.com/livenews/3059518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "据新浪报价，离岸人民币兑美元一度升穿6.84，为2023年4月14日以来首次。",
@@ -527,6 +519,18 @@
           "time_info": "[05时35分 ~ 06时34分]"
         },
         {
+          "title": "规范黄金珠宝行业回收服务！上海黄金饰品行业协会建议落实强制身份登记",
+          "url": "https://wallstreetcn.com/livenews/3059518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时40分]"
+        },
+        {
           "title": "芝商所（CME）已恢复金属期货交易，纽约期金现报5226美元/盎司，现货黄金报5206美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260226035234865800",
           "source": "金十数据",
@@ -609,6 +613,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时49分 ~ 17时51分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时40分]"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -705,6 +721,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时34分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达1%，报64.72美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3059504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时40分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -851,17 +879,6 @@
           "time_info": "[06时34分 ~ 07时28分]"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
           "title": "被批“脱离群众”，特朗普演讲后民调出炉",
           "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
           "source": "凤凰网",
@@ -895,6 +912,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
           "url": "https://flash.jin10.com/detail/20260226011101407800",
           "source": "金十数据",
@@ -917,15 +945,26 @@
           "time_info": "05时35分"
         },
         {
-          "title": "WTI原油日内跌幅达1%，报64.72美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3059504",
+          "title": "美国天然气期货日内下跌3.00%，现报2.781美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260226192846118800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "百济神州：2025年第四季度全球总收入达15亿美元，同比增长33%",
+          "url": "https://wallstreetcn.com/livenews/3059532",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时46分"
+          "time_info": "19时40分"
         },
         {
           "title": "据华尔街日报：消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。Thrive将其新基金中的约10亿美元投资于OpenAI。",
@@ -1093,6 +1132,17 @@
           "time_info": "17时51分"
         },
         {
+          "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
+          "url": "https://www.cls.cn/detail/2296218",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "数据显示，租用超大型油轮（VLCC）将中东原油运往亚洲的成本自2020年以来首次超过20万美元/天。",
           "url": "https://flash.jin10.com/detail/20260226161749374800",
           "source": "金十数据",
@@ -1143,7 +1193,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1187,7 +1237,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1214,13 +1264,24 @@
           "time_info": "16时49分"
         },
         {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-26）",
           "url": "https://flash.jin10.com/detail/20260226180905801800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1247,6 +1308,17 @@
           "time_info": "12时24分"
         },
         {
+          "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
           "url": "https://flash.jin10.com/detail/20260226023258257800",
           "source": "金十数据",
@@ -1264,7 +1336,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1289,6 +1361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "印度证交所调整共同基金中黄金和白银的估值方式",
+          "url": "https://flash.jin10.com/detail/20260226191126435800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
@@ -1333,6 +1416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "花旗：将英伟达(NVDA.O)目标价从270美元上调至300美元。",
+          "url": "https://flash.jin10.com/detail/20260226191115576800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
