@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T20:58:57.354369+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2026-02-27T22:03:14.371724+08:00",
+  "total_titles_processed": 1910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 185,
+      "match_count": 222,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -28,6 +28,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时58分 ~ 07时31分]"
+        },
+        {
+          "title": "丈夫准备给诞下5胞胎老婆送黄金",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%87%86%E5%A4%87%E7%BB%99%E8%AF%9E%E4%B8%8B5%E8%83%9E%E8%83%8E%E8%80%81%E5%A9%86%E9%80%81%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时40分 ~ 22时03分]"
         },
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
@@ -83,6 +96,35 @@
           "time_info": "[00时58分 ~ 07时31分]"
         },
         {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            8,
+            14,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时40分 ~ 22时03分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时40分 ~ 22时03分]"
+        },
+        {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
           "source": "澎湃新闻",
@@ -110,8 +152,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时30分 ~ 20时58分]"
+          "appearance_count": 17,
+          "time_info": "[07时30分 ~ 22时03分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
@@ -126,19 +168,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时58分 ~ 10时01分]"
-        },
-        {
-          "title": "丈夫准备给诞下5胞胎老婆送黄金",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%87%86%E5%A4%87%E7%BB%99%E8%AF%9E%E4%B8%8B5%E8%83%9E%E8%83%8E%E8%80%81%E5%A9%86%E9%80%81%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 20时58分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -210,34 +239,6 @@
           "time_info": "[17时40分 ~ 20时58分]"
         },
         {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            8,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 20时58分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 20时58分]"
-        },
-        {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658379",
           "source": "澎湃新闻",
@@ -303,6 +304,17 @@
           "time_info": "[13时53分 ~ 16时40分]"
         },
         {
+          "title": "胡锡进：特朗普将自己置于矛盾境地",
+          "url": "https://news.ifeng.com/c/8r5pc0FsAVG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
           "url": "https://flash.jin10.com/detail/20260227062334976800",
           "source": "金十数据",
@@ -331,9 +343,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI将通过亚马逊云科技（AWS）基础设施使用2吉瓦的Trainium芯片计算能力。",
+          "url": "https://flash.jin10.com/detail/20260227213826999800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "谷歌正就TPU租赁合资事宜进行洽谈；谷歌已与投资基金签署协议，将成立TPU租赁合资企业。（The Information）",
@@ -345,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "科技巨头与银行股助力，挪威财富基金在2025年获利2500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3060346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -391,6 +425,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "亚马逊将向OpenAI投资500亿美元",
+          "url": "https://flash.jin10.com/detail/20260227213821410800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "知情人士称，Meta已与谷歌签署协议，将租赁其AI芯片以开发新的AI模型。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3059831",
           "source": "华尔街见闻-快讯",
@@ -400,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "亚马逊股价盘前下跌0.9%，此前该公司宣布计划投资OpenAI。 微软股价盘前下跌2.4%，谷歌A下跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3060342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "据The Information：谷歌已成立一家合资企业，旨在将其张量处理单元租赁给其他人工智能客户。",
@@ -424,6 +480,17 @@
           "time_info": "12时21分"
         },
         {
+          "title": "亚马逊(AMZN.O)：能够定制OpenAI模型以应用于各类人工智能产品。",
+          "url": "https://flash.jin10.com/detail/20260227213746947800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
           "url": "https://wallstreetcn.com/livenews/3059912",
           "source": "华尔街见闻-快讯",
@@ -433,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资，投前估值达7300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3060345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "据The Information：Meta公司也在与谷歌商谈，计划最早于明年为其数据中心购买TPU。",
@@ -479,6 +557,17 @@
           "time_info": "18时38分"
         },
         {
+          "title": "微软(MSFT.O)美股盘前下跌2.4%，Alphabet(GOOG.O)股价下跌0.7%，亚马逊(AMZN.O)股价盘前下跌0.9%。",
+          "url": "https://flash.jin10.com/detail/20260227213721612800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "韩国将有条件批准谷歌的地图数据请求。（SBS）",
           "url": "https://wallstreetcn.com/livenews/3059827",
           "source": "华尔街见闻-快讯",
@@ -496,9 +585,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "亚马逊将向OpenAI投资500亿美元 建立多年战略伙伴关系",
+          "url": "https://wallstreetcn.com/livenews/3060341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美、布两油短线下跌0.5美元，阿曼方面称美伊会谈取得“重大进展”后结束。",
@@ -576,6 +676,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "微软(MSFT.O)与OpenAI将在研究和工程领域紧密合作。",
+          "url": "https://flash.jin10.com/detail/20260227213634084800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美国1月PP数据公布后，美元指数短线拉升，现货黄金短线走低",
+          "url": "https://wallstreetcn.com/livenews/3060340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
@@ -823,6 +945,18 @@
           "time_info": "[10时01分 ~ 14时54分]"
         },
         {
+          "title": "炮龙一响 黄金万两",
+          "url": "https://www.douyin.com/hot/2413619",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时03分]"
+        },
+        {
           "title": "男子杀鸭从鸭肚中剖出黄金颗粒",
           "url": "https://www.toutiao.com/trending/7611031515153842182/",
           "source": "今日头条",
@@ -833,6 +967,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 07时31分]"
+        },
+        {
+          "title": "男子杀鸭意外从肚子里掏出 10 克黄金，网友调侃「报恩鸭」，动物肚子里还发现过哪些稀奇古怪的东西？",
+          "url": "https://www.zhihu.com/question/2010664531555217708",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
@@ -1132,6 +1277,28 @@
           "time_info": "[00时58分 ~ 01时59分]"
         },
         {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1198,6 +1365,17 @@
           "time_info": "18时38分"
         },
         {
+          "title": "OpenAI：承诺消耗约2吉瓦的训练算力。",
+          "url": "https://flash.jin10.com/detail/20260227213613966800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "WTI原油日内涨幅达2%，报66.53美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3060218",
           "source": "华尔街见闻-快讯",
@@ -1229,6 +1407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "OpenAI：ChatGPT每周活跃用户超过9亿。",
+          "url": "https://flash.jin10.com/detail/20260227213553114800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "上海黄金饰品行业协会：春节期间上海黄金珠宝市场销售额达7.2亿元 同比增长5%",
@@ -1264,6 +1453,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "OpenAI：Trinium4预计将于2027年开始交付。",
+          "url": "https://flash.jin10.com/detail/20260227213537292800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "NetAPP第三财季净营收17.1亿美元，分析师预期17.0亿美元。 预计全年净营收67.7亿-69.2亿美元，公司原本预计66.3亿-68.8亿美元。 预计第四财季净营收18.0亿-19.5亿美元，分析师预期18亿美元。",
           "url": "https://wallstreetcn.com/livenews/3059786",
           "source": "华尔街见闻-快讯",
@@ -1281,7 +1481,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1303,9 +1503,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "微软(MSFT.O)：新融资不会改变与OpenAI的关系。",
+          "url": "https://flash.jin10.com/detail/20260227213527626800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "多邻国（Duolingo Inc.）四季度营收2.829亿美元，分析师预期2.76亿美元。 预计2026年营收12亿-12.2亿美元，分析师预期12.6亿美元。 预计一季度营收2.885亿美元，分析师预期2.918亿美元。 多邻国股价盘后跌20%。",
@@ -1358,9 +1569,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "OpenAI：协议涵盖Tranium 3和下一代Tranium 4。",
+          "url": "https://flash.jin10.com/detail/20260227213513559800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "Autodesk四季度净营收19.6亿美元，分析师预期19.2亿美元。 预计2027财年营收81亿-81.7亿美元，分析师预期79.7亿美元。",
@@ -1413,9 +1635,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "OpenAI扩大与英伟达(NVDA.O)的长期协议。",
+          "url": "https://flash.jin10.com/detail/20260227213459303800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
@@ -1479,9 +1712,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "OpenAI基金会持有的OpenAI集团股份价值升至逾1800亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213444121800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "Zscaler第二财季营收8.158亿美元，分析师预期7.99亿美元。 预计全年持续经营营收37.3亿-37.5亿美元，分析师预期37.1亿美元。",
@@ -1550,6 +1794,17 @@
           "time_info": "12时21分"
         },
         {
+          "title": "软银：交易完成后对OpenAI持股比例约为13%。",
+          "url": "https://flash.jin10.com/detail/20260227213434251800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
           "url": "https://wallstreetcn.com/livenews/3059781",
           "source": "华尔街见闻-快讯",
@@ -1583,6 +1838,17 @@
           "time_info": "14时54分"
         },
         {
+          "title": "现货白银日内涨幅达5%，报92.55美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "纽约期银日内大涨4.00%，现报91.09美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260227141036389800",
           "source": "金十数据",
@@ -1594,6 +1860,17 @@
           "time_info": "14时54分"
         },
         {
+          "title": "关税和地缘政治风险增强黄金避险吸引力，势将连续七个月上涨",
+          "url": "https://flash.jin10.com/detail/20260227213421530800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
           "url": "https://wallstreetcn.com/livenews/3059780",
           "source": "华尔街见闻-快讯",
@@ -1603,6 +1880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "金银油短线拉升，现货白银日内涨幅达4%，现货黄金短线拉升约50美元",
+          "url": "https://wallstreetcn.com/livenews/3060330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）热门中概股行情一览（美股盘中）",
@@ -1625,6 +1913,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "软银对OpenAI的累计投资预计达646亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213400594800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的37.96亿美元。",
@@ -1658,6 +1957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "OpenAI的融资包括来自英伟达(NVDA.O)的300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213347014800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（2月26日），美国科技股七巨头（Magnificent 7）指数跌1.89%，报196.96点，美股早盘持续走低，北京时间23:34刷新日低至195.64点，随后持续低位震荡。",
@@ -1704,6 +2014,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "OpenAI与亚马逊(AMZN.O)将开发定制模型。",
+          "url": "https://flash.jin10.com/detail/20260227213324674800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3059777",
           "source": "华尔街见闻-快讯",
@@ -1713,6 +2034,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "现货白银站上91美元/盎司，日内涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3060327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "奈飞(NFLX.O)：今年将投资200亿美元用于电影和剧集。",
@@ -1743,9 +2075,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "OpenAI的融资包括来自软银的300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213310566800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "布伦特原油日内涨幅达2%，报72.26美元/桶。",
@@ -1754,7 +2097,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1781,6 +2124,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "OpenAI宣布以7300亿美元的估值获得1100亿美元的新投资。",
+          "url": "https://flash.jin10.com/detail/20260227213252837800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美联储2月25日当周贴现窗贷款余额44.8亿美元，之前一周47.8亿美元。",
           "url": "https://wallstreetcn.com/livenews/3059775",
           "source": "华尔街见闻-快讯",
@@ -1798,7 +2152,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1836,6 +2190,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "亚马逊(AMZN.O)：OpenAI与亚马逊云服务(AWS)正在其现有380亿美元多年协议的基础上，再追加1000亿美元、为期8年的合作。",
+          "url": "https://flash.jin10.com/detail/20260227213212397800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "谷歌推出最新图像模型Nano Banana 2",
           "url": "https://flash.jin10.com/detail/20260227001845830800",
           "source": "金十数据",
@@ -1845,6 +2210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：亚马逊将向OpenAI投资500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213129329800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美国众议院监督委员会主席Comer：在爱泼斯坦问题上，我们对克林顿夫妇有疑问，将适时对外披露相关信息。 总统特朗普的商务部长卢特尼克可能也会被传唤出席听证会。",
@@ -1880,15 +2256,15 @@
           "time_info": "10时01分"
         },
         {
-          "title": "炮龙一响 黄金万两",
-          "url": "https://www.douyin.com/hot/2413619",
-          "source": "抖音",
+          "title": "现货黄金5分钟内上涨16.37美元/盎司，报5211.42美元/盎司。 纽约金5分钟内上涨17.7美元/盎司，报5229.6美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060322",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "22时03分"
         },
         {
           "title": "消息人士透露，任天堂计划逐步解除战略持股，旗下公司将出售价值约19亿美元的股份。",
@@ -1919,9 +2295,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "OpenAI与亚马逊(AMZN.O)宣布达成合作。",
+          "url": "https://flash.jin10.com/detail/20260227213023951800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美媒披露：特朗普与美军方就对伊朗军事行动分歧明显",
@@ -1966,6 +2353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.0%，报67.19美元/桶；布伦特原油日内涨幅达3.0%，报72.97美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3060320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "市场消息：希拉里·克林顿将告诉监督委员会成员，应当要求特朗普就爱泼斯坦档案在宣誓情况下作出说明。",
@@ -2109,6 +2507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "星展银行：油价计入8至10美元/桶的“地缘政治风险溢价”",
+          "url": "https://flash.jin10.com/detail/20260227212907193800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美联储周四数据显示，截至2月25日当周，经季节性调整后，美国商业票据余额在最新一周增加25亿美元，至1.407万亿美元。未经季节性调整的商业票据余额增加253亿美元，至1.437万亿美元。未经季节性调整的外国金融类商业票据余额增加13亿美元，至3961亿美元。",
