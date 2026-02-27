@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T19:33:11.024997+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2026-02-27T20:58:57.354369+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 173,
+      "match_count": 185,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -106,11 +106,12 @@
             15,
             19,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时30分 ~ 19时33分]"
+          "appearance_count": 15,
+          "time_info": "[07时30分 ~ 20时58分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
@@ -125,6 +126,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时58分 ~ 10时01分]"
+        },
+        {
+          "title": "丈夫准备给诞下5胞胎老婆送黄金",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%87%86%E5%A4%87%E7%BB%99%E8%AF%9E%E4%B8%8B5%E8%83%9E%E8%83%8E%E8%80%81%E5%A9%86%E9%80%81%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 20时58分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -168,19 +182,6 @@
           "time_info": "[13时53分 ~ 19时33分]"
         },
         {
-          "title": "丈夫准备给诞下5胞胎老婆送黄金",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%87%86%E5%A4%87%E7%BB%99%E8%AF%9E%E4%B8%8B5%E8%83%9E%E8%83%8E%E8%80%81%E5%A9%86%E9%80%81%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时40分 ~ 19时33分]"
-        },
-        {
           "title": "男子回应杀鸭从鸭肚中剖出黄金",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%9D%80%E9%B8%AD%E4%BB%8E%E9%B8%AD%E8%82%9A%E4%B8%AD%E5%89%96%E5%87%BA%E9%BB%84%E9%87%91",
           "source": "百度热搜",
@@ -193,6 +194,48 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时46分 ~ 19时33分]"
+        },
+        {
+          "title": "意大利小偷把肾结石误认黄金偷走",
+          "url": "https://www.baidu.com/s?wd=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8F%E5%81%B7%E6%8A%8A%E8%82%BE%E7%BB%93%E7%9F%B3%E8%AF%AF%E8%AE%A4%E9%BB%84%E9%87%91%E5%81%B7%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            16,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 20时58分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            8,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 20时58分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 20时58分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
@@ -219,19 +262,6 @@
           "time_info": "[14时54分 ~ 18时38分]"
         },
         {
-          "title": "意大利小偷把肾结石误认黄金偷走",
-          "url": "https://www.baidu.com/s?wd=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8F%E5%81%B7%E6%8A%8A%E8%82%BE%E7%BB%93%E7%9F%B3%E8%AF%AF%E8%AE%A4%E9%BB%84%E9%87%91%E5%81%B7%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 19时33分]"
-        },
-        {
           "title": "丈夫准备给诞下5胞胎老婆送黄金",
           "url": "https://www.toutiao.com/trending/7611183483779694619/",
           "source": "今日头条",
@@ -240,20 +270,6 @@
             12,
             19,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时40分 ~ 19时33分]"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            8,
-            14
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -271,19 +287,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时46分 ~ 17时41分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时40分 ~ 19时33分]"
         },
         {
           "title": "丈夫准备给诞下5胞胎老婆送黄金",
@@ -320,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "德国总理默茨将寻求特朗普在华盛顿会谈中就关税问题给出明确答复",
+          "url": "https://flash.jin10.com/detail/20260227203739625800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "谷歌正就TPU租赁合资事宜进行洽谈；谷歌已与投资基金签署协议，将成立TPU租赁合资企业。（The Information）",
@@ -476,6 +490,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "德国总理默茨将赴美会晤特朗普 寻求澄清关税政策",
+          "url": "https://wallstreetcn.com/livenews/3060300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "美、布两油短线下跌0.5美元，阿曼方面称美伊会谈取得“重大进展”后结束。",
           "url": "https://flash.jin10.com/detail/20260227023806931800",
           "source": "金十数据",
@@ -548,7 +573,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -1201,7 +1226,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -1250,6 +1275,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "WTI原油日内涨幅达2.5%，报66.85美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3060295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "韩元兑美元汇率下跌0.6%，至1440.31。",
           "url": "https://flash.jin10.com/detail/20260227151823759800",
           "source": "金十数据",
@@ -1259,6 +1295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "金十图示：2018年9月至2026年1月中国香港对内地黄金净出口量一览",
+          "url": "https://flash.jin10.com/detail/20260227201919482800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "多邻国（Duolingo Inc.）四季度营收2.829亿美元，分析师预期2.76亿美元。 预计2026年营收12亿-12.2亿美元，分析师预期12.6亿美元。 预计一季度营收2.885亿美元，分析师预期2.918亿美元。 多邻国股价盘后跌20%。",
@@ -1305,6 +1352,17 @@
           "time_info": "12时21分"
         },
         {
+          "title": "德意志银行：将华纳兄弟探索公司(WBD.O)评级从“买入”下调至“持有”；将目标价从29.5美元上调至31美元。",
+          "url": "https://flash.jin10.com/detail/20260227201851343800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "Autodesk四季度净营收19.6亿美元，分析师预期19.2亿美元。 预计2027财年营收81亿-81.7亿美元，分析师预期79.7亿美元。",
           "url": "https://wallstreetcn.com/livenews/3059784",
           "source": "华尔街见闻-快讯",
@@ -1347,6 +1405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "香港特区政府：2026年1月香港对中国内地黄金净出口量为20.585公吨，11月份为12.205公吨。",
+          "url": "https://flash.jin10.com/detail/20260227201747532800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
@@ -1402,6 +1471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "香港特区政府：2026年1月香港向中国内地黄金出口总量为36.544吨，12月份为28.014吨。",
+          "url": "https://flash.jin10.com/detail/20260227201714794800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "Zscaler第二财季营收8.158亿美元，分析师预期7.99亿美元。 预计全年持续经营营收37.3亿-37.5亿美元，分析师预期37.1亿美元。",
@@ -1657,6 +1737,28 @@
           "time_info": "10时01分"
         },
         {
+          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
+          "url": "https://flash.jin10.com/detail/20260227200350341800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达2%，报72.26美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3060276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从每股275美元上调至每股300美元，维持“跑赢大盘”评级。",
           "url": "https://flash.jin10.com/detail/20260227012606598800",
           "source": "金十数据",
@@ -1688,6 +1790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "渤海租赁：Avolon通过其下属子公司向南方航空购买10架B787-8飞机及2台GEnx-1B70备用发动机资产，上述飞机及发动机资产市场价格约为5.32亿美元，实际购买价格根据产权交易所竞价结果确定。",
+          "url": "https://wallstreetcn.com/livenews/3060274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "谷歌深夜发布生图模型Nano Banana 2",
@@ -1767,6 +1880,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "炮龙一响 黄金万两",
+          "url": "https://www.douyin.com/hot/2413619",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "消息人士透露，任天堂计划逐步解除战略持股，旗下公司将出售价值约19亿美元的股份。",
           "url": "https://flash.jin10.com/detail/20260227113038680800",
           "source": "金十数据",
@@ -1787,6 +1911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月27日（周五）晚盘盘初上涨0.08%报1145.5元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）晚盘盘初上涨1.21%报22311.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260227200059259800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美媒披露：特朗普与美军方就对伊朗军事行动分歧明显",
