@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T12:21:21.928119+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-02-27T13:53:18.966067+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 130,
+      "match_count": 140,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -77,11 +77,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 12时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时58分 ~ 13时53分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
@@ -96,6 +97,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时58分 ~ 10时01分]"
+        },
+        {
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时30分 ~ 13时53分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -122,18 +135,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时58分 ~ 07时31分]"
-        },
-        {
-          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2296570",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时30分 ~ 12时21分]"
         },
         {
           "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
@@ -179,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3060023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -242,7 +254,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -258,15 +270,15 @@
           "time_info": "10时01分"
         },
         {
-          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3059979",
+          "title": "广期所铂主力合约涨6%，报628元/克。 现货铂金突破2400美元/盎司，日内涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3060017",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "13时53分"
         },
         {
           "title": "据The Information：Meta公司也在与谷歌商谈，计划最早于明年为其数据中心购买TPU。",
@@ -286,7 +298,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -300,28 +312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "日本芯片制造商Rapidus获得16亿美元政府资金",
-          "url": "https://wallstreetcn.com/livenews/3059978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
-          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         },
         {
           "title": "美、布两油短线下跌0.5美元，阿曼方面称美伊会谈取得“重大进展”后结束。",
@@ -355,6 +345,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "现货铂金突破2400美元/盎司，日内涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260227133234048800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "现货铂金涨逾5%，报2388.92美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "丈夫准备给诞下5胞胎老婆送黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%87%86%E5%A4%87%E7%BB%99%E8%AF%9E%E4%B8%8B5%E8%83%9E%E8%83%8E%E8%80%81%E5%A9%86%E9%80%81%E9%BB%84%E9%87%91%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时30分 ~ 13时53分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -431,6 +468,18 @@
           "time_info": "[05时32分 ~ 06时33分]"
         },
         {
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时53分]"
+        },
+        {
           "title": "景顺：黄金ETF对央行的吸引力日益增强",
           "url": "https://wallstreetcn.com/livenews/3059727",
           "source": "华尔街见闻-快讯",
@@ -453,6 +502,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时32分]"
+        },
+        {
+          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时53分]"
         },
         {
           "title": "WTI原油5分钟内下跌0.95美元/桶，报65.4美元/桶。",
@@ -479,6 +540,18 @@
           "time_info": "[05时32分 ~ 06时33分]"
         },
         {
+          "title": "日本芯片制造商Rapidus获得16亿美元政府资金",
+          "url": "https://wallstreetcn.com/livenews/3059978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时53分]"
+        },
+        {
           "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
           "url": "https://wallstreetcn.com/livenews/3059768",
           "source": "华尔街见闻-快讯",
@@ -491,17 +564,29 @@
           "time_info": "[05时32分 ~ 06时33分]"
         },
         {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            18,
-            15
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时30分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时53分]"
+        },
+        {
+          "title": "3毫克黄金手机贴热销",
+          "url": "https://www.baidu.com/s?wd=3%E6%AF%AB%E5%85%8B%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E8%B4%B4%E7%83%AD%E9%94%80",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时53分]"
         },
         {
           "title": "男子杀鸭从鸭肚中剖出黄金颗粒",
@@ -648,15 +733,16 @@
           "time_info": "[05时32分 ~ 06时33分]"
         },
         {
-          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
-          "url": "https://www.cls.cn/detail/2296526",
-          "source": "财联社热门",
+          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2010521633262101357",
+          "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时01分 ~ 12时21分]"
+          "time_info": "[12时21分 ~ 13时53分]"
         },
         {
           "title": "戴尔(DELL.N)2026财年Q4营收333.8亿美元，市场预期316.05亿美元。",
@@ -778,18 +864,6 @@
           "time_info": "[00时58分 ~ 01时59分]"
         },
         {
-          "title": "3毫克黄金手机贴热销",
-          "url": "https://www.baidu.com/s?wd=3%E6%AF%AB%E5%85%8B%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E8%B4%B4%E7%83%AD%E9%94%80",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 12时21分]"
-        },
-        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -840,7 +914,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -862,7 +936,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -928,7 +1002,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -953,6 +1027,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "杰夫·贝佐斯斥资300亿美元打造的人工智能实验室正寻求数百亿美元的工业领域交易。",
+          "url": "https://flash.jin10.com/detail/20260227131101938800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
@@ -988,6 +1073,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "韩国批准谷歌的地图数据出口申请。",
+          "url": "https://flash.jin10.com/detail/20260227130247973800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "Zscaler第二财季营收8.158亿美元，分析师预期7.99亿美元。 预计全年持续经营营收37.3亿-37.5亿美元，分析师预期37.1亿美元。",
           "url": "https://wallstreetcn.com/livenews/3059782",
           "source": "华尔街见闻-快讯",
@@ -1008,17 +1104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2010521633262101357",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         },
         {
           "title": "美国总统特朗普：负责审理这座将成为世界上最美丽宴会厅项目的法官，刚刚驳回并彻底否决了试图阻止其建设的努力。这座宴会厅预计未来还将用于总统就职典礼及大型国事访问活动，目前建设进度提前且低于预算。",
@@ -1049,7 +1134,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -1131,6 +1216,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "媒体消息称，韩国批准谷歌出口地图数据的申请。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "美国国务院：将悬赏最高1000万美元，以征集有助于逮捕和/或定罪涉嫌墨西哥锡那罗亚贩毒集团Plaza Bosses的相关信息。",
           "url": "https://flash.jin10.com/detail/20260227033457526800",
           "source": "金十数据",
@@ -1140,6 +1236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD向上触及1.35，日内涨0.14%。",
+          "url": "https://flash.jin10.com/detail/20260227123812264800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "现货黄金涨0.4%，美股金银指数涨2.7%创收盘历史新高",
@@ -1214,9 +1321,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "摩根士丹利：将英伟达(NVDA.O)目标价从250美元上调至260美元， 维持“增持”评级。",
@@ -1291,7 +1409,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -1489,7 +1607,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
