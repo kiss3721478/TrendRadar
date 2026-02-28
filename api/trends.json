@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T05:21:21.024389+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-03-01T06:22:44.298112+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 54,
+      "match_count": 68,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "黄金连续上涨7个月",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 06时22分]"
         },
         {
           "title": "伊朗战火重启，布油会再次冲击80美元吗？",
@@ -61,8 +61,97 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
+        },
+        {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
+        },
+        {
+          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
+          "url": "https://www.zhihu.com/question/2011096140146286806",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            17,
+            20,
+            19,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
+        },
+        {
+          "title": "老铺黄金2026年首次调价，整体调价幅度在20%至30%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32670895",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
+        },
+        {
+          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
+          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            23,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
+        },
+        {
+          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -77,92 +166,19 @@
           "time_info": "[00时26分 ~ 05时21分]"
         },
         {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
+          "title": "专家：金价极端情况下或到7000美元",
+          "url": "https://www.toutiao.com/trending/7611434469627330601/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
-        },
-        {
-          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
-          "url": "https://www.zhihu.com/question/2011096140146286806",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
-        },
-        {
-          "title": "老铺黄金2026年首次调价，整体调价幅度在20%至30%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32670895",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            17,
-            20,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
-        },
-        {
-          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
-          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
+            26,
             23,
-            12,
-            14
+            27,
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
-        },
-        {
-          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "如何评价《生化危机 9：安魂曲》中暴君制造成本高达 1.2 亿美元？",
@@ -179,6 +195,17 @@
           "time_info": "[01时20分 ~ 04时25分]"
         },
         {
+          "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "特朗普政府高级官员：我们掌握的情报显示，伊朗正在全力重建去年六月袭击中被摧毁的一切。",
           "url": "https://flash.jin10.com/detail/20260301035247077800",
           "source": "金十数据",
@@ -190,18 +217,15 @@
           "time_info": "04时25分"
         },
         {
-          "title": "专家：金价极端情况下或到7000美元",
-          "url": "https://www.toutiao.com/trending/7611434469627330601/",
-          "source": "今日头条",
+          "title": "特朗普宣布哈梅内伊已死",
+          "url": "https://www.douyin.com/hot/2414924",
+          "source": "抖音",
           "ranks": [
-            26,
-            23,
-            27,
-            24
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "特朗普政府高级官员：美国曾提出愿永远向伊朗免费提供核燃料，但伊朗坚持要求获得铀浓缩能力。",
@@ -213,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
+          "url": "https://wallstreetcn.com/livenews/3061008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
@@ -239,17 +274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "据NBC新闻：美国总统特朗普（被问及谁将接替伊朗最高领袖哈梅内伊时）表示，“我不知道，但总有一天他们会打电话问我想要谁”。他补充道，\"我这么说只是稍微带点讽刺意味。\"",
-          "url": "https://flash.jin10.com/detail/20260301050933713800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
         },
         {
           "title": "白宫：特朗普彻夜关注伊朗局势 并与内塔尼亚胡通电话",
@@ -296,6 +320,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普称哈梅内伊死亡",
+          "url": "https://wallstreetcn.com/livenews/3061004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "老铺黄金46.9万元金如意售空",
           "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E9%93%BA%E9%BB%84%E9%87%9146.9%E4%B8%87%E5%85%83%E9%87%91%E5%A6%82%E6%84%8F%E5%94%AE%E7%A9%BA%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -304,8 +339,33 @@
             30
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 06时22分]"
+        },
+        {
+          "title": "据NBC新闻：美国总统特朗普（被问及谁将接替伊朗最高领袖哈梅内伊时）表示，“我不知道，但总有一天他们会打电话问我想要谁”。他补充道，\"我这么说只是稍微带点讽刺意味。\"",
+          "url": "https://flash.jin10.com/detail/20260301050933713800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
+          "url": "https://www.zhihu.com/question/2011109082719859902",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时20分 ~ 05时21分]"
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "特朗普和内塔尼亚胡通话",
@@ -332,18 +392,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
-          "url": "https://www.zhihu.com/question/2011109082719859902",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 01时21分]"
         },
         {
           "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
@@ -403,6 +451,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "Polymarket伊朗开战赌局规模达5.29亿美元，新注册钱包引发关注",
+          "url": "https://wallstreetcn.com/livenews/3061000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "特朗普政府高级官员：美国有情报显示，伊朗打算先发制人地发动袭击，而美国总统特朗普决定不让美军承受导弹袭击。",
           "url": "https://flash.jin10.com/detail/20260301034954179800",
           "source": "金十数据",
@@ -414,13 +473,24 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普发文确认：伊朗最高领袖哈梅内伊已死 精准轰炸将持续进行",
+          "url": "https://flash.jin10.com/detail/20260301054807770800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
           "url": "https://flash.jin10.com/detail/20260301050034835800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -431,9 +501,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普前盟友批评美国对伊朗动武",
+          "url": "https://wallstreetcn.com/livenews/3060996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
@@ -442,9 +523,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：这是伊朗人民夺回国家的千载难逢的机会。",
+          "url": "https://flash.jin10.com/detail/20260301053913994800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国白宫：美国总统特朗普与英国、科威特和土耳其领导人通话。",
@@ -453,9 +545,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：听说伊朗伊斯兰革命卫队、军队及其他安全和警察力量中的许多人，已经不想再打仗了，正在寻求美国的豁免权。",
+          "url": "https://flash.jin10.com/detail/20260301053903112800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普在社交平台发文称，伊朗最高领袖哈梅内伊已死。",
+          "url": "https://flash.jin10.com/detail/20260301053829342800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "特朗普认为哈梅内伊已死报道准确#",
+          "url": "https://wallstreetcn.com/livenews/3060995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普表示，他与以色列总理内塔尼亚胡进行了“非常棒的”通话，“我们心有灵犀”。",
@@ -467,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "俄罗斯驻联合国大使：美国总统特朗普称袭击伊朗旨在阻止伊朗获得核武器的说法毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260301053729109800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普表示，伊朗方面曾一度接近谈判，随后又退缩，“我由此明白，他们并不真正想要达成协议。”",
@@ -486,7 +622,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -500,6 +636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "据沙特国家通讯社：沙特王储接到来自美国总统特朗普的电话。",
+          "url": "https://flash.jin10.com/detail/20260301052952640800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普表示，我既可以选择长期作战，全面介入，也可以在两三天内结束战争。",
@@ -519,7 +666,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -541,9 +688,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普称其对伊行动已预留多条“退路”",
+          "url": "https://wallstreetcn.com/livenews/3060991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，部署架构将使我们能够独立验证这些红线不会被突破。",
@@ -552,7 +710,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -563,7 +721,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -574,7 +732,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -585,7 +743,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -629,7 +787,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
