@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T15:27:42.309800+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-02-28T16:30:25.539340+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 181,
+      "match_count": 193,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -20,28 +20,30 @@
           "time_info": "[00时40分 ~ 06时23分]"
         },
         {
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 16时30分]"
+        },
+        {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
           "url": "https://www.cls.cn/detail/2297908",
           "source": "财联社热门",
           "ranks": [
             9,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 15时27分]"
-        },
-        {
-          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 15时27分]"
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 16时30分]"
         },
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -49,11 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 16时30分]"
         },
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -65,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时50分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 16时30分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -74,11 +77,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 16时30分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
@@ -103,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时29分 ~ 15时27分]"
+          "appearance_count": 13,
+          "time_info": "[05时29分 ~ 16时30分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -185,8 +189,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 15时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时40分 ~ 16时30分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -213,6 +217,59 @@
           "time_info": "[00时40分 ~ 07时25分]"
         },
         {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 16时30分]"
+        },
+        {
+          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
+          "url": "https://www.zhihu.com/question/2010773992567481420",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 16时30分]"
+        },
+        {
+          "title": "SpaceX据传最快3月秘密递交招股书 目标估值超1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2297889",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 16时30分]"
+        },
+        {
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 16时30分]"
+        },
+        {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
           "url": "https://wallstreetcn.com/articles/3766324",
           "source": "华尔街见闻",
@@ -224,17 +281,16 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            11,
-            12
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时50分 ~ 15时27分]"
+          "time_info": "[12时55分 ~ 16时30分]"
         },
         {
           "title": "特朗普：尚未就对伊动武作最终决定",
@@ -246,6 +302,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "实时更新|美以袭击伊朗，多地爆炸，特朗普发声",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://www.douyin.com/hot/2414412",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普呼吁伊朗政权更迭",
+          "url": "https://news.ifeng.com/c/8r784Gm9EgQ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -268,33 +368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
-          "url": "https://www.zhihu.com/question/2010773992567481420",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时27分]"
-        },
-        {
-          "title": "SpaceX据传最快3月秘密递交招股书 目标估值超1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2297889",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时27分]"
         },
         {
           "title": "网飞拒绝涨价退出，如何评价派拉蒙每股 31 美元预计拿下华纳兄弟？过程中哪些信息值得关注？未来将有何影响？",
@@ -365,17 +438,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
-          "url": "https://www.cls.cn/detail/2298093",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         },
         {
           "title": "纽约期银日内暴涨8.00%，现报94.60美元/盎司。",
@@ -467,17 +529,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时50分 ~ 13时33分]"
-        },
-        {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 15时27分]"
         },
         {
           "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
@@ -802,6 +853,18 @@
           "time_info": "[11时55分 ~ 14时38分]"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时30分]"
+        },
+        {
           "title": "消息人士：PayPay美国IPO将吸引2亿美元基石投资。",
           "url": "https://flash.jin10.com/detail/20260228035818477800",
           "source": "金十数据",
@@ -935,6 +998,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 13时33分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 16时30分]"
         },
         {
           "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
@@ -1082,18 +1157,6 @@
           "time_info": "[07时25分 ~ 09时50分]"
         },
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时27分]"
-        },
-        {
           "title": "特朗普：对与伊朗的谈判不满意",
           "url": "https://flash.jin10.com/detail/20260228053431319800",
           "source": "金十数据",
@@ -1116,6 +1179,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 09时50分]"
+        },
+        {
+          "title": "特朗普称美军对伊朗进行军事打击",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉运气不错，现在做得很好。",
@@ -1247,6 +1321,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 09时50分]"
+        },
+        {
+          "title": "以色列伊朗 金价",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BC%8A%E6%9C%97%20%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
         },
         {
           "title": "意大利总理不赞同特朗普对欧征关税，呼吁欧盟与美国建立自由贸易区",
@@ -1441,6 +1526,17 @@
           "time_info": "[02时42分 ~ 03时34分]"
         },
         {
+          "title": "老铺黄金2026年首次调价，整体调价幅度在20%至30%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32670895",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
           "title": "印度一公司拟利用英伟达GPU构建20亿美元AI中心并上市",
           "url": "https://wallstreetcn.com/livenews/3060601",
           "source": "华尔街见闻-快讯",
@@ -1451,6 +1547,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时56分 ~ 13时33分]"
+        },
+        {
+          "title": "特朗普：不想打 但有时候不得不打",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%83%B3%E6%89%93+%E4%BD%86%E6%9C%89%E6%97%B6%E5%80%99%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普表示将彻底摧毁伊朗海军",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E5%B0%86%E5%BD%BB%E5%BA%95%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E5%86%9B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
         },
         {
           "title": "墨西哥国家石油公司：截至2025年底，对供应商的债务为241.8亿美元。",
@@ -1638,17 +1756,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         },
         {
           "title": "伊朗同意不拥有「可制造核弹的核材料」，特朗普称「更愿和平解决问题」，美伊局势是否会有缓和？",
@@ -1926,6 +2033,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "美国总统特朗普表示，此次对伊朗打击将使美方出现人员伤亡。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3060682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
           "url": "https://flash.jin10.com/detail/20260228022930909800",
           "source": "金十数据",
@@ -1979,6 +2097,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "特朗普呼吁伊朗政权更迭。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3060680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "现货白银向上触及93美元/盎司，日内涨5.35%。",
@@ -2133,6 +2262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "美国总统特朗普：（对伊斯兰革命卫队表示）你们应该放下武器。你们将获得公正对待和完全豁免，否则你们将面临“必死无疑”的结局。",
+          "url": "https://flash.jin10.com/detail/20260228155141610800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         }
       ]
     }
