@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T20:47:59.653887+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-03-01T21:40:00.584305+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时53分 ~ 20时47分]"
+          "appearance_count": 13,
+          "time_info": "[12时53分 ~ 21时40分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时12分 ~ 20时47分]"
+          "appearance_count": 14,
+          "time_info": "[10时12分 ~ 21时40分]"
         },
         {
           "title": "黄金连续上涨7个月",
@@ -138,8 +138,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时52分 ~ 20时47分]"
+          "appearance_count": 12,
+          "time_info": "[13时52分 ~ 21时40分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -170,8 +170,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 20时47分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 21时40分]"
         },
         {
           "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
@@ -182,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时12分 ~ 20时47分]"
+          "appearance_count": 14,
+          "time_info": "[10时12分 ~ 21时40分]"
         },
         {
           "title": "老铺黄金2026年首次调价，整体调价幅度在20%至30%",
@@ -265,6 +265,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时22分]"
+        },
+        {
+          "title": "女子近10万元黄金被女儿误当垃圾扔了",
+          "url": "https://www.toutiao.com/trending/7611902388907425811/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 21时40分]"
         },
         {
           "title": "特朗普宣布哈梅内伊已死",
@@ -487,18 +499,6 @@
           "time_info": "[10时12分 ~ 14时45分]"
         },
         {
-          "title": "女子近10万元黄金被女儿误当垃圾扔了",
-          "url": "https://www.toutiao.com/trending/7611902388907425811/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 20时47分]"
-        },
-        {
           "title": "10万元黄金被女儿当垃圾扔了",
           "url": "https://s.weibo.com/weibo?q=%2310%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E4%BA%86%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -511,6 +511,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时45分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 21时40分]"
+        },
+        {
+          "title": "10万元黄金被女儿当垃圾扔了",
+          "url": "https://www.baidu.com/s?wd=10%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 21时40分]"
         },
         {
           "title": "特朗普：对伊朗的不间断打击将持续一周甚至更长时间",
@@ -664,29 +688,6 @@
           "time_info": "[19时20分 ~ 20时47分]"
         },
         {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 20时47分]"
-        },
-        {
-          "title": "10万元黄金被女儿当垃圾扔了",
-          "url": "https://www.baidu.com/s?wd=10%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 18时25分]"
-        },
-        {
           "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3060964",
           "source": "华尔街见闻-快讯",
@@ -713,6 +714,18 @@
           "time_info": "[17时31分 ~ 19时21分]"
         },
         {
+          "title": "黄金暗盘跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9A%97%E7%9B%98%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时47分 ~ 21时40分]"
+        },
+        {
           "title": "金价或将冲击历史新高",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%88%96%E5%B0%86%E5%86%B2%E5%87%BB%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -736,6 +749,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "保险商敦促澳大利亚启动210亿美元洪水防御基金",
+          "url": "https://wallstreetcn.com/livenews/3061177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时40分]"
         },
         {
           "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
@@ -832,6 +857,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时52分 ~ 14时45分]"
+        },
+        {
+          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
+          "url": "https://flash.jin10.com/detail/20260301201929437800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时40分]"
         },
         {
           "title": "美国总统特朗普：伊朗刚刚表示，他们今天将发动一次力度空前的猛烈袭击。他们最好别那样做。",
@@ -973,17 +1010,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "保险商敦促澳大利亚启动210亿美元洪水防御基金",
-          "url": "https://wallstreetcn.com/livenews/3061177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
           "title": "美媒称特朗普政府“暂停”对台军售",
           "url": "https://www.toutiao.com/trending/7611080988840280107/",
           "source": "今日头条",
@@ -1056,7 +1082,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -1070,17 +1096,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "据CNN：伊朗副外长赛义德·哈提布扎德表示，特朗普杀死伊朗最高领袖哈梅内伊，已经越过了“一个非常危险的红线”。",
-          "url": "https://flash.jin10.com/detail/20260301201929437800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
         },
         {
           "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
@@ -1149,17 +1164,6 @@
           "time_info": "10时12分"
         },
         {
-          "title": "黄金暗盘跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9A%97%E7%9B%98%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
           "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2011023228328510169",
           "source": "知乎",
@@ -1177,7 +1181,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -1408,7 +1412,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
