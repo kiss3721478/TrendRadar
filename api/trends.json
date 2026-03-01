@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T06:24:31.482682+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-03-02T07:24:04.285711+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时24分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时24分]"
         },
         {
           "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时24分]"
         },
         {
           "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
@@ -49,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时24分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -63,8 +63,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时24分]"
         },
         {
           "title": "美以袭击伊朗金价为何下跌",
@@ -76,8 +76,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时24分]"
         },
         {
           "title": "伊朗宣布关闭霍尔木兹海峡，哈梅内伊遇害，全球市场影响几何？石油、黄金的最大地缘变数是否已落地？",
@@ -87,8 +87,30 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时24分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜特朗普：对伊军事行动或持4周",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普：基本摧毁伊朗海军总部",
+          "url": "https://news.ifeng.com/c/8r9Q9rcc6AT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 07时24分]"
         },
         {
           "title": "特朗普：美军在对伊行动中打死48名伊朗指挥官",
@@ -117,59 +139,26 @@
           "time_info": "[00时28分 ~ 03时22分]"
         },
         {
-          "title": "美以伊战争最新动态｜特朗普：对伊军事行动或持4周",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
+          "url": "https://wallstreetcn.com/livenews/3061313",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "避险型货币周一盘初基本持稳，美元兑瑞郎USD/CHF报0.7676，跌幅0.15%、美元兑日元USD/JPY报156.1，基本平盘。",
-          "url": "https://flash.jin10.com/detail/20260302053716201800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时24分"
         },
         {
-          "title": "市场消息：美国总统特朗普已乘坐空军一号离开棕榈滩，前往白宫，预计将于当地时间下午6点45分（北京时间周一早上7点45分）抵达。",
-          "url": "https://flash.jin10.com/detail/20260302053518222800",
-          "source": "金十数据",
+          "title": "高盛：伊朗冲突将导致原油风险溢价达到18美元/桶",
+          "url": "https://wallstreetcn.com/livenews/3061311",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "特朗普：基本摧毁伊朗海军总部",
-          "url": "https://news.ifeng.com/c/8r9Q9rcc6AT",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "据知情人士透露，Warburg Pincus（华平投资）投资全球第一大禽蛋生产商Global Eggs，对后者估值80亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3061298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时24分"
         },
         {
           "title": "白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话",
@@ -222,6 +211,18 @@
           "time_info": "[02时33分 ~ 03时22分]"
         },
         {
+          "title": "避险型货币周一盘初基本持稳，美元兑瑞郎USD/CHF报0.7676，跌幅0.15%、美元兑日元USD/JPY报156.1，基本平盘。",
+          "url": "https://flash.jin10.com/detail/20260302053716201800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
           "title": "女子近10万元黄金被女儿误当垃圾扔了",
           "url": "https://www.toutiao.com/trending/7611902388907425811/",
           "source": "今日头条",
@@ -245,6 +246,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时22分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普已乘坐空军一号离开棕榈滩，前往白宫，预计将于当地时间下午6点45分（北京时间周一早上7点45分）抵达。",
+          "url": "https://flash.jin10.com/detail/20260302053518222800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
         },
         {
           "title": "据《大西洋月刊》：特朗普对是否长期介入以支持伊朗“抗议活动”态度模糊。",
@@ -295,6 +308,43 @@
           "time_info": "[05时23分 ~ 06时24分]"
         },
         {
+          "title": "据知情人士透露，Warburg Pincus（华平投资）投资全球第一大禽蛋生产商Global Eggs，对后者估值80亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3061298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "黄金避险和抗通胀功能凸显，局势走向左右价格波动幅度",
+          "url": "https://wallstreetcn.com/livenews/3061276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
+          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
           "url": "https://wallstreetcn.com/livenews/3061257",
           "source": "华尔街见闻-快讯",
@@ -308,17 +358,17 @@
           "time_info": "[03时22分 ~ 05时23分]"
         },
         {
-          "title": "黄金避险和抗通胀功能凸显，局势走向左右价格波动幅度",
-          "url": "https://wallstreetcn.com/livenews/3061276",
+          "title": "特朗普：对伊朗军事行动可能持续约4周",
+          "url": "https://wallstreetcn.com/livenews/3061289",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            15,
+            6,
+            12,
             21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时24分]"
+          "time_info": "[05时23分 ~ 07时24分]"
         },
         {
           "title": "交易员寻求避险，美元在亚洲盘前交易中大涨",
@@ -371,18 +421,6 @@
           "time_info": "[00时28分 ~ 01时22分]"
         },
         {
-          "title": "特朗普：对伊朗军事行动可能持续约4周",
-          "url": "https://wallstreetcn.com/livenews/3061289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
           "url": "https://flash.jin10.com/detail/20260302000518361800",
           "source": "金十数据",
@@ -401,18 +439,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
-          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -423,7 +450,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -434,7 +461,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -445,9 +472,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "美元指数站上98.00关口，日内涨超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3061303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美国总统特朗普：美国将为美国士兵的丧生复仇。",
@@ -456,9 +494,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "金十图示：2026年03月02日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260302064119114800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "美元指数DXY站上98，日内涨0.34%。",
+          "url": "https://flash.jin10.com/detail/20260302061646512800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）整个军事指挥系统已瓦解，许多人希望投降。军事行动将持续进行，直至我们所有的目标得以实现。",
@@ -467,7 +527,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -478,7 +538,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -516,6 +576,28 @@
           "time_info": "01时22分"
         },
         {
+          "title": "高盛估计，若霍尔木兹海峡供应全面中断达6周之长，原油价格存在每桶18美元的时间风险溢价，如果仅50%的供应中断一个月，溢价将减小至4美元。",
+          "url": "https://flash.jin10.com/detail/20260302061059337800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普：对伊朗行动将持续至目标得以实现",
+          "url": "https://flash.jin10.com/detail/20260302060723437800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗行动）我们一口气干掉了48个领导人，而且进展迅速。",
           "url": "https://flash.jin10.com/detail/20260301234546415800",
           "source": "金十数据",
@@ -525,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD回落至1.18下方，日内跌0.38%。",
+          "url": "https://flash.jin10.com/detail/20260302060340262800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，对伊朗的军事行动“进度超前”。",
