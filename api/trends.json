@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T17:51:02.661973+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-03-02T18:43:52.050300+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 125,
+      "match_count": 129,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 17时51分]"
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 18时43分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 18时43分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -54,6 +54,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 18时43分]"
+        },
+        {
+          "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
+          "url": "https://wallstreetcn.com/articles/3766494",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 18时43分]"
         },
         {
           "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
@@ -117,6 +143,21 @@
           "time_info": "[00时27分 ~ 07时24分]"
         },
         {
+          "title": "中东战火“燃爆”避险情绪，国际金价有望再创新高？一文读懂",
+          "url": "https://www.cls.cn/detail/2299381",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 18时43分]"
+        },
+        {
           "title": "特朗普：基本摧毁伊朗海军总部",
           "url": "https://news.ifeng.com/c/8r9Q9rcc6AT",
           "source": "凤凰网",
@@ -129,31 +170,6 @@
           "time_info": "[06时24分 ~ 10时04分]"
         },
         {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://wallstreetcn.com/articles/3766483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 17时51分]"
-        },
-        {
-          "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
-          "url": "https://wallstreetcn.com/articles/3766494",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 17时51分]"
-        },
-        {
           "title": "美以伊战争最新动态｜特朗普：对伊军事行动或持4周",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -163,6 +179,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时23分 ~ 07时24分]"
+        },
+        {
+          "title": "外交部回应特朗普3月访华能否成行",
+          "url": "https://www.toutiao.com/trending/7611824247237361727/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 18时43分]"
         },
         {
           "title": "特朗普：对伊朗的军事行动可能持续四周左右",
@@ -177,29 +204,44 @@
           "time_info": "[10时03分 ~ 13时53分]"
         },
         {
-          "title": "中东战火“燃爆”避险情绪，国际金价有望再创新高？一文读懂",
-          "url": "https://www.cls.cn/detail/2299381",
-          "source": "财联社热门",
+          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
+          "url": "https://wallstreetcn.com/articles/3766482",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            8,
-            5,
-            3
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 18时43分]"
         },
         {
-          "title": "外交部回应特朗普3月访华能否成行",
-          "url": "https://www.toutiao.com/trending/7611824247237361727/",
-          "source": "今日头条",
+          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时44分 ~ 17时51分]"
+          "time_info": "[17时50分 ~ 18时43分]"
+        },
+        {
+          "title": "特朗普称不达目标不停战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            17,
+            18,
+            22,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时48分 ~ 18时43分]"
         },
         {
           "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
@@ -227,19 +269,6 @@
           "time_info": "[00时28分 ~ 03时22分]"
         },
         {
-          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
-          "url": "https://wallstreetcn.com/articles/3766482",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 17时51分]"
-        },
-        {
           "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3061240",
           "source": "华尔街见闻-快讯",
@@ -253,17 +282,6 @@
           "time_info": "[00时28分 ~ 03时22分]"
         },
         {
-          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
-        },
-        {
           "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -273,21 +291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "特朗普称不达目标不停战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            17,
-            18,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时48分 ~ 17时51分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
@@ -444,6 +447,18 @@
           "time_info": "07时24分"
         },
         {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时50分 ~ 18时43分]"
+        },
+        {
           "title": "泰铢兑美元一度下跌0.7%，至31.250，创2月20日以来新低。",
           "url": "https://flash.jin10.com/detail/20260302095432381800",
           "source": "金十数据",
@@ -464,6 +479,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "特朗普最新讲话：将为战死美士兵复仇，伊军若不投降必死无疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32682695",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 18时43分]"
         },
         {
           "title": "白宫：特朗普已分别与以色列、巴林及阿联酋领导人通话",
@@ -539,6 +567,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://www.cls.cn/detail/2299355",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 18时43分]"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普（就伊朗想谈谈）表示，他们本应该早点这么做。他们本应该尽早提供那些非常实用且易于实施的方案。他们等得太久了。",
@@ -639,30 +679,6 @@
           "time_info": "[04时27分 ~ 07时24分]"
         },
         {
-          "title": "特朗普最新讲话：将为战死美士兵复仇，伊军若不投降必死无疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32682695",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 17时51分]"
-        },
-        {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://www.cls.cn/detail/2299355",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 17时51分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
           "url": "https://wallstreetcn.com/livenews/3061257",
           "source": "华尔街见闻-快讯",
@@ -727,17 +743,6 @@
           "time_info": "[00时28分 ~ 02时33分]"
         },
         {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时50分 ~ 17时51分]"
-        },
-        {
           "title": "据《大西洋月刊》：美国总统特朗普表示，他计划与伊朗政权进行新谈判。",
           "url": "https://flash.jin10.com/detail/20260302001021486800",
           "source": "金十数据",
@@ -748,6 +753,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时22分]"
+        },
+        {
+          "title": "两连板湖南黄金：目前经营情况正常 不存在应披露而未披露的重大事项",
+          "url": "https://wallstreetcn.com/livenews/3061779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时43分]"
         },
         {
           "title": "黄金变现还能热多久",
@@ -827,17 +844,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "两连板湖南黄金：目前经营情况正常 不存在应披露而未披露的重大事项",
-          "url": "https://wallstreetcn.com/livenews/3061779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "特朗普称同意与伊朗新领导层对话，“委内瑞拉式结局”是选项之一",
@@ -961,6 +967,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "受霍尔木兹海峡紧张局势影响，亚洲石脑油裂解价差飙升至每吨134.30美元，创四年新高。",
+          "url": "https://flash.jin10.com/detail/20260302182746625800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "印度总理莫迪：印加两国力争到2030年将贸易额提升至500亿美元。",
           "url": "https://flash.jin10.com/detail/20260302152714868800",
           "source": "金十数据",
@@ -992,6 +1009,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "避险资金涌入军工板块 美股国防股盘前暴涨",
+          "url": "https://flash.jin10.com/detail/20260302182629423800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "协鑫集团据悉考虑发行美元债券。（彭博）",
@@ -1137,6 +1165,17 @@
           "time_info": "14时58分"
         },
         {
+          "title": "马来西亚国家石油公司（PETRONAS）公布2月份马来西亚原油官方售价为每桶77.60美元。",
+          "url": "https://flash.jin10.com/detail/20260302182243068800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
           "title": "美元指数涨0.6%，报98.22，创1月23日以来新高。",
           "url": "https://wallstreetcn.com/livenews/3061585",
           "source": "华尔街见闻-快讯",
@@ -1146,6 +1185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "MINIMAX：2025财年收入7900万美元 年度亏损18.7亿美元",
+          "url": "https://wallstreetcn.com/livenews/3061791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "特朗普：对伊朗行动将持续至目标得以实现",
@@ -1231,7 +1281,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
