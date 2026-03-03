@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T22:03:26.886991+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2026-03-03T23:47:29.303723+08:00",
+  "total_titles_processed": 2123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 200,
+      "match_count": 220,
       "titles": [
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 22时03分]"
+          "appearance_count": 15,
+          "time_info": "[10时05分 ~ 23时47分]"
         },
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时46分 ~ 22时03分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 23时47分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时05分 ~ 22时03分]"
+          "appearance_count": 15,
+          "time_info": "[10时05分 ~ 23时47分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -257,6 +257,20 @@
           "time_info": "[02时48分 ~ 10时05分]"
         },
         {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时39分 ~ 23时47分]"
+        },
+        {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
           "url": "https://www.cls.cn/detail/2300871",
           "source": "财联社热门",
@@ -284,6 +298,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时40分 ~ 20时57分]"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 23时47分]"
         },
         {
           "title": "美国会拟限制特朗普继续对伊动武",
@@ -352,19 +378,6 @@
           "time_info": "[13时50分 ~ 14时52分]"
         },
         {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 22时03分]"
-        },
-        {
           "title": "美使馆遭袭，特朗普：将很快采取报复行动",
           "url": "https://www.cls.cn/detail/2300728",
           "source": "财联社热门",
@@ -376,18 +389,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时42分 ~ 19时32分]"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 22时03分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
@@ -412,6 +413,20 @@
           "time_info": "[00时45分 ~ 01时45分]"
         },
         {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 23时47分]"
+        },
+        {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -421,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：无需部署地面部队",
@@ -489,19 +515,6 @@
           "time_info": "17时42分"
         },
         {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 22时03分]"
-        },
-        {
           "title": "现货白银日内大跌5.00%，现报84.72美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260303143649126800",
           "source": "金十数据",
@@ -533,6 +546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "现货黄金跌破5000美元/盎司关口，日内跌幅超过6.0%。",
+          "url": "https://wallstreetcn.com/livenews/3062867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美、布两油短线走高0.7美元，现分别报71.91美元/桶和78.01美元/桶。",
@@ -568,6 +592,17 @@
           "time_info": "19时32分"
         },
         {
+          "title": "韩元兑美元汇率自2009年3月以来首次跌破1500大关。",
+          "url": "https://flash.jin10.com/detail/20260303232355794800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "阿联酋、卡塔尔各自的游说团体劝说美国总统特朗普迅速停止（美国+以色列）与伊朗之间的战争。",
           "url": "https://wallstreetcn.com/livenews/3062064",
           "source": "华尔街见闻-快讯",
@@ -596,9 +631,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "商品货币澳元/美元日内跌幅达2.0%，创2025年4月份以来最大盘中跌幅，报0.6949。 美元/加元日内涨幅达0.5%，报1.3745。",
+          "url": "https://wallstreetcn.com/livenews/3062866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -874,6 +920,18 @@
           "time_info": "[04时39分 ~ 05时34分]"
         },
         {
+          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2301690",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时47分]"
+        },
+        {
           "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3062077",
           "source": "华尔街见闻-快讯",
@@ -1111,6 +1169,18 @@
           "time_info": "[20时57分 ~ 22时03分]"
         },
         {
+          "title": "黄金跌破5100美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时47分]"
+        },
+        {
           "title": "美法院驳回特朗普政府推迟退税请求",
           "url": "https://www.toutiao.com/trending/7612191288775557156/",
           "source": "今日头条",
@@ -1164,6 +1234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
+        },
+        {
+          "title": "领袖遇刺后的伊朗：有人喊报复，有人跳特朗普舞",
+          "url": "https://news.ifeng.com/c/8rCTN6bsA7p",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月2日（周一）晚盘收盘上涨0.36%报1181.03元/克；<br/>上海黄金交易所白银T+D 3月2日（周一）晚盘收盘下跌4.69%报22388.0元/千克。",
@@ -1254,6 +1335,17 @@
           "time_info": "20时57分"
         },
         {
+          "title": "Prosus于2月23-27日按均价44.0525欧元回购股票205.8996万股，合计0.907亿欧元（折合将近1.070亿美元）。 Naspers同期按均价902.9577南非兰特回购79.4130万股，合计超7.170亿兰特（折合0.450亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3062860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "市场消息：阿联酋和卡塔尔游说盟友将劝说特朗普尽快结束伊朗战争。",
           "url": "https://flash.jin10.com/detail/20260303003633810800",
           "source": "金十数据",
@@ -1342,6 +1434,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "现货黄金失守5000美元关口",
+          "url": "https://flash.jin10.com/detail/20260303231746885800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "周一（3月2日）纽约尾盘（周二北京时间05:59），离岸人民币（CNH）兑美元报6.9010元，较上周五纽约尾盘跌385点，日内整体交投于6.8621-6.9133元区间。",
           "url": "https://wallstreetcn.com/livenews/3062171",
           "source": "华尔街见闻-快讯",
@@ -1364,17 +1467,6 @@
           "time_info": "10时05分"
         },
         {
-          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2301690",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
           "title": "能源独立筑起避险高地 分析师看好美元走势",
           "url": "https://flash.jin10.com/detail/20260303180325086800",
           "source": "金十数据",
@@ -1395,6 +1487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "石油计价机制助推美元走强 压制黄金涨势",
+          "url": "https://flash.jin10.com/detail/20260303231739323800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
@@ -1450,6 +1553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "现货黄金大跌",
+          "url": "https://www.douyin.com/hot/2417992",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "特朗普称同意与伊朗新领导层对话",
@@ -1518,6 +1632,17 @@
           "time_info": "19时32分"
         },
         {
+          "title": "美元涨超1% 非美货币普跌",
+          "url": "https://flash.jin10.com/detail/20260303231420288800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "特朗普称打死伊朗领导层48人，以总理称进一步升级行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32681273",
           "source": "澎湃新闻",
@@ -1584,6 +1709,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "韩元创2009年以来最弱，兰特跌3%，黄金跌5%，美国三大股指跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3062850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "BMI：中东冲突或推升铝价至每吨3700美元",
           "url": "https://flash.jin10.com/detail/20260303120216591800",
           "source": "金十数据",
@@ -1628,6 +1764,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "全球航空业ETF跌4.22%，半导体ETF跌4.03%，在美股盘初领跌行业ETF，全球科技股指数ETF跌3.24%，科技行业ETF跌2.13%，能源业ETF涨0.90%。 标普500能源指数高开0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3062849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "据日本共同社：日本首相高市早苗表示，本月晚些时候在华盛顿举行的峰会期间，他将与美国总统特朗普举行“坦诚会谈”，讨论美国和以色列对伊朗发动的袭击事件。",
           "url": "https://flash.jin10.com/detail/20260303132618373800",
           "source": "金十数据",
@@ -1645,7 +1792,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1659,6 +1806,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌3.55%。 中概股金山云跌9.44%，小鹏跌7.42%，再鼎医药、晶科能源、蔚来汽车至少跌5.02%，新东方、大全新能源、阿里巴巴至少跌4.83%。 ETF中，ASHS跌5.64%，CQQQ跌5.39%，KWEB跌3.21%，ASHS跌3.02%。",
+          "url": "https://wallstreetcn.com/livenews/3062847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的6.27亿美元。",
@@ -1692,6 +1850,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "避险情绪难抵通胀预期 金价四连涨后深陷抛售泥潭",
+          "url": "https://flash.jin10.com/detail/20260303231034018800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "现货白银一度跌破82美元/盎司，日内大跌8%。",
@@ -1736,6 +1905,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "黄金白银跌不停",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E8%B7%8C%E4%B8%8D%E5%81%9C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "波罗的海交易所：由于中东冲突，油轮运费飙升至创纪录水平，基准油轮日收益达到42.4万美元。",
@@ -1788,7 +1979,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1813,6 +2004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内跌幅达1.50%，现报0.5852。",
+          "url": "https://flash.jin10.com/detail/20260303230913216800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "报道：阿联酋和卡塔尔私下游说盟友，劝特朗普缩短对伊军事行动",
@@ -1890,17 +2092,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
-        },
-        {
-          "title": "黄金跌破5100美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
         },
         {
           "title": "金十图示：2026年03月02日（周一）热门中概股行情一览（美股收盘）",
@@ -2030,7 +2221,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -2079,6 +2270,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "巴西雷亚尔兑美元在即期交易中下跌逾3%。",
+          "url": "https://flash.jin10.com/detail/20260303230801778800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "现货黄金回落至5300美元/盎司下方，日内跌0.45%。 现货白银日内大跌4%，现报85.61美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3062469",
           "source": "华尔街见闻-快讯",
@@ -2099,6 +2301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
+        },
+        {
+          "title": "欧洲信用风险指标创去年4月特朗普关税动荡以来最大增幅",
+          "url": "https://wallstreetcn.com/livenews/3062837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美国总统特朗普：已击毁10艘舰艇，我们已领先于此前的预期；我们将会轻松获胜。我们此前预计将持续4到5周，但可能会更久。",
@@ -2195,7 +2408,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -2264,6 +2477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "金价银价断崖式跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "港股午后持续走低，恒生指数跌1%，恒生科技指数跌2.25%，老铺黄金跌超8%，泡泡玛特跌超6%。",
