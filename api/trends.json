@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T20:57:39.098042+08:00",
-  "total_titles_processed": 1878,
+  "generated_at": "2026-03-03T22:03:26.886991+08:00",
+  "total_titles_processed": 1999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 193,
+      "match_count": 200,
       "titles": [
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时05分 ~ 20时57分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 22时03分]"
         },
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时46分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[12时46分 ~ 22时03分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时46分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[12时46分 ~ 22时03分]"
         },
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时05分 ~ 20时57分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 22时03分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -257,6 +257,20 @@
           "time_info": "[02时48分 ~ 10时05分]"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 22时03分]"
+        },
+        {
           "title": "黄金白银断崖式下跌",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -283,20 +297,6 @@
           "time_info": "[12时46分 ~ 13时50分]"
         },
         {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时40分 ~ 20时57分]"
-        },
-        {
           "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
@@ -317,6 +317,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时39分 ~ 19时32分]"
+        },
+        {
+          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时03分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
@@ -341,6 +352,19 @@
           "time_info": "[13时50分 ~ 14时52分]"
         },
         {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 22时03分]"
+        },
+        {
           "title": "美使馆遭袭，特朗普：将很快采取报复行动",
           "url": "https://www.cls.cn/detail/2300728",
           "source": "财联社热门",
@@ -352,6 +376,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时42分 ~ 19时32分]"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时03分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
@@ -385,17 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：无需部署地面部队",
@@ -464,6 +489,19 @@
           "time_info": "17时42分"
         },
         {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 22时03分]"
+        },
+        {
           "title": "现货白银日内大跌5.00%，现报84.72美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260303143649126800",
           "source": "金十数据",
@@ -495,17 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "美、布两油短线走高0.7美元，现分别报71.91美元/桶和78.01美元/桶。",
@@ -563,6 +590,17 @@
           "time_info": "15时42分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3062829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
           "url": "https://flash.jin10.com/detail/20260303012108985800",
           "source": "金十数据",
@@ -605,18 +643,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
-        },
-        {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 20时57分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月3日（周二）收盘上涨0.39%报1181.33元/克；<br/>上海黄金交易所白银T+D 3月3日（周二）收盘下跌8.75%报21435.0元/千克。",
@@ -724,18 +750,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 20时57分]"
         },
         {
           "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
@@ -1086,6 +1100,17 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
+          "title": "外交部回应特朗普 3 月访华能否成行，「中美就元首互动保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2011830146605274886",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时03分]"
+        },
+        {
           "title": "美法院驳回特朗普政府推迟退税请求",
           "url": "https://www.toutiao.com/trending/7612191288775557156/",
           "source": "今日头条",
@@ -1136,7 +1161,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -1224,7 +1249,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -1337,6 +1362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2301690",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "能源独立筑起避险高地 分析师看好美元走势",
@@ -1603,6 +1639,17 @@
           "time_info": "13时50分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-03）",
+          "url": "https://flash.jin10.com/detail/20260303212356871800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美指涨超1%，黄金、白银继续走低",
           "url": "https://wallstreetcn.com/livenews/3062050",
           "source": "华尔街见闻-快讯",
@@ -1735,6 +1782,17 @@
           "time_info": "17时42分"
         },
         {
+          "title": "现货黄金跌破5100美元",
+          "url": "https://www.douyin.com/hot/2417992",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
           "url": "https://flash.jin10.com/detail/20260303114847241800",
           "source": "金十数据",
@@ -1766,17 +1824,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
-        },
-        {
-          "title": "外交部回应特朗普 3 月访华能否成行，「中美就元首互动保持着沟通」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2011830146605274886",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "美国总统特朗普：我们将确保这个全球头号恐怖主义资助者永远无法拥有核武器。",
@@ -1843,6 +1890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "黄金跌破5100美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "金十图示：2026年03月02日（周一）热门中概股行情一览（美股收盘）",
@@ -1966,6 +2024,17 @@
           "time_info": "19时32分"
         },
         {
+          "title": "旅游经济咨询公司预测，由于冲突因素，2026年中东地区的入境游客数量预计将同比下降11%至27%。中东冲突可能导致该地区2026年游客消费额减少340亿至560亿美元。",
+          "url": "https://flash.jin10.com/detail/20260303212016801800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "英国首相斯塔默：判断什么对英国最有利是我的职责，而非美国总统特朗普的责任。",
           "url": "https://wallstreetcn.com/livenews/3062039",
           "source": "华尔街见闻-快讯",
@@ -1983,7 +2052,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -2027,7 +2096,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -2118,6 +2187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
+        },
+        {
+          "title": "Altman承认：在舆论抵制下，OpenAI的美国国防协议“显得投机且草率”",
+          "url": "https://wallstreetcn.com/livenews/3062825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美国总统特朗普：将确保伊朗无法为其境外武装提供资金以及确保伊朗无法指挥境外武装。",
