@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-04T06:29:39.488474+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-03-04T07:27:35.410242+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 111,
+      "match_count": 119,
       "titles": [
-        {
-          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时29分]"
-        },
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
           "url": "https://wallstreetcn.com/articles/3766606",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时27分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -35,6 +24,40 @@
           "source": "贴吧",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时27分]"
+        },
+        {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时27分]"
+        },
+        {
+          "title": "金价银价断崖式跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -52,29 +75,6 @@
           "time_info": "[00时47分 ~ 06时29分]"
         },
         {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时29分]"
-        },
-        {
-          "title": "金价银价断崖式跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时29分]"
-        },
-        {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
           "url": "https://www.cls.cn/detail/2301441",
           "source": "财联社热门",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时27分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -95,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时27分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -106,8 +106,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时27分]"
         },
         {
           "title": "现货黄金大跌",
@@ -118,8 +118,33 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时27分]"
+        },
+        {
+          "title": "大妈攒金34年戴百克黄金逛珠宝城",
+          "url": "https://www.toutiao.com/trending/7611817402918862891/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "WTI 4月原油期货收报74.56美元/桶。 NYMEX 3月天然气期货收报3.0540美元/百万英热单位。 NYMEX 3月汽油期货收报2.4574美元/加仑，NYMEX 3月取暖油期货收报3.1869美元/加仑。",
@@ -133,28 +158,18 @@
           "time_info": "03时40分"
         },
         {
-          "title": "周二（3月3日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.9194元，较周一纽约尾盘跌184点，日内整体交投于6.8751-6.9437元区间。",
-          "url": "https://wallstreetcn.com/livenews/3063037",
-          "source": "华尔街见闻-快讯",
+          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
+          "url": "https://www.cls.cn/detail/2301724",
+          "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "大妈攒金34年戴百克黄金逛珠宝城",
-          "url": "https://www.toutiao.com/trending/7611817402918862891/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            26,
-            25
+            13,
+            12,
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时43分 ~ 06时29分]"
+          "time_info": "[03时40分 ~ 07时27分]"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -179,6 +194,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
+          "url": "https://www.cls.cn/detail/2301893",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "特朗普：可容忍油价短期内上涨 优先消除伊朗威胁",
           "url": "https://flash.jin10.com/detail/20260304022122246800",
           "source": "金十数据",
@@ -196,7 +222,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -245,28 +271,15 @@
           "time_info": "02时47分"
         },
         {
-          "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
-          "url": "https://flash.jin10.com/detail/20260304060328619800",
-          "source": "金十数据",
+          "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
+          "url": "https://wallstreetcn.com/livenews/3063046",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
-          "url": "https://www.cls.cn/detail/2301724",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时40分 ~ 06时29分]"
+          "time_info": "07时27分"
         },
         {
           "title": "周二（3月3日）纽约尾盘，美元兑日元涨0.08%，报157.52日元，日内交投区间为157.15-157.97日元。 欧元兑日元跌0.49%，英镑兑日元跌0.23%。",
@@ -279,6 +292,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时34分]"
+        },
+        {
+          "title": "周二（3月3日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.9194元，较周一纽约尾盘跌184点，日内整体交投于6.8751-6.9437元区间。",
+          "url": "https://wallstreetcn.com/livenews/3063037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
         },
         {
           "title": "周二（3月3日），韩元兑美元最终跌1.14%，报1485.32韩元，北京时间23:21曾跌至1507.55韩元——逼近2009年3月11日底部1508.95韩元、当年3月6日底部1597.45韩元，最近四个交易日累计下跌4.07%。",
@@ -365,6 +390,18 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
+          "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260304060328619800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
           "url": "https://wallstreetcn.com/livenews/3062952",
           "source": "华尔街见闻-快讯",
@@ -425,6 +462,18 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
+          "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3063031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
           "title": "美国总统特朗普：我们正在对关税进行各种研究。 所有国家都向维持他们已经与美国达成的协议。",
           "url": "https://wallstreetcn.com/livenews/3062929",
           "source": "华尔街见闻-快讯",
@@ -447,6 +496,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时34分]"
+        },
+        {
+          "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
+          "url": "https://wallstreetcn.com/livenews/3063029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
         },
         {
           "title": "美国总统特朗普：等一切都结束后，油价将会下跌。 （美国和以色列对伊朗挑起的）战争结束后，油价可能会低于战前的水平。",
@@ -521,6 +582,18 @@
           "time_info": "[03时40分 ~ 04时33分]"
         },
         {
+          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3063025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
           "title": "特朗普否认被以色列“拖入战争”",
           "url": "https://wallstreetcn.com/livenews/3062965",
           "source": "华尔街见闻-快讯",
@@ -531,6 +604,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时33分]"
+        },
+        {
+          "title": "塔吉特发布战略计划，考虑2026年投资20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
+        },
+        {
+          "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
+          "url": "https://flash.jin10.com/detail/20260304054539761800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时27分]"
         },
         {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
@@ -555,17 +652,6 @@
           "time_info": "02时47分"
         },
         {
-          "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
-          "url": "https://wallstreetcn.com/livenews/3063031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "外媒白宫事务记者：特朗普今天多次声称15%的替代关税已经生效，但白宫尚未实施该关税，目前仍为10%。",
           "url": "https://flash.jin10.com/detail/20260304012217221800",
           "source": "金十数据",
@@ -577,15 +663,15 @@
           "time_info": "01时43分"
         },
         {
-          "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
-          "url": "https://wallstreetcn.com/livenews/3063029",
+          "title": "OpenAI正开发GitHub的替代品。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3063042",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时27分"
         },
         {
           "title": "美国总统特朗普：英国“非常、非常不合作”。",
@@ -654,6 +740,28 @@
           "time_info": "05时34分"
         },
         {
+          "title": "据The Information：OpenAI正在开发微软GitHub的替代品。",
+          "url": "https://flash.jin10.com/detail/20260304064514298800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
+          "url": "https://www.cls.cn/detail/2301803",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260304020824934800",
           "source": "金十数据",
@@ -707,17 +815,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
-        },
-        {
-          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3063025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "美国总统特朗普：我们正在进行各种关税研究。",
@@ -775,17 +872,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "塔吉特发布战略计划，考虑2026年投资20亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "国际货币基金组织副总裁卡茨：目前流通中的稳定币总规模约为3000亿美元，在金融市场整体规模中仍属“微不足道”。",
           "url": "https://flash.jin10.com/detail/20260304003105220800",
           "source": "金十数据",
@@ -808,17 +894,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "市场消息：伊拉克总理候选人阿尔-马利基宣布撤回总理竞选，几周前特朗普曾要求他退出。",
-          "url": "https://flash.jin10.com/detail/20260304054539761800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "美国总统特朗普：我们必须对那些玩弄金钱的国家征收关税。",
           "url": "https://flash.jin10.com/detail/20260304011703618800",
           "source": "金十数据",
@@ -839,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "特朗普表示：不会让银行“破坏”加密货币议程",
+          "url": "https://wallstreetcn.com/livenews/3063034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "美国总统特朗普：每个国家都想敲定他们已经达成的协议；将提高对某些国家的关税协议。",
@@ -913,7 +999,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -1012,7 +1098,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -1257,6 +1343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "莫德纳将在与Roivant、Arbutus的和解中支付高达22.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3063018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     }
