@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T05:35:02.752603+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-03-05T06:31:59.200163+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 58,
+      "match_count": 67,
       "titles": [
         {
           "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
@@ -83,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -94,8 +94,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -107,8 +107,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 06时31分]"
+        },
+        {
+          "title": "老人攒金34年戴百克黄金逛珠宝城",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%94%92%E9%87%9134%E5%B9%B4%E6%88%B4%E7%99%BE%E5%85%8B%E9%BB%84%E9%87%91%E9%80%9B%E7%8F%A0%E5%AE%9D%E5%9F%8E",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "美称打死试图暗杀特朗普的伊朗高官",
@@ -119,19 +133,6 @@
             21,
             22,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 05时35分]"
-        },
-        {
-          "title": "老人攒金34年戴百克黄金逛珠宝城",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%94%92%E9%87%9134%E5%B9%B4%E6%88%B4%E7%99%BE%E5%85%8B%E9%BB%84%E9%87%91%E9%80%9B%E7%8F%A0%E5%AE%9D%E5%9F%8E",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            30
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -149,15 +150,15 @@
           "time_info": "02时52分"
         },
         {
-          "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
-          "url": "https://wallstreetcn.com/livenews/3063863",
+          "title": "博通：预计二季度AI芯片收入107亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063885",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时31分"
         },
         {
           "title": "WTI 4月原油期货收报74.66美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
@@ -171,15 +172,38 @@
           "time_info": "04时32分"
         },
         {
-          "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3063861",
+          "title": "周三（3月4日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.8951元，较周二纽约尾盘涨243点，日内整体交投于6.9351-6.8886元区间。",
+          "url": "https://wallstreetcn.com/livenews/3063884",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://flash.jin10.com/detail/20260305055643565800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "年少的出发比黄金珍贵",
+          "url": "https://www.douyin.com/hot/2418170",
+          "source": "抖音",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 06时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -194,6 +218,30 @@
           "time_info": "[02时52分 ~ 03时38分]"
         },
         {
+          "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
+          "url": "https://wallstreetcn.com/livenews/3063863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时31分]"
+        },
+        {
+          "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3063861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时31分]"
+        },
+        {
           "title": "特朗普政府在文件中确认，如果被命令支付进口商关税退款，美国将支付利息。",
           "url": "https://wallstreetcn.com/livenews/3063838",
           "source": "华尔街见闻-快讯",
@@ -204,17 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时35分]"
-        },
-        {
-          "title": "年少的出发比黄金珍贵",
-          "url": "https://www.douyin.com/hot/2418170",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 05时35分]"
         },
         {
           "title": "周三（3月4日），美联储隔夜逆回购协议（RRP）使用规模为8.77亿美元（交易对手8家），上个交易日报12.03亿美元。",
@@ -241,6 +278,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时52分 ~ 04时32分]"
+        },
+        {
+          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
+          "url": "https://wallstreetcn.com/articles/3766690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 06时31分]"
         },
         {
           "title": "LME期铜收涨102美元，报13058美元/吨。 LME期铝收涨92美元，报3342美元/吨。 LME期锌收涨56美元，报3326美元/吨。 LME期铅收涨26美元，报1962美元/吨。 LME期镍收涨371美元，报17491美元/吨。 LME期锡收涨2176美元，报51019美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -315,15 +363,40 @@
           "time_info": "[04时32分 ~ 05时35分]"
         },
         {
-          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
-          "url": "https://wallstreetcn.com/articles/3766690",
-          "source": "华尔街见闻",
+          "title": "周三（3月4日）美股尾盘，彭博电动汽车价格回报指数跌0.73%，报3492.02点，亚太早盘持续下跌，北京时间11:35刷新日低至3439.74点，随后逐步收复失地。",
+          "url": "https://wallstreetcn.com/livenews/3063853",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时34分 ~ 05时35分]"
+          "time_info": "[05时35分 ~ 06时31分]"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260305050533620800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时31分]"
+        },
+        {
+          "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
+          "url": "https://wallstreetcn.com/livenews/3063851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时31分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8951元，较周二夜盘收盘涨242点。成交量714.34亿美元。",
@@ -338,6 +411,30 @@
           "time_info": "[04时32分 ~ 05时35分]"
         },
         {
+          "title": "白宫：向伊朗派美军地面部队目前还“不在计划内”，但不会排除特朗普的任何军事选项",
+          "url": "https://wallstreetcn.com/livenews/3063850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时31分]"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260305050520386800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时31分]"
+        },
+        {
           "title": "美国-亚洲航线超级油轮租用成本升至2900万美元，创纪录新高。",
           "url": "https://wallstreetcn.com/livenews/3063767",
           "source": "华尔街见闻-快讯",
@@ -348,6 +445,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时39分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 芯片股反弹",
+          "url": "https://flash.jin10.com/detail/20260305050205224800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时31分]"
+        },
+        {
+          "title": "韩国2月外汇储备 4276.2亿美元，前值4259.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260305050002239800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时31分]"
         },
         {
           "title": "周三（3月4日），韩元兑美元最终涨1.49%，报1463.18韩元，全天处于上涨状态，整体持续走高。",
@@ -373,6 +494,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/livenews/3063881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普将出席在伊朗袭击中丧生的美军官兵的隆重葬礼。",
           "url": "https://flash.jin10.com/detail/20260305022734814800",
           "source": "金十数据",
@@ -384,15 +516,15 @@
           "time_info": "02时52分"
         },
         {
-          "title": "周三（3月4日）美股尾盘，彭博电动汽车价格回报指数跌0.73%，报3492.02点，亚太早盘持续下跌，北京时间11:35刷新日低至3439.74点，随后逐步收复失地。",
-          "url": "https://wallstreetcn.com/livenews/3063853",
+          "title": "在美股时段交易的费城金银指数收涨0.47%，报433.38点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.22%，报3046.92点。 在美股时段交易的原材料指数收跌0.06%，金属与矿业指数收涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3063879",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时31分"
         },
         {
           "title": "消息人士：特朗普周三晚上联系了法国总统马克龙，告知他美国在伊朗的军事行动情况。",
@@ -417,59 +549,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "金十图示：2026年03月04日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260305050533620800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
-          "url": "https://wallstreetcn.com/livenews/3063851",
+          "title": "现货黄金涨超0.8%，白银涨超1.4%，纽约铜涨1.2%，铂金涨超3.3%",
+          "url": "https://wallstreetcn.com/livenews/3063875",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "白宫：向伊朗派美军地面部队目前还“不在计划内”，但不会排除特朗普的任何军事选项",
-          "url": "https://wallstreetcn.com/livenews/3063850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "金十图示：2026年03月04日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260305050520386800",
-          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 芯片股反弹",
-          "url": "https://flash.jin10.com/detail/20260305050205224800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
+          "time_info": "06时31分"
         },
         {
           "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
@@ -478,9 +566,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "周三（3月4日），存储芯片与硬件供应链指数涨3.90%，报105.81点，美股开盘后90分钟高开高走，随后平缓地逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3063872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "据《大西洋》：特朗普预计将在得州选举中支持科宁。",
@@ -494,24 +593,13 @@
           "time_info": "02时52分"
         },
         {
-          "title": "韩国2月外汇储备 4276.2亿美元，前值4259.1亿美元。",
-          "url": "https://flash.jin10.com/detail/20260305050002239800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
           "title": "美国总统特朗普：谷歌是一家好公司。",
           "url": "https://wallstreetcn.com/livenews/3063847",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -522,7 +610,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -555,7 +643,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
@@ -604,6 +692,17 @@
           "time_info": "03时38分"
         },
         {
+          "title": "半导体ETF收涨2%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3063865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "市场消息：美国总统特朗普政府将就得州的无人机事件向关键参议员举行机密简报会。",
           "url": "https://flash.jin10.com/detail/20260305000916077800",
           "source": "金十数据",
@@ -643,9 +742,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "美国联邦贸易法官下令特朗普政府：停止对进口商计算IEEPA关税",
+          "url": "https://wallstreetcn.com/livenews/3063856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "美元指数4日下跌",
@@ -654,7 +764,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
