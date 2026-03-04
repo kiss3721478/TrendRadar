@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T20:56:44.989395+08:00",
-  "total_titles_processed": 1921,
+  "generated_at": "2026-03-04T21:59:36.164584+08:00",
+  "total_titles_processed": 2023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 192,
+      "match_count": 198,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 20时56分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 21时59分]"
         },
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -109,8 +109,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 20时56分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 21时59分]"
         },
         {
           "title": "光速突破3.1美元！美国汽油价格创四年最大涨幅 未来数周预计涨势难歇",
@@ -156,8 +156,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时47分 ~ 20时56分]"
+          "appearance_count": 23,
+          "time_info": "[00时47分 ~ 21时59分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -211,6 +211,17 @@
           "time_info": "[00时47分 ~ 07时27分]"
         },
         {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时46分 ~ 21时59分]"
+        },
+        {
           "title": "年少的出发比黄金珍贵",
           "url": "https://www.douyin.com/hot/2418170",
           "source": "抖音",
@@ -224,17 +235,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时59分 ~ 20时56分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时46分 ~ 20时56分]"
         },
         {
           "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
@@ -302,6 +302,18 @@
           "time_info": "[16时39分 ~ 17时40分]"
         },
         {
+          "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
+          "url": "https://wallstreetcn.com/articles/3766663",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 21时59分]"
+        },
+        {
           "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
           "url": "https://www.cls.cn/detail/2301855",
           "source": "财联社热门",
@@ -332,9 +344,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "美国“小非农”超预期回暖，美股期指维持涨势，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "高盛将2026年第二季度布伦特原油平均价格预测上调10美元至76美元/桶，并将WTI原油平均价格预测上调9美元至71美元/桶。",
@@ -368,6 +391,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3063688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 21时59分]"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -617,26 +663,17 @@
           "time_info": "[09时59分 ~ 14时46分]"
         },
         {
-          "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
-          "url": "https://wallstreetcn.com/articles/3766663",
-          "source": "华尔街见闻",
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
           "ranks": [
-            9
+            16,
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时40分 ~ 20时56分]"
-        },
-        {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 20时56分]"
+          "time_info": "[18时36分 ~ 21时59分]"
         },
         {
           "title": "周二（3月3日）纽约尾盘，美元兑日元涨0.08%，报157.52日元，日内交投区间为157.15-157.97日元。 欧元兑日元跌0.49%，英镑兑日元跌0.23%。",
@@ -795,19 +832,6 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时56分]"
-        },
-        {
           "title": "以史为鉴：当世界陷入动荡，石油、黄金和股市都遵循这个规律……",
           "url": "https://www.cls.cn/detail/2302075",
           "source": "财联社热门",
@@ -818,6 +842,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时36分 ~ 19时31分]"
+        },
+        {
+          "title": "突然跳水！现货黄金跌破5200美元，白银一度跌超12%，发生了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693286",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时59分]"
         },
         {
           "title": "黄金跌破5100美元",
@@ -1070,18 +1107,6 @@
           "time_info": "[12时14分 ~ 12时15分]"
         },
         {
-          "title": "突然跳水！现货黄金跌破5200美元，白银一度跌超12%，发生了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693286",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 20时56分]"
-        },
-        {
           "title": "老铺黄金涨价底气在哪",
           "url": "https://www.toutiao.com/trending/7613184528001027647/",
           "source": "今日头条",
@@ -1286,7 +1311,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1322,6 +1347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.5%，报73.38美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3063677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "特朗普妻子被怒斥你丈夫下令轰炸小学",
@@ -1374,7 +1410,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1399,6 +1435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
+          "url": "https://www.cls.cn/detail/2302897",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "美国总统特朗普：我们正在进行各种关税研究。",
@@ -1451,7 +1498,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1487,6 +1534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "美国2月ADP就业人数公布后，美元指数短线波动不大",
+          "url": "https://wallstreetcn.com/livenews/3063673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "国际货币基金组织副总裁卡茨：目前流通中的稳定币总规模约为3000亿美元，在金融市场整体规模中仍属“微不足道”。",
@@ -1720,6 +1778,17 @@
           "time_info": "18时37分"
         },
         {
+          "title": "第34届华交会意向订单金额近22亿美元，同比增长超5%",
+          "url": "https://wallstreetcn.com/livenews/3063668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "OpenAI考虑为北约机密网络提供合约",
           "url": "https://flash.jin10.com/detail/20260304092203004800",
           "source": "金十数据",
@@ -1781,7 +1850,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1902,7 +1971,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -2111,7 +2180,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
