@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T19:31:37.872712+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2026-03-04T20:56:44.989395+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 185,
+      "match_count": 192,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 20时56分]"
         },
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -109,8 +109,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 20时56分]"
         },
         {
           "title": "光速突破3.1美元！美国汽油价格创四年最大涨幅 未来数周预计涨势难歇",
@@ -152,11 +152,12 @@
             21,
             24,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时47分 ~ 19时31分]"
+          "appearance_count": 22,
+          "time_info": "[00时47分 ~ 20时56分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -210,18 +211,6 @@
           "time_info": "[00时47分 ~ 07时27分]"
         },
         {
-          "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 19时31分]"
-        },
-        {
           "title": "年少的出发比黄金珍贵",
           "url": "https://www.douyin.com/hot/2418170",
           "source": "抖音",
@@ -233,8 +222,31 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 20时56分]"
+        },
+        {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时59分 ~ 17时40分]"
+          "time_info": "[14时46分 ~ 20时56分]"
+        },
+        {
+          "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 19时31分]"
         },
         {
           "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
@@ -250,17 +262,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时27分 ~ 15时38分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时46分 ~ 19时31分]"
         },
         {
           "title": "摩根大通称「主要产油国政权更迭，油价或涨超 70%」，120 美元一桶的原油对我们的生活会有哪些影响？",
@@ -323,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "风险资产全线反弹，美股期指转涨，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "高盛将2026年第二季度布伦特原油平均价格预测上调10美元至76美元/桶，并将WTI原油平均价格预测上调9美元至71美元/桶。",
@@ -397,7 +409,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -411,17 +423,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "消息人士称，亚洲近月柴油与航空燃油价差扩大至每桶70美元，创下历史新高。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3063609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "特朗普：可容忍油价短期内上涨 优先消除伊朗威胁",
@@ -616,6 +617,28 @@
           "time_info": "[09时59分 ~ 14时46分]"
         },
         {
+          "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
+          "url": "https://wallstreetcn.com/articles/3766663",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 20时56分]"
+        },
+        {
           "title": "周二（3月3日）纽约尾盘，美元兑日元涨0.08%，报157.52日元，日内交投区间为157.15-157.97日元。 欧元兑日元跌0.49%，英镑兑日元跌0.23%。",
           "url": "https://wallstreetcn.com/livenews/3062994",
           "source": "华尔街见闻-快讯",
@@ -676,6 +699,18 @@
           "time_info": "[04时33分 ~ 05时34分]"
         },
         {
+          "title": "消息人士称，亚洲近月柴油与航空燃油价差扩大至每桶70美元，创下历史新高。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3063609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时56分]"
+        },
+        {
           "title": "周二（3月3日），美联储隔夜逆回购协议（RRP）使用规模为12.03亿美元（交易对手5家），上个交易日报6.27亿美元。",
           "url": "https://wallstreetcn.com/livenews/3062954",
           "source": "华尔街见闻-快讯",
@@ -724,17 +759,6 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
-          "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
-          "url": "https://wallstreetcn.com/articles/3766663",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
-        },
-        {
           "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
           "url": "https://flash.jin10.com/detail/20260304060328619800",
           "source": "金十数据",
@@ -771,15 +795,17 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
           "ranks": [
-            10
+            16,
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时40分 ~ 19时31分]"
+          "time_info": "[18时36分 ~ 20时56分]"
         },
         {
           "title": "以史为鉴：当世界陷入动荡，石油、黄金和股市都遵循这个规律……",
@@ -788,18 +814,6 @@
           "ranks": [
             12,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 19时31分]"
-        },
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1056,6 +1070,18 @@
           "time_info": "[12时14分 ~ 12时15分]"
         },
         {
+          "title": "突然跳水！现货黄金跌破5200美元，白银一度跌超12%，发生了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693286",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时56分]"
+        },
+        {
           "title": "老铺黄金涨价底气在哪",
           "url": "https://www.toutiao.com/trending/7613184528001027647/",
           "source": "今日头条",
@@ -1095,7 +1121,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1254,6 +1280,17 @@
           "time_info": "17时40分"
         },
         {
+          "title": "英国首相斯塔默：紧抓美国总统特朗普的一言一行，并非英美特殊关系的体现。",
+          "url": "https://flash.jin10.com/detail/20260304203527442800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "西班牙回应特朗普贸易威胁",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%B8%E6%98%93%E5%A8%81%E8%83%81%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1331,6 +1368,17 @@
           "time_info": "14时46分"
         },
         {
+          "title": "以色列财政部：伊朗战争对以色列经济造成的损失每周可能超过29亿美元。",
+          "url": "https://flash.jin10.com/detail/20260304203432543800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "【特朗普：将切断美国和西班牙之间的贸易往来】3月3日，美国总统特朗普在白宫会见德国总理默茨期间抨击西班牙在袭击伊朗行动中“缺乏合作”，并宣布将切断美国和西班牙之间的一切贸易往来，因为西班牙是“一个糟糕的盟友”。 特朗普表示：“西班牙的表现很糟糕。”他还称，已指示财政部长贝森特“切断与西班牙的所有往来”。 特朗普补充说：“我们将切断与西班牙的所有贸易。我们不想与西班牙有任何往来。”（央视）",
           "url": "https://wallstreetcn.com/livenews/3062943",
           "source": "华尔街见闻-快讯",
@@ -1395,6 +1443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "美国财长贝森特：原油市场供应十分充足。 大量的原油已远离海湾地区。 美国将为海湾地区的船只提供保险。 未来几天将与船东取得联系。 西班牙的表现实在是糟糕透顶。 西班牙在搭美国和其他北约盟国的便车。 15%的关税税率可能将于本周生效。 （谈伊朗）特朗普对此有远见，各方都应退后一步。",
+          "url": "https://wallstreetcn.com/livenews/3063634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国总统特朗普：我们有五个月的时间可以对不同国家征收15%的关税，期限过后，我们将逐步公布对不同国家的关税。",
@@ -1617,17 +1676,6 @@
           "time_info": "06时29分"
         },
         {
-          "title": "突然跳水！现货黄金跌破5200美元，白银一度跌超12%，发生了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693286",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
           "title": "美元指数3日上涨",
           "url": "https://flash.jin10.com/detail/20260304045747487800",
           "source": "金十数据",
@@ -1725,6 +1773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "瑞银：将2026年第一季度布伦特原油价格预测上调至71美元/桶，意味着3月份约为80美元/桶，并将2026年平均价格上调10美元/桶至72美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3063623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国总统特朗普：我有权叫停与西班牙有关的一切事宜。",
@@ -1835,6 +1894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "三菱日联银行：美元反弹动能或在二季度枯竭",
+          "url": "https://flash.jin10.com/detail/20260304202633596800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "现货黄金跌破5000美元/盎司关口，日内跌幅超过6.0%。",
@@ -2033,6 +2103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "老人攒金34年戴百克黄金逛珠宝城",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%94%92%E9%87%9134%E5%B9%B4%E6%88%B4%E7%99%BE%E5%85%8B%E9%BB%84%E9%87%91%E9%80%9B%E7%8F%A0%E5%AE%9D%E5%9F%8E",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国总统特朗普：我们在世界各国储存了大量弹药，有无限的中高口径弹药。",
