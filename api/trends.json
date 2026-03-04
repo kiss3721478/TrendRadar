@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T12:15:11.680505+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-03-04T13:44:22.709737+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 139,
+      "match_count": 147,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 13时44分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -81,11 +81,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 12时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 13时44分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -112,6 +113,21 @@
           "time_info": "[00时47分 ~ 07时27分]"
         },
         {
+          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
+          "url": "https://www.cls.cn/detail/2301724",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时40分 ~ 13时44分]"
+        },
+        {
           "title": "现货黄金大跌",
           "url": "https://www.douyin.com/hot/2417992",
           "source": "抖音",
@@ -124,21 +140,6 @@
           "time_info": "[00时47分 ~ 07时27分]"
         },
         {
-          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
-          "url": "https://www.cls.cn/detail/2301724",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时40分 ~ 12时15分]"
-        },
-        {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
           "url": "https://www.cls.cn/detail/2301893",
           "source": "财联社热门",
@@ -147,8 +148,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 13时44分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -158,8 +159,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时44分]"
+        },
+        {
+          "title": "光速突破3.1美元！美国汽油价格创四年最大涨幅 未来数周预计涨势难歇",
+          "url": "https://www.cls.cn/detail/2301977",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时59分 ~ 12时15分]"
+          "time_info": "[12时14分 ~ 13时44分]"
         },
         {
           "title": "大妈攒金34年戴百克黄金逛珠宝城",
@@ -176,17 +189,6 @@
           "time_info": "[01时43分 ~ 07时27分]"
         },
         {
-          "title": "光速突破3.1美元！美国汽油价格创四年最大涨幅 未来数周预计涨势难歇",
-          "url": "https://www.cls.cn/detail/2301977",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
@@ -196,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "高盛将2026年第二季度布伦特原油平均价格预测上调10美元至76美元/桶，并将WTI原油平均价格预测上调9美元至71美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260304132926977800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "WTI 4月原油期货收报74.56美元/桶。 NYMEX 3月天然气期货收报3.0540美元/百万英热单位。 NYMEX 3月汽油期货收报2.4574美元/加仑，NYMEX 3月取暖油期货收报3.1869美元/加仑。",
@@ -270,9 +283,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "WTI原油站上76美元/桶，日内涨1.46%。",
+          "url": "https://flash.jin10.com/detail/20260304132543297800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
@@ -295,6 +319,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
+          "url": "https://www.cls.cn/detail/2301803",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 13时44分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -341,6 +378,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "布伦特原油日内涨超1.00%，现报81.92美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260304131933106800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
           "url": "https://wallstreetcn.com/livenews/3063046",
           "source": "华尔街见闻-快讯",
@@ -358,9 +406,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "高盛：将2026年第二季度布伦特原油平均价格预测上调10美元至每桶76美元（此前为66美元）； WTI原油价格预测上调9美元至每桶71美元（此前为62美元）。",
+          "url": "https://wallstreetcn.com/livenews/3063354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "罕见！全球股市、债市、黄金齐齐大跌 究竟发生了什么？",
+          "url": "https://www.cls.cn/detail/2301997",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 13时44分]"
         },
         {
           "title": "周二（3月3日）纽约尾盘，美元兑日元涨0.08%，报157.52日元，日内交投区间为157.15-157.97日元。 欧元兑日元跌0.49%，英镑兑日元跌0.23%。",
@@ -423,17 +494,39 @@
           "time_info": "[04时33分 ~ 05时34分]"
         },
         {
-          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
-          "url": "https://www.cls.cn/detail/2301803",
-          "source": "财联社热门",
+          "title": "西班牙回应特朗普称将切断贸易往来",
+          "url": "https://www.toutiao.com/trending/7612678791206387775/",
+          "source": "今日头条",
           "ranks": [
-            11,
             6,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时27分 ~ 12时15分]"
+          "time_info": "[09时59分 ~ 13时44分]"
+        },
+        {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时44分]"
+        },
+        {
+          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
+          "url": "https://www.cls.cn/detail/2301855",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时44分]"
         },
         {
           "title": "周二（3月3日），美联储隔夜逆回购协议（RRP）使用规模为12.03亿美元（交易对手5家），上个交易日报6.27亿美元。",
@@ -520,50 +613,17 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
-          "title": "西班牙回应特朗普称将切断贸易往来",
-          "url": "https://www.toutiao.com/trending/7612678791206387775/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
-          "url": "https://www.cls.cn/detail/2301855",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 12时15分]"
-        },
-        {
           "title": "年少的出发比黄金珍贵",
           "url": "https://www.douyin.com/hot/2418170",
           "source": "抖音",
           "ranks": [
             16,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时59分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[09时59分 ~ 13时44分]"
         },
         {
           "title": "黄金跌破5100美元",
@@ -708,17 +768,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时29分]"
-        },
-        {
-          "title": "罕见！全球股市、债市、黄金齐齐大跌 究竟发生了什么？",
-          "url": "https://www.cls.cn/detail/2301997",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
@@ -869,6 +918,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "WTI原油日内涨幅扩大至1.5%，报75.72美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3063346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "渣打银行：将2026年一季度布伦特原油价格预测上调至74美元/桶（此前为62美元/桶），第二季度上调至67美元/桶（此前为63美元/桶），并将2026年全年平均价格上调至70美元/桶（此前为63.50美元/桶）。",
           "url": "https://flash.jin10.com/detail/20260304012101706800",
           "source": "金十数据",
@@ -974,7 +1034,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1098,6 +1158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "澳新银行上调一季度末预测，布伦特原油上看90美元/桶，液化天然气上看17美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260304130719463800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "特朗普表示：不会让银行“破坏”加密货币议程",
@@ -1271,7 +1342,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1386,6 +1457,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "加拿大皇家银行：将甲骨文(ORCL.N)目标价从195美元下调至160美元。",
+          "url": "https://flash.jin10.com/detail/20260304125929691800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "商品货币澳元/美元日内跌幅达2.0%，创2025年4月份以来最大盘中跌幅，报0.6949。 美元/加元日内涨幅达0.5%，报1.3745。",
           "url": "https://wallstreetcn.com/livenews/3062866",
           "source": "华尔街见闻-快讯",
@@ -1483,6 +1565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "报道：特朗普周二与Coinbase首席执行官举行了私人会晤",
+          "url": "https://wallstreetcn.com/livenews/3063317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "黄金白银跌不停",
