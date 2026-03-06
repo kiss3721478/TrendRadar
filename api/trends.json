@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T13:45:08.520529+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-03-06T14:47:43.360713+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 129,
+      "match_count": 132,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时04分 ~ 13时45分]"
+          "appearance_count": 12,
+          "time_info": "[02时04分 ~ 14时47分]"
+        },
+        {
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 14时47分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -31,6 +42,19 @@
           "time_info": "[02时04分 ~ 07时52分]"
         },
         {
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时31分 ~ 14时47分]"
+        },
+        {
           "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
           "url": "https://news.ifeng.com/c/8rFoSNRxgNC",
           "source": "凤凰网",
@@ -40,17 +64,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时04分 ~ 07时52分]"
-        },
-        {
-          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
-          "url": "https://wallstreetcn.com/articles/3766762",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 13时45分]"
         },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
@@ -67,19 +80,6 @@
           "time_info": "[02时04分 ~ 13时45分]"
         },
         {
-          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
-          "url": "https://www.cls.cn/detail/2304478",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时31分 ~ 13时45分]"
-        },
-        {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
           "url": "https://wallstreetcn.com/articles/3766762",
           "source": "华尔街见闻",
@@ -89,6 +89,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时04分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 14时47分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -102,17 +114,6 @@
           "time_info": "[02时04分 ~ 06时31分]"
         },
         {
-          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
-          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 13时45分]"
-        },
-        {
           "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
           "url": "https://www.cls.cn/detail/2304524",
           "source": "财联社热门",
@@ -120,8 +121,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 13时45分]"
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 14时47分]"
         },
         {
           "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
@@ -129,11 +130,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 13时45分]"
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 14时47分]"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -154,8 +156,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 14时47分]"
+        },
+        {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 14时47分]"
         },
         {
           "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
@@ -178,18 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
-        },
-        {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 13时45分]"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -245,6 +247,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 14时47分]"
         },
         {
           "title": "美元指数5日上涨",
@@ -324,6 +339,29 @@
           "time_info": "[02时04分 ~ 06时31分]"
         },
         {
+          "title": "“全球最大黄金买家”提议动用储备筹资 支持国防扩张计划",
+          "url": "https://www.cls.cn/detail/2304393",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 14时47分]"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 14时47分]"
+        },
+        {
           "title": "WTI原油日内大涨7.00%，报81.50美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3064647",
           "source": "华尔街见闻-快讯",
@@ -335,19 +373,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时35分]"
-        },
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 13时45分]"
         },
         {
           "title": "LME期铜收跌156美元，报12902美元/吨。 LME期铝收跌46美元，报3296美元/吨。 LME期锌收跌98美元，报3227美元/吨。 LME期铅收跌21美元，报1942美元/吨。 LME期镍收跌273美元，报17218美元/吨。 LME期锡收跌1118美元，报49901美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -462,6 +487,19 @@
           "time_info": "[12时42分 ~ 13时45分]"
         },
         {
+          "title": "美国24州联合起诉特朗普政府",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时47分]"
+        },
+        {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260306033140632800",
           "source": "金十数据",
@@ -522,39 +560,16 @@
           "time_info": "[12时42分 ~ 13时45分]"
         },
         {
-          "title": "“全球最大黄金买家”提议动用储备筹资 支持国防扩张计划",
-          "url": "https://www.cls.cn/detail/2304393",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 13时45分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 13时45分]"
-        },
-        {
           "title": "美国24州联合起诉特朗普政府",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7613919843846897683/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            8
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时47分]"
         },
         {
           "title": "地缘局势助推“美元荒”逻辑，美元指数涨0.50%",
@@ -626,17 +641,6 @@
           "ranks": [
             28,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时45分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府",
-          "url": "https://www.toutiao.com/trending/7613919843846897683/",
-          "source": "今日头条",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -851,7 +855,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -977,6 +981,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
+          "url": "https://www.cls.cn/detail/2304532",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "美股芯片股短线走低 英伟达跌近2%",
           "url": "https://flash.jin10.com/detail/20260306013942118800",
           "source": "金十数据",
@@ -1049,7 +1064,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1142,6 +1157,17 @@
           "time_info": "12时42分"
         },
         {
+          "title": "印尼政府：总统普拉博沃已向当地伊斯兰团体保证，如果美国总统特朗普的“和平委员会”平台不能为巴勒斯坦人带来利益，他将退出该委员会。",
+          "url": "https://flash.jin10.com/detail/20260306141544711800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "市场消息：美国国防部需在2031年前额外投入120亿美元，以提升不断下滑的F-35战机战备率。",
           "url": "https://flash.jin10.com/detail/20260306030913472800",
           "source": "金十数据",
@@ -1192,7 +1218,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1393,6 +1419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "WTI原油日内涨幅达2.00%，现报80.52美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260306140511119800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "美国总统特朗普：伊朗正在打电话问怎么达成协议，但有点晚了。",
