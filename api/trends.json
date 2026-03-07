@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T18:23:57.420982+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-03-07T19:20:37.530579+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 127,
+      "match_count": 129,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时54分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时54分 ~ 19时20分]"
         },
         {
           "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
@@ -65,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时28分 ~ 18时23分]"
+          "appearance_count": 13,
+          "time_info": "[07时28分 ~ 19时20分]"
         },
         {
           "title": "卡塔尔：若战争持续数周，海湾国家将被迫停产，未来三周油价恐飙至150美元",
@@ -126,8 +126,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时40分 ~ 18时23分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 19时20分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -226,6 +226,17 @@
           "time_info": "[03时34分 ~ 07时28分]"
         },
         {
+          "title": "美以伊战争｜伊朗摧毁一套3亿美元“萨德”雷达",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
           "url": "https://wallstreetcn.com/livenews/3065494",
           "source": "华尔街见闻-快讯",
@@ -248,17 +259,6 @@
           "time_info": "09时54分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-07）",
-          "url": "https://flash.jin10.com/detail/20260307180738661800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "黄金回收业务量大降，水贝金银批发量暴跌",
           "url": "https://wallstreetcn.com/livenews/3065629",
           "source": "华尔街见闻-快讯",
@@ -279,17 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "乌兹别克斯坦央行2月份黄金/外汇储备为770亿美元，1月份为750亿美元。",
-          "url": "https://flash.jin10.com/detail/20260307175823270800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "Hims & Hers Health美股盘后涨近37%，报道称诺和诺德计划在Hims的平台上销售其减肥药",
@@ -366,6 +355,32 @@
           "time_info": "[01时35分 ~ 02时44分]"
         },
         {
+          "title": "地中海航运公司MSC：自3月16日起至另行通知为止，地中海及黑海至印度次大陆航线的货物紧急燃油附加费将按每标准箱40美元、每冷藏箱60美元收取。",
+          "url": "https://flash.jin10.com/detail/20260307171048264800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时20分]"
+        },
+        {
+          "title": "地中海航运公司MSC：自3月16日起至另行通知为止，地中海及黑海至东非航线的货物紧急燃油附加费将调整为每标准箱60美元，每冷藏箱90美元。",
+          "url": "https://flash.jin10.com/detail/20260307171012142800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时20分]"
+        },
+        {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
           "url": "https://flash.jin10.com/detail/20260307034359509800",
           "source": "金十数据",
@@ -375,6 +390,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时32分 ~ 07时28分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-07）",
+          "url": "https://flash.jin10.com/detail/20260307180738661800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "半导体ETF收跌超3.7%，领跌美股行业ETF",
@@ -399,18 +426,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "地中海航运公司MSC：自3月16日起至另行通知为止，地中海及黑海至印度次大陆航线的货物紧急燃油附加费将按每标准箱40美元、每冷藏箱60美元收取。",
-          "url": "https://flash.jin10.com/detail/20260307171048264800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时23分]"
         },
         {
           "title": "WTI原油5分钟内上涨0.91美元/桶，报91.04美元/桶，日内当前涨幅大约12.4%。 布伦特原油日内涨幅达9.5%，报93.6美元/桶。",
@@ -449,16 +464,16 @@
           "time_info": "[13时37分 ~ 14时40分]"
         },
         {
-          "title": "地中海航运公司MSC：自3月16日起至另行通知为止，地中海及黑海至东非航线的货物紧急燃油附加费将调整为每标准箱60美元，每冷藏箱90美元。",
-          "url": "https://flash.jin10.com/detail/20260307171012142800",
+          "title": "乌兹别克斯坦央行2月份黄金/外汇储备为770亿美元，1月份为750亿美元。",
+          "url": "https://flash.jin10.com/detail/20260307175823270800",
           "source": "金十数据",
           "ranks": [
             5,
-            21
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时23分]"
+          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "奥巴马、拜登“不点名”抨击特朗普政府",
@@ -504,6 +519,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时32分 ~ 07时28分]"
+        },
+        {
+          "title": "地中海航运公司MSC：自3月16日起至另行通知为止，地中海及黑海至红海航线的紧急燃料附加费将按每标准箱30美元、每冷藏箱50美元收取。",
+          "url": "https://flash.jin10.com/detail/20260307170756419800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时20分]"
+        },
+        {
+          "title": "国家发改委：将培育壮大海洋生物医药等新兴产业，提高现代航运、海洋旅游等服务业发展水平",
+          "url": "https://wallstreetcn.com/livenews/3065684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时20分]"
         },
         {
           "title": "特朗普称“与伊朗不会达成任何协议” 引发市场剧烈震荡",
@@ -565,18 +606,6 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
-          "title": "地中海航运公司MSC：自3月16日起至另行通知为止，地中海及黑海至红海航线的紧急燃料附加费将按每标准箱30美元、每冷藏箱50美元收取。",
-          "url": "https://flash.jin10.com/detail/20260307170756419800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时23分]"
-        },
-        {
           "title": "美国原油期货收盘站上90美元关口，中东原油期货本周涨超37%",
           "url": "https://wallstreetcn.com/livenews/3065444",
           "source": "华尔街见闻-快讯",
@@ -599,18 +628,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "国家发改委：将培育壮大海洋生物医药等新兴产业，提高现代航运、海洋旅游等服务业发展水平",
-          "url": "https://wallstreetcn.com/livenews/3065684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时23分]"
         },
         {
           "title": "秘鲁副总理：秘鲁2025年出口900亿美元，创历史新高。",
@@ -695,6 +712,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时29分]"
+        },
+        {
+          "title": "美国打伊朗4天成本近110亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%974%E5%A4%A9%E6%88%90%E6%9C%AC%E8%BF%91110%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时20分]"
         },
         {
           "title": "消息人士称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
@@ -918,6 +947,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "CMA CGM四季度净利润为零，上年同期15.3亿美元。 预计全球范围内的集装箱发货量将在2026年温和增长。 中东局势（尤其是与红海相关的局势）将是影响市场平衡和货运费用趋势的关键因素。",
           "url": "https://wallstreetcn.com/livenews/3065372",
           "source": "华尔街见闻-快讯",
@@ -927,17 +967,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
-        },
-        {
-          "title": "美国打伊朗4天成本近110亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%974%E5%A4%A9%E6%88%90%E6%9C%AC%E8%BF%91110%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "美、布两油双双站上90美元关口",
