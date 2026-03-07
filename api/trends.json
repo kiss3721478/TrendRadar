@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T06:23:56.803161+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-03-08T07:22:43.002044+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -15,24 +15,24 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时23分]"
-        },
-        {
-          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
-          "url": "https://wallstreetcn.com/articles/3766927",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时22分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
           "url": "https://news.ifeng.com/c/8rJ8cbEmAvH",
           "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
+          "url": "https://wallstreetcn.com/articles/3766927",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时22分]"
         },
         {
           "title": "隋坡教你做黄金蛋炒饭",
@@ -60,11 +60,12 @@
             26,
             22,
             27,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时22分]"
         },
         {
           "title": "美国打伊朗4天成本近110亿美元",
@@ -74,22 +75,45 @@
             18,
             17,
             23,
-            24
+            24,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时33分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[02时33分 ~ 07时22分]"
         },
         {
-          "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
-          "url": "https://wallstreetcn.com/livenews/3065774",
+          "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
+          "url": "https://wallstreetcn.com/livenews/3065778",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "07时22分"
+        },
+        {
+          "title": "特朗普：“已经打赢”，美国不需要英国派遣航母参与对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3065776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -101,6 +125,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3065774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普说他必须干预伊朗未来领导人的选择，这说明他是个极其落后的人。",
+          "url": "https://flash.jin10.com/detail/20260308035031040800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时26分 ~ 07时22分]"
         },
         {
           "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
@@ -115,17 +164,54 @@
           "time_info": "[00时28分 ~ 03时22分]"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普说他必须干预伊朗未来领导人的选择，这说明他是个极其落后的人。",
-          "url": "https://flash.jin10.com/detail/20260308035031040800",
+          "title": "金价剧烈波动大家开始观望",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%89%A7%E7%83%88%E6%B3%A2%E5%8A%A8%E5%A4%A7%E5%AE%B6%E5%BC%80%E5%A7%8B%E8%A7%82%E6%9C%9B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            29,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时22分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
+          "url": "https://flash.jin10.com/detail/20260308041630102800",
           "source": "金十数据",
           "ranks": [
-            9,
-            26,
-            28
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时23分]"
+          "time_info": "[05时21分 ~ 07时22分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普的歇斯底里行为和非外交言辞，显示出他在战略上的僵局，以及对以色列政策的完全依赖。这使得“美国优先”的口号变成了“以色列优先”。",
+          "url": "https://flash.jin10.com/detail/20260308041606759800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时22分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：我们将为特朗普刺杀最高领袖哈梅内伊而惩罚他，绝不会让他逃脱。",
+          "url": "https://flash.jin10.com/detail/20260308041345021800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时22分]"
         },
         {
           "title": "央行连续16个月增持黄金",
@@ -140,19 +226,6 @@
           "time_info": "[00时27分 ~ 01时21分]"
         },
         {
-          "title": "金价剧烈波动大家开始观望",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%89%A7%E7%83%88%E6%B3%A2%E5%8A%A8%E5%A4%A7%E5%AE%B6%E5%BC%80%E5%A7%8B%E8%A7%82%E6%9C%9B%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 06时23分]"
-        },
-        {
           "title": "委内瑞拉代总统：我们将特朗普承认我们的这一决定视为对委内瑞拉人民及其为国家真相而斗争的公正事业的认可。我们重申愿意建立基于相互尊重和平等的长期关系。",
           "url": "https://flash.jin10.com/detail/20260308020752768800",
           "source": "金十数据",
@@ -165,42 +238,6 @@
           "time_info": "[02时34分 ~ 03时22分]"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
-          "url": "https://flash.jin10.com/detail/20260308041630102800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时23分]"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普的歇斯底里行为和非外交言辞，显示出他在战略上的僵局，以及对以色列政策的完全依赖。这使得“美国优先”的口号变成了“以色列优先”。",
-          "url": "https://flash.jin10.com/detail/20260308041606759800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时23分]"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书拉里贾尼：我们将为特朗普刺杀最高领袖哈梅内伊而惩罚他，绝不会让他逃脱。",
-          "url": "https://flash.jin10.com/detail/20260308041345021800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时23分]"
-        },
-        {
           "title": "市场消息：特朗普将于周一下午5点（北京时间周二早上6点）在众议院共和党人休会期间发表讲话。",
           "url": "https://flash.jin10.com/detail/20260308004445538800",
           "source": "金十数据",
@@ -210,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "连续16个月增持！中国2月末黄金储备环比增加3万盎司",
+          "url": "https://wallstreetcn.com/articles/3766943",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
