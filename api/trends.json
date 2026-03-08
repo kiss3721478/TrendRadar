@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-09T03:24:21.081519+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-03-09T04:26:59.759511+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
           "url": "https://www.douyin.com/hot/2423029",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "多家黄金品牌宣布调价",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
@@ -38,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 04时26分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -50,30 +51,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时24分]"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：地面部队部署不在特朗普目前的计划之内。不过特朗普并未排除这一选项。对伊朗的行动将继续以空袭为主。",
-          "url": "https://flash.jin10.com/detail/20260309025329166800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
           "url": "https://wallstreetcn.com/articles/3766963",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -85,8 +76,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "市场消息：特朗普在战争期间仍然坚持打高尔夫。",
+          "url": "https://flash.jin10.com/detail/20260309035048840800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "委内瑞拉代总统致函特朗普",
@@ -98,8 +100,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
@@ -109,8 +111,31 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普威胁称伊朗新领导人“难长久”",
+          "url": "https://wallstreetcn.com/livenews/3065911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
+          "url": "https://wallstreetcn.com/livenews/3065878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时24分]"
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "美国驻联合国大使：特朗普总统希望伊朗领导人不会威胁美国或该地区的盟友。",
@@ -125,6 +150,18 @@
           "time_info": "[01时23分 ~ 02时34分]"
         },
         {
+          "title": "白宫新闻秘书莱维特：地面部队部署不在特朗普目前的计划之内。不过特朗普并未排除这一选项。对伊朗的行动将继续以空袭为主。",
+          "url": "https://flash.jin10.com/detail/20260309025329166800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时26分]"
+        },
+        {
           "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
           "url": "https://flash.jin10.com/detail/20260309005041818800",
           "source": "金十数据",
@@ -137,15 +174,16 @@
           "time_info": "[01时23分 ~ 02时34分]"
         },
         {
-          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
-          "url": "https://wallstreetcn.com/livenews/3065878",
-          "source": "华尔街见闻-快讯",
+          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
+          "url": "https://wallstreetcn.com/articles/3766978",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时24分]"
+          "time_info": "[01时23分 ~ 04时26分]"
         },
         {
           "title": "埃及镑兑美元在当地银行业走弱至52埃及镑下方。",
@@ -157,18 +195,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时24分]"
-        },
-        {
-          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
-          "url": "https://wallstreetcn.com/articles/3766978",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时24分]"
         },
         {
           "title": "迪拜黄金打折卖？中国网友实探",
@@ -254,6 +280,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "知情人士：特朗普政府拟与古巴达成经济协议",
+          "url": "https://flash.jin10.com/detail/20260309031144229800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "特朗普：未经我批准 伊朗新任最高领袖不会在位太久",
           "url": "https://flash.jin10.com/detail/20260308231657473800",
           "source": "金十数据",
@@ -263,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "美国内政部长伯格姆：周五有1亿美元的黄金从委内瑞拉运到了美国。委内瑞拉人民将为特朗普树立一座伟大解放者的雕像。",
+          "url": "https://flash.jin10.com/detail/20260309030027467800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "特朗普：油价飙升是“预料中的波折”",
