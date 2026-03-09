@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T13:58:32.312896+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-03-09T15:09:20.593551+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 88,
+      "match_count": 94,
       "titles": [
         {
           "title": "王毅谈特朗普访华",
@@ -95,6 +95,18 @@
           "time_info": "[00时28分 ~ 07时24分]"
         },
         {
+          "title": "国际油价突破每桶 100 美元，为 2022 年来首次，会长期维持在高位吗？对我们的生活影响有多大？",
+          "url": "https://www.zhihu.com/question/2014250574292415040",
+          "source": "知乎",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 15时09分]"
+        },
+        {
           "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
           "url": "https://wallstreetcn.com/articles/3766978",
           "source": "华尔街见闻",
@@ -106,18 +118,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时23分 ~ 10时05分]"
-        },
-        {
-          "title": "国际油价突破每桶 100 美元，为 2022 年来首次，会长期维持在高位吗？对我们的生活影响有多大？",
-          "url": "https://www.zhihu.com/question/2014250574292415040",
-          "source": "知乎",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时58分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -143,6 +143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 12时51分]"
+        },
+        {
+          "title": "美媒劝特朗普见好就收",
+          "url": "https://news.ifeng.com/c/8rLmtoks9IL",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时09分]"
         },
         {
           "title": "特朗普回应油价暴涨",
@@ -178,6 +189,19 @@
           "time_info": "10时05分"
         },
         {
+          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
+          "url": "https://www.cls.cn/detail/2306588",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时09分]"
+        },
+        {
           "title": "美国零售汽油价格或突破4美元 通胀将显著上升",
           "url": "https://flash.jin10.com/detail/20260309065108420800",
           "source": "金十数据",
@@ -211,6 +235,19 @@
           "time_info": "07时24分"
         },
         {
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 15时09分]"
+        },
+        {
           "title": "布伦特原油站上108美元/桶，日内涨19.07%。",
           "url": "https://flash.jin10.com/detail/20260309094555417800",
           "source": "金十数据",
@@ -231,28 +268,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
-        },
-        {
-          "title": "现货白银涨超3%，现报84.47美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3066230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "美媒劝特朗普见好就收",
-          "url": "https://news.ifeng.com/c/8rLmtoks9IL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "WTI原油日内暴涨22.00%，现报111.54美元/桶。",
@@ -287,19 +302,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 04时26分]"
-        },
-        {
-          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
-          "url": "https://wallstreetcn.com/articles/3766987",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 13时58分]"
         },
         {
           "title": "市场消息：特朗普在战争期间仍然坚持打高尔夫。",
@@ -376,18 +378,6 @@
           "time_info": "[03时24分 ~ 04时26分]"
         },
         {
-          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
-          "url": "https://www.cls.cn/detail/2306588",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时58分]"
-        },
-        {
           "title": "美元在悉尼盘初走高，投资者关注油价上涨",
           "url": "https://wallstreetcn.com/livenews/3065912",
           "source": "华尔街见闻-快讯",
@@ -398,6 +388,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时23分]"
+        },
+        {
+          "title": "现货白银涨超3%，现报84.47美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3066230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时09分]"
         },
         {
           "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
@@ -435,6 +437,53 @@
           "time_info": "[00时29分 ~ 03时24分]"
         },
         {
+          "title": "特朗普回应何时结束对伊朗战争",
+          "url": "https://news.ifeng.com/c/8rLbjuEPPDA",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时09分]"
+        },
+        {
+          "title": "这4个小时是“黄金睡眠时间”",
+          "url": "https://www.toutiao.com/trending/7614793772077776942/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时09分]"
+        },
+        {
+          "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32728491",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时09分]"
+        },
+        {
+          "title": "当地网友实探迪拜黄金市场",
+          "url": "https://www.douyin.com/hot/2423887",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时09分]"
+        },
+        {
           "title": "迪拜黄金打折卖？中国网友实探",
           "url": "https://www.baidu.com/s?wd=%E8%BF%AA%E6%8B%9C%E9%BB%84%E9%87%91%E6%89%93%E6%8A%98%E5%8D%96%EF%BC%9F%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%AE%9E%E6%8E%A2",
           "source": "百度热搜",
@@ -447,27 +496,27 @@
           "time_info": "[00时28分 ~ 01时23分]"
         },
         {
-          "title": "特朗普回应何时结束对伊朗战争",
-          "url": "https://news.ifeng.com/c/8rLbjuEPPDA",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时58分]"
-        },
-        {
-          "title": "这4个小时是“黄金睡眠时间”",
-          "url": "https://www.toutiao.com/trending/7614793772077776942/",
-          "source": "今日头条",
+          "title": "特朗普称适时结束对伊军事行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%80%82%E6%97%B6%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
           "ranks": [
             6,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 15时09分]"
+        },
+        {
+          "title": "贝莱德 260 亿美元私募信贷基金启动赎回限制，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/2013423116613866480",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时09分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：由于特朗普鲁莽选择战争，油价飙升至多年来的最高水平。而他根本不在乎。今天，我要求特朗普立即从战略石油储备中释放石油，以减轻美国人加油的压力。",
@@ -578,26 +627,16 @@
           "time_info": "[05时23分 ~ 06时23分]"
         },
         {
-          "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32728491",
-          "source": "澎湃新闻",
+          "title": "评论员谈中国回绝特朗普“G2之邀”",
+          "url": "https://www.toutiao.com/trending/7614888612266311722/",
+          "source": "今日头条",
           "ranks": [
-            12
+            18,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时58分]"
-        },
-        {
-          "title": "当地网友实探迪拜黄金市场",
-          "url": "https://www.douyin.com/hot/2423887",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时58分]"
+          "time_info": "[10时05分 ~ 15时09分]"
         },
         {
           "title": "伊朗高官：特朗普不懂伊朗",
@@ -623,17 +662,6 @@
           "time_info": "10时05分"
         },
         {
-          "title": "特朗普称适时结束对伊军事行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%80%82%E6%97%B6%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "墨西哥比索兑美元日内跌幅扩大至1.1%。",
           "url": "https://wallstreetcn.com/livenews/3065945",
           "source": "华尔街见闻-快讯",
@@ -643,17 +671,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "贝莱德 260 亿美元私募信贷基金启动赎回限制，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/2013423116613866480",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "港口遭巴拿马政府非法接管，长和索赔20亿美元",
@@ -684,7 +701,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -742,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "台币兑美元下跌0.8%至31.932。",
+          "url": "https://wallstreetcn.com/livenews/3066246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "布伦特原油期货价格延续涨势，报111.76美元/桶。",
@@ -843,6 +871,28 @@
           "time_info": "10时05分"
         },
         {
+          "title": "分析师：市场走势与特朗普目标背道而驰",
+          "url": "https://flash.jin10.com/detail/20260309144934055800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "ABB计划2026年在印度投资约7,500万美元，用于制造业与研发。 ABB是总部位于瑞士的全球工业巨头，业务遍及电气化、机器人、自动化和运动控制领域。",
+          "url": "https://wallstreetcn.com/livenews/3066239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "知情人士：特朗普政府拟与古巴达成经济协议",
           "url": "https://flash.jin10.com/detail/20260309031144229800",
           "source": "金十数据",
@@ -876,15 +926,15 @@
           "time_info": "07时24分"
         },
         {
-          "title": "评论员谈中国回绝特朗普“G2之邀”",
-          "url": "https://www.toutiao.com/trending/7614888612266311722/",
+          "title": "美媒使用旧视频掩盖特朗普失礼行为",
+          "url": "https://www.toutiao.com/trending/7615121103565340681/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "15时09分"
         },
         {
           "title": "伊朗强硬派接班！油价狂飙，黄金为何不涨反跌？丨Hi，今天怎么看？",
@@ -893,7 +943,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -997,6 +1047,17 @@
           "time_info": "12时51分"
         },
         {
+          "title": "韩国兑美元以1,495.5收盘，创下自2009年3月以来的最低收盘水平。",
+          "url": "https://flash.jin10.com/detail/20260309143339665800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "印度卢比兑美元下跌0.5%，报1美元兑92.23卢比，受油价飙升影响。 日本10年期国债收益率上行4个基点至6.73%。",
           "url": "https://wallstreetcn.com/livenews/3066162",
           "source": "华尔街见闻-快讯",
@@ -1017,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "特朗普称适时结束对伊军事行动",
+          "url": "https://www.douyin.com/hot/2423798",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         }
       ]
     }
