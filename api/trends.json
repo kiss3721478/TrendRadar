@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T22:51:26.929430+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-03-09T23:59:09.857059+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 138,
+      "match_count": 147,
       "titles": [
         {
           "title": "国际油价突破每桶 100 美元，为 2022 年来首次，会长期维持在高位吗？对我们的生活影响有多大？",
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时05分 ~ 22时51分]"
+          "appearance_count": 13,
+          "time_info": "[10时05分 ~ 23时59分]"
         },
         {
           "title": "多家黄金品牌宣布调价",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时51分 ~ 18时45分]"
+        },
+        {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时45分 ~ 23时59分]"
         },
         {
           "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
@@ -150,6 +161,20 @@
           "time_info": "[00时28分 ~ 07时24分]"
         },
         {
+          "title": "当地网友实探迪拜黄金市场",
+          "url": "https://www.douyin.com/hot/2423887",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时51分 ~ 23时59分]"
+        },
+        {
           "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
           "url": "https://www.zhihu.com/question/2013564376783799020",
           "source": "知乎",
@@ -159,17 +184,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时45分 ~ 22时51分]"
         },
         {
           "title": "G7拟协调释放石油储备！美油回落至100美元下方，全球股债双杀、芯片股普遍下跌，金银跌幅收窄",
@@ -183,6 +197,17 @@
           "time_info": "[18时45分 ~ 21时02分]"
         },
         {
+          "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时59分]"
+        },
+        {
           "title": "美以伊战争｜中方回应特朗普威胁伊朗最高领袖",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -192,6 +217,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时43分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时52分 ~ 23时59分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -207,18 +244,15 @@
           "time_info": "[00时28分 ~ 05时23分]"
         },
         {
-          "title": "当地网友实探迪拜黄金市场",
-          "url": "https://www.douyin.com/hot/2423887",
-          "source": "抖音",
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            15,
-            16,
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时51分 ~ 22时51分]"
+          "time_info": "[17时52分 ~ 23时59分]"
         },
         {
           "title": "中东停产潮冲击！油价暴涨20%突破110美元，全球股债双杀、韩股跌7%，金银大跌",
@@ -260,17 +294,6 @@
           "time_info": "[12时51分 ~ 18时45分]"
         },
         {
-          "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "特朗普回应油价暴涨",
           "url": "https://flash.jin10.com/detail/20260309065548946800",
           "source": "金十数据",
@@ -288,7 +311,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -354,9 +377,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
+        },
+        {
+          "title": "特朗普：澳大利亚总理正在处理伊朗女足队员安置问题",
+          "url": "https://flash.jin10.com/detail/20260309235743204800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "美国总统特朗普：短期内的油价在伊朗核威胁消除后会迅速下降。",
@@ -403,16 +437,15 @@
           "time_info": "10时05分"
         },
         {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：刚刚与澳大利亚总理阿尔巴尼斯通了电话。阿尔巴尼斯很关注伊朗女足国家队的问题。",
+          "url": "https://flash.jin10.com/detail/20260309235646888800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 22时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "WTI原油日内暴涨22.00%，现报111.54美元/桶。",
@@ -432,7 +465,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -448,6 +481,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "油价突破100美元后，Kalshi预测市场上美国经济衰退概率大幅飙升",
+          "url": "https://wallstreetcn.com/livenews/3066609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32728491",
           "source": "澎湃新闻",
@@ -459,17 +503,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时51分 ~ 16时44分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 22时51分]"
         },
         {
           "title": "黄金品牌涨价 50克金手镯贵了5万",
@@ -595,6 +628,19 @@
           "time_info": "[13时58分 ~ 15时09分]"
         },
         {
+          "title": "长和就巴拿马港口被接管索赔20亿美元",
+          "url": "https://www.toutiao.com/trending/7614466986240442387/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 23时59分]"
+        },
+        {
           "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
           "url": "https://flash.jin10.com/detail/20260309005041818800",
           "source": "金十数据",
@@ -643,6 +689,42 @@
           "time_info": "[00时29分 ~ 03时24分]"
         },
         {
+          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
+          "url": "https://wallstreetcn.com/articles/3767022",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时59分]"
+        },
+        {
+          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
+          "url": "https://www.cls.cn/detail/2307187",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时59分]"
+        },
+        {
+          "title": "1亿美元委内瑞拉黄金运抵美国",
+          "url": "https://s.weibo.com/weibo?q=%231%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%BB%84%E9%87%91%E8%BF%90%E6%8A%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时59分]"
+        },
+        {
           "title": "迪拜黄金打折卖？中国网友实探",
           "url": "https://www.baidu.com/s?wd=%E8%BF%AA%E6%8B%9C%E9%BB%84%E9%87%91%E6%89%93%E6%8A%98%E5%8D%96%EF%BC%9F%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%AE%9E%E6%8E%A2",
           "source": "百度热搜",
@@ -653,6 +735,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时23分]"
+        },
+        {
+          "title": "女子将十几万黄金藏冰箱：有安全感",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%8D%81%E5%87%A0%E4%B8%87%E9%BB%84%E9%87%91%E8%97%8F%E5%86%B0%E7%AE%B1%EF%BC%9A%E6%9C%89%E5%AE%89%E5%85%A8%E6%84%9F",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时59分]"
         },
         {
           "title": "特朗普称适时结束对伊军事行动",
@@ -679,18 +773,6 @@
           "time_info": "[13时58分 ~ 15时09分]"
         },
         {
-          "title": "长和就巴拿马港口被接管索赔20亿美元",
-          "url": "https://www.toutiao.com/trending/7614466986240442387/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 21时02分]"
-        },
-        {
           "title": "美国参议院少数党领袖舒默：由于特朗普鲁莽选择战争，油价飙升至多年来的最高水平。而他根本不在乎。今天，我要求特朗普立即从战略石油储备中释放石油，以减轻美国人加油的压力。",
           "url": "https://flash.jin10.com/detail/20260309004241525800",
           "source": "金十数据",
@@ -713,6 +795,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时45分 ~ 19时35分]"
+        },
+        {
+          "title": "NYMEX天然气期货涨幅收窄至2.5%，报3.264美元/百万英热单位，此前一度涨9.7%至3.494美元。",
+          "url": "https://wallstreetcn.com/livenews/3066581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时59分]"
         },
         {
           "title": "法国总统马克龙：我们还讨论了加沙和西岸的情况。伊朗和中东的局势发展不应减缓我们实施特朗普总统提出的和平计划第二阶段的努力。我们特别呼吁全面重新开放拉法口岸，因为这对人道主义援助至关重要。在地区局势紧张之际，我们决心为降低紧张局势、恢复中东和平而努力。",
@@ -835,6 +929,17 @@
           "time_info": "[10时05分 ~ 12时51分]"
         },
         {
+          "title": "伊朗警告油价或超200美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%B2%B9%E4%BB%B7%E6%88%96%E8%B6%85200%E7%BE%8E%E5%85%83%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
           "title": "男子结婚17年逢年过节就买黄金宠妻",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A17%E5%B9%B4%E9%80%A2%E5%B9%B4%E8%BF%87%E8%8A%82%E5%B0%B1%E4%B9%B0%E9%BB%84%E9%87%91%E5%AE%A0%E5%A6%BB",
           "source": "百度热搜",
@@ -891,15 +996,26 @@
           "time_info": "07时24分"
         },
         {
-          "title": "NYMEX天然气期货涨幅收窄至2.5%，报3.264美元/百万英热单位，此前一度涨9.7%至3.494美元。",
-          "url": "https://wallstreetcn.com/livenews/3066581",
+          "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3066608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "23时59分"
+        },
+        {
+          "title": "美国总统特朗普：（就油价问题）我对一切都有计划。",
+          "url": "https://flash.jin10.com/detail/20260309235451845800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "港口遭巴拿马政府非法接管，长和索赔20亿美元",
@@ -1001,15 +1117,15 @@
           "time_info": "21时02分"
         },
         {
-          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
-          "url": "https://wallstreetcn.com/articles/3767022",
-          "source": "华尔街见闻",
+          "title": "Anthropic就“供应链风险”标签起诉美国总统特朗普的国防部。",
+          "url": "https://wallstreetcn.com/livenews/3066605",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "23时59分"
         },
         {
           "title": "多个主要产油国产量削减 美、布两油双双冲上100美元",
@@ -1029,7 +1145,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -1067,17 +1183,6 @@
           "time_info": "15时09分"
         },
         {
-          "title": "1亿美元委内瑞拉黄金运抵美国",
-          "url": "https://s.weibo.com/weibo?q=%231%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%BB%84%E9%87%91%E8%BF%90%E6%8A%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "WTI原油短线下挫近3美元，跌破100美元/桶关口，现报99.2美元/桶。",
           "url": "https://flash.jin10.com/detail/20260309173411896800",
           "source": "金十数据",
@@ -1109,17 +1214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
-        },
-        {
-          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
-          "url": "https://www.cls.cn/detail/2307187",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
         },
         {
           "title": "WTI原油暴涨21%，突破110美元/桶。",
@@ -1172,7 +1266,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -1320,6 +1414,17 @@
           "time_info": "18时45分"
         },
         {
+          "title": "地中海航运公司：自2026年3月16日起至另行通知为止，北欧至红海航线的紧急燃油附加费将按每标准箱85美元、每冷藏箱125美元收取。",
+          "url": "https://flash.jin10.com/detail/20260309234807953800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "WTI原油期货大涨逾20%，突破110美元关口，最高报111.24美元。",
           "url": "https://wallstreetcn.com/livenews/3065933",
           "source": "华尔街见闻-快讯",
@@ -1441,6 +1546,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "美媒：特朗普称距离向伊朗派遣美军地面部队“还差得远”",
+          "url": "https://flash.jin10.com/detail/20260309234640755800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "WTI原油期货涨破100美元关口，为2002年7月来首次，日内涨超10%。 布伦特原油期货亚市盘初也突破100美元关口，报102.20美元/盎司，日内涨幅10%。",
           "url": "https://wallstreetcn.com/livenews/3065929",
           "source": "华尔街见闻-快讯",
@@ -1557,7 +1673,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -1573,24 +1689,13 @@
           "time_info": "18时45分"
         },
         {
-          "title": "女子将十几万黄金藏冰箱：有安全感",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%8D%81%E5%87%A0%E4%B8%87%E9%BB%84%E9%87%91%E8%97%8F%E5%86%B0%E7%AE%B1%EF%BC%9A%E6%9C%89%E5%AE%89%E5%85%A8%E6%84%9F",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "美股三大股指开盘走低，纳指盘初跌0.91%，标普500指数跌0.88%，道指跌0.96%。科技股普跌，英特尔跌超3%，西部数据、美光科技均跌超1%。石油股走高，康菲石油涨近1%。HIMS&HERS上涨49%，创下单日涨幅纪录，此前与诺和诺德达成减肥药授权协议。",
           "url": "https://wallstreetcn.com/livenews/3066555",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         }
