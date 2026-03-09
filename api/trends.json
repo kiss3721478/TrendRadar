@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T02:53:44.909896+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-03-10T03:41:21.169234+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 41,
+      "match_count": 58,
       "titles": [
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
+        },
+        {
+          "title": "G7紧急开会，美三大股指低开反弹，纳指转涨，美油回落至100美元下方",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "time_info": "[02时53分 ~ 03时41分]"
         },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -41,15 +52,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "G7紧急开会，美三大股指低开反弹，纳指转涨，美油回落至100美元下方",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
+          "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "03时41分"
         },
         {
           "title": "WTI 4月原油期货收报94.77美元/桶。 NYMEX 4月天然气期货收报3.12美元/百万英热单位。 NYMEX 4月汽油期货收报2.8084美元/加仑，NYMEX 3月取暖油期货收报3.5866美元/加仑。",
@@ -58,9 +69,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "据媒体报道，特朗普认为针对伊朗的战事已基本接近尾声。美军行动进展已大幅领先于最初预估的4至5周时间表。 原油价格日内转跌，WTI原油价格跌约2%。",
+          "url": "https://wallstreetcn.com/livenews/3066705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         },
         {
           "title": "WTI原油失守92美元/桶，日内涨幅收窄至1%以内，布伦特原油跌破94美元/桶。",
@@ -69,9 +91,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260310032807160800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "周一（3月9日）纽约尾盘，ICE美元指数涨0.19%，报99.173点，日内交投区间为98.978–99.695点，亚太早盘刷新日高，随后逐步回落。 彭博美元指数涨0.10%，报1204.63点，日内交投区间为1202.96-1211.49点。",
+          "url": "https://wallstreetcn.com/livenews/3066702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9085元，较上周五夜盘收盘跌25点。成交量571.97亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3066699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         },
         {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
@@ -93,8 +148,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -104,8 +159,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
         },
         {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
@@ -115,8 +170,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
         },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -124,11 +179,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
         },
         {
           "title": "1亿美元委内瑞拉黄金运抵美国",
@@ -139,8 +195,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
         },
         {
           "title": "当地网友实探迪拜黄金市场",
@@ -151,8 +207,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
         },
         {
           "title": "女子将十几万黄金藏冰箱：有安全感",
@@ -163,8 +219,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
         },
         {
           "title": "伊朗警告油价或超200美元",
@@ -175,8 +231,56 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时41分]"
+        },
+        {
+          "title": "WTI原油5分钟内下跌1.08美元/桶，报92.97美元/桶，日内涨幅收窄至不足2.0%。 北京时间10:30前后，美国原油期货还曾涨至119.39美元。",
+          "url": "https://wallstreetcn.com/livenews/3066674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时53分]"
+          "time_info": "[02时53分 ~ 03时41分]"
+        },
+        {
+          "title": "现货钯金价格涨超3%，报1677美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3066671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时41分]"
+        },
+        {
+          "title": "LME期铜收涨92美元，报12954美元/吨。 LME期铝收跌60美元，报3386美元/吨。 LME期锌收涨30美元，报3328美元/吨。 LME期铅收跌16美元，报1936美元/吨。 LME期镍收平，报17469美元/吨。 LME期锡收涨620美元，报50685美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3066670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时41分]"
+        },
+        {
+          "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3066669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时41分]"
         },
         {
           "title": "市场消息：GE航空航天（GE Aerospace）宣布对美国国内制造业务投资10亿美元，创造5,000个美国就业岗位。",
@@ -196,7 +300,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -218,20 +322,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
         {
-          "title": "WTI原油5分钟内下跌1.08美元/桶，报92.97美元/桶，日内涨幅收窄至不足2.0%。 北京时间10:30前后，美国原油期货还曾涨至119.39美元。",
-          "url": "https://wallstreetcn.com/livenews/3066674",
-          "source": "华尔街见闻-快讯",
+          "title": "克里姆林宫：美国总统特朗普已致电俄罗斯总统普京，讨论伊朗和乌克兰问题。美国总统特朗普再次表示希望乌克兰冲突尽快结束。通话持续约一小时，富有建设性，务实且坦诚。",
+          "url": "https://flash.jin10.com/detail/20260310032634119800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "03时41分"
         },
         {
           "title": "能源顾问称，美国司机本周末可能看到油价涨至每加仑4美元。",
@@ -240,9 +344,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "美国总统特朗普：我认为伊朗战争已经非常彻底，几乎结束了。",
+          "url": "https://flash.jin10.com/detail/20260310032508468800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         },
         {
           "title": "美国总统特朗普将于美东时间周一17:30举行新闻发布会。",
@@ -267,37 +382,37 @@
           "time_info": "01时02分"
         },
         {
-          "title": "现货钯金价格涨超3%，报1677美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3066671",
+          "title": "美国总统特朗普表示，他已考虑好接替伊朗最高领袖哈梅内伊的人选，但未作详细说明。",
+          "url": "https://flash.jin10.com/detail/20260310032433154800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "特朗普家族增加国防投资，部署一家新型无人机企业",
+          "url": "https://wallstreetcn.com/livenews/3066695",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "03时41分"
         },
         {
-          "title": "LME期铜收涨92美元，报12954美元/吨。 LME期铝收跌60美元，报3386美元/吨。 LME期锌收涨30美元，报3328美元/吨。 LME期铅收跌16美元，报1936美元/吨。 LME期镍收平，报17469美元/吨。 LME期锡收涨620美元，报50685美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3066670",
-          "source": "华尔街见闻-快讯",
+          "title": "WTI原油回落至89美元/桶下方，日内跌2.68%。",
+          "url": "https://flash.jin10.com/detail/20260310032333497800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时53分"
-        },
-        {
-          "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
-          "url": "https://wallstreetcn.com/livenews/3066669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "03时41分"
         },
         {
           "title": "美国总统特朗普：将于美国东部时间下午5点30分左右举行新闻发布会。",
@@ -311,15 +426,59 @@
           "time_info": "01时02分"
         },
         {
+          "title": "特朗普称美国在伊朗问题上“远远”领先于他最初预估的4-5周时间。",
+          "url": "https://flash.jin10.com/detail/20260310032214674800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
           "title": "黎巴嫩请求特朗普政府斡旋与以色列的直接和平谈判，以结束冲突。",
           "url": "https://flash.jin10.com/detail/20260310015030516800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "美、布两油短线大幅下跌超3美元。",
+          "url": "https://flash.jin10.com/detail/20260310032141523800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "美国国会预算办公司（CBO）：预计美国2月预算赤字3080亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3066686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "美国总统特朗普：战争可能很快就会结束。",
+          "url": "https://flash.jin10.com/detail/20260310032035655800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         },
         {
           "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
@@ -328,7 +487,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -339,9 +498,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "巴西雷亚尔兑美元在即期市场上走强，上涨约0.9%，至5.199。",
+          "url": "https://flash.jin10.com/detail/20260310031506749800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "美国原油期货收涨超4%，中东原油期货一度涨穿123美元",
+          "url": "https://wallstreetcn.com/livenews/3066682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         },
         {
           "title": "美国军方在“史诗愤怒”行动中又损失了两架MQ-9收割者无人机，使总损失达到11架。这11架无人机的总价值超过3.3亿美元。",
@@ -350,7 +531,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -361,7 +542,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -383,7 +564,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -405,7 +586,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -416,7 +597,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -449,9 +630,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "美国财政部：投资基金在最近两周买入476.52亿美元的5年期国债，高于前一个月的462.23亿美元；外国投资者买入126.48亿美元的5年期国债，而前一个月为154.74亿美元。",
+          "url": "https://flash.jin10.com/detail/20260310030350028800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股盘中）",
