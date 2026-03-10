@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T21:00:12.776771+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-03-10T22:06:13.713231+08:00",
+  "total_titles_processed": 1967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 241,
+      "match_count": 250,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时28分 ~ 21时00分]"
+          "appearance_count": 17,
+          "time_info": "[07时28分 ~ 22时06分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时57分 ~ 21时00分]"
+          "appearance_count": 16,
+          "time_info": "[09时57分 ~ 22时06分]"
         },
         {
           "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
@@ -226,8 +226,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时45分 ~ 21时00分]"
+          "appearance_count": 14,
+          "time_info": "[13时45分 ~ 22时06分]"
         },
         {
           "title": "1亿美元委内瑞拉黄金运抵美国",
@@ -257,8 +257,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时45分 ~ 21时00分]"
+          "appearance_count": 14,
+          "time_info": "[13时45分 ~ 22时06分]"
         },
         {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
@@ -272,6 +272,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时57分 ~ 16时42分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时06分]"
         },
         {
           "title": "女子将十几万黄金藏冰箱：有安全感",
@@ -301,6 +312,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时06分]"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时06分]"
         },
         {
           "title": "美国首周打击行动花费约60亿美元",
@@ -340,37 +373,27 @@
           "time_info": "[16时41分 ~ 16时42分]"
         },
         {
-          "title": "美以伊战争｜特朗普称可能与伊朗对话",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
           "ranks": [
-            1
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时06分]"
         },
         {
-          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
-          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
-          "source": "凤凰网",
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
-        },
-        {
-          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
-          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
+          "time_info": "[22时05分 ~ 22时06分]"
         },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -535,7 +558,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -849,6 +872,18 @@
           "time_info": "[06时29分 ~ 07时28分]"
         },
         {
+          "title": "特朗普称有可能有条件同伊朗谈判",
+          "url": "https://www.toutiao.com/trending/7615598658259521050/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 22时06分]"
+        },
+        {
           "title": "肖战 黄金时代",
           "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -895,17 +930,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时43分 ~ 18时39分]"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
@@ -1123,17 +1147,6 @@
           "time_info": "[09时57分 ~ 12时12分]"
         },
         {
-          "title": "特朗普称有可能有条件同伊朗谈判",
-          "url": "https://www.toutiao.com/trending/7615598658259521050/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
-        },
-        {
           "title": "市场消息：GE航空航天（GE Aerospace）宣布对美国国内制造业务投资10亿美元，创造5,000个美国就业岗位。",
           "url": "https://flash.jin10.com/detail/20260310005201320800",
           "source": "金十数据",
@@ -1261,9 +1274,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260310214202868800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
@@ -1283,7 +1307,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -1385,6 +1409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，纳指涨0.1%，道指跌0.05%，标普500指数跌0.05%。蔚来涨超6%，公司Q4实现经营利润12.5亿元，交付量大增71.7%。存储概念股普涨，西部数据涨超4%，闪迪、美光科技涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3067349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美国天然气期货日内跌超3.00%，现报3.090美元/百万英热。",
@@ -1569,7 +1604,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -1926,6 +1961,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "BioNTech(BNTX.O)美股盘中暴跌19%，创4月25日以来最大跌幅。",
+          "url": "https://flash.jin10.com/detail/20260310213243409800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "美国原油期货收涨超4%，中东原油期货一度涨穿123美元",
           "url": "https://wallstreetcn.com/livenews/3066682",
           "source": "华尔街见闻-快讯",
@@ -2179,6 +2225,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "美股开盘，道指跌0.13%，标普500指数跌0.03%，纳指涨0.1%。蔚来汽车(NIO.N)涨约6%，一季度营收指引同比增长103.4%至109.2%。BioNTech(BNTX.O)大跌约19%，公司2026年营收指引不及预期。",
+          "url": "https://flash.jin10.com/detail/20260310213028106800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "报道：特朗普考虑实施出口限制和税收豁免，来平抑油价",
           "url": "https://wallstreetcn.com/livenews/3066630",
           "source": "华尔街见闻-快讯",
@@ -2210,6 +2267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "现货黄金向上触及5200美元/盎司，日内涨1.23%。",
+          "url": "https://wallstreetcn.com/livenews/3067334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "美国总统特朗普：我认为他们选择穆杰塔巴·哈梅内伊担任伊朗新领导人是一个大错误。",
@@ -2262,7 +2330,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -2493,7 +2561,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -2570,9 +2638,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
+        },
+        {
+          "title": "李斌：大三排和大五座SUV市场迎来了纯电的黄金时代，对今年增长非常有信心",
+          "url": "https://wallstreetcn.com/livenews/3067328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "普京特朗普再通话",
@@ -2718,6 +2797,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "一项由谷歌和特斯拉等公司组成的新联盟将通过利用电网闲置容量来解决能源可负担性问题。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260310003140561800",
           "source": "金十数据",
@@ -2749,6 +2839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "腾讯控股ADR美股盘前走高，现涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20260310211708526800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         }
       ]
     }
