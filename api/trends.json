@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T18:39:42.371985+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2026-03-10T19:33:33.508632+08:00",
+  "total_titles_processed": 1731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 222,
+      "match_count": 229,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时28分 ~ 18时39分]"
+          "appearance_count": 13,
+          "time_info": "[07时28分 ~ 19时33分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时57分 ~ 18时39分]"
+          "appearance_count": 12,
+          "time_info": "[09时57分 ~ 19时33分]"
         },
         {
           "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
@@ -120,18 +120,6 @@
           "time_info": "[01时02分 ~ 14时50分]"
         },
         {
-          "title": "美媒：特朗普没有对伊朗的“战后计划”",
-          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时57分 ~ 18时39分]"
-        },
-        {
           "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
           "url": "https://www.cls.cn/detail/2308078",
           "source": "财联社热门",
@@ -140,11 +128,49 @@
             7,
             6,
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时49分 ~ 18时39分]"
+          "appearance_count": 9,
+          "time_info": "[14时49分 ~ 19时33分]"
+        },
+        {
+          "title": "美媒最新民调：特朗普支持率下滑至44%",
+          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时45分 ~ 19时33分]"
+        },
+        {
+          "title": "美媒：特朗普没有对伊朗的“战后计划”",
+          "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时57分 ~ 19时33分]"
+        },
+        {
+          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
+          "url": "https://www.cls.cn/detail/2307968",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时45分 ~ 19时33分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -192,6 +218,17 @@
           "time_info": "[01时02分 ~ 12时12分]"
         },
         {
+          "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
+          "url": "https://www.zhihu.com/question/2014656017116395259",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时45分 ~ 19时33分]"
+        },
+        {
           "title": "1亿美元委内瑞拉黄金运抵美国",
           "url": "https://s.weibo.com/weibo?q=%231%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%BB%84%E9%87%91%E8%BF%90%E6%8A%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -208,28 +245,19 @@
           "time_info": "[01时02分 ~ 09时57分]"
         },
         {
-          "title": "美媒最新民调：特朗普支持率下滑至44%",
-          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
-          "source": "凤凰网",
+          "title": "普京与特朗普通话讨论伊朗局势",
+          "url": "https://www.douyin.com/hot/2424957",
+          "source": "抖音",
           "ranks": [
-            7
+            15,
+            22,
+            25,
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时45分 ~ 18时39分]"
-        },
-        {
-          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
-          "url": "https://www.cls.cn/detail/2307968",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时45分 ~ 18时39分]"
+          "appearance_count": 10,
+          "time_info": "[13时45分 ~ 19时33分]"
         },
         {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
@@ -245,17 +273,6 @@
           "time_info": "[09时57分 ~ 16时42分]"
         },
         {
-          "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
-          "url": "https://www.zhihu.com/question/2014656017116395259",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时45分 ~ 18时39分]"
-        },
-        {
           "title": "女子将十几万黄金藏冰箱：有安全感",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%8D%81%E5%87%A0%E4%B8%87%E9%BB%84%E9%87%91%E8%97%8F%E5%86%B0%E7%AE%B1%EF%BC%9A%E6%9C%89%E5%AE%89%E5%85%A8%E6%84%9F",
           "source": "百度热搜",
@@ -269,21 +286,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 07时28分]"
-        },
-        {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
-          "ranks": [
-            15,
-            22,
-            25,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时45分 ~ 18时39分]"
         },
         {
           "title": "伊朗警告油价或超200美元",
@@ -570,6 +572,20 @@
           "time_info": "15时41分"
         },
         {
+          "title": "黄金不再保值了吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%B8%8D%E5%86%8D%E4%BF%9D%E5%80%BC%E4%BA%86%E5%90%97%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            17,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 19时33分]"
+        },
+        {
           "title": "周一（3月9日），降息赢家指数涨0.09%，报91.37点，跳空低开之后，盘初跌至87.53点。 “特朗普关税输家”指数涨0.01%，“特朗普金融指数”跌0.20%。 散户抱团概念股指数/迷因股（meme stock）指数涨1.79%。",
           "url": "https://wallstreetcn.com/livenews/3066731",
           "source": "华尔街见闻-快讯",
@@ -774,19 +790,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "黄金不再保值了吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%B8%8D%E5%86%8D%E4%BF%9D%E5%80%BC%E4%BA%86%E5%90%97%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 18时39分]"
         },
         {
           "title": "肖战 黄金时代",
@@ -1052,6 +1055,17 @@
           "time_info": "[09时57分 ~ 12时12分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "市场消息：GE航空航天（GE Aerospace）宣布对美国国内制造业务投资10亿美元，创造5,000个美国就业岗位。",
           "url": "https://flash.jin10.com/detail/20260310005201320800",
           "source": "金十数据",
@@ -1105,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美国总统特朗普：有可能会与伊朗对话。",
+          "url": "https://wallstreetcn.com/livenews/3067252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "长和就巴拿马港口被接管索赔20亿美元",
@@ -1162,13 +1187,24 @@
           "time_info": "07时28分"
         },
         {
+          "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3067251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "特朗普释放停战信号，美股期指盘前上涨，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -1448,6 +1484,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "BioNTech四季度营收9.074亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3067247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "美国总统特朗普：将于美国东部时间下午5点30分左右举行新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260310004418380800",
           "source": "金十数据",
@@ -1666,6 +1713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "蔚来美股盘前涨超6%，公司一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗行动）无人机和导弹能力正在被摧毁。",
@@ -2086,6 +2144,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "美媒：特朗普称可能愿意与伊朗进行对话",
+          "url": "https://flash.jin10.com/detail/20260310190512823800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "纳指实现V形反转，此前一度跌1.4%。半导体指数涨超1.2%，生物科技指数涨超0.6%。 标普500指数仍然跌超0.4%，道指维持400点、0.8%的跌幅，银行指数目前跌2.5%。 彭博美元指数回吐涨幅，油价涨势减退。",
           "url": "https://wallstreetcn.com/livenews/3066629",
           "source": "华尔街见闻-快讯",
@@ -2216,6 +2285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "花旗集团将2026-2030年全球人工智能资本支出预测从之前的8万亿美元上调至8.9万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260310190038911800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "特朗普：现在谈论夺取伊朗石油为时尚早",
