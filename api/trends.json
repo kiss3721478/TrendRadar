@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T15:44:12.333057+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-03-11T16:41:32.705599+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 156,
+      "match_count": 164,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时00分 ~ 06时29分]"
+        },
+        {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时33分 ~ 16时41分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -65,17 +76,6 @@
           "time_info": "[00时00分 ~ 07时34分]"
         },
         {
-          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时33分 ~ 15时44分]"
-        },
-        {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
@@ -94,11 +94,35 @@
           "ranks": [
             5,
             3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 16时41分]"
+        },
+        {
+          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
+          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 15时44分]"
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 16时41分]"
+        },
+        {
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 16时41分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -112,6 +136,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时33分 ~ 14时54分]"
+        },
+        {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时41分]"
         },
         {
           "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
@@ -144,40 +181,29 @@
           "time_info": "[00时00分 ~ 07时34分]"
         },
         {
-          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
-          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 15时44分]"
-        },
-        {
-          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
-          "url": "https://wallstreetcn.com/articles/3767160",
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 16时41分]"
         },
         {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            4
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 16时41分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -191,29 +217,16 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            8
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 15时44分]"
-        },
-        {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 16时41分]"
         },
         {
           "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
@@ -227,18 +240,6 @@
           "time_info": "[13时48分 ~ 13时49分]"
         },
         {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时33分 ~ 15时44分]"
-        },
-        {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
@@ -248,6 +249,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 16时41分]"
         },
         {
           "title": "现货黄金日内涨超100美元，现报5236.95美元/盎司，涨幅近2%。",
@@ -300,7 +315,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -415,6 +430,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "机构：若油价波动拖累持续，铜价或考验13000美元支撑",
+          "url": "https://flash.jin10.com/detail/20260311161800844800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "甲骨文(ORCL.N)2026财年Q3云服务营收89.1亿美元。",
           "url": "https://flash.jin10.com/detail/20260311040702260800",
           "source": "金十数据",
@@ -435,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8700，较上一交易日官方收盘价涨18点，较上日夜盘收盘涨30点。",
+          "url": "https://wallstreetcn.com/livenews/3067945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "凯利蓝皮书：2月新车平均成交价为49,353美元，较去年同期上涨3.4%。",
@@ -476,22 +513,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 15时44分]"
         },
         {
           "title": "航空业ETF、能源业ETF收跌约1.3%，领跌美股行业ETF",
@@ -652,6 +676,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时29分]"
+        },
+        {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 16时41分]"
+        },
+        {
+          "title": "曝美军方花900万美元买帝王蟹龙虾",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%BE%8E%E5%86%9B%E6%96%B9%E8%8A%B1900%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E5%B8%9D%E7%8E%8B%E8%9F%B9%E9%BE%99%E8%99%BE%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 16时41分]"
         },
         {
           "title": "普京与特朗普通话讨论伊朗局势",
@@ -832,17 +880,6 @@
           "time_info": "[02时46分 ~ 03时38分]"
         },
         {
-          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
-        },
-        {
           "title": "石油贸易商筹集70亿美元信贷以应对战争动荡",
           "url": "https://wallstreetcn.com/livenews/3067499",
           "source": "华尔街见闻-快讯",
@@ -853,17 +890,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时38分]"
-        },
-        {
-          "title": "曝美军方花900万美元买帝王蟹龙虾",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%BE%8E%E5%86%9B%E6%96%B9%E8%8A%B1900%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E5%B8%9D%E7%8E%8B%E8%9F%B9%E9%BE%99%E8%99%BE%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "报道：Cliffwater规模达330亿美元的信贷基金面临超7%的赎回",
@@ -950,7 +976,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -964,6 +990,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美银：若油价飙升至每桶120美元，泰国将面临滞胀风险",
+          "url": "https://wallstreetcn.com/livenews/3067939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股收盘）",
@@ -994,7 +1031,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1043,6 +1080,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "克里姆林宫发言人佩斯科夫：俄罗斯欢迎特朗普为解决乌克兰局势所做的努力，对此表示感谢。",
+          "url": "https://flash.jin10.com/detail/20260311161116549800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
           "url": "https://wallstreetcn.com/livenews/3067598",
           "source": "华尔街见闻-快讯",
@@ -1085,6 +1133,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "机构：中东冲突前景不明，金价走势承压",
+          "url": "https://flash.jin10.com/detail/20260311160836282800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "欧元兑美元回吐0.3%的涨幅，基本持平于1.1614。",
+          "url": "https://wallstreetcn.com/livenews/3067931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "EIA：伊朗战争扰乱供应 布油未来两个月将维持在95美元上方",
@@ -1274,6 +1344,17 @@
           "time_info": "13时49分"
         },
         {
+          "title": "甲骨文美股盘前涨超11%，公司营收指引超预期。",
+          "url": "https://wallstreetcn.com/livenews/3067922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "美国白宫：特朗普并未排除地面部队的选项。",
           "url": "https://flash.jin10.com/detail/20260311024027203800",
           "source": "金十数据",
@@ -1368,7 +1449,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1393,6 +1474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "上海黄金交易所公告，经审议，同意吸收澳大利亚和新西兰银行（中国）有限公司成为上海黄金交易所国际会员。同时，同意上海锦瑭联金属有限公司退会。",
+          "url": "https://wallstreetcn.com/livenews/3067916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "中东危机冲击泰国能源安全，燃油基金日亏3200万美元稳油价",
