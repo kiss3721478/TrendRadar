@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T09:57:31.167472+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-03-11T12:13:36.886019+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 126,
+      "match_count": 134,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -88,8 +88,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时46分 ~ 09时57分]"
+          "appearance_count": 11,
+          "time_info": "[02时46分 ~ 12时13分]"
         },
         {
           "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
@@ -114,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 09时57分]"
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 12时13分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -129,6 +129,19 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 12时13分]"
+        },
+        {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
@@ -138,6 +151,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
+          "url": "https://www.cls.cn/detail/2309121",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 12时13分]"
         },
         {
           "title": "现货黄金日内涨超100美元，现报5236.95美元/盎司，涨幅近2%。",
@@ -206,6 +231,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3067769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "美国总统特使威特科夫：（谈伊朗问题）美国总统特朗普始终愿意对话。",
           "url": "https://flash.jin10.com/detail/20260310234539359800",
           "source": "金十数据",
@@ -234,7 +270,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -283,18 +319,6 @@
           "time_info": "04时34分"
         },
         {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 09时57分]"
-        },
-        {
           "title": "甲骨文(ORCL.N)2026财年Q3云服务营收89.1亿美元。",
           "url": "https://flash.jin10.com/detail/20260311040702260800",
           "source": "金十数据",
@@ -315,17 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
-        },
-        {
-          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
-          "url": "https://www.cls.cn/detail/2309121",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
         },
         {
           "title": "凯利蓝皮书：2月新车平均成交价为49,353美元，较去年同期上涨3.4%。",
@@ -399,6 +412,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时34分]"
+        },
+        {
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 12时13分]"
         },
         {
           "title": "Alphavalue驻巴黎的副首席执行官Laurent Lamagnere表示：石油价格的剧烈波动令我们感到震惊。 尽管周二市场有所缓和，但“我们认为油价仍将维持在高位”。 “特朗普称战争可能结束，并不意味着它真的会结束。”",
@@ -497,6 +522,18 @@
           "time_info": "[06时29分 ~ 07时34分]"
         },
         {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时33分 ~ 12时13分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
           "url": "https://wallstreetcn.com/livenews/3067555",
           "source": "华尔街见闻-快讯",
@@ -510,17 +547,6 @@
           "time_info": "[04时34分 ~ 06时29分]"
         },
         {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时33分 ~ 09时57分]"
-        },
-        {
           "title": "普京与特朗普通话讨论伊朗局势",
           "url": "https://www.douyin.com/hot/2424957",
           "source": "抖音",
@@ -531,6 +557,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 12时13分]"
         },
         {
           "title": "甲骨文美股盘后涨幅扩大至9%。",
@@ -566,6 +603,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时29分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 12时13分]"
         },
         {
           "title": "纽约期银涨约5.2%，一度突破90美元关口",
@@ -712,15 +761,15 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
-          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
-          "url": "https://wallstreetcn.com/articles/3767160",
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "12时13分"
         },
         {
           "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
@@ -745,17 +794,6 @@
           "time_info": "04时34分"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260311003131035800",
           "source": "金十数据",
@@ -765,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "布伦特原油回落至85美元/桶下方，日内跌4.55%。",
+          "url": "https://flash.jin10.com/detail/20260311115840322800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "WTI原油日内跌幅达13.0%，报82.43美元/桶。 布伦特原油日内跌幅达12.5%，报86.5美元/桶。",
@@ -789,15 +838,15 @@
           "time_info": "04时34分"
         },
         {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
+          "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20260311115744060800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "12时13分"
         },
         {
           "title": "金十图示：2026年03月10日（周二）热门中概股行情一览（美股盘中）",
@@ -864,6 +913,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "金十图示：2026年03月11日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260311115101158800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "EIA：伊朗战争扰乱供应 布油未来两个月将维持在95美元上方",
+          "url": "https://www.cls.cn/detail/2309027",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "以色列总理内塔尼亚胡的内阁拟将预算增加130亿美元，以资助军事行动。",
@@ -971,7 +1042,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -1048,7 +1119,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -1196,6 +1267,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "Piper Sandler将甲骨文目标价从240美元下调至210美元。",
+          "url": "https://wallstreetcn.com/livenews/3067739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "美国3月EIA当年WTI原油均价预期 73.61美元/桶，前值53.42美元/桶。",
           "url": "https://flash.jin10.com/detail/20260311001349658800",
           "source": "金十数据",
@@ -1326,6 +1408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "澳元兑美元上涨0.75%至0.7174，创2022年年中以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3067733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月10日（周二）晚盘收盘上涨0.57%报1152.5元/克；<br/>上海黄金交易所白银T+D 3月10日（周二）晚盘收盘上涨0.19%报22304.0元/千克。",
