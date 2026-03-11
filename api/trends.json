@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-11T07:34:14.395507+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-03-11T09:57:31.167472+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 119,
+      "match_count": 126,
       "titles": [
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判",
-          "url": "https://www.cls.cn/detail/2308807",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 07时34分]"
-        },
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
           "url": "https://wallstreetcn.com/articles/3766990",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时00分 ~ 06时29分]"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 09时57分]"
         },
         {
           "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
@@ -76,6 +77,21 @@
           "time_info": "[00时00分 ~ 05时29分]"
         },
         {
+          "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
+          "url": "https://www.zhihu.com/question/2012122338733290833",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时46分 ~ 09时57分]"
+        },
+        {
           "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
           "url": "https://www.zhihu.com/question/2014656017116395259",
           "source": "知乎",
@@ -91,19 +107,15 @@
           "time_info": "[00时00分 ~ 07时34分]"
         },
         {
-          "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
-          "url": "https://www.zhihu.com/question/2012122338733290833",
-          "source": "知乎",
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            15,
-            12,
-            9,
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时46分 ~ 07时34分]"
+          "appearance_count": 3,
+          "time_info": "[07时33分 ~ 09时57分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -115,17 +127,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 06时29分]"
-        },
-        {
-          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -178,7 +179,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -200,7 +201,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -225,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "法国兴业银行制作了一份特朗普“TACO”表格：特朗普在第二任期内已经兑现了10项军事威胁中的7项。",
+          "url": "https://flash.jin10.com/detail/20260311095308298800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.579%（2月10日为3.518%），投标倍数2.55（前次为2.62）。",
@@ -255,7 +267,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -269,6 +281,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时33分 ~ 09时57分]"
         },
         {
           "title": "甲骨文(ORCL.N)2026财年Q3云服务营收89.1亿美元。",
@@ -291,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
+          "url": "https://www.cls.cn/detail/2309121",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "凯利蓝皮书：2月新车平均成交价为49,353美元，较去年同期上涨3.4%。",
@@ -475,6 +510,17 @@
           "time_info": "[04时34分 ~ 06时29分]"
         },
         {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时33分 ~ 09时57分]"
+        },
+        {
           "title": "普京与特朗普通话讨论伊朗局势",
           "url": "https://www.douyin.com/hot/2424957",
           "source": "抖音",
@@ -485,17 +531,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时33分 ~ 05时29分]"
-        },
-        {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
         },
         {
           "title": "甲骨文美股盘后涨幅扩大至9%。",
@@ -543,17 +578,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时29分]"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
         },
         {
           "title": "力拓：为阿根廷项目获得11.75亿美元融资协议。 IFC、IDB Invest、EFA、JBIC等提供了贷款。 预计Rincon Lithium将于2028年投产。",
@@ -688,6 +712,17 @@
           "time_info": "[05时29分 ~ 06时29分]"
         },
         {
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "美国白宫：特朗普“不排除”在战争中采取任何行动，包括派遣地面部队",
           "url": "https://flash.jin10.com/detail/20260311025134776800",
           "source": "金十数据",
@@ -708,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -741,6 +787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "金十图示：2026年03月10日（周二）热门中概股行情一览（美股盘中）",
@@ -782,7 +839,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -793,7 +850,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -804,7 +861,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -837,7 +894,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -908,13 +965,24 @@
           "time_info": "04时34分"
         },
         {
+          "title": "新台币兑美元上涨0.3%至31.730。",
+          "url": "https://wallstreetcn.com/livenews/3067665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "WTI原油日内涨幅达4.0%，报85.54美元/桶。 纽约银日内跌幅达1.0%，报88.5美元/盎司。 纽约金日内跌幅达0.5%，报5194.7美元/盎司。 标普500股指期货、纳指期货涨0.1%，罗素2000股指期货跌0.1%。",
           "url": "https://wallstreetcn.com/livenews/3067590",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -947,7 +1015,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -958,7 +1026,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -972,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "人民币兑美元中间价续创近三年新高",
+          "url": "https://wallstreetcn.com/livenews/3067662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "白宫宣称战争将在特朗普认为目标达成、伊朗投降时结束",
