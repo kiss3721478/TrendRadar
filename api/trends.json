@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T06:28:37.246638+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-03-14T07:28:54.510769+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 89,
+      "match_count": 95,
       "titles": [
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
@@ -60,19 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时28分]"
-        },
-        {
-          "title": "以色列总统称特朗普攻击国家主权",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BB%E5%87%BB%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
@@ -82,8 +71,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时28分]"
+        },
+        {
+          "title": "以色列总统称特朗普攻击国家主权",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BB%E5%87%BB%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
@@ -91,11 +92,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
@@ -105,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "中方向伊朗遇难学生家长援助20万美元",
@@ -117,8 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
@@ -128,8 +130,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "美国总统特朗普拒绝俄罗斯总统普京关于“将伊朗铀转移至俄罗斯”的提议。",
@@ -139,8 +141,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时28分]"
         },
         {
           "title": "伯克希尔·哈撒韦：沃伦·E·巴菲特2025年的总薪酬为389,488美元。",
@@ -150,8 +152,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时28分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260314040823519800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时28分]"
         },
         {
           "title": "WTI原油日内涨超2.00%，现报98.29美元/桶。",
@@ -176,6 +190,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "特朗普宣布对伊朗石油出口枢纽哈尔克岛发动空袭",
+          "url": "https://wallstreetcn.com/livenews/3070053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "纽元兑美元NZD/USD日内下跌1.00%，现报0.5795。",
           "url": "https://flash.jin10.com/detail/20260314020419451800",
           "source": "金十数据",
@@ -185,6 +210,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "美军何时护航油轮通过霍尔木兹海峡？特朗普最新表态：很快",
+          "url": "https://wallstreetcn.com/livenews/3070052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "美国总统特朗普：我非常喜欢墨西哥总统辛鲍姆。 墨西哥在由毒贩们经营。",
+          "url": "https://wallstreetcn.com/livenews/3070050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "据Politico：特朗普政府正在扩大孤立古巴的举措，向其他国家提供“激励措施”，以驱逐古巴医生。",
@@ -209,27 +256,15 @@
           "time_info": "02时42分"
         },
         {
-          "title": "10年期美债收益率创1月份以来新高，本周累涨将近14个基点",
-          "url": "https://wallstreetcn.com/livenews/3070030",
+          "title": "美国特朗普：一切结束后，汽油价格将会暴跌。",
+          "url": "https://wallstreetcn.com/livenews/3070049",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040823519800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时28分]"
+          "time_info": "07时28分"
         },
         {
           "title": "布伦特原油日内涨幅超过2.5%，报103.01美元/桶；WTI原油5分钟内上涨0.55美元/桶，报96.58美元/桶。",
@@ -318,6 +353,31 @@
           "time_info": "[04时34分 ~ 05时33分]"
         },
         {
+          "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3070022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时28分]"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260314040819364800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时28分]"
+        },
+        {
           "title": "LME期铜收跌219美元，报12780美元/吨。 LME期铝收跌77美元，报3440美元/吨。 LME期锌收跌6美元，报3296美元/吨。 LME期铅收跌32美元，报1908美元/吨。 LME期镍收跌476美元，报17266美元/吨。 LME期锡收跌2329美元，报47059美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3069966",
           "source": "华尔街见闻-快讯",
@@ -342,30 +402,6 @@
           "time_info": "[03时31分 ~ 04时34分]"
         },
         {
-          "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3070022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040819364800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时28分]"
-        },
-        {
           "title": "特朗普放松对委内瑞拉石油和化肥的制裁 以缓解美国通胀压力",
           "url": "https://flash.jin10.com/detail/20260314040738808800",
           "source": "金十数据",
@@ -374,8 +410,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时28分]"
+        },
+        {
+          "title": "10年期美债收益率创1月份以来新高，本周累涨将近14个基点",
+          "url": "https://wallstreetcn.com/livenews/3070030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时28分]"
         },
         {
           "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
@@ -386,8 +434,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时28分]"
         },
         {
           "title": "AT&T(T.N)首席执行官斯坦基本周早些时候与特朗普会面。",
@@ -398,8 +446,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时28分]"
         },
         {
           "title": "美元指数收盘价创年内新高。",
@@ -410,8 +458,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时28分]"
         },
         {
           "title": "世界周侃解读美委黄金之争",
@@ -420,11 +468,12 @@
           "ranks": [
             30,
             16,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时28分]"
         },
         {
           "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
@@ -435,8 +484,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时28分]"
         },
         {
           "title": "据外媒统计，自伊朗战争爆发以来，标普500指数的市值已蒸发2万亿美元。",
@@ -446,8 +495,58 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时28分]"
+        },
+        {
+          "title": "周五（3月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9065元，较周四纽约尾盘跌252点，日内整体交投于6.8778-6.9087元区间。",
+          "url": "https://wallstreetcn.com/livenews/3070021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时28分]"
+        },
+        {
+          "title": "美国总统特朗普拒绝了俄罗斯总统普京关于“将伊朗的铀转移至俄罗斯”的建议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3070019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时28分]"
+        },
+        {
+          "title": "布油期货连续第二日收于每桶100美元上方",
+          "url": "https://flash.jin10.com/detail/20260314041826257800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时28分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
+          "url": "https://wallstreetcn.com/livenews/3070015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时33分 ~ 07时28分]"
         },
         {
           "title": "特朗普：美军下周将“猛烈空袭”伊朗，拒绝谈论“夺岛”，不需要乌克兰的反无人机技术",
@@ -486,16 +585,16 @@
           "time_info": "[04时34分 ~ 05时33分]"
         },
         {
-          "title": "周五（3月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9065元，较周四纽约尾盘跌252点，日内整体交投于6.8778-6.9087元区间。",
-          "url": "https://wallstreetcn.com/livenews/3070021",
+          "title": "美联储：美国上周银行存款18.816万亿美元，之前一周18.810万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3070029",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
+          "time_info": "[06时28分 ~ 07时28分]"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：总统特朗普让社区银行可以染指抵押贷款。",
@@ -508,18 +607,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时33分]"
-        },
-        {
-          "title": "美国总统特朗普拒绝了俄罗斯总统普京关于“将伊朗的铀转移至俄罗斯”的建议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3070019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
         },
         {
           "title": "数字货币市场周五走高，比特币涨穿7.2万美元，本周以太币涨超7.7%",
@@ -558,17 +645,6 @@
           "time_info": "[04时34分 ~ 05时33分]"
         },
         {
-          "title": "布油期货连续第二日收于每桶100美元上方",
-          "url": "https://flash.jin10.com/detail/20260314041826257800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
-        },
-        {
           "title": "LME锡期货跌幅达4.00%，现报47036.80美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3069928",
           "source": "华尔街见闻-快讯",
@@ -579,18 +655,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时35分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
-          "url": "https://wallstreetcn.com/livenews/3070015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
         },
         {
           "title": "纽约期金跌2%，逼近5000美元，现货白银本周跌超4.7%",
@@ -628,15 +692,15 @@
           "time_info": "[00时40分 ~ 01时35分]"
         },
         {
-          "title": "美联储：美国上周银行存款18.816万亿美元，之前一周18.810万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3070029",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
+          "url": "https://www.cls.cn/detail/2312848",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时28分"
+          "time_info": "07时28分"
         },
         {
           "title": "布伦特原油期货连续第二天收盘价超过每桶100美元。",
@@ -692,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "【美总统被曝拒绝俄总统将伊朗浓缩铀运往俄罗斯提议】13日获悉，有消息人士称，在本周与美国总统特朗普的一次通话中，俄罗斯总统普京提议将伊朗的浓缩铀运往俄罗斯，以此作为结束这场战争协议的一部分，特朗普拒绝了这一提议。 消息人士称，普京在与特朗普通话中就如何结束美伊冲突提出了多项建议，将浓缩铀运往俄罗斯的提议便是其中之一。一位美国官员表示，“这并非俄方首次提出此类建议，但此前均未获接受。美方的立场是：我们必须亲眼确认这批浓缩铀已得到妥善保管并处于安全状态。” 据悉，确保伊朗450公斤丰度为60%的浓缩铀的安全是美国和以色列在这场战争中的关键目标之一。 目前尚不清楚伊朗方面是否会在当前局势下接受俄方的这一提议。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3070038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "现货白银日内跌5.00%，现报79.69美元/盎司。",
@@ -953,7 +1028,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
