@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T13:50:02.168274+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-03-13T14:54:08.549083+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 112,
+      "match_count": 123,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -44,6 +44,18 @@
           "time_info": "[01时15分 ~ 06时26分]"
         },
         {
+          "title": "【早报】伊朗新任最高领袖发表首次声明；国际油价飙升，再次突破100美元",
+          "url": "https://www.cls.cn/detail/2311470",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 14时54分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
@@ -53,6 +65,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 05时32分]"
+        },
+        {
+          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2311450",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时26分 ~ 14时54分]"
+        },
+        {
+          "title": "五角大楼承认：对伊动武前6天花费超113亿美元",
+          "url": "https://news.ifeng.com/c/8rS2qMh30hj",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时54分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -79,8 +115,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时42分 ~ 13时50分]"
+          "appearance_count": 12,
+          "time_info": "[03时42分 ~ 14时54分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 14时54分]"
         },
         {
           "title": "追觅手机6800元起售 黄金版超10万元",
@@ -100,16 +147,15 @@
           "time_info": "[01时15分 ~ 12时20分]"
         },
         {
-          "title": "【早报】伊朗新任最高领袖发表首次声明；国际油价飙升，再次突破100美元",
-          "url": "https://www.cls.cn/detail/2311470",
-          "source": "财联社热门",
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时28分 ~ 13时50分]"
+          "time_info": "[12时20分 ~ 14时54分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -125,50 +171,42 @@
           "time_info": "[01时15分 ~ 10时01分]"
         },
         {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
             7,
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时26分 ~ 13时50分]"
+          "time_info": "[10时01分 ~ 14时54分]"
         },
         {
-          "title": "五角大楼承认：对伊动武前6天花费超113亿美元",
-          "url": "https://news.ifeng.com/c/8rS2qMh30hj",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时50分]"
-        },
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
+          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
+          "url": "https://wallstreetcn.com/articles/3767360",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时54分]"
         },
         {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
           "ranks": [
-            3
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时54分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -215,6 +253,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "现货白银日内跌幅达2.00%，现报82.21美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260313145042291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "WTI 4月原油期货收涨8.48美元，涨幅9.72%，报95.73美元/桶。 NYMEX 4月天然气期货收报3.2330美元/百万英热单位。 NYMEX 4月汽油期货收报2.9646美元/加仑，NYMEX 3月取暖油期货收报3.8989美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3069105",
           "source": "华尔街见闻-快讯",
@@ -224,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "离岸人民币兑美元跌破6.89，日内跌约80点。",
+          "url": "https://wallstreetcn.com/livenews/3069442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "战争风险推动美债“恐惧指标”跃升至九个月高点",
@@ -260,6 +320,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时43分 ~ 07时28分]"
+        },
+        {
+          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
+          "url": "https://wallstreetcn.com/articles/3767353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 14时54分]"
         },
         {
           "title": "美联储3月11日当周贴现窗贷款余额46.6亿美元，之前一周47.1亿美元。",
@@ -409,30 +481,6 @@
           "time_info": "[04时35分 ~ 05时32分]"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时50分]"
-        },
-        {
-          "title": "美国能源部长：海军“尚未准备好”护航霍尔木兹，油价不太可能升至200美元",
-          "url": "https://wallstreetcn.com/articles/3767360",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时50分]"
-        },
-        {
           "title": "美股收盘：纳指跌1.7% 芯片股走弱",
           "url": "https://flash.jin10.com/detail/20260313040117943800",
           "source": "金十数据",
@@ -457,17 +505,15 @@
           "time_info": "[03时43分 ~ 04时35分]"
         },
         {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时50分]"
+          "time_info": "[13时49分 ~ 14时54分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
@@ -531,17 +577,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 07时28分]"
-        },
-        {
-          "title": "中东局势升级：迪拜爆发多起无人机袭击事件，油价突破100美元大关",
-          "url": "https://wallstreetcn.com/articles/3767353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时50分]"
         },
         {
           "title": "中方就特朗普访华计划准备进展如何？外交部回应",
@@ -613,17 +648,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时55分]"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们主动出击，以前所未有的力量进行强力打击。我们与美国建立了前所未有的联盟，与我的个人朋友、总统唐纳德·特朗普紧密合作。",
@@ -828,6 +852,28 @@
           "time_info": "12时20分"
         },
         {
+          "title": "地区冲突担忧笼罩市场 美债恐慌指标升至九个月高位",
+          "url": "https://wallstreetcn.com/livenews/3069435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "纽约期银日内跌超3.00%，现报82.56美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260313144140955800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
           "url": "https://flash.jin10.com/detail/20260313004045966800",
           "source": "金十数据",
@@ -872,13 +918,35 @@
           "time_info": "07时28分"
         },
         {
+          "title": "伦锡日内跌幅达2.00%，现报48100.00美元/吨。沪锡日内跌幅达3%，现报378220元/吨。",
+          "url": "https://flash.jin10.com/detail/20260313143335625800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "现货白银日内走低1%，现报83.04美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3069431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "高盛：霍尔木兹海峡若持续中断两个月，对第四季度布伦特原油平均价格的预测将从每桶71美元上调至93美元。",
           "url": "https://flash.jin10.com/detail/20260313131312423800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -933,7 +1001,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -993,6 +1061,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "WTI原油日内跌幅达1%，报93.39美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3069423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "美国总统特朗普：已全面听取关于密歇根犹太会堂袭击事件的简报。",
           "url": "https://flash.jin10.com/detail/20260313042248877800",
           "source": "金十数据",
@@ -1002,6 +1081,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "日本首相高市早苗：将巩固与特朗普的信任关系。 将在美峰会中阐述日本在中东问题上的立场。 强化基本面能增强日元的信心。",
+          "url": "https://wallstreetcn.com/livenews/3069422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "金十图示：2026年03月12日（周四）热门中概股行情一览（美股盘中）",
@@ -1043,7 +1133,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1070,6 +1160,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "现货白银日内走低1.00%，现报83.04美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260313142251740800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "伊朗最高安全官员对特朗普表示：结束战争可不是发几条推特就能做到的。",
           "url": "https://flash.jin10.com/detail/20260313002551576800",
           "source": "金十数据",
@@ -1087,7 +1188,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1136,6 +1237,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "新台币兑美元下跌0.3%至31.942。",
+          "url": "https://wallstreetcn.com/livenews/3069416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "伊朗最高安全官员对特朗普表示：我们不会退让。",
           "url": "https://flash.jin10.com/detail/20260313002352464800",
           "source": "金十数据",
@@ -1164,7 +1276,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1197,7 +1309,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1208,9 +1320,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "布伦特原油日内跌超2.00%，现报96.95美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260313141048494800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "WTI原油期货涨幅收窄至8.4%，逼近93.30美元。",
@@ -1274,7 +1397,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1307,7 +1430,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
