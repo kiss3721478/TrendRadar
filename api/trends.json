@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T20:58:19.868630+08:00",
-  "total_titles_processed": 1763,
+  "generated_at": "2026-03-13T22:02:52.860197+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 165,
+      "match_count": 175,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时20分 ~ 20时58分]"
+          "appearance_count": 16,
+          "time_info": "[12时20分 ~ 22时02分]"
         },
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
@@ -119,6 +119,20 @@
           "time_info": "[06时26分 ~ 15时45分]"
         },
         {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[10时01分 ~ 22时02分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
@@ -128,6 +142,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 05时32分]"
+        },
+        {
+          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
+          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时37分 ~ 22时02分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -140,19 +165,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时15分 ~ 07时28分]"
-        },
-        {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时01分 ~ 20时58分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -226,17 +238,6 @@
           "time_info": "[01时15分 ~ 12时20分]"
         },
         {
-          "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
-          "url": "https://news.ifeng.com/c/8rSg9cinRV8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时37分 ~ 20时58分]"
-        },
-        {
           "title": "外交部：中方将提供20万美元紧急人道主义援助，抚恤伊朗遇难学生家长",
           "url": "https://m.thepaper.cn/newsDetail_forward_32760946",
           "source": "澎湃新闻",
@@ -244,11 +245,12 @@
             15,
             13,
             7,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 22时02分]"
         },
         {
           "title": "中方向伊朗遇难学生家长援助20万美元",
@@ -259,8 +261,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 22时02分]"
         },
         {
           "title": "中国向伊朗提供20万美元人道主义援助",
@@ -271,8 +273,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时38分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[17时38分 ~ 22时02分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -322,6 +324,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "世界周侃解读美委黄金之争",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E4%BE%83%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%A7%94%E9%BB%84%E9%87%91%E4%B9%8B%E4%BA%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "特朗普会晤在即，日本首相高市早苗健康状况引担忧",
           "url": "https://flash.jin10.com/detail/20260313095635530800",
           "source": "金十数据",
@@ -364,6 +377,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时37分 ~ 22时02分]"
         },
         {
           "title": "现货白银日内跌幅达2.00%，现报82.21美元/盎司。",
@@ -421,6 +448,17 @@
           "time_info": "14时54分"
         },
         {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 22时02分]"
+        },
+        {
           "title": "战争风险推动美债“恐惧指标”跃升至九个月高点",
           "url": "https://flash.jin10.com/detail/20260313115640336800",
           "source": "金十数据",
@@ -454,6 +492,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "阿联酋国务部长：伊朗冲突将以外交形式终结；美国总统特朗普将在适当时候引领我们走向那一时刻。",
+          "url": "https://flash.jin10.com/detail/20260313214603456800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "中方向伊朗遇难学生家长援助20万美元",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%91%E4%BC%8A%E6%9C%97%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E6%8F%B4%E5%8A%A920%E4%B8%87%E7%BE%8E%E5%85%83%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -481,17 +530,16 @@
           "time_info": "[03时43分 ~ 07时28分]"
         },
         {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
+          "title": "姐姐把150万元黄金当垃圾扔掉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E6%8A%8A150%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E6%8E%89%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            20,
-            19,
-            14
+            26,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时37分 ~ 20时58分]"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时02分]"
         },
         {
           "title": "美联储3月11日当周贴现窗贷款余额46.6亿美元，之前一周47.1亿美元。",
@@ -531,17 +579,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 06时26分]"
-        },
-        {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 20时58分]"
         },
         {
           "title": "WTI原油盘初涨超1.00%，现报97.35美元/桶。",
@@ -738,6 +775,17 @@
           "time_info": "[05时32分 ~ 07时28分]"
         },
         {
+          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
+          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时02分]"
+        },
+        {
           "title": "周四（3月12日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8813元，较周三纽约尾盘跌46点，日内整体交投于8.8643-6.8854元区间。",
           "url": "https://wallstreetcn.com/livenews/3069163",
           "source": "华尔街见闻-快讯",
@@ -832,17 +880,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时55分]"
-        },
-        {
-          "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
-          "url": "https://news.ifeng.com/c/8rT05GsE7jk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们主动出击，以前所未有的力量进行强力打击。我们与美国建立了前所未有的联盟，与我的个人朋友、总统唐纳德·特朗普紧密合作。",
@@ -1037,17 +1074,6 @@
           "time_info": "[03时43分 ~ 04时35分]"
         },
         {
-          "title": "姐姐把150万元黄金当垃圾扔掉",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E6%8A%8A150%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E6%8E%89%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
-        },
-        {
           "title": "伊朗称特朗普几条推文结束不了战争",
           "url": "https://flash.jin10.com/detail/20260313004520116800",
           "source": "金十数据",
@@ -1087,7 +1113,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1120,7 +1146,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1134,6 +1160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，全球股市普跌，美元指数重回100关口，日元创20个月新低",
+          "url": "https://wallstreetcn.com/articles/3767392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
@@ -1178,6 +1215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "浑水创始人转空：若AI持续替代白领，美股401K体系或将崩盘",
+          "url": "https://wallstreetcn.com/articles/3767368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "WTI原油失守96美元/桶，日内跌幅0.53%。",
@@ -1244,6 +1292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260313214149488800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "印度卢比兑美元跌至历史新低92.37。",
@@ -1356,6 +1415,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "美股三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。明星科技股多数走高，美光科技涨超3%，英特尔涨2.7%，台积电涨超2%。纳斯达克上市次日，PayPay涨超16%。Adobe跌超7%，公司上季营收超预期创纪录，但指引平平。META下跌3.2%，创3月6日以来最大盘中跌幅，报道称Meta在出现性能担忧后推迟了新AI模型的推出。",
+          "url": "https://wallstreetcn.com/livenews/3069840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260313003325589800",
           "source": "金十数据",
@@ -1453,6 +1523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "泽连斯基：美国放宽石油制裁将为俄带来100亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3069835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "金十图示：2026年03月12日（周四）热门中概股行情一览（美股盘中）",
@@ -1593,9 +1674,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "摩根大通：美股散户风险偏好出现降温",
+          "url": "https://flash.jin10.com/detail/20260313213113167800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "周四（3月12日），美联储隔夜逆回购协议（RRP）使用规模为1.37亿美元（交易对手4家），上个交易日报5.52亿美元。",
@@ -1642,6 +1734,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "美股开盘，三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。Adobe(ADBE.O)大跌7%， CEO掌舵18年后宣布辞职。",
+          "url": "https://flash.jin10.com/detail/20260313213027984800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "伊朗最高安全官员对特朗普表示：我们不会退让。",
           "url": "https://flash.jin10.com/detail/20260313002352464800",
           "source": "金十数据",
@@ -1673,6 +1776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "美国总统特朗普：我相信伊朗领导人还活着，只是“受伤”了。",
+          "url": "https://flash.jin10.com/detail/20260313212822283800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.871%（2月12日为4.750%），投标倍数2.45（前次为2.66）。",
@@ -1736,7 +1850,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1758,7 +1872,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
