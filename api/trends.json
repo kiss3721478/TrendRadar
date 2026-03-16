@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T13:15:17.101259+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-03-16T15:17:08.252848+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 45,
+      "match_count": 54,
       "titles": [
         {
           "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
@@ -92,11 +92,27 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 15时17分]"
+        },
+        {
+          "title": "伊朗战争后黄金为何下跌？摩根大通：市场动荡初期，黄金往往首先被抛售，此后或迅速转涨",
+          "url": "https://wallstreetcn.com/articles/3767553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 16,
-          "time_info": "[00时32分 ~ 13时15分]"
+          "time_info": "[01时28分 ~ 15时17分]"
         },
         {
           "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
@@ -110,20 +126,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 07时30分]"
-        },
-        {
-          "title": "伊朗战争后黄金为何下跌？摩根大通：市场动荡初期，黄金往往首先被抛售，此后或迅速转涨",
-          "url": "https://wallstreetcn.com/articles/3767553",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时28分 ~ 13时15分]"
         },
         {
           "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
@@ -157,11 +159,24 @@
             19,
             20,
             18,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 15时17分]"
+        },
+        {
+          "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
+          "url": "https://www.cls.cn/detail/2313562",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 15时17分]"
         },
         {
           "title": "比特币短线从7.16万美元下方拉升至71990.88美元。",
@@ -189,6 +204,17 @@
           "time_info": "[13时14分 ~ 13时15分]"
         },
         {
+          "title": "美以伊战争丨特朗普痛斥美国媒体叛国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
           "title": "周一悉尼盘初，美元报价走低。 澳元兑美元一度涨超0.34%，至0.7上方。 纽元兑美元涨超0.43%，逼近0.58。 欧元兑美元转而重新涨超0.03%，重返1.1420上方。 英镑兑美元转而重新涨0.08%，报1.3241，此前一度涨约0.25%至1.3263。",
           "url": "https://wallstreetcn.com/livenews/3070406",
           "source": "华尔街见闻-快讯",
@@ -202,18 +228,6 @@
           "time_info": "[03时28分 ~ 07时30分]"
         },
         {
-          "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
-          "url": "https://www.cls.cn/detail/2313562",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时15分]"
-        },
-        {
           "title": "太昊陵庙会“黄金摊位”拍卖今日开启",
           "url": "https://www.toutiao.com/trending/7617424840085094409/",
           "source": "今日头条",
@@ -223,6 +237,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "民调：特朗普正将美国盟友推向中国",
+          "url": "https://www.toutiao.com/trending/7617510305036795923/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "特朗普称“可能还会再炸几次，只是为了开心”，伊朗外长回应",
@@ -237,6 +262,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时28分 ~ 06时28分]"
+        },
+        {
+          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
+          "url": "https://www.zhihu.com/question/2016791283864138046",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 15时17分]"
         },
         {
           "title": "中东战事进入第三周 金价持稳于5000美元上方",
@@ -259,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
+          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 15时17分]"
         },
         {
           "title": "WTI原油开盘向上触及102美元/桶，日内涨2.74%。",
@@ -297,15 +345,39 @@
           "time_info": "[05时28分 ~ 06时28分]"
         },
         {
-          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
-          "url": "https://www.zhihu.com/question/2016791283864138046",
-          "source": "知乎",
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时24分 ~ 13时15分]"
+          "time_info": "[13时14分 ~ 15时17分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 15时17分]"
+        },
+        {
+          "title": "黄金白银再现断崖式跳水",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%86%8D%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 15时17分]"
         },
         {
           "title": "美国内政部长伯古姆：亚太地区盟友在东京举行的能源安全论坛上，同意与美国企业达成总额560亿美元的交易。",
@@ -347,15 +419,15 @@
           "time_info": "[04时31分 ~ 06时28分]"
         },
         {
-          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
-          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
-          "source": "凤凰网",
+          "title": "避险资产失灵了？伊朗战火不断 黄金跌破5000美元整数关",
+          "url": "https://www.cls.cn/detail/2313909",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -368,28 +440,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时30分]"
-        },
-        {
-          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "黄金",
@@ -414,15 +464,15 @@
           "time_info": "[10时24分 ~ 10时25分]"
         },
         {
-          "title": "黄金白银再现断崖式跳水",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%86%8D%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4",
+          "title": "黄金和手机卖爆 你的钱包参与了吗",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%92%8C%E6%89%8B%E6%9C%BA%E5%8D%96%E7%88%86+%E4%BD%A0%E7%9A%84%E9%92%B1%E5%8C%85%E5%8F%82%E4%B8%8E%E4%BA%86%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "黄金首饰和手机“卖爆”了",
@@ -436,15 +486,48 @@
           "time_info": "[13时14分 ~ 13时15分]"
         },
         {
+          "title": "特朗普喊话护航，盟友反应冷淡",
+          "url": "https://wallstreetcn.com/livenews/3070684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "加拿大皇家银行：将美光科技(MU.O)目标价从425美元上调至525美元。",
+          "url": "https://flash.jin10.com/detail/20260316145046494800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "泰铢汇率下跌，跌至1美元兑32.505泰铢，为2025年11月24日以来新低。",
           "url": "https://flash.jin10.com/detail/20260316121140865800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "摩根士丹利：将2026年第二季度布伦特原油价格预测上调至每桶110美元。",
+          "url": "https://flash.jin10.com/detail/20260316144640525800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "特朗普称在对伊军事行动中美以目标大体一致",
@@ -469,6 +552,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "韩元兑美元在岸结算平台收报1,497.5，为自2009年3月10日以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260316143552064800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "据华尔街日报：石油行业警告，特朗普政府导致的能源危机很可能进一步恶化。",
           "url": "https://flash.jin10.com/detail/20260316060608218800",
           "source": "金十数据",
@@ -486,7 +580,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -524,13 +618,24 @@
           "time_info": "00时33分"
         },
         {
+          "title": "摩根士丹利将2026年第二季度布伦特原油价格预测上调至每桶110美元。",
+          "url": "https://wallstreetcn.com/livenews/3070659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "特朗普称正与他国商讨共同保障霍尔木兹海峡航行安全",
           "url": "https://wallstreetcn.com/livenews/3070554",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         }
