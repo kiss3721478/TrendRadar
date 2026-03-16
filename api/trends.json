@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T05:40:13.319656+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-03-17T06:34:03.791340+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 84,
+      "match_count": 92,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时40分]"
-        },
-        {
-          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2016900692145637068",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时34分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -38,8 +26,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时34分]"
+        },
+        {
+          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016900692145637068",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时34分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -49,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时34分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -60,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时34分]"
         },
         {
           "title": "贝森特：美国默许部分船只通过霍尔木兹，几个月后油价“远低于”80美元",
@@ -72,8 +73,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时34分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -95,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时34分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -106,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时34分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -118,8 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时34分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -127,11 +128,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时34分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -141,11 +143,12 @@
             16,
             15,
             14,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 06时34分]"
         },
         {
           "title": "资金疯狂涌入黄金ETF",
@@ -156,8 +159,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 06时34分]"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -166,11 +169,13 @@
           "ranks": [
             30,
             27,
-            22
+            22,
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 06时34分]"
         },
         {
           "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
@@ -180,19 +185,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 05时40分]"
+          "appearance_count": 4,
+          "time_info": "[05时39分 ~ 06时34分]"
         },
         {
-          "title": "特朗普暗示袭击哈尔克岛石油设施",
-          "url": "https://flash.jin10.com/detail/20260317051712836800",
+          "title": "美以伊战争丨特朗普暗示将袭击哈尔克岛石油设施",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 06时34分]"
+        },
+        {
+          "title": "美国民主党籍各州总检察长表示，特朗普提议提高政府资助的电动汽车充电站美国本土零部件使用比例，此举将导致该计划无法实施。",
+          "url": "https://flash.jin10.com/detail/20260317061813978800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时40分"
+          "time_info": "06时34分"
         },
         {
           "title": "英伟达涨幅扩大至4.7%，刷新日高。黄仁勋预计，2027年收入将至少达到1万亿美元。 纳斯达克100指数涨幅扩大至1.7%，刷新日高。 标普500指数涨超1.2%，道指涨459点涨幅0.99%。",
@@ -228,26 +244,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "特朗普称他将“有幸拿下古巴”",
-          "url": "https://wallstreetcn.com/livenews/3071184",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称伊朗行动获一位美国前总统称赞 但无人承认通话",
+          "url": "https://flash.jin10.com/detail/20260317061512622800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "万斯称支持特朗普对伊行动 批评媒体挑拨关系",
-          "url": "https://flash.jin10.com/detail/20260317050625478800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "time_info": "06时34分"
         },
         {
           "title": "Beyond Meat四季度净营收初步估算为大约6100万美元，分析师预期6290万美元。",
@@ -272,15 +277,40 @@
           "time_info": "02时02分"
         },
         {
-          "title": "美国总统特朗普：我认为我可以对古巴做任何事情，无论是让它自由，还是把它拿下。",
-          "url": "https://flash.jin10.com/detail/20260317050036634800",
+          "title": "特朗普暗示袭击哈尔克岛石油设施",
+          "url": "https://flash.jin10.com/detail/20260317051712836800",
           "source": "金十数据",
           "ranks": [
-            5
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时34分]"
+        },
+        {
+          "title": "特朗普称他将“有幸拿下古巴”",
+          "url": "https://wallstreetcn.com/livenews/3071184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时34分]"
+        },
+        {
+          "title": "万斯称支持特朗普对伊行动 批评媒体挑拨关系",
+          "url": "https://flash.jin10.com/detail/20260317050625478800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时34分]"
         },
         {
           "title": "英伟达CEO黄仁勋在GTC活动上表示：需求持续增长。 公司的目标是，2025-27年与数据中心相关的收入将至少达到1万亿美元。 60%的业务将面向超大规模云服务商（Hyperscalers）。",
@@ -295,6 +325,18 @@
           "time_info": "[03时21分 ~ 04时39分]"
         },
         {
+          "title": "美国总统特朗普：我认为我可以对古巴做任何事情，无论是让它自由，还是把它拿下。",
+          "url": "https://flash.jin10.com/detail/20260317050036634800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时34分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8908元，较上周五夜盘收盘涨135点。成交量439.06亿美元。",
           "url": "https://wallstreetcn.com/livenews/3071113",
           "source": "华尔街见闻-快讯",
@@ -305,6 +347,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时39分]"
+        },
+        {
+          "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
+          "url": "https://flash.jin10.com/detail/20260317045819803800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时34分]"
+        },
+        {
+          "title": "周一（3月16日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8890元，较上周五纽约尾盘涨175点，日内整体交投于6.9085-6.8859元区间。",
+          "url": "https://wallstreetcn.com/livenews/3071174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时34分]"
         },
         {
           "title": "男子家中黄金不翼而飞 小偷系邻居",
@@ -340,6 +406,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "WTI原油周二小幅高开，现报94.4美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260317060040919800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
           "title": "美国总统特朗普：美国拥有所需的一切石油。",
           "url": "https://wallstreetcn.com/livenews/3071071",
           "source": "华尔街见闻-快讯",
@@ -362,17 +439,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
-          "url": "https://flash.jin10.com/detail/20260317045819803800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
           "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260317025904229800",
           "source": "金十数据",
@@ -390,9 +456,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "多国表示不参与霍尔木兹海峡护航 特朗普抱怨盟友“不帮忙”",
+          "url": "https://flash.jin10.com/detail/20260317055555501800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "钨价格已经在2026年超过翻倍，至2250美元/吨，涨势在最近数周加速扩大。 投资者担心库存问题，而中东冲突推高对钨的军用需求。",
@@ -415,17 +492,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "周一（3月16日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8890元，较上周五纽约尾盘涨175点，日内整体交投于6.9085-6.8859元区间。",
-          "url": "https://wallstreetcn.com/livenews/3071174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
         },
         {
           "title": "Meta将斥资高达270亿美元采购Nebius算力",
@@ -494,6 +560,17 @@
           "time_info": "04时39分"
         },
         {
+          "title": "多国表示不参与霍尔木兹海峡护航，特朗普抱怨盟友“不帮忙”",
+          "url": "https://wallstreetcn.com/livenews/3071191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
           "title": "金十图示：2026年03月16日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260317040621186800",
           "source": "金十数据",
@@ -544,7 +621,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -588,7 +665,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -621,7 +698,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -654,7 +731,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -676,9 +753,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "特朗普成立联邦福利欺诈特别工作组 由万斯领导",
+          "url": "https://flash.jin10.com/detail/20260317052518543800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美国总统特朗普：伊朗的反对派运动很艰难，他们没有武器。",
@@ -709,7 +797,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -731,9 +819,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "特朗普再就结束战争给出模糊时间表：很快，但不是本周",
+          "url": "https://flash.jin10.com/detail/20260317051846700800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "LME期铜收涨75美元，报12856美元/吨。 LME期铝收跌44美元，报3396美元/吨。 LME期锌收跌26美元，报3270美元/吨。 LME期铅收跌2美元，报1905美元/吨。 LME期镍收涨199美元，报17465美元/吨。 LME期锡收涨1206美元，报48265美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -863,7 +962,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -907,7 +1006,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -918,7 +1017,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         },
@@ -940,7 +1039,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
         }
