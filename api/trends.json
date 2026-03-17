@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:56:40.358566+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-03-17T18:52:29.436577+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 155,
+      "match_count": 157,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -67,8 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 17时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 18时52分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -102,8 +102,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时04分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[10时04分 ~ 18时52分]"
         },
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -114,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时04分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[10时04分 ~ 18时52分]"
         },
         {
           "title": "特朗普“护航联盟”为何应者寥寥？美军真的会夺哈尔克岛吗｜907编辑部",
@@ -128,8 +128,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时04分 ~ 17时56分]"
+          "appearance_count": 9,
+          "time_info": "[10时04分 ~ 18时52分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -252,6 +252,20 @@
           "time_info": "[07时32分 ~ 15时16分]"
         },
         {
+          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
+          "url": "https://www.cls.cn/detail/2314987",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时04分 ~ 18时52分]"
+        },
+        {
           "title": "特朗普“三个很开心”，让全世界脊背发凉",
           "url": "https://news.ifeng.com/c/8rYllPsJnfC",
           "source": "凤凰网",
@@ -278,20 +292,6 @@
           "time_info": "[10时04分 ~ 16时54分]"
         },
         {
-          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
-          "url": "https://www.cls.cn/detail/2314987",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时04分 ~ 17时56分]"
-        },
-        {
           "title": "美以伊战争丨特朗普暗示将袭击哈尔克岛石油设施",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -301,6 +301,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 07时32分]"
+        },
+        {
+          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时51分 ~ 18时52分]"
+        },
+        {
+          "title": "美澄清涉特朗普或推迟访华不实报道",
+          "url": "https://www.cls.cn/detail/2315239",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时52分]"
         },
         {
           "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
@@ -338,31 +363,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时51分 ~ 16时54分]"
-        },
-        {
-          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时51分 ~ 17时56分]"
-        },
-        {
-          "title": "美澄清涉特朗普或推迟访华不实报道",
-          "url": "https://www.cls.cn/detail/2315239",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时56分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -464,17 +464,6 @@
           "time_info": "13时59分"
         },
         {
-          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
-          "url": "https://wallstreetcn.com/livenews/3071571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "中方回应特朗普称可能推迟访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -528,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "纽约期银日内涨超2.00%，现报82.30美元/盎司。",
@@ -598,6 +598,18 @@
           "time_info": "[06时34分 ~ 07时32分]"
         },
         {
+          "title": "谷歌 Gemini 网页应用向香港用户开放，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016896539008726692",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时52分]"
+        },
+        {
           "title": "特朗普称伊朗行动获一位美国前总统称赞 但无人承认通话",
           "url": "https://flash.jin10.com/detail/20260317061512622800",
           "source": "金十数据",
@@ -632,6 +644,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 13时59分]"
+        },
+        {
+          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
+          "url": "https://wallstreetcn.com/livenews/3071571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时52分]"
         },
         {
           "title": "万斯称支持特朗普对伊行动 批评媒体挑拨关系",
@@ -693,6 +717,18 @@
           "time_info": "[10时04分 ~ 13时59分]"
         },
         {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时52分]"
+        },
+        {
           "title": "年轻人开始追求由货币基金、债券基金和黄金基金组成的「新三金」，怎样看待这种转变？",
           "url": "https://www.zhihu.com/question/2016997505380872506",
           "source": "知乎",
@@ -703,6 +739,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时51分 ~ 13时59分]"
+        },
+        {
+          "title": "金价大跌黄金9点开卖9点01分售罄",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%BB%84%E9%87%919%E7%82%B9%E5%BC%80%E5%8D%969%E7%82%B901%E5%88%86%E5%94%AE%E7%BD%84%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时52分]"
+        },
+        {
+          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
+          "url": "https://www.cls.cn/detail/2315375",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时52分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8908元，较上周五夜盘收盘涨135点。成交量439.06亿美元。",
@@ -717,16 +776,16 @@
           "time_info": "[03时21分 ~ 04时39分]"
         },
         {
-          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
-          "source": "澎湃新闻",
+          "title": "美方澄清特朗普威胁推迟访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E6%BE%84%E6%B8%85%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            9
+            8,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时56分]"
+          "time_info": "[17时56分 ~ 18时52分]"
         },
         {
           "title": "美国总统特朗普：我确实认为我将有幸把古巴“拿下”。",
@@ -776,18 +835,6 @@
           "time_info": "[15时15分 ~ 15时16分]"
         },
         {
-          "title": "金价大跌黄金9点开卖9点01分售罄",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%BB%84%E9%87%919%E7%82%B9%E5%BC%80%E5%8D%969%E7%82%B901%E5%88%86%E5%94%AE%E7%BD%84%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时56分]"
-        },
-        {
           "title": "男子家中黄金不翼而飞 小偷系邻居",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E9%BB%84%E9%87%91%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9E+%E5%B0%8F%E5%81%B7%E7%B3%BB%E9%82%BB%E5%B1%85",
           "source": "百度热搜",
@@ -797,17 +844,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 03时21分]"
-        },
-        {
-          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
-          "url": "https://www.cls.cn/detail/2315375",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "挂单报告：国际现货黄金窄幅震荡 国际现货白银挂单稀疏",
@@ -854,17 +890,6 @@
           "time_info": "13时59分"
         },
         {
-          "title": "谷歌 Gemini 网页应用向香港用户开放，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2016896539008726692",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "全岛停电、经济停摆！古巴遭美国逼入绝境，特朗普放言“接管”",
           "url": "https://flash.jin10.com/detail/20260317122535189800",
           "source": "金十数据",
@@ -874,17 +899,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
-        },
-        {
-          "title": "美方澄清特朗普威胁推迟访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E6%BE%84%E6%B8%85%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "WTI原油周二小幅高开，现报94.4美元/桶。",
@@ -1344,7 +1358,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -1712,6 +1726,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "英国外交事务特别委员会主席艾米丽·索恩伯里建议，鉴于英国政府与特朗普在伊朗战争问题上的紧张关系，应推迟国王和王后访美行程，以避免“尴尬”。",
+          "url": "https://flash.jin10.com/detail/20260317181738839800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
           "title": "美国总统特朗普宣称：我比几乎任何人都不希望发动战争。",
           "url": "https://wallstreetcn.com/livenews/3071153",
           "source": "华尔街见闻-快讯",
@@ -1729,7 +1754,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
