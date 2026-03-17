@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T04:39:14.315711+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-03-18T05:38:54.462531+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 62,
+      "match_count": 73,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
         },
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
         },
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
         },
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
         },
         {
           "title": "特朗普称将接管古巴",
@@ -61,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 05时38分]"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -87,8 +87,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
         },
         {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
@@ -98,8 +98,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
+        },
+        {
+          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2315898",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 05时38分]"
         },
         {
           "title": "格雷厄姆警告美国盟友：特朗普从未如此生气",
@@ -133,17 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2315898",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 04时39分]"
         },
         {
           "title": "现货白银日内下跌3.00%，现报78.25美元/盎司。",
@@ -223,6 +224,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "美元指数17日下跌",
+          "url": "https://flash.jin10.com/detail/20260318051816405800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "WTI 4月原油期货收涨2.71美元，涨幅将近2.90%，报96.21美元/桶。 中东Abu Dhabi Murban原油期货涨3.09%，报110.02美元/桶。 NYMEX 4月天然气期货收报3.0330美元/百万英热单位。 NYMEX 4月汽油期货收报3.1234美元/加仑，2月27日收盘以来累计上涨50.31%；NYMEX 3月取暖油期货收报4.0158美元/加仑，2月27日收盘以来累计上涨超过50.35%。",
           "url": "https://wallstreetcn.com/livenews/3071854",
           "source": "华尔街见闻-快讯",
@@ -256,6 +268,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时12分]"
+        },
+        {
+          "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3071892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
+        },
+        {
+          "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
         },
         {
           "title": "周二（3月17日），美联储隔夜逆回购协议（RRP）使用规模为7.97亿美元（交易对手5家），上个交易日报5.82亿美元。",
@@ -339,17 +375,6 @@
           "time_info": "00时07分"
         },
         {
-          "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3071892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
           "title": "纽约银日内跌幅达2.0%，报79.06美元/盎司。 现货白银日内跌幅达2.0%，报79.07美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3071785",
           "source": "华尔街见闻-快讯",
@@ -372,15 +397,15 @@
           "time_info": "03时12分"
         },
         {
-          "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3071891",
+          "title": "周二（3月17日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8830元，较周一纽约尾盘涨60点，日内整体交投于6.8944-6.8797元区间。",
+          "url": "https://wallstreetcn.com/livenews/3071911",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "05时38分"
         },
         {
           "title": "现货白银失守79美元/盎司，日内跌幅2.14%。现货黄金跌破4990美元/盎司，日内跌0.34%。",
@@ -416,6 +441,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
+          "url": "https://wallstreetcn.com/livenews/3071908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "恒天然：3月17日全球乳品贸易（GDT）拍卖价格指数上升0.1%，奶粉各合同期FAS拍卖均价4,330美元/吨。 批发奶粉价格指数下降4.0%，报3,709美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3071779",
           "source": "华尔街见闻-快讯",
@@ -438,13 +474,24 @@
           "time_info": "00时07分"
         },
         {
+          "title": "特朗普称对北约很失望",
+          "url": "https://wallstreetcn.com/livenews/3071905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "Lululemon(LULU.O)第四季度营收36.4亿美元，市场预期为35.7亿美元。预计第一季度营收为24.00亿美元至24.30亿美元。",
           "url": "https://flash.jin10.com/detail/20260318040731450800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -458,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3071904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月17日（周二）晚盘收盘下跌0.21%报1113.31元/克；<br/>上海黄金交易所白银T+D 3月17日（周二）晚盘收盘下跌1.86%报20024.0元/千克。",
@@ -477,7 +535,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -493,13 +551,24 @@
           "time_info": "03时12分"
         },
         {
+          "title": "金价继续持稳于5000美元整数位心理关口附近",
+          "url": "https://wallstreetcn.com/livenews/3071903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "金十图示：2026年03月17日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260318040647205800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -513,6 +582,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "美国太空军上将Michael Guetlein：将总统特朗普所谓金穹反导系统的第一阶段建设成本上调100亿美元，至1850亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "摩根大通(JPM.N)宣布对已发行普通股每股派发1.50美元的季度股息。",
+          "url": "https://flash.jin10.com/detail/20260318050412911800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "Prosus于3月9-13日按均价45.5888欧元回购股票257.2002万股，合计超1.172亿欧元（折合1.356亿美元）。 Naspers同期按均价929.4052南非兰特回购91.9万股，合计超8.541亿兰特（折合0.515亿美元）。",
@@ -532,7 +623,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -543,9 +634,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "达飞海运：更新所有区域内航线附加费标准，干货箱130美元/TEU，冷藏箱155美元/TEU。",
+          "url": "https://flash.jin10.com/detail/20260318050330916800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "阿联酋央行：阿联酋各银行在阿联酋央行存放的总体流动性余额，加上其可用于常规阿联酋央行操作的净合格资产，合计接近2500亿美元。",
@@ -554,7 +656,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -565,7 +667,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -581,13 +683,24 @@
           "time_info": "01时59分"
         },
         {
+          "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
+          "url": "https://flash.jin10.com/detail/20260318044954930800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
           "url": "https://wallstreetcn.com/livenews/3071867",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -609,9 +722,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "特朗普狂喷盟友并威胁退出北约：斯塔默不是丘吉尔、马克龙或将下台",
+          "url": "https://flash.jin10.com/detail/20260318044226279800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "美国总统特朗普：伊朗曾是世界恶霸，因为他们利用石油行贿并获取权力。不过他们现在都完蛋了，每一个人都完蛋了。",
@@ -697,7 +821,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         }
