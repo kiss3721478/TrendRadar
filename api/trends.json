@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T05:34:58.104705+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-03-19T06:33:02.555112+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 65,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
         },
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
         },
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
           "url": "https://wallstreetcn.com/articles/3767701",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -47,11 +48,116 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
+        },
+        {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
+        },
+        {
+          "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
+          "url": "https://wallstreetcn.com/articles/3767802",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
+        },
+        {
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
+        },
+        {
+          "title": "高市早苗访美，特朗普的案板正急缺一块肉",
+          "url": "https://news.ifeng.com/c/8rbMFFfJk0c",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
+        },
+        {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
+        },
+        {
+          "title": "战火不断黄金不涨反跌",
+          "url": "https://www.baidu.com/s?wd=%E6%88%98%E7%81%AB%E4%B8%8D%E6%96%AD%E9%BB%84%E9%87%91%E4%B8%8D%E6%B6%A8%E5%8F%8D%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
+        },
+        {
+          "title": "黄金的牛市结束了吗",
+          "url": "https://www.toutiao.com/trending/7618552512085233179/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            27,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 06时33分]"
         },
         {
           "title": "迪拜原油价格攻破150美元",
@@ -78,108 +184,40 @@
           "time_info": "[01时00分 ~ 05时34分]"
         },
         {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
-        },
-        {
-          "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
-          "url": "https://wallstreetcn.com/articles/3767802",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
-        },
-        {
-          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
-          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
-        },
-        {
-          "title": "高市早苗访美，特朗普的案板正急缺一块肉",
-          "url": "https://news.ifeng.com/c/8rbMFFfJk0c",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
-        },
-        {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
-        },
-        {
-          "title": "战火不断黄金不涨反跌",
-          "url": "https://www.baidu.com/s?wd=%E6%88%98%E7%81%AB%E4%B8%8D%E6%96%AD%E9%BB%84%E9%87%91%E4%B8%8D%E6%B6%A8%E5%8F%8D%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
-        },
-        {
-          "title": "黄金的牛市结束了吗",
-          "url": "https://www.toutiao.com/trending/7618552512085233179/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            27,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
-        },
-        {
-          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            27,
+            22
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时34分]"
+          "time_info": "[02时04分 ~ 06时33分]"
+        },
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时04分 ~ 06时33分]"
+        },
+        {
+          "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
         },
         {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
@@ -193,53 +231,6 @@
           "time_info": "03时49分"
         },
         {
-          "title": "美媒：特朗普希望以色列暂缓进一步打击伊朗能源设施",
-          "url": "https://flash.jin10.com/detail/20260319051642306800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "核电公司Constellation Energy Corp.（星牌能源）将出售PJM资产给LS Power，交易金额50亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3072695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时04分 ~ 05时34分]"
-        },
-        {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时04分 ~ 05时34分]"
-        },
-        {
           "title": "现货钯金跌破1500美元/盎司，为去年12月31日以来首次。",
           "url": "https://flash.jin10.com/detail/20260319032333246800",
           "source": "金十数据",
@@ -249,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "WTI原油期货5月合约涨至98.60美元/桶，投资者关注中东局势加剧。",
+          "url": "https://wallstreetcn.com/livenews/3072711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "消息人士：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格。",
@@ -273,16 +275,78 @@
           "time_info": "02时05分"
         },
         {
+          "title": "纽元兑美元走低，新西兰四季度GDP数据逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3072710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
+          "url": "https://www.cls.cn/detail/2317196",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时53分 ~ 06时33分]"
+        },
+        {
           "title": "约翰-迪尔（迪尔农机）等农用拖拉机供应商的CEO们将前往美国白宫，会见总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3072688",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时33分]"
+        },
+        {
+          "title": "纽约银日内跌幅达6.0%，报75.09美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3072687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时33分]"
+        },
+        {
+          "title": "WTI原油期货在电子交易盘涨至100美元/桶整数位心理关口，涨幅在纽约收盘之后超过4%。",
+          "url": "https://wallstreetcn.com/livenews/3072686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时33分]"
+        },
+        {
+          "title": "美媒：特朗普希望以色列暂缓进一步打击伊朗能源设施",
+          "url": "https://flash.jin10.com/detail/20260319051642306800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时34分]"
+          "time_info": "[05时34分 ~ 06时33分]"
         },
         {
           "title": "美元/日元日内涨幅达0.5%，报159.78；美元/瑞郎日内涨幅达1.0%，报0.7924。",
@@ -297,28 +361,29 @@
           "time_info": "[03时49分 ~ 04时54分]"
         },
         {
-          "title": "纽约银日内跌幅达6.0%，报75.09美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3072687",
+          "title": "核电公司Constellation Energy Corp.（星牌能源）将出售PJM资产给LS Power，交易金额50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3072695",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            9
+            1,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时34分]"
+          "time_info": "[05时34分 ~ 06时33分]"
         },
         {
-          "title": "WTI原油期货在电子交易盘涨至100美元/桶整数位心理关口，涨幅在纽约收盘之后超过4%。",
-          "url": "https://wallstreetcn.com/livenews/3072686",
+          "title": "美光科技美股盘后跌幅扩大至3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3072684",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            10
+            5,
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时34分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时33分]"
         },
         {
           "title": "黄金连跌六日创逾一个月新低，机构：或与跨资产重新配置有关",
@@ -345,27 +410,41 @@
           "time_info": "[04时54分 ~ 05时34分]"
         },
         {
-          "title": "美光科技美股盘后跌幅扩大至3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3072684",
+          "title": "布伦特原油期货价格在电子交易盘涨穿110美元/桶，卡塔尔称伊朗导弹击中LNG枢纽，造成严重破坏。",
+          "url": "https://wallstreetcn.com/livenews/3072683",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时34分]"
-        },
-        {
-          "title": "金价大跌失守4900美元关口 通胀担忧强化美联储鹰派预期",
-          "url": "https://www.cls.cn/detail/2317196",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            6,
+            13,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时53分 ~ 05时34分]"
+          "time_info": "[04时54分 ~ 06时33分]"
+        },
+        {
+          "title": "日常消费品ETF收跌超2.4%，与可选消费ETF领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3072682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时33分]"
+        },
+        {
+          "title": "大爷每年生日购入 100 克黄金坚持二十年，长期持有分批卖出收益颇丰，如何看待他的投资理念？",
+          "url": "https://www.zhihu.com/question/2013207075652661296",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时33分]"
         },
         {
           "title": "WTI原油站上100美元/桶，日内涨4.44%。",
@@ -380,28 +459,16 @@
           "time_info": "[04时54分 ~ 05时34分]"
         },
         {
-          "title": "布伦特原油期货价格在电子交易盘涨穿110美元/桶，卡塔尔称伊朗导弹击中LNG枢纽，造成严重破坏。",
-          "url": "https://wallstreetcn.com/livenews/3072683",
+          "title": "现货黄金跌约3.7%，纽约白银跌超5.5%，现货钯金跌超7.5%",
+          "url": "https://wallstreetcn.com/livenews/3072690",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时34分]"
-        },
-        {
-          "title": "日常消费品ETF收跌超2.4%，与可选消费ETF领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3072682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时34分]"
+          "time_info": "[05时34分 ~ 06时33分]"
         },
         {
           "title": "现货白银向下触及75美元/盎司，日内跌5.31%。",
@@ -464,15 +531,15 @@
           "time_info": "[04时54分 ~ 05时34分]"
         },
         {
-          "title": "现货黄金跌约3.7%，纽约白银跌超5.5%，现货钯金跌超7.5%",
-          "url": "https://wallstreetcn.com/livenews/3072690",
+          "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
+          "url": "https://wallstreetcn.com/livenews/3072708",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时33分"
         },
         {
           "title": "报道：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格",
@@ -492,9 +559,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.00%，现报98.54美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260319060038530800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "LME期铜收跌380美元，报12396美元/吨。 LME期铝收平，报3400美元/吨。 LME期锌收跌94美元，报3134美元/吨。 LME期铅收跌16美元，报1914美元/吨。 LME期镍收跌44美元，报17151美元/吨。 LME期锡收跌1662美元，报45063美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -506,6 +584,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "两年期美债收益率涨约10个基点，投资者关注美联储政策利率的前景和国际油价",
+          "url": "https://wallstreetcn.com/livenews/3072705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
+          "title": "WTI原油向下触及99美元/桶，日内跌0.58%。",
+          "url": "https://flash.jin10.com/detail/20260319060032394800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "美联储3月决议声明发布前，美元指数涨0.25%，暂报99.818点。 美国10年期国债收益率维持2.3个基点的涨幅，持稳于4.22%上方；两年期美债收益率涨3.8个基点，持稳于3.7%上方。 现货黄金跌2.3%，持稳于4900美元下方。",
@@ -585,15 +685,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "大爷每年生日购入 100 克黄金坚持二十年，长期持有分批卖出收益颇丰，如何看待他的投资理念？",
-          "url": "https://www.zhihu.com/question/2013207075652661296",
-          "source": "知乎",
+          "title": "周三（3月18日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.9004元，较周二纽约尾盘跌174点，日内整体交投于6.8721-6.9042元区间。",
+          "url": "https://wallstreetcn.com/livenews/3072697",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时00分"
+          "time_info": "06时33分"
         },
         {
           "title": "中国、日本和英国在1月份增持美债",
@@ -668,7 +768,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
