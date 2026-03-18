@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T21:11:34.210444+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2026-03-18T23:03:28.523744+08:00",
+  "total_titles_processed": 1906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 180,
+      "match_count": 190,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -17,18 +17,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时07分 ~ 10时08分]"
-        },
-        {
-          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时33分 ~ 21时11分]"
         },
         {
           "title": "中东油价飙破150美元！一文读懂：伊朗的威胁要成真了？",
@@ -44,22 +32,24 @@
           "time_info": "[12时56分 ~ 19时46分]"
         },
         {
+          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[07时33分 ~ 23时03分]"
+        },
+        {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
           "url": "https://www.cls.cn/detail/2315375",
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 06时34分]"
-        },
-        {
-          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -73,11 +63,23 @@
             10,
             7,
             3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[06时34分 ~ 23时03分]"
+        },
+        {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时34分 ~ 21时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 06时34分]"
         },
         {
           "title": "特朗普称将接管古巴",
@@ -102,6 +104,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时07分 ~ 06时34分]"
+        },
+        {
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时55分 ~ 23时03分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -129,15 +142,16 @@
           "time_info": "[07时33分 ~ 15时53分]"
         },
         {
-          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
-          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
-          "source": "凤凰网",
+          "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
+          "url": "https://wallstreetcn.com/articles/3767802",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时55分 ~ 21时11分]"
+          "appearance_count": 10,
+          "time_info": "[15时52分 ~ 23时03分]"
         },
         {
           "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
@@ -201,8 +215,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时56分 ~ 21时11分]"
+          "appearance_count": 14,
+          "time_info": "[12时56分 ~ 23时03分]"
         },
         {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
@@ -216,28 +230,17 @@
           "time_info": "[00时07分 ~ 07时33分]"
         },
         {
-          "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
-          "url": "https://wallstreetcn.com/articles/3767802",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时52分 ~ 21时11分]"
-        },
-        {
           "title": "黄金价格下跌 普通人能入手吗",
           "url": "https://www.toutiao.com/trending/7618482201037901355/",
           "source": "今日头条",
           "ranks": [
             4,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 21时11分]"
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 23时03分]"
         },
         {
           "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
@@ -250,6 +253,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时33分 ~ 14时04分]"
+        },
+        {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时55分 ~ 23时03分]"
         },
         {
           "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
@@ -316,19 +332,6 @@
           "time_info": "[15时52分 ~ 16时51分]"
         },
         {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时55分 ~ 21时11分]"
-        },
-        {
           "title": "中方回应特朗普称推迟访华",
           "url": "https://www.douyin.com/hot/2435021",
           "source": "抖音",
@@ -350,6 +353,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时03分 ~ 14时04分]"
+        },
+        {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时55分 ~ 23时03分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时55分 ~ 23时03分]"
         },
         {
           "title": "格雷厄姆警告美国盟友：特朗普从未如此生气",
@@ -402,21 +430,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
         {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
           "ranks": [
-            9,
-            10
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时55分 ~ 21时11分]"
+          "time_info": "[18时53分 ~ 23时03分]"
         },
         {
           "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
@@ -431,16 +459,15 @@
           "time_info": "[17时55分 ~ 21时11分]"
         },
         {
-          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
-          "source": "澎湃新闻",
+          "title": "迪拜原油价格攻破150美元",
+          "url": "https://www.toutiao.com/trending/7618064062336876563/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            17
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时55分 ~ 21时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "现货白银日内下跌3.00%，现报78.25美元/盎司。",
@@ -471,7 +498,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -515,7 +542,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -537,7 +564,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -570,9 +597,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
+          "url": "https://www.zhihu.com/question/2017526267604385905",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "现货黄金失守4980美元/盎司，日内跌幅0.53%。",
@@ -592,7 +630,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -650,18 +688,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
-        },
-        {
-          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
-          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 21时11分]"
         },
         {
           "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
@@ -1087,9 +1113,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "万国黄金(03939.HK)：2025年本公司拥有人应占溢利增加135.5%至约人民币13.55亿元。",
+          "url": "https://flash.jin10.com/detail/20260318223548328800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "现货黄金日内跌幅达0.5%，报4979.81美元/盎司。",
@@ -1142,7 +1179,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1164,7 +1201,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1186,9 +1223,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "布伦特原油站上102美元/桶，日内涨1.23%。WTI原油站上96美元/桶。",
@@ -1208,7 +1256,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1230,9 +1278,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "高市早苗访美，特朗普的案板正急缺一块肉",
+          "url": "https://news.ifeng.com/c/8rbMFFfJk0c",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "市场消息：美国将“金色穹顶”项目的成本估算扩大至1850亿美元，并征集顶级防务公司参与。",
@@ -1301,6 +1360,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "战火不断黄金不涨反跌",
+          "url": "https://www.baidu.com/s?wd=%E6%88%98%E7%81%AB%E4%B8%8D%E6%96%AD%E9%BB%84%E9%87%91%E4%B8%8D%E6%B6%A8%E5%8F%8D%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "腾讯控股(00700.HK)：受益于长青游戏的持续增长及内容驱动游戏的快速扩张，我们的国际市场游戏年收入突破100亿美元。",
           "url": "https://flash.jin10.com/detail/20260318163317291800",
           "source": "金十数据",
@@ -1340,9 +1410,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年",
+          "url": "https://www.cls.cn/detail/2316519",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "Lululemon(LULU.O)第四季度营收36.4亿美元，市场预期为35.7亿美元。预计第一季度营收为24.00亿美元至24.30亿美元。",
@@ -1365,6 +1446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.4 mini 和 GPT-5.4 Nano?",
+          "url": "https://www.zhihu.com/question/2017426077002253714",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月17日（周二）晚盘收盘下跌0.21%报1113.31元/克；<br/>上海黄金交易所白银T+D 3月17日（周二）晚盘收盘下跌1.86%报20024.0元/千克。",
@@ -1560,7 +1652,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1582,9 +1674,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "黄金的牛市结束了吗",
+          "url": "https://www.toutiao.com/trending/7618552512085233179/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "美国参议员桑德斯：伊朗战争已经花费了228亿美元。用这228亿美元，我们可以为680万儿童提供医疗补助/建造260万个公共住房单位/为130万儿童提供早期教育项目/雇佣24万名教师/为100万借款人取消2万美元的学生债务。",
@@ -1615,7 +1718,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1637,7 +1740,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1758,9 +1861,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
@@ -1835,7 +1949,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1912,7 +2026,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1978,7 +2092,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -2033,7 +2147,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -2044,7 +2158,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -2055,7 +2169,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         }
