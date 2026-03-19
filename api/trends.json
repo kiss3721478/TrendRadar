@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T22:47:29.074166+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2026-03-19T23:56:10.603901+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 187,
+      "match_count": 198,
       "titles": [
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时31分 ~ 22时47分]"
+          "appearance_count": 16,
+          "time_info": "[07时31分 ~ 23时56分]"
         },
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -68,6 +68,30 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时00分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 23时56分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 23时56分]"
         },
         {
           "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
@@ -228,30 +252,6 @@
           "time_info": "[01时00分 ~ 07时31分]"
         },
         {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://news.ifeng.com/c/8rckc3J46aj",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 22时47分]"
-        },
-        {
-          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
-          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 22时47分]"
-        },
-        {
           "title": "迪拜原油价格攻破150美元",
           "url": "https://www.toutiao.com/trending/7618064062336876563/",
           "source": "今日头条",
@@ -261,6 +261,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时00分 ~ 02时05分]"
+        },
+        {
+          "title": "石油美元黄金到底是什么关系",
+          "url": "https://www.douyin.com/hot/2436064",
+          "source": "抖音",
+          "ranks": [
+            14,
+            17,
+            15,
+            20,
+            13,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时41分 ~ 23时56分]"
         },
         {
           "title": "黄金",
@@ -301,6 +318,18 @@
           "time_info": "[01时00分 ~ 05时34分]"
         },
         {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 23时56分]"
+        },
+        {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
           "url": "https://news.ifeng.com/c/8rcHthVvS8A",
           "source": "凤凰网",
@@ -325,6 +354,21 @@
           "time_info": "[04时53分 ~ 10时09分]"
         },
         {
+          "title": "黄金跌破4800,韭菜又被割",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352067&amp;topic_name=%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%2C%E9%9F%AD%E8%8F%9C%E5%8F%88%E8%A2%AB%E5%89%B2",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            21,
+            23,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 23时56分]"
+        },
+        {
           "title": "住朋友家摔伤后索要医药费 法院判了",
           "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E6%9C%8B%E5%8F%8B%E5%AE%B6%E6%91%94%E4%BC%A4%E5%90%8E%E7%B4%A2%E8%A6%81%E5%8C%BB%E8%8D%AF%E8%B4%B9+%E6%B3%95%E9%99%A2%E5%88%A4%E4%BA%86",
           "source": "百度热搜",
@@ -339,22 +383,6 @@
           "time_info": "[13时58分 ~ 18时40分]"
         },
         {
-          "title": "石油美元黄金到底是什么关系",
-          "url": "https://www.douyin.com/hot/2436064",
-          "source": "抖音",
-          "ranks": [
-            14,
-            17,
-            15,
-            20,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时41分 ~ 22时47分]"
-        },
-        {
           "title": "美股三大指数全线下挫",
           "url": "https://www.toutiao.com/trending/7618166160891199529/",
           "source": "今日头条",
@@ -366,16 +394,15 @@
           "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
-          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
-          "source": "凤凰网",
+          "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
+          "url": "https://www.cls.cn/detail/2318687",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 22时47分]"
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
         },
         {
           "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
@@ -387,6 +414,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 06时33分]"
+        },
+        {
+          "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
+          "url": "https://www.zhihu.com/question/2017913786695186154",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 23时56分]"
         },
         {
           "title": "据华盛顿检查者报：特朗普将于下周会见农业机械公司约翰迪尔的首席执行官。",
@@ -422,6 +464,17 @@
           "time_info": "16时42分"
         },
         {
+          "title": "WTI原油日内涨超1.00%，现报100.65美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260319234631774800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "阿里巴巴第三财季营收2,848.4亿元人民币，预估2,897.9亿元人民 第三财季调整后每ADS收益 7.09元人民币。 阿里巴巴美股盘前下跌3.7%，第三季度营收未达预期。",
           "url": "https://wallstreetcn.com/livenews/3073158",
           "source": "华尔街见闻-快讯",
@@ -444,6 +497,29 @@
           "time_info": "21时04分"
         },
         {
+          "title": "WTI原油期货价格涨幅扩大，突破100美元/桶。 据Politico报道，一名美国官员在会见石油行业高管们时宣称，美国不会实施原油出口禁令。",
+          "url": "https://wallstreetcn.com/livenews/3073469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 23时56分]"
+        },
+        {
           "title": "油价“破百”背后 另一场风暴是美元“破百”？",
           "url": "https://www.cls.cn/detail/2317749",
           "source": "财联社热门",
@@ -456,6 +532,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时06分 ~ 19时36分]"
+        },
+        {
+          "title": "WTI原油向上触及100美元/桶，日内涨0.53%。",
+          "url": "https://flash.jin10.com/detail/20260319234549634800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "周四美股盘前你需要了解的全球要闻",
@@ -614,20 +701,6 @@
           "time_info": "[10时08分 ~ 13时59分]"
         },
         {
-          "title": "黄金跌破4800,韭菜又被割",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352067&amp;topic_name=%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%2C%E9%9F%AD%E8%8F%9C%E5%8F%88%E8%A2%AB%E5%89%B2",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            21,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 22时47分]"
-        },
-        {
           "title": "约翰-迪尔（迪尔农机）等农用拖拉机供应商的CEO们将前往美国白宫，会见总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3072688",
           "source": "华尔街见闻-快讯",
@@ -727,6 +800,19 @@
           "time_info": "[16时42分 ~ 17时43分]"
         },
         {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 23时56分]"
+        },
+        {
           "title": "美光科技美股盘后跌幅扩大至3.4%。",
           "url": "https://wallstreetcn.com/livenews/3072684",
           "source": "华尔街见闻-快讯",
@@ -788,6 +874,18 @@
           "time_info": "[16时42分 ~ 17时43分]"
         },
         {
+          "title": "伊朗外长回应美2000亿美元战争拨款",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%9B%9E%E5%BA%94%E7%BE%8E2000%E4%BA%BF%E7%BE%8E%E5%85%83%E6%88%98%E4%BA%89%E6%8B%A8%E6%AC%BE%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 23时56分]"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：特朗普在中东发动了一场战争，但现在他试图逃避代价，把账单留给美国人民，而这场战争似乎没有结束的迹象。鲁比奥和赫格塞斯需要公开宣誓作证。美国人民应当得到答案，也应当获得问责。",
           "url": "https://flash.jin10.com/detail/20260319043732835800",
           "source": "金十数据",
@@ -812,38 +910,12 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
-          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
-          "url": "https://wallstreetcn.com/articles/3767896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 22时47分]"
-        },
-        {
           "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
           "url": "https://www.cls.cn/detail/2318052",
           "source": "财联社热门",
           "ranks": [
             13,
             10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 22时47分]"
-        },
-        {
-          "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
-          "url": "https://www.zhihu.com/question/2017913786695186154",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            13,
             9
           ],
           "is_new": false,
@@ -874,6 +946,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时43分 ~ 21时04分]"
+        },
+        {
+          "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795341",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时04分 ~ 23时56分]"
+        },
+        {
+          "title": "被特朗普抱怨不积极，默茨最新表态",
+          "url": "https://news.ifeng.com/c/8rd2LaEzlmg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时56分]"
         },
         {
           "title": "黄金跌破4900,韭菜又被割",
@@ -925,6 +1021,18 @@
           "time_info": "[15时06分 ~ 16时42分]"
         },
         {
+          "title": "现货黄金白银暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时56分]"
+        },
+        {
           "title": "美2000亿美元战争拨款只是冰山一角",
           "url": "https://www.toutiao.com/trending/7618894604775231014/",
           "source": "今日头条",
@@ -947,6 +1055,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时00分 ~ 06时33分]"
+        },
+        {
+          "title": "黄金瀑布式跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%80%91%E5%B8%83%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时56分]"
         },
         {
           "title": "男子接连“抄底”黄金失败：一买就跌",
@@ -1006,29 +1126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗外长回应美2000亿美元战争拨款",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%9B%9E%E5%BA%94%E7%BE%8E2000%E4%BA%BF%E7%BE%8E%E5%85%83%E6%88%98%E4%BA%89%E6%8B%A8%E6%AC%BE%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 22时47分]"
-        },
-        {
-          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2318602",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 22时47分]"
         },
         {
           "title": "泰铢走低至1美元兑32.76泰铢，为2025年10月末以来最低。",
@@ -1138,18 +1235,6 @@
           "time_info": "[04时54分 ~ 05时34分]"
         },
         {
-          "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795341",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 22时47分]"
-        },
-        {
           "title": "美国1月国际资本净流入 -250.22亿美元，前值 449亿美元。",
           "url": "https://wallstreetcn.com/livenews/3072673",
           "source": "华尔街见闻-快讯",
@@ -1194,6 +1279,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "金价暴跌抄底7天越买越套",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%8A%84%E5%BA%957%E5%A4%A9%E8%B6%8A%E4%B9%B0%E8%B6%8A%E5%A5%97%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
         },
         {
           "title": "美元兑日元涨0.5%，报159.80日元。",
@@ -1263,15 +1359,15 @@
           "time_info": "18时40分"
         },
         {
-          "title": "被特朗普抱怨不积极，默茨最新表态",
-          "url": "https://news.ifeng.com/c/8rd2LaEzlmg",
-          "source": "凤凰网",
+          "title": "美国国务院批准向科威特出售低层防空与导弹防御传感器雷达，预计交易金额为80亿美元。",
+          "url": "https://flash.jin10.com/detail/20260319234050322800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时47分"
+          "time_info": "23时56分"
         },
         {
           "title": "现货黄金白银暴跌",
@@ -1283,6 +1379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        },
+        {
+          "title": "美国国务院批准向阿联酋出售价值12.2亿美元的先进中距空空导弹。",
+          "url": "https://flash.jin10.com/detail/20260319234040210800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "报道：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格",
@@ -1307,15 +1414,15 @@
           "time_info": "21时04分"
         },
         {
-          "title": "现货黄金白银暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "非洲股市收盘播报｜南非股市两天重挫超6.2%，金价同期已跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3073460",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时47分"
+          "time_info": "23时56分"
         },
         {
           "title": "美光科技(MU.O)CEO：美光科技2027年资本支出将增加逾100亿美元。",
@@ -1404,6 +1511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "美国总统特朗普在白宫欢迎日本首相高市早苗。",
+          "url": "https://flash.jin10.com/detail/20260319233725629800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美联储3月决议声明发布前，美元指数涨0.25%，暂报99.818点。 美国10年期国债收益率维持2.3个基点的涨幅，持稳于4.22%上方；两年期美债收益率涨3.8个基点，持稳于3.7%上方。 现货黄金跌2.3%，持稳于4900美元下方。",
@@ -1500,7 +1618,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1555,7 +1673,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -1668,6 +1786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
+        },
+        {
+          "title": "为何战争越狠，黄金反而跌得越惨？",
+          "url": "https://flash.jin10.com/detail/20260319233105377800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国两年期国债收益率涨穿3.74%，刷新日高，涨幅扩大至约7个基点，鲍威尔称“下一步或是加息的可能性确实被提及”。 美元兑日元涨至159.76，创2024年7月份以来新高。",
@@ -1885,9 +2014,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
+        },
+        {
+          "title": "欧洲央行：预计2026年石油价格为81.3美元/桶，2027年料为72.1美元/桶，2028年料为70.2美元/桶。 在恶劣假设场景中，预计2026年通胀率将高出0.9个百分点，2027年将高出0.1个百分点。 在恶劣假设场景中，预计2026年调和CPI（HICP）将为1.8%，2027年将为2.8%。 在恶劣假设场景中，预计2027年一季度通胀将达到6.3%见顶。",
+          "url": "https://wallstreetcn.com/livenews/3073445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "金价下跌能抄底吗",
@@ -1978,17 +2118,6 @@
           "time_info": "10时09分"
         },
         {
-          "title": "黄金瀑布式跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%80%91%E5%B8%83%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
           "title": "金十图示：2026年03月18日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260319040515992800",
           "source": "金十数据",
@@ -2028,7 +2157,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
