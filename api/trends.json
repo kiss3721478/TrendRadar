@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T03:37:57.120784+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-03-21T04:33:02.733288+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 51,
+      "match_count": 77,
       "titles": [
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "黄金白银为何暴跌？",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -61,19 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
-        },
-        {
-          "title": "现货白银日内暴跌7.00%，现报67.73美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260321032424390800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时37分"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
         },
         {
           "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
@@ -83,8 +72,121 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
+          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799516",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "向特朗普提问的日本记者，遭疯狂网暴",
+          "url": "https://news.ifeng.com/c/8retvRzJFC1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时33分]"
+        },
+        {
+          "title": "现货白银日内暴跌7.00%，现报67.73美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260321032424390800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "日本软银集团：美国俄亥俄州数据中心将是一个5000亿美元的项目。",
+          "url": "https://wallstreetcn.com/livenews/3074329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
+          "url": "https://www.zhihu.com/question/2016876183153768141",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时33分]"
+        },
+        {
+          "title": "美元指数20日上涨",
+          "url": "https://flash.jin10.com/detail/20260321040507957800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "美股延续跌势，纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
@@ -104,32 +206,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
         {
-          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
-          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
-          "source": "凤凰网",
+          "title": "实探金价暴跌后的北京菜百商场",
+          "url": "https://www.toutiao.com/trending/7619189728911556644/",
+          "source": "今日头条",
           "ranks": [
-            7
+            28,
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
-        },
-        {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 04时33分]"
         },
         {
           "title": "美元兑日元USD/JPY日内涨幅扩大至1%，现报159.29。",
@@ -154,61 +246,17 @@
           "time_info": "02时51分"
         },
         {
-          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2319906",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
-        },
-        {
-          "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799516",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
-        },
-        {
-          "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时37分]"
-        },
-        {
-          "title": "向特朗普提问的日本记者，遭疯狂网暴",
-          "url": "https://news.ifeng.com/c/8retvRzJFC1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 03时37分]"
-        },
-        {
           "title": "布伦特原油日内涨幅达3.0%，报106.91美元/桶。 纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3074300",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时33分]"
         },
         {
           "title": "周五（3月20日），美联储隔夜逆回购协议（RRP）使用规模为8.22亿美元（交易对手5家），上个交易日报6.37亿美元。",
@@ -250,6 +298,19 @@
           "time_info": "[01时36分 ~ 03时37分]"
         },
         {
+          "title": "布伦特原油期货涨幅迅速扩大至超过2.7%，至106.60美元上方。 WTI原油期货短线上扬，涨幅重新扩大至2.7%，重返98.10美元上方。 新兴市场外汇指数刷新日低，南非兰特、墨西哥比索、巴西雷亚尔走低。",
+          "url": "https://wallstreetcn.com/livenews/3074297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时51分 ~ 04时33分]"
+        },
+        {
           "title": "美国军费飙升，为国防富豪们增添280亿美元财富",
           "url": "https://wallstreetcn.com/livenews/3074277",
           "source": "华尔街见闻-快讯",
@@ -261,30 +322,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时37分]"
-        },
-        {
-          "title": "布伦特原油期货涨幅迅速扩大至超过2.7%，至106.60美元上方。 WTI原油期货短线上扬，涨幅重新扩大至2.7%，重返98.10美元上方。 新兴市场外汇指数刷新日低，南非兰特、墨西哥比索、巴西雷亚尔走低。",
-          "url": "https://wallstreetcn.com/livenews/3074297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时37分]"
-        },
-        {
-          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
-          "url": "https://www.zhihu.com/question/2016876183153768141",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 02时51分]"
         },
         {
           "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
@@ -299,6 +336,18 @@
           "time_info": "[00时43分 ~ 01时36分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9050元，较周四夜盘收盘跌177点。成交量409.49亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3074301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 04时33分]"
+        },
+        {
           "title": "伦铜本周跌超6.6%，失守1.1万美元关口",
           "url": "https://wallstreetcn.com/livenews/3074288",
           "source": "华尔街见闻-快讯",
@@ -309,18 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时37分]"
-        },
-        {
-          "title": "实探金价暴跌后的北京菜百商场",
-          "url": "https://www.toutiao.com/trending/7619189728911556644/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 03时37分]"
         },
         {
           "title": "德银：此次石油冲击与2022年不同，或将限制美元涨幅",
@@ -394,15 +431,37 @@
           "time_info": "02时51分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9050元，较周四夜盘收盘跌177点。成交量409.49亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3074301",
+          "title": "软银CEO：俄亥俄州数据中心将是一个耗资5000亿美元的项目。",
+          "url": "https://flash.jin10.com/detail/20260321040353056800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普谈及油价，再次宣称：我原本预计会更糟糕。",
+          "url": "https://wallstreetcn.com/livenews/3074320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美元指数本周跌0.7%，日元涨0.3%",
+          "url": "https://wallstreetcn.com/livenews/3074319",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时37分"
+          "time_info": "04时33分"
         },
         {
           "title": "巴西总统卢拉：我们将不得不找到一种不动用巴西美元储备就能完成任务的方法。",
@@ -414,6 +473,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "美股低开低走，道指收跌0.97%，标普500指数收跌1.51%，纳指跌2.01%。超微电脑(SMCI.O)跌超33%，英伟达(NVDA.O)跌3.2%，美光科技(MU.O)跌4.8%。纳斯达克中国金龙指数跌2.8%，小鹏汽车(XPEV.N)跌8.2%。",
+          "url": "https://flash.jin10.com/detail/20260321040036809800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普：北约应当在霍尔木兹海峡通航问题上帮助美国。",
+          "url": "https://wallstreetcn.com/livenews/3074318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "特朗普：我的支持率达到了前所未有的100%",
+          "url": "https://flash.jin10.com/detail/20260321035836986800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普：我们不需要霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3074316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "布伦特原油日内大涨3.00%，现报107.36美元/桶。",
@@ -444,9 +547,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及停火）你知道，当你正在彻底摧毁对方时，是不可能停火的。",
+          "url": "https://flash.jin10.com/detail/20260321035243299800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "特朗普：如果现在停战，伊朗重建将需要10年",
@@ -458,6 +572,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：3月17日当周，交易员转而看涨美元，为2026年迄今首次。",
+          "url": "https://wallstreetcn.com/livenews/3074313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普：我们在对伊朗的打击上提前了几周。",
+          "url": "https://flash.jin10.com/detail/20260321035131760800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及油价）我本以为会比现在更糟。",
+          "url": "https://flash.jin10.com/detail/20260321035102201800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：3月17日当周，投机者所持COMEX黄金净多头头寸增加3,684手合约，至105,920手合约，创七周新高。",
+          "url": "https://wallstreetcn.com/livenews/3074311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普：英国本应行动更快。",
+          "url": "https://flash.jin10.com/detail/20260321034915196800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "现货白银日内跌幅达7.0%，报67.67美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3074310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及英国的帮助）英国的反应非常迟缓。",
+          "url": "https://flash.jin10.com/detail/20260321034854944800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普：我们有无限的弹药，还有很多部队。",
+          "url": "https://flash.jin10.com/detail/20260321034806359800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "英镑兑美元GBP/USD向下触及1.33，日内跌0.98%。",
@@ -477,9 +679,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以与伊朗对话，但我不想要停火。",
+          "url": "https://flash.jin10.com/detail/20260321034743329800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗现在没有雷达、侦察员、飞机，领导人也都被我们击毙了。",
+          "url": "https://flash.jin10.com/detail/20260321034659408800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "据福克斯新闻：特朗普拒绝就有关哈尔克岛计划的报道发表评论。",
@@ -488,9 +712,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗）我目前不想停火。",
+          "url": "https://flash.jin10.com/detail/20260321034612314800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "强美元与增兵传闻双重夹击 现货金价失守4500大关",
@@ -499,9 +734,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：北约没有勇气在伊朗问题上帮助我们。",
+          "url": "https://flash.jin10.com/detail/20260321034511161800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普：开启霍尔木兹海峡需要大量的协助。",
+          "url": "https://flash.jin10.com/detail/20260321034449616800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "惠誉：若霍尔木兹海峡关闭六个月，油价平均可能达每桶120美元。",
@@ -513,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡在某个时刻会自行开放。",
+          "url": "https://flash.jin10.com/detail/20260321034432997800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "WTI原油日内涨幅达1.0%，报96.53美元/桶。",
@@ -532,9 +800,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：我觉得我们已经赢了。",
+          "url": "https://flash.jin10.com/detail/20260321034419152800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "美国总统特朗普：相比俄罗斯总统普京，乌克兰总统泽连斯基更难打交道。",
@@ -554,9 +833,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及哈尔克岛）我可能有个计划，也可能没有。",
+          "url": "https://flash.jin10.com/detail/20260321034352119800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "黄金白银价格为何双双暴跌",
@@ -576,7 +866,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
