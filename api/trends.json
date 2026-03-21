@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T07:29:14.827809+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-03-21T09:57:14.521145+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 105,
+      "match_count": 115,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时57分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -55,6 +55,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 05时31分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时57分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -72,20 +87,6 @@
           "time_info": "[00时43分 ~ 06时29分]"
         },
         {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时29分]"
-        },
-        {
           "title": "实探金价暴跌后的北京菜百商场",
           "url": "https://www.toutiao.com/trending/7619189728911556644/",
           "source": "今日头条",
@@ -101,15 +102,20 @@
           "time_info": "[01时36分 ~ 07时29分]"
         },
         {
-          "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
-          "url": "https://www.zhihu.com/question/2018323748374143404",
+          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
+          "url": "https://www.zhihu.com/question/2016876183153768141",
           "source": "知乎",
           "ranks": [
-            6
+            20,
+            19,
+            16,
+            8,
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 09时57分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -119,19 +125,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时36分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[01时36分 ~ 09时57分]"
         },
         {
           "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
           "url": "https://news.ifeng.com/c/8reXnxHbSXD",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时57分]"
+        },
+        {
+          "title": "美军价值约 1 亿美元 F-35 战机疑在伊朗上空被击中，这会对美国及其盟友作战体系产生哪些冲击？",
+          "url": "https://www.zhihu.com/question/2018323748374143404",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时57分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -139,26 +158,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时29分]"
-        },
-        {
-          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
-          "url": "https://www.zhihu.com/question/2016876183153768141",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            16,
             8,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时57分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -167,11 +172,12 @@
           "ranks": [
             17,
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时57分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
@@ -180,11 +186,12 @@
           "ranks": [
             20,
             19,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 07时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时57分]"
         },
         {
           "title": "美以伊战争丨特朗普：正考虑逐步降级对伊朗军事行动",
@@ -198,37 +205,17 @@
           "time_info": "[06时28分 ~ 07时29分]"
         },
         {
-          "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
-          "url": "https://flash.jin10.com/detail/20260321041434327800",
-          "source": "金十数据",
+          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
+          "url": "https://wallstreetcn.com/articles/3768030",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            10,
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时29分]"
-        },
-        {
-          "title": "美国能源部：日本已承诺在美国各地投资5500亿美元。",
-          "url": "https://flash.jin10.com/detail/20260321041105735800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时29分]"
-        },
-        {
-          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260321040633903800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时29分]"
+          "appearance_count": 6,
+          "time_info": "[06时28分 ~ 09时57分]"
         },
         {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -242,6 +229,17 @@
           "time_info": "[07时28分 ~ 07时29分]"
         },
         {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -251,6 +249,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 05时31分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 09时57分]"
         },
         {
           "title": "美元指数20日上涨",
@@ -263,6 +273,53 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时33分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
+          "url": "https://flash.jin10.com/detail/20260321041434327800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 09时57分]"
+        },
+        {
+          "title": "美国能源部：日本已承诺在美国各地投资5500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260321041105735800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 09时57分]"
+        },
+        {
+          "title": "美日领导人会晤，特朗普只想聊伊朗",
+          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260321040633903800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 09时57分]"
         },
         {
           "title": "现货白银日内暴跌7.00%，现报67.73美元/盎司。",
@@ -344,6 +401,19 @@
           "time_info": "[02时51分 ~ 04时33分]"
         },
         {
+          "title": "特朗普：正考虑逐步降级对伊朗的军事行动",
+          "url": "https://wallstreetcn.com/livenews/3074365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时29分 ~ 09时57分]"
+        },
+        {
           "title": "周五（3月20日），美联储隔夜逆回购协议（RRP）使用规模为8.22亿美元（交易对手5家），上个交易日报6.37亿美元。",
           "url": "https://wallstreetcn.com/livenews/3074281",
           "source": "华尔街见闻-快讯",
@@ -382,18 +452,6 @@
           "time_info": "[04时33分 ~ 05时31分]"
         },
         {
-          "title": "特朗普：正考虑逐步降级对伊朗的军事行动",
-          "url": "https://wallstreetcn.com/livenews/3074365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时29分]"
-        },
-        {
           "title": "美元兑日元涨幅扩大至1%，报159.31。",
           "url": "https://wallstreetcn.com/livenews/3074278",
           "source": "华尔街见闻-快讯",
@@ -420,6 +478,19 @@
           "time_info": "[02时51分 ~ 04时33分]"
         },
         {
+          "title": "布伦特原油期货在电子交易盘回吐涨幅，美国总统特朗普宣称，美方考虑“逐步缩减”对伊朗的军事行动。",
+          "url": "https://wallstreetcn.com/livenews/3074360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时29分 ~ 09时57分]"
+        },
+        {
           "title": "美国军费飙升，为国防富豪们增添280亿美元财富",
           "url": "https://wallstreetcn.com/livenews/3074277",
           "source": "华尔街见闻-快讯",
@@ -433,6 +504,30 @@
           "time_info": "[01时36分 ~ 03时37分]"
         },
         {
+          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
+          "url": "https://www.cls.cn/detail/2320213",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 09时57分]"
+        },
+        {
+          "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260321040547079800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 09时57分]"
+        },
+        {
           "title": "软银CEO：俄亥俄州数据中心将是一个耗资5000亿美元的项目。",
           "url": "https://flash.jin10.com/detail/20260321040353056800",
           "source": "金十数据",
@@ -443,30 +538,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时33分 ~ 07时29分]"
-        },
-        {
-          "title": "布伦特原油期货在电子交易盘回吐涨幅，美国总统特朗普宣称，美方考虑“逐步缩减”对伊朗的军事行动。",
-          "url": "https://wallstreetcn.com/livenews/3074360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时29分]"
-        },
-        {
-          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
-          "url": "https://wallstreetcn.com/articles/3768030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 07时29分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",
@@ -553,17 +624,6 @@
           "time_info": "[04时33分 ~ 07时29分]"
         },
         {
-          "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260321040547079800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时29分]"
-        },
-        {
           "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
           "url": "https://wallstreetcn.com/livenews/3074352",
           "source": "华尔街见闻-快讯",
@@ -626,17 +686,6 @@
           "time_info": "[00时43分 ~ 05时31分]"
         },
         {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时29分]"
-        },
-        {
           "title": "金价两天跌百元 新人纷纷抄底五金",
           "url": "https://www.toutiao.com/trending/7618868448677380122/",
           "source": "今日头条",
@@ -646,6 +695,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 05时31分]"
+        },
+        {
+          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
+          "url": "https://www.cls.cn/detail/2320222",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "“谁是主子，谁是奴才？”特朗普借“珍珠港”给高市早苗上课",
+          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
         },
         {
           "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
@@ -660,6 +731,18 @@
           "time_info": "[00时43分 ~ 01时36分]"
         },
         {
+          "title": "无人机制造商Swarmer Inc.收跌30.14%，报36.71美元。 周二美国IPO以来，最近三个交易日先后涨520%、涨77.42%（盘中一度达到65.04美元）、跌4.45%。 本周，该公司股价累涨634.20%。",
+          "url": "https://wallstreetcn.com/livenews/3074372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时57分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9050元，较周四夜盘收盘跌177点。成交量409.49亿美元。",
           "url": "https://wallstreetcn.com/livenews/3074301",
           "source": "华尔街见闻-快讯",
@@ -670,6 +753,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时33分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普仍然侧重于在伊朗（实现）“全面”胜利。 国防部预计，完成任务（还）需要4-6周时间。",
+          "url": "https://wallstreetcn.com/livenews/3074371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时57分]"
         },
         {
           "title": "伦铜本周跌超6.6%，失守1.1万美元关口",
@@ -684,6 +779,17 @@
           "time_info": "[02时51分 ~ 03时37分]"
         },
         {
+          "title": "黄金本周表现创逾四十年来最糟，伊朗战争开打以来三周连跌",
+          "url": "https://wallstreetcn.com/articles/3768032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
           "title": "德银：此次石油冲击与2022年不同，或将限制美元涨幅",
           "url": "https://wallstreetcn.com/livenews/3074252",
           "source": "华尔街见闻-快讯",
@@ -694,17 +800,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时36分]"
-        },
-        {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时29分]"
         },
         {
           "title": "黄金本周表现恐创逾四十年来最糟，伊朗战争开打以来周线三连跌",
@@ -729,6 +824,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时51分]"
+        },
+        {
+          "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3074368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时57分]"
         },
         {
           "title": "Janus Living Inc.美国IPO首日开盘报23.50美元，此前给出的IPO发行价为每股20美元。",
@@ -827,6 +934,17 @@
           "time_info": "[05时31分 ~ 06时29分]"
         },
         {
+          "title": "黄金白银狂泻",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%8B%82%E6%B3%BB%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
           "title": "【特朗普：当美国想结束与伊朗冲突时，以色列也会同步】美国总统特朗普表示，他认为，当美国想结束与伊朗的冲突时，以色列也准备好结束这场冲突。当被问及一旦美国完成军事行动，以色列是否准备结束对伊朗的战争时，特朗普回答说，“我认为是这样”。谈及英国的协助，特朗普称，英国反应迟缓，他们本应行动更快。当地时间20日，英国政府授权美国使用英国境内的军事基地，“对伊朗用于袭击霍尔木兹海峡船只的导弹设施实施打击”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3074333",
           "source": "华尔街见闻-快讯",
@@ -837,6 +955,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时29分]"
+        },
+        {
+          "title": "VIP·9折解锁黄金异动雷达",
+          "url": "https://flash.jin10.com/detail/20260321090100080800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "美股持续下挫，基准指数跌至盘中低点，标普500指数最新下跌1.39%。消息面上，美国正为可能向伊朗派遣地面部队做准备。",
@@ -861,17 +990,6 @@
           "time_info": "04时33分"
         },
         {
-          "title": "无人机制造商Swarmer Inc.收跌30.14%，报36.71美元。 周二美国IPO以来，最近三个交易日先后涨520%、涨77.42%（盘中一度达到65.04美元）、跌4.45%。 本周，该公司股价累涨634.20%。",
-          "url": "https://wallstreetcn.com/livenews/3074372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
           "title": "美元指数本周跌0.7%，日元涨0.3%",
           "url": "https://wallstreetcn.com/livenews/3074319",
           "source": "华尔街见闻-快讯",
@@ -881,17 +999,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普仍然侧重于在伊朗（实现）“全面”胜利。 国防部预计，完成任务（还）需要4-6周时间。",
-          "url": "https://wallstreetcn.com/livenews/3074371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         },
         {
           "title": "巴西总统卢拉：我们将不得不找到一种不动用巴西美元储备就能完成任务的方法。",
@@ -949,17 +1056,6 @@
           "time_info": "02时51分"
         },
         {
-          "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3074368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
           "title": "现货黄金回落至4540美元/盎司下方，日内跌2.43%。",
           "url": "https://flash.jin10.com/detail/20260321022314659800",
           "source": "金十数据",
@@ -1013,6 +1109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少5.144吨，当前持仓量为1056.991吨。",
+          "url": "https://flash.jin10.com/detail/20260321082648683800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "现货白银日内跌幅达7.0%，报67.67美元/盎司。",
@@ -1114,6 +1221,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "美股七巨头收盘播报｜周五（3月20日），美国科技股七巨头（Magnificent 7）指数跌2.00%，报185.18点，本周累计下跌2.48%，3月16-17日高位窄幅震荡，3月18-20日持续走低。 “超大”市值科技股指数跌1.99%，报352.43点，本周累跌2.19%。",
+          "url": "https://wallstreetcn.com/livenews/3074383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "美国总统特朗普：开启霍尔木兹海峡需要大量的协助。",
           "url": "https://flash.jin10.com/detail/20260321034449616800",
           "source": "金十数据",
@@ -1123,6 +1241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "特朗普：正考虑逐步降级对伊朗的军事行动",
+          "url": "https://flash.jin10.com/detail/20260321060704097800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "惠誉：若霍尔木兹海峡关闭六个月，油价平均可能达每桶120美元。",
