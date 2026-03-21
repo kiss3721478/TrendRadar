@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T20:48:42.831834+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-03-21T21:42:50.415589+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 147,
+      "match_count": 149,
       "titles": [
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时56分 ~ 20时48分]"
+          "appearance_count": 13,
+          "time_info": "[09时56分 ~ 21时42分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时28分 ~ 20时48分]"
+          "appearance_count": 15,
+          "time_info": "[07时28分 ~ 21时42分]"
         },
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -84,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时28分 ~ 20时48分]"
+          "appearance_count": 15,
+          "time_info": "[07时28分 ~ 21时42分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -115,8 +115,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 20时48分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 21时42分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -130,8 +130,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时28分 ~ 20时48分]"
+          "appearance_count": 17,
+          "time_info": "[06时28分 ~ 21时42分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -149,6 +149,20 @@
           "time_info": "[00时43分 ~ 06时29分]"
         },
         {
+          "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
+          "url": "https://wallstreetcn.com/articles/3768031",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时41分 ~ 21时42分]"
+        },
+        {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
           "url": "https://www.cls.cn/detail/2320056",
           "source": "财联社热门",
@@ -160,8 +174,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时43分 ~ 20时48分]"
+          "appearance_count": 26,
+          "time_info": "[00时43分 ~ 21时42分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -175,8 +189,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 20时48分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 21时42分]"
         },
         {
           "title": "实探金价暴跌后的北京菜百商场",
@@ -192,20 +206,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时36分 ~ 07时29分]"
-        },
-        {
-          "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
-          "url": "https://wallstreetcn.com/articles/3768031",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时41分 ~ 20时48分]"
         },
         {
           "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
@@ -316,8 +316,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时56分 ~ 20时48分]"
+          "appearance_count": 13,
+          "time_info": "[09时56分 ~ 21时42分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -369,6 +369,19 @@
           "time_info": "[12时07分 ~ 18时27分]"
         },
         {
+          "title": "黄金暴跌一周！“1983年大抛售”再现，中东“卖金筹资”？",
+          "url": "https://wallstreetcn.com/articles/3768045",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时33分 ~ 21时42分]"
+        },
+        {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
@@ -403,17 +416,15 @@
           "time_info": "[04时33分 ~ 07时29分]"
         },
         {
-          "title": "黄金暴跌一周！“1983年大抛售”再现，中东“卖金筹资”？",
-          "url": "https://wallstreetcn.com/articles/3768045",
-          "source": "华尔街见闻",
+          "title": "专家：睡眠有个“黄金4小时”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%9D%A1%E7%9C%A0%E6%9C%89%E4%B8%AA%E2%80%9C%E9%BB%84%E9%87%914%E5%B0%8F%E6%97%B6%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 20时48分]"
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时42分]"
         },
         {
           "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
@@ -463,6 +474,17 @@
           "time_info": "03时37分"
         },
         {
+          "title": "伊朗官员誓言要给特朗普“一个教训”",
+          "url": "https://flash.jin10.com/detail/20260321211515397800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "周五（3月20日）纽约尾盘，美国10年期基准国债收益率涨13.03个基点，报4.3796%，北京时间02:56涨至4.3915%——2022年9月以来持续交投于4%整数位心理关口附近、在高位窄幅震荡中于2023年10月23日达到5.0187%，本周累计上涨10.29个基点。 两年期美债收益率涨10.77个基点，报3.9001%，22:44达到3.9384%，本周累涨18.33个基点。",
           "url": "https://wallstreetcn.com/livenews/3074359",
           "source": "华尔街见闻-快讯",
@@ -485,6 +507,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "海湾国家担忧特朗普留下烂摊子 称伊朗控制海峡“不可接受”",
+          "url": "https://flash.jin10.com/detail/20260321211140614800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "美股延续跌势，纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
           "url": "https://flash.jin10.com/detail/20260321023913056800",
           "source": "金十数据",
@@ -505,17 +538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
-        },
-        {
-          "title": "专家：睡眠有个“黄金4小时”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%9D%A1%E7%9C%A0%E6%9C%89%E4%B8%AA%E2%80%9C%E9%BB%84%E9%87%914%E5%B0%8F%E6%97%B6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "美元兑日元USD/JPY日内涨幅扩大至1%，现报159.29。",
@@ -643,6 +665,18 @@
           "time_info": "[06时29分 ~ 09时57分]"
         },
         {
+          "title": "如何看待美联邦债务突破39万亿美元",
+          "url": "https://www.toutiao.com/trending/7619649612776738313/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时42分]"
+        },
+        {
           "title": "“你好通胀，再见降息”，值金价10%的跌幅？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260321113654707800",
           "source": "金十数据",
@@ -693,6 +727,20 @@
           "time_info": "[04时33分 ~ 07时29分]"
         },
         {
+          "title": "VIP·9折解锁黄金异动雷达",
+          "url": "https://flash.jin10.com/detail/20260321090100080800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 21时42分]"
+        },
+        {
           "title": "两年期美债收益率本周涨超18个基点",
           "url": "https://wallstreetcn.com/livenews/3074359",
           "source": "华尔街见闻-快讯",
@@ -703,6 +751,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 21时42分]"
         },
         {
           "title": "特朗普：我的支持率达到了前所未有的100%",
@@ -790,17 +849,15 @@
           "time_info": "[04时33分 ~ 07时29分]"
         },
         {
-          "title": "VIP·9折解锁黄金异动雷达",
-          "url": "https://flash.jin10.com/detail/20260321090100080800",
-          "source": "金十数据",
+          "title": "江学勤教授预警：特朗普或启动全美征兵",
+          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            28,
-            16
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时57分 ~ 20时48分]"
+          "time_info": "[19时23分 ~ 21时42分]"
         },
         {
           "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
@@ -840,17 +897,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时41分 ~ 15时33分]"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 18时27分]"
         },
         {
           "title": "周五（3月20日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.9067元，较周四纽约尾盘跌285点，日内整体交投于6.8771-6.9092元区间。",
@@ -927,17 +973,6 @@
           "time_info": "[00时43分 ~ 05时31分]"
         },
         {
-          "title": "江学勤教授预警：特朗普或启动全美征兵",
-          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时48分]"
-        },
-        {
           "title": "金价两天跌百元 新人纷纷抄底五金",
           "url": "https://www.toutiao.com/trending/7618868448677380122/",
           "source": "今日头条",
@@ -958,6 +993,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
+          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时42分]"
         },
         {
           "title": "默茨说特朗普对他不太满意",
@@ -982,6 +1028,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时36分]"
+        },
+        {
+          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3074453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时42分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9050元，较周四夜盘收盘跌177点。成交量409.49亿美元。",
@@ -1079,6 +1137,17 @@
           "time_info": "[07时29分 ~ 09时57分]"
         },
         {
+          "title": "国际金价创43年最大单周跌幅",
+          "url": "https://www.douyin.com/hot/2438620",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 21时42分]"
+        },
+        {
           "title": "Janus Living Inc.美国IPO首日开盘报23.50美元，此前给出的IPO发行价为每股20美元。",
           "url": "https://wallstreetcn.com/livenews/3074270",
           "source": "华尔街见闻-快讯",
@@ -1101,6 +1170,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时37分]"
+        },
+        {
+          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
+          "url": "https://flash.jin10.com/detail/20260321200202568800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 21时42分]"
         },
         {
           "title": "现货黄金周五跌超3.2%，纽约期金本周跌约11.1%",
@@ -1233,17 +1314,6 @@
           "time_info": "[05时31分 ~ 06时29分]"
         },
         {
-          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
-          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "美股持续下挫，基准指数跌至盘中低点，标普500指数最新下跌1.39%。消息面上，美国正为可能向伊朗派遣地面部队做准备。",
           "url": "https://flash.jin10.com/detail/20260321022539496800",
           "source": "金十数据",
@@ -1275,17 +1345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
-        },
-        {
-          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3074453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "巴西总统卢拉：我们将不得不找到一种不动用巴西美元储备就能完成任务的方法。",
@@ -1365,17 +1424,6 @@
           "time_info": "02时51分"
         },
         {
-          "title": "国际金价创43年最大单周跌幅",
-          "url": "https://www.douyin.com/hot/2438620",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
           "title": "现货黄金回落至4540美元/盎司下方，日内跌2.43%。",
           "url": "https://flash.jin10.com/detail/20260321022314659800",
           "source": "金十数据",
@@ -1451,17 +1499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        },
-        {
-          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
-          "url": "https://flash.jin10.com/detail/20260321200202568800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         },
         {
           "title": "现货白银日内跌幅达7.0%，报67.67美元/盎司。",
@@ -1618,17 +1655,6 @@
           "time_info": "12时07分"
         },
         {
-          "title": "如何看待美联邦债务突破39万亿美元",
-          "url": "https://www.toutiao.com/trending/7619649612776738313/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "惠誉：若霍尔木兹海峡关闭六个月，油价平均可能达每桶120美元。",
           "url": "https://flash.jin10.com/detail/20260321015755320800",
           "source": "金十数据",
@@ -1745,7 +1771,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -1767,7 +1793,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         }
