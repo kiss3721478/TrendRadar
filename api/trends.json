@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T21:44:32.042954+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-03-22T22:28:37.300301+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 87,
+      "match_count": 89,
       "titles": [
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时09分 ~ 21时44分]"
+          "appearance_count": 13,
+          "time_info": "[10时09分 ~ 22时28分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -227,8 +227,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时52分 ~ 21时44分]"
+          "appearance_count": 12,
+          "time_info": "[12时52分 ~ 22时28分]"
         },
         {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
@@ -242,6 +242,18 @@
           "time_info": "[00时29分 ~ 07时25分]"
         },
         {
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
+          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 22时28分]"
+        },
+        {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3074453",
           "source": "华尔街见闻-快讯",
@@ -252,18 +264,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 10时09分]"
-        },
-        {
-          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
-          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时44分]"
         },
         {
           "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
@@ -281,6 +281,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时09分 ~ 17时32分]"
+        },
+        {
+          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
+          "url": "https://www.cls.cn/detail/2320568",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 22时28分]"
         },
         {
           "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
@@ -309,6 +322,21 @@
           "time_info": "[15时38分 ~ 19时24分]"
         },
         {
+          "title": "VIP·9折解锁黄金异动雷达",
+          "url": "https://flash.jin10.com/detail/20260322090710634800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            1,
+            5,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 22时28分]"
+        },
+        {
           "title": "卢特尼克：已在俄亥俄州启动价值330亿美元的日本投资项目",
           "url": "https://flash.jin10.com/detail/20260322015520987800",
           "source": "金十数据",
@@ -324,31 +352,18 @@
           "time_info": "[02时36分 ~ 07时25分]"
         },
         {
-          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
-          "url": "https://www.cls.cn/detail/2320568",
-          "source": "财联社热门",
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260322110455118800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            10,
-            3
+            15,
+            25,
+            1,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时27分 ~ 21时44分]"
-        },
-        {
-          "title": "VIP·9折解锁黄金异动雷达",
-          "url": "https://flash.jin10.com/detail/20260322090710634800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            1,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 21时44分]"
+          "time_info": "[12时52分 ~ 22时28分]"
         },
         {
           "title": "美光2027年EPS超100美元！巴克莱“超级加倍”预测，远超市场共识的54美元",
@@ -384,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "【伊朗提出4项措施回应特朗普威胁】据伊朗媒体22日报道，伊朗伊斯兰革命卫队当天表示，如果美国总统特朗普袭击伊朗发电站的威胁付诸实施，伊朗将立即采取4项措施，包括完全关闭霍尔木兹海峡，打击以色列所有发电站、能源和信息技术设施，彻底摧毁中东地区所有美国持股的公司，打击设有美军基地的中东国家的发电站。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3074595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
@@ -440,28 +466,17 @@
           "time_info": "19时24分"
         },
         {
-          "title": "市场消息：美国财长贝森特称，美国总统特朗普会不惜一切代价在伊朗达成目标；有足够的钱来支持军事行动。",
-          "url": "https://flash.jin10.com/detail/20260322212406137800",
-          "source": "金十数据",
+          "title": "香港再现黄金大劫案 涉73公斤金条",
+          "url": "https://www.toutiao.com/trending/7619474528888012842/",
+          "source": "今日头条",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260322110455118800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            25,
-            1
+            2,
+            12,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时52分 ~ 21时44分]"
+          "time_info": "[19时24分 ~ 22时28分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-22）",
@@ -475,15 +490,15 @@
           "time_info": "19时24分"
         },
         {
-          "title": "避险逻辑失效？金价暴跌真凶是它！",
-          "url": "https://flash.jin10.com/detail/20260322212120913800",
+          "title": "德国总理默茨：今天下午，我与美国总统特朗普讨论了伊朗、以色列和乌克兰的局势。我们一致同意保持密切联系。我们的交流将很快继续。",
+          "url": "https://flash.jin10.com/detail/20260322214256450800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时44分"
+          "time_info": "22时28分"
         },
         {
           "title": "金价八连跌消费者还是不敢买",
@@ -499,18 +514,6 @@
           "time_info": "[18时27分 ~ 20时51分]"
         },
         {
-          "title": "香港再现黄金大劫案 涉73公斤金条",
-          "url": "https://www.toutiao.com/trending/7619474528888012842/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时44分]"
-        },
-        {
           "title": "专家：金价有一些回调是正常的",
           "url": "https://www.toutiao.com/trending/7619248018004836406/",
           "source": "今日头条",
@@ -522,17 +525,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时27分 ~ 20时51分]"
-        },
-        {
-          "title": "美国财长贝森特宣称：（在放宽制裁方面）俄罗斯可能会从石油销售中获得最多20亿美元收入。",
-          "url": "https://wallstreetcn.com/livenews/3074577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -560,6 +552,32 @@
           "time_info": "[12时52分 ~ 16时34分]"
         },
         {
+          "title": "香港发生亿元黄金劫案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%BF%E5%85%83%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%88%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
+          "title": "美国总统特朗普：如今伊朗被击败，美国最大的敌人就是激进左翼、极其无能的民主党！",
+          "url": "https://flash.jin10.com/detail/20260322202609721800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
           "title": "美国研究集团（ARG）最新民调显示，特朗普支持率创新低，不支持率高达63%，支持率仅为34%。",
           "url": "https://flash.jin10.com/detail/20260322093718219800",
           "source": "金十数据",
@@ -572,28 +590,16 @@
           "time_info": "[10时09分 ~ 12时52分]"
         },
         {
-          "title": "香港发生亿元黄金劫案",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%BF%E5%85%83%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%88%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时44分]"
-        },
-        {
-          "title": "美国总统特朗普：如今伊朗被击败，美国最大的敌人就是激进左翼、极其无能的民主党！",
-          "url": "https://flash.jin10.com/detail/20260322202609721800",
+          "title": "市场消息：美国财长贝森特称，美国总统特朗普会不惜一切代价在伊朗达成目标；有足够的钱来支持军事行动。",
+          "url": "https://flash.jin10.com/detail/20260322212406137800",
           "source": "金十数据",
           "ranks": [
             2,
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时44分]"
+          "time_info": "[21时44分 ~ 22时28分]"
         },
         {
           "title": "伊朗回应特朗普开放霍尔木兹海峡“最后通牒”：若遭袭将报复",
@@ -606,6 +612,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时24分 ~ 20时51分]"
+        },
+        {
+          "title": "避险逻辑失效？金价暴跌真凶是它！",
+          "url": "https://flash.jin10.com/detail/20260322212120913800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时28分]"
+        },
+        {
+          "title": "美债在定价“加息”？准确的说，市场在定价“QE”！",
+          "url": "https://wallstreetcn.com/articles/3768079",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 22时28分]"
         },
         {
           "title": "汉马第一名获得15000美元奖励",
@@ -644,6 +675,18 @@
           "time_info": "[19时24分 ~ 20时51分]"
         },
         {
+          "title": "美国财长贝森特宣称：（在放宽制裁方面）俄罗斯可能会从石油销售中获得最多20亿美元收入。",
+          "url": "https://wallstreetcn.com/livenews/3074577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时28分]"
+        },
+        {
           "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
           "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
           "source": "澎湃新闻",
@@ -656,16 +699,54 @@
           "time_info": "[12时52分 ~ 15时38分]"
         },
         {
-          "title": "美债在定价“加息”？准确的说，市场在定价“QE”！",
-          "url": "https://wallstreetcn.com/articles/3768079",
+          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
+          "url": "https://wallstreetcn.com/articles/3768099",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             9,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时44分]"
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
+          "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
+          "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
+          "url": "https://news.ifeng.com/c/8rhr1eLYgg8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
+          "title": "美国总统特朗普：周一，美国移民及海关执法局（ICE）将前往机场，协助我们优秀的运输安全管理局（TSA）工作人员。",
+          "url": "https://flash.jin10.com/detail/20260322200100766800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时28分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -681,6 +762,56 @@
           "time_info": "[10时09分 ~ 13时54分]"
         },
         {
+          "title": "伊朗议长回应特朗普“最后通牒”",
+          "url": "https://www.toutiao.com/trending/7618960620453642250/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
+          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
+          "url": "https://wallstreetcn.com/livenews/3074555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
+          "title": "金价上演断崖式下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%BC%94%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
+          "title": "美军增兵、特朗普下通牒，伊朗称地面部队处于战备“巅峰状态”",
+          "url": "https://wallstreetcn.com/livenews/3074552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时28分]"
+        },
+        {
           "title": "香港发生亿元黄金劫案，警方拘5人找回73公斤金条",
           "url": "https://flash.jin10.com/detail/20260322133335234800",
           "source": "金十数据",
@@ -693,51 +824,16 @@
           "time_info": "[14时52分 ~ 15时38分]"
         },
         {
-          "title": "美国总统特朗普：周一，美国移民及海关执法局（ICE）将前往机场，协助我们优秀的运输安全管理局（TSA）工作人员。",
-          "url": "https://flash.jin10.com/detail/20260322200100766800",
-          "source": "金十数据",
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
+          "url": "https://www.cls.cn/detail/2320606",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时44分]"
-        },
-        {
-          "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
-          "url": "https://news.ifeng.com/c/8rhr1eLYgg8",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时44分]"
-        },
-        {
-          "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
+            12,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时44分]"
-        },
-        {
-          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
-          "url": "https://wallstreetcn.com/articles/3768099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时44分]"
+          "time_info": "[21时44分 ~ 22时28分]"
         },
         {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
@@ -750,29 +846,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时26分]"
-        },
-        {
-          "title": "伊朗议长回应特朗普“最后通牒”",
-          "url": "https://www.toutiao.com/trending/7618960620453642250/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时44分]"
-        },
-        {
-          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
-          "url": "https://wallstreetcn.com/livenews/3074555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时44分]"
         },
         {
           "title": "国际金价“八连跌”",
@@ -799,18 +872,6 @@
           "time_info": "[07时25分 ~ 10时09分]"
         },
         {
-          "title": "金价上演断崖式下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%BC%94%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时44分]"
-        },
-        {
           "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
           "url": "https://flash.jin10.com/detail/20260322112216406800",
           "source": "金十数据",
@@ -833,18 +894,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 18时28分]"
-        },
-        {
-          "title": "美军增兵、特朗普下通牒，伊朗称地面部队处于战备“巅峰状态”",
-          "url": "https://wallstreetcn.com/livenews/3074552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时44分]"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂，为什么选择攻击民用设施而不是军事目标？伊朗会妥协吗？",
@@ -925,17 +974,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
-        },
-        {
-          "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
-          "url": "https://www.cls.cn/detail/2320606",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂",
