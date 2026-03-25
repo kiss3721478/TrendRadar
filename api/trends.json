@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T17:54:15.608512+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-03-25T18:50:11.841528+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 182,
+      "match_count": 188,
       "titles": [
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时32分 ~ 17时54分]"
+          "appearance_count": 11,
+          "time_info": "[07时32分 ~ 18时50分]"
         },
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时32分 ~ 17时54分]"
+          "appearance_count": 11,
+          "time_info": "[07时32分 ~ 18时50分]"
         },
         {
           "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
@@ -81,6 +81,21 @@
           "time_info": "[00时10分 ~ 06时31分]"
         },
         {
+          "title": "全球石油美元体系：生于1974，落于2026？",
+          "url": "https://www.cls.cn/detail/2323885",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时54分 ~ 18时50分]"
+        },
+        {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
@@ -90,6 +105,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时10分 ~ 06时31分]"
+        },
+        {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时54分 ~ 18时50分]"
         },
         {
           "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
@@ -118,19 +147,6 @@
           "time_info": "[10时07分 ~ 16时52分]"
         },
         {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 17时54分]"
-        },
-        {
           "title": "美CIA前局长：比起特朗普，更相信伊朗",
           "url": "https://news.ifeng.com/c/8rm8Wgr5b4i",
           "source": "凤凰网",
@@ -140,6 +156,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时54分 ~ 17时54分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            19,
+            20,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 18时50分]"
         },
         {
           "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
@@ -169,8 +200,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时10分 ~ 17时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时10分 ~ 18时50分]"
         },
         {
           "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
@@ -187,19 +218,17 @@
           "time_info": "[00时10分 ~ 10时08分]"
         },
         {
-          "title": "全球石油美元体系：生于1974，落于2026？",
-          "url": "https://www.cls.cn/detail/2323885",
+          "title": "特朗普称已向伊朗提出和平方案，中方回应",
+          "url": "https://www.cls.cn/detail/2324238",
           "source": "财联社热门",
           "ranks": [
-            6,
-            5,
-            3,
+            4,
             2,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 17时54分]"
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 18时50分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -254,19 +283,17 @@
           "time_info": "[00时10分 ~ 07时32分]"
         },
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
+          "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
+          "url": "https://www.cls.cn/detail/2323758",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            19,
-            20,
-            16,
-            18
+            12,
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时07分 ~ 17时54分]"
+          "time_info": "[12时54分 ~ 18时50分]"
         },
         {
           "title": "特朗普“临阵变卦”有何意图",
@@ -280,18 +307,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时10分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普称已向伊朗提出和平方案，中方回应",
-          "url": "https://www.cls.cn/detail/2324238",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时54分]"
         },
         {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
@@ -360,17 +375,17 @@
           "time_info": "03时03分"
         },
         {
-          "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
-          "url": "https://www.cls.cn/detail/2323758",
+          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
+          "url": "https://www.cls.cn/detail/2323952",
           "source": "财联社热门",
           "ranks": [
             12,
-            13,
-            11
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时54分 ~ 17时54分]"
+          "time_info": "[15时52分 ~ 18时50分]"
         },
         {
           "title": "精准收割！特朗普变卦前油市突现3.2亿美元异常空单",
@@ -382,6 +397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "市场消息：美国共和党众议员Alexandria Ocasio-Cortez正式呼吁根据宪法第二十五条修正案解除特朗普的职务。",
+          "url": "https://flash.jin10.com/detail/20260325181805891800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "特朗普称伊朗方面“希望达成协议”，美国正与“正确的人”沟通",
@@ -461,6 +487,17 @@
           "time_info": "16时52分"
         },
         {
+          "title": "瑞银：将微软(MSFT.O)目标股价从600美元下调至510美元。",
+          "url": "https://flash.jin10.com/detail/20260325181415568800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "OpenAI Nonprofit任命了多位领导人，希望在2026年开支10亿美元。",
           "url": "https://wallstreetcn.com/livenews/3076075",
           "source": "华尔街见闻-快讯",
@@ -517,6 +554,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
+          "url": "https://www.cls.cn/detail/2324118",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 18时50分]"
+        },
+        {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 18时50分]"
+        },
+        {
+          "title": "为何越来越多的人执着于买黄金",
+          "url": "https://www.toutiao.com/trending/7621074203227196969/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 18时50分]"
+        },
+        {
+          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 18时50分]"
         },
         {
           "title": "LME期铜收跌66美元，报12100美元/吨。 LME期铝收涨62美元，报3260美元/吨。 LME期锌收跌36美元，报3042美元/吨。 LME期铅收跌6美元，报1892美元/吨。 LME期镍收跌132美元，报16950美元/吨。 LME期锡收涨294美元，报44238美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -617,18 +701,6 @@
           "time_info": "[05时38分 ~ 06时31分]"
         },
         {
-          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
-          "url": "https://www.cls.cn/detail/2323952",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 17时54分]"
-        },
-        {
           "title": "黄金暴跌 现在是入手时机吗",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E6%9A%B4%E8%B7%8C+%E7%8E%B0%E5%9C%A8%E6%98%AF%E5%85%A5%E6%89%8B%E6%97%B6%E6%9C%BA%E5%90%97",
           "source": "百度热搜",
@@ -653,18 +725,6 @@
           "time_info": "[04时41分 ~ 06时31分]"
         },
         {
-          "title": "特朗普支持率创新低！连海湖庄园“后院”都正“由红变蓝”？",
-          "url": "https://www.cls.cn/detail/2324118",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时54分]"
-        },
-        {
           "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
           "url": "https://www.cls.cn/detail/2323307",
           "source": "财联社热门",
@@ -676,37 +736,15 @@
           "time_info": "[04时41分 ~ 06时31分]"
         },
         {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
+          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
+          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
+          "source": "凤凰网",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时54分]"
-        },
-        {
-          "title": "为何越来越多的人执着于买黄金",
-          "url": "https://www.toutiao.com/trending/7621074203227196969/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时54分]"
-        },
-        {
-          "title": "特朗普暗示美伊谈判推进，美股三大期指均涨超1%，现货黄金收复4500关口，布油大跌5%",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时54分]"
+          "time_info": "[18时49分 ~ 18时50分]"
         },
         {
           "title": "WTI原油日内涨幅扩大至1.00%，现报89.71美元/桶。",
@@ -894,6 +932,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时53分 ~ 17时54分]"
+        },
+        {
+          "title": "伊朗喊话特朗普：美国已“战略失败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 18时50分]"
         },
         {
           "title": "招商银行上调黄金账户点差至5元/克",
@@ -1947,7 +1996,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1974,6 +2023,17 @@
           "time_info": "15时52分"
         },
         {
+          "title": "花旗：将亚马逊(AMZN.O)目标价从265美元上调至285美元。",
+          "url": "https://flash.jin10.com/detail/20260325175335846800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "周三亚太盘初，WTI原油日内跌幅达4.0%，报88.57美元/桶。 标普500股指期货、道指期货涨超0.7%，纳斯达克100指数涨超0.9%，罗素2000股指期货涨1.1%。 现货黄金5分钟内下跌8.64美元/盎司，报4470.96美元/盎司。 纽约金5分钟内下跌7.09美元/盎司，报4505.6美元/盎司。 据央视报道，美国有意停火一个月以与伊朗讨论15点协议，包括美方支持其发展民用核项目。",
           "url": "https://wallstreetcn.com/livenews/3076221",
           "source": "华尔街见闻-快讯",
@@ -1994,6 +2054,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "北约内讧爆发？秘书长再向特朗普“献媚”，欧洲抵制并“无语”",
+          "url": "https://flash.jin10.com/detail/20260325175235727800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "黄金连续突破",
