@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T21:10:28.346528+08:00",
-  "total_titles_processed": 1845,
+  "generated_at": "2026-03-25T22:59:36.309921+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 209,
+      "match_count": 217,
       "titles": [
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -17,21 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时32分 ~ 21时10分]"
-        },
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时32分 ~ 21时10分]"
+          "appearance_count": 15,
+          "time_info": "[07时32分 ~ 22时59分]"
         },
         {
           "title": "全球石油美元体系：生于1974，落于2026？",
@@ -47,6 +34,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时54分 ~ 19时42分]"
+        },
+        {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[07时32分 ~ 22时59分]"
         },
         {
           "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
@@ -185,8 +186,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时07分 ~ 21时10分]"
+          "appearance_count": 14,
+          "time_info": "[10时07分 ~ 22时59分]"
         },
         {
           "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
@@ -260,6 +261,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时32分 ~ 14时02分]"
+        },
+        {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时52分 ~ 22时59分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -342,19 +357,6 @@
           "time_info": "[00时10分 ~ 07时32分]"
         },
         {
-          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时52分 ~ 21时10分]"
-        },
-        {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
           "url": "https://wallstreetcn.com/articles/3768206",
           "source": "华尔街见闻",
@@ -377,6 +379,17 @@
           "time_info": "[17时53分 ~ 19时42分]"
         },
         {
+          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
+          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时49分 ~ 22时59分]"
+        },
+        {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
           "url": "https://wallstreetcn.com/articles/3768191",
           "source": "华尔街见闻",
@@ -386,6 +399,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 00时11分]"
+        },
+        {
+          "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -430,6 +454,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "伊朗喊话特朗普：美国已“战略失败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时49分 ~ 22时59分]"
+        },
+        {
+          "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "精准收割！特朗普变卦前油市突现3.2亿美元异常空单",
@@ -482,7 +530,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -526,20 +574,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
-        },
-        {
-          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
-          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时49分 ~ 21时10分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月25日（周三）收盘上涨4.19%报1013.51元/克；<br/>上海黄金交易所白银T+D 3月25日（周三）收盘上涨8.83%报18128.0元/千克。",
@@ -622,6 +659,17 @@
           "time_info": "[07时32分 ~ 14时02分]"
         },
         {
+          "title": "伊朗：15点停战协议是特朗普的又一个谎言",
+          "url": "https://news.ifeng.com/c/8rmzEjePEh0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "美国总统特朗普：仇恨不利于达成协议。",
           "url": "https://flash.jin10.com/detail/20260325024928882800",
           "source": "金十数据",
@@ -642,19 +690,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
-        },
-        {
-          "title": "伊朗喊话特朗普：美国已“战略失败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E2%80%9C%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时49分 ~ 21时10分]"
         },
         {
           "title": "为何越来越多的人执着于买黄金",
@@ -755,6 +790,18 @@
           "time_info": "[05时38分 ~ 06时31分]"
         },
         {
+          "title": "贝莱德CEO推演伊朗战争结局：若油价升至150美元将引发全球衰退",
+          "url": "https://www.cls.cn/detail/2324561",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时59分]"
+        },
+        {
           "title": "现货白银日内涨幅达3.00%，现报71.20美元/盎司。现货黄金报4480美元/盎司，涨幅1.6%。",
           "url": "https://flash.jin10.com/detail/20260325045446531800",
           "source": "金十数据",
@@ -838,6 +885,18 @@
           "time_info": "[04时41分 ~ 05时38分]"
         },
         {
+          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2324750",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时59分]"
+        },
+        {
           "title": "高盛：若伊朗战争冲击经济增长，美元涨势将消退",
           "url": "https://wallstreetcn.com/livenews/3076118",
           "source": "华尔街见闻-快讯",
@@ -894,6 +953,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时53分 ~ 17时54分]"
+        },
+        {
+          "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2020199361380905442",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时59分]"
         },
         {
           "title": "两年期美债收益率涨约6.9个基点",
@@ -1006,7 +1077,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1116,18 +1187,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2324750",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1204,7 +1264,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1220,15 +1280,15 @@
           "time_info": "16时52分"
         },
         {
-          "title": "贝莱德CEO推演伊朗战争结局：若油价升至150美元将引发全球衰退",
-          "url": "https://www.cls.cn/detail/2324561",
-          "source": "财联社热门",
+          "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
+          "url": "https://wallstreetcn.com/articles/3768337",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时10分"
+          "time_info": "22时59分"
         },
         {
           "title": "路透社/益普索民调：美国总统特朗普支持率跌至36%，为重返白宫以来最低水平。",
@@ -1292,18 +1352,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2020199361380905442",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1424,7 +1473,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1446,7 +1495,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1787,7 +1836,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1809,7 +1858,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1908,7 +1957,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1955,6 +2004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "专家说黄金正重演08年剧本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E9%BB%84%E9%87%91%E6%AD%A3%E9%87%8D%E6%BC%9408%E5%B9%B4%E5%89%A7%E6%9C%AC%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "谁比总统快一步？起底特朗普2.0最危险交易局！",
@@ -2293,9 +2353,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
+        },
+        {
+          "title": "金价银价突然飙升",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "北约内讧爆发？秘书长再向特朗普“献媚”，欧洲抵制并“无语”",
@@ -2353,6 +2424,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "彭博美元指数刷新日高，报道称伊朗拒绝停火。 ICE美元指数涨超0.3%，刷新日高至99.55点。",
+          "url": "https://wallstreetcn.com/livenews/3076738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "港股开盘，恒指开涨0.87%，科指开涨0.99%；洛阳钼业(03993.HK)、农夫山泉(09633.HK)均涨超6%，老铺黄金(06181.HK)涨超5%，万洲国际(00288.HK)涨近5%，海底捞(06862.HK)跌超4%。",
           "url": "https://flash.jin10.com/detail/20260325092125425800",
           "source": "金十数据",
@@ -2395,6 +2477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "新兴市场货币指数回吐涨幅，投资者关注国际油价跌幅收窄。 WTI原油期货目前跌4.3%，重返88.40美元附近。 布伦特原油期货跌4.5%，重返95.70美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3076735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     }
