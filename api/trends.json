@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T01:51:08.615982+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-03-28T02:56:11.406975+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 29,
+      "match_count": 46,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "黄金大买家的重大转向！土耳其央行在伊朗战争期间抛售80亿美元黄金",
@@ -37,8 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
+        },
+        {
+          "title": "特朗普揭晓所谓伊朗大礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 02时56分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -47,9 +59,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "白宫备忘录：美国总统特朗普指示国土安全部部长和美国行政管理和预算局局长补偿美国运输安全管理局员工。",
+          "url": "https://flash.jin10.com/detail/20260328023428762800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普签署备忘录，授意对TSA工作人员拨款。",
+          "url": "https://wallstreetcn.com/livenews/3078445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -70,8 +104,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月27日（周五）晚盘收盘上涨1.35%报1004.45元/克；<br/>上海黄金交易所白银T+D 3月27日（周五）晚盘收盘上涨2.56%报17730.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260328023015859800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "WTI 5月原油期货收涨5.16美元，涨幅5.46%，报99.64美元/桶，本周累计上涨超过1.43%。 中东Abu Dhabi Murban原油期货涨5.54%，报118.00美元/桶，本周累跌19.40%，整体呈现出长尾L形走势。 NYMEX 4月天然气期货收报3.0950美元/百万英热单位。 NYMEX 4月汽油期货收报3.2501美元/加仑，NYMEX 3月取暖油期货收报4.4955美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3078443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -79,11 +135,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -91,11 +148,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "1吨旧手机约能提炼200克黄金",
@@ -103,11 +161,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "27亿假黄金骗贷案一审宣判",
@@ -118,19 +177,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -138,11 +198,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -150,11 +211,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
@@ -165,19 +227,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "金价为何反常下跌",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 02时56分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -187,19 +250,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 02时56分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
           "url": "https://www.cls.cn/detail/2327594",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 02时56分]"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -209,8 +273,20 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 02时56分]"
+        },
+        {
+          "title": "周五（3月27日），美联储隔夜逆回购协议（RRP）使用规模为9.92亿美元（交易对手5家），上个交易日报8.85亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3078416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "time_info": "[01时51分 ~ 02时56分]"
         },
         {
           "title": "报道：特朗普预算提案将于4月3日提交国会，国家安全支出最受关注",
@@ -225,26 +301,26 @@
           "time_info": "[00时55分 ~ 01时51分]"
         },
         {
-          "title": "特朗普揭晓所谓伊朗大礼",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
-        },
-        {
-          "title": "周五（3月27日），美联储隔夜逆回购协议（RRP）使用规模为9.92亿美元（交易对手5家），上个交易日报8.85亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3078416",
+          "title": "WTI原油期货价格在临近收盘时突破100美元整数位心理关口。",
+          "url": "https://wallstreetcn.com/livenews/3078440",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：几分钟前与美国总统特朗普通了话。",
+          "url": "https://flash.jin10.com/detail/20260328022158948800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "德国总理默茨：（谈伊朗问题）特朗普目前的做法是一次后果不堪设想的大规模升级行动。",
@@ -258,15 +334,48 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美国总统特朗普：将在迈阿密发表关于经济的重要讲话。",
+          "url": "https://wallstreetcn.com/livenews/3078436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "美国总统特朗普：希望卡特彼勒等公司保证降低农民的成本。 与约翰迪尔（迪尔农机）讨论了（农用）设备问题。",
           "url": "https://wallstreetcn.com/livenews/3078412",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "WTI原油日内涨幅达5.5%，报99.72美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3078434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：将在迈阿密发表一场关于经济的盛大演讲。我们在伊朗的军事行动进展顺利！",
+          "url": "https://flash.jin10.com/detail/20260328021918920800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "市场消息：美国总统特朗普承诺降低拖拉机成本，并“消除大量针对农业设备的荒谬规定”。",
@@ -275,9 +384,53 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "WTI原油再站上100美元关口",
+          "url": "https://flash.jin10.com/detail/20260328021717215800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "纳指跌幅扩大至2%，标普跌1.4%，道指跌674点、跌幅1.5%，半导体指数跌1.8%，生物科技指数跌2.3%。 伊朗外长阿拉格奇称，以色列在美方协调下对伊朗钢铁厂、电力和核设施发动的袭击与特朗普延长外交期限的声明相悖。伊朗将让以色列为其罪行付出沉重代价。",
+          "url": "https://wallstreetcn.com/livenews/3078430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "布伦特原油向上触及105美元/桶，日内涨3.78%。",
+          "url": "https://flash.jin10.com/detail/20260328021055036800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "LME期铜收涨48美元，报12195美元/吨。 LME期铝收涨26美元，报3296美元/吨。 LME期锌收涨34美元，报3115美元/吨。 LME期铅收涨5美元，报1896美元/吨。 LME期镍收跌67美元，报17186美元/吨。 LME期锡收涨1663美元，报45788美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3078429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美国总统特朗普兜售关于燃料油E15的豁免行动，称：针对柴油发布新版指导意见。 要求国会山迅速批准新版农业立法草案。 相信众议长约翰逊等国会山成员能为农民找到一份（跨党派）协议。",
@@ -286,7 +439,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -297,9 +450,53 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
+          "url": "https://flash.jin10.com/detail/20260328020020260800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260328015039648800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "周五（3月27日），韩元兑美元最终跌0.23%，报1511.15韩元。 本周，韩元累计下跌0.49%，周一北京时间19:00出现一波瞬间的反弹行情，随后平滑地逐步回吐这一波涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3078423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
+          "url": "https://flash.jin10.com/detail/20260328014753556800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美元兑日元涨穿160，为2024年以来首次",
