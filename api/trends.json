@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T13:57:42.821768+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-03-28T15:02:39.390286+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 121,
+      "match_count": 124,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -103,8 +103,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 15时02分]"
+        },
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 15时02分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -118,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时50分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时50分 ~ 15时02分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -148,8 +159,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 15时02分]"
         },
         {
           "title": "27亿假黄金骗贷案一审宣判",
@@ -172,11 +183,12 @@
             15,
             16,
             13,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 15时02分]"
         },
         {
           "title": "金价为何反常下跌",
@@ -221,8 +233,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 15时02分]"
         },
         {
           "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
@@ -237,15 +249,15 @@
           "time_info": "[00时55分 ~ 07时32分]"
         },
         {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 15时02分]"
         },
         {
           "title": "1吨旧手机约能提炼200克黄金",
@@ -264,15 +276,15 @@
           "time_info": "[00时55分 ~ 10时06分]"
         },
         {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
+          "title": "特朗普发出威胁：下一个是古巴",
+          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时02分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -284,17 +296,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时32分]"
-        },
-        {
-          "title": "特朗普发出威胁：下一个是古巴",
-          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时57分]"
         },
         {
           "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
@@ -365,6 +366,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "科威特原油价格涨至118美元以上",
+          "url": "https://flash.jin10.com/detail/20260328143817025800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "美国总统特朗普：共和党应该终止阻挠议事，开始投票！难道他们还没厌倦这些来自激进左派疯子们的胡闹吗？让美国再次伟大！",
           "url": "https://flash.jin10.com/detail/20260328032202123800",
           "source": "金十数据",
@@ -374,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
-        },
-        {
-          "title": "特朗普在内阁会议上东拉西扯 时而称赞贝森特的眼镜 时而称要竞选委内瑞拉总统",
-          "url": "https://flash.jin10.com/detail/20260328132848473800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "WTI 5月原油期货收涨5.16美元，涨幅5.46%，报99.64美元/桶，本周累计上涨超过1.43%。 中东Abu Dhabi Murban原油期货涨5.54%，报118.00美元/桶，本周累跌19.40%，整体呈现出长尾L形走势。 NYMEX 4月天然气期货收报3.0950美元/百万英热单位。 NYMEX 4月汽油期货收报3.2501美元/加仑，NYMEX 3月取暖油期货收报4.4955美元/加仑。",
@@ -508,6 +509,20 @@
           "time_info": "[06时32分 ~ 10时06分]"
         },
         {
+          "title": "特朗普称霍尔木兹为特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3078525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 15时02分]"
+        },
+        {
           "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3078502",
           "source": "华尔街见闻-快讯",
@@ -533,6 +548,19 @@
           "time_info": "[04时38分 ~ 07时32分]"
         },
         {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时02分]"
+        },
+        {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
           "url": "https://flash.jin10.com/detail/20260328041150540800",
           "source": "金十数据",
@@ -544,19 +572,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时39分 ~ 06时32分]"
-        },
-        {
-          "title": "特朗普称霍尔木兹为特朗普海峡",
-          "url": "https://wallstreetcn.com/livenews/3078525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 13时57分]"
         },
         {
           "title": "白宫备忘录：美国总统特朗普指示国土安全部部长和美国行政管理和预算局局长补偿美国运输安全管理局员工。",
@@ -632,6 +647,18 @@
           "time_info": "[06时32分 ~ 07时32分]"
         },
         {
+          "title": "特朗普在内阁会议上东拉西扯 时而称赞贝森特的眼镜 时而称要竞选委内瑞拉总统",
+          "url": "https://flash.jin10.com/detail/20260328132848473800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时02分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：3月24日当周，投机者所持COMEX黄金净多头头寸减少13,145手合约，至92,775手合约，创五个月新低。 所持COMEX白银净多头头寸创九周新高。 所持COMEX铜净多头头寸创七个月新低。 所持NYMEX铂金净多头头寸创14周新高。 所持NYMEX钯金净空头头寸创五个月新高。",
           "url": "https://wallstreetcn.com/livenews/3078459",
           "source": "华尔街见闻-快讯",
@@ -678,6 +705,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时02分]"
+        },
+        {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时02分]"
         },
         {
           "title": "索尼上调PS5价格，涨幅高达150美元，称受全球经济“压力”影响",
@@ -754,6 +804,32 @@
           "time_info": "[05时34分 ~ 07时32分]"
         },
         {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://wallstreetcn.com/livenews/3078530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
+          "url": "https://wallstreetcn.com/livenews/3078529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时02分]"
+        },
+        {
           "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
           "url": "https://wallstreetcn.com/livenews/3078486",
           "source": "华尔街见闻-快讯",
@@ -801,41 +877,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时57分]"
-        },
-        {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时57分]"
-        },
-        {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时57分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：我们还有另外3554个目标要完成，这些目标将很快就会被完成。",
@@ -934,6 +975,17 @@
           "time_info": "[04时39分 ~ 05时34分]"
         },
         {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时02分]"
+        },
+        {
           "title": "美国总统特朗普：（谈英国航空母舰） 它们不太好。它们速度慢，而且性能也不太好。",
           "url": "https://flash.jin10.com/detail/20260328055428270800",
           "source": "金十数据",
@@ -982,18 +1034,6 @@
           "time_info": "[04时39分 ~ 05时34分]"
         },
         {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://wallstreetcn.com/livenews/3078530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时57分]"
-        },
-        {
           "title": "特朗普将霍尔木兹海峡说成特朗普海峡",
           "url": "https://flash.jin10.com/detail/20260328055355915800",
           "source": "金十数据",
@@ -1004,18 +1044,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
-          "url": "https://wallstreetcn.com/livenews/3078529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 13时57分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：伊朗必须开放霍尔木兹海峡。",
@@ -1138,6 +1166,17 @@
           "time_info": "[02时56分 ~ 03时42分]"
         },
         {
+          "title": "特朗普吹嘘委内瑞拉伊朗军事行动成功，扬言“古巴是下一个”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32847580",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时02分]"
+        },
+        {
           "title": "美国众议院议长约翰逊：几分钟前与美国总统特朗普通了话。",
           "url": "https://flash.jin10.com/detail/20260328022158948800",
           "source": "金十数据",
@@ -1160,15 +1199,15 @@
           "time_info": "10时06分"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
+          "title": "美国银行以7250万美元与爱泼斯坦案受害者达成和解",
+          "url": "https://flash.jin10.com/detail/20260328142504517800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "15时02分"
         },
         {
           "title": "德国总理默茨：（谈伊朗问题）特朗普目前的做法是一次后果不堪设想的大规模升级行动。",
@@ -1191,6 +1230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "据纽约时报：美国总统特朗普与印度总理莫迪就伊朗局势通了电话，埃隆·马斯克也加入了通话。",
@@ -1301,17 +1351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
-        },
-        {
-          "title": "特朗普吹嘘委内瑞拉伊朗军事行动成功，扬言“古巴是下一个”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32847580",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
