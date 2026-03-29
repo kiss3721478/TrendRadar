@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T02:42:33.286496+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-30T03:32:47.614242+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时32分]"
         },
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时32分]"
         },
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时32分]"
         },
         {
           "title": "美银Hartnett：还没看到“抄底信号”，如何理解黄金在内的“抄底交易”？",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时32分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时32分]"
         },
         {
           "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
@@ -69,11 +69,12 @@
           "ranks": [
             8,
             7,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时32分]"
         },
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -84,8 +85,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时32分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -95,8 +96,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时32分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -105,11 +106,12 @@
           "ranks": [
             29,
             24,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时32分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -120,8 +122,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "中东两家铝业公司遭袭，花旗分析师：铝价或暴涨至每吨4000美元",
@@ -132,8 +134,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时32分]"
         },
         {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
