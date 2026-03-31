@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T21:18:09.559168+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-03-31T23:02:27.635782+08:00",
+  "total_titles_processed": 1767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 148,
+      "match_count": 162,
       "titles": [
         {
           "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
@@ -29,8 +29,21 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时35分 ~ 23时02分]"
+        },
+        {
+          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
+          "url": "https://wallstreetcn.com/articles/3768804",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[07时35分 ~ 21时18分]"
+          "time_info": "[10时22分 ~ 23时02分]"
         },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -71,19 +84,6 @@
           "time_info": "[00时56分 ~ 07时35分]"
         },
         {
-          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
-          "url": "https://wallstreetcn.com/articles/3768804",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时22分 ~ 21时18分]"
-        },
-        {
           "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2329476",
           "source": "财联社热门",
@@ -106,8 +106,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时09分 ~ 21时18分]"
+          "appearance_count": 8,
+          "time_info": "[13时09分 ~ 23时02分]"
         },
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
@@ -129,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时42分 ~ 21时18分]"
+          "appearance_count": 15,
+          "time_info": "[05时42分 ~ 23时02分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
@@ -145,6 +145,36 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时35分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            11,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时22分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时22分 ~ 23时02分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -192,21 +222,6 @@
           "time_info": "[07时35分 ~ 15时14分]"
         },
         {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12,
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时22分 ~ 21时18分]"
-        },
-        {
           "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -216,20 +231,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 01时55分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时22分 ~ 21时18分]"
         },
         {
           "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
@@ -279,15 +280,16 @@
           "time_info": "[03时13分 ~ 05时07分]"
         },
         {
-          "title": "特朗普释放停战信号，美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://www.cls.cn/detail/2330869",
+          "source": "财联社热门",
           "ranks": [
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时17分 ~ 23时02分]"
         },
         {
           "title": "美国为何爆发反特朗普抗议",
@@ -297,15 +299,29 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时17分 ~ 23时02分]"
         },
         {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://www.cls.cn/detail/2330869",
-          "source": "财联社热门",
+          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            18,
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时14分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普释放停战信号，美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -347,17 +363,15 @@
           "time_info": "15时14分"
         },
         {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
+          "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            15,
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 21时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普称暂不放弃施压伊朗开放霍尔木兹海峡",
@@ -366,7 +380,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -426,6 +440,17 @@
           "time_info": "19时50分"
         },
         {
+          "title": "苹果、微软、谷歌等回吐涨幅，伊朗对18家美国科技公司发出打击警告",
+          "url": "https://wallstreetcn.com/livenews/3080254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "报道称特朗普愿在海峡关闭时停战！美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
           "url": "https://wallstreetcn.com/articles/3768819",
           "source": "华尔街见闻",
@@ -446,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "伊朗称将打击中东地区与美高科技公司有关的企业，包括惠普、苹果、谷歌、特斯拉、微软等公司",
+          "url": "https://wallstreetcn.com/livenews/3080253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "智利部长委员会批准价值10亿美元的多个可再生能源项目。",
@@ -608,6 +644,17 @@
           "time_info": "[03时59分 ~ 07时35分]"
         },
         {
+          "title": "特朗普围伊“救”俄",
+          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时02分]"
+        },
+        {
           "title": "美股三大指数高开 爱奇艺涨超12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%88%B1%E5%A5%87%E8%89%BA%E6%B6%A8%E8%B6%8512%25",
           "source": "百度热搜",
@@ -618,6 +665,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 03时59分]"
+        },
+        {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时17分 ~ 23时02分]"
         },
         {
           "title": "标普500指数涨0.3%，道指涨340点、涨幅0.75%，纳指持平。 美国总统特朗普在接受《纽约邮报》采访时称，伊朗议会议长卡利巴夫是与美国就结束战争事宜进行沟通的伊朗官员之一。当被问及在与华盛顿合作方面能否信任卡利巴夫时，特朗普回答说：“我们会拭目以待的。”",
@@ -659,17 +718,6 @@
           "time_info": "[05时07分 ~ 06时36分]"
         },
         {
-          "title": "特朗普围伊“救”俄",
-          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 21时18分]"
-        },
-        {
           "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3079569",
           "source": "华尔街见闻-快讯",
@@ -683,6 +731,17 @@
           "time_info": "[05时07分 ~ 06时36分]"
         },
         {
+          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2330950",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时17分 ~ 23时02分]"
+        },
+        {
           "title": "WTI原油日内涨幅达5.0%，报104.64美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3079567",
           "source": "华尔街见闻-快讯",
@@ -694,6 +753,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时07分 ~ 06时36分]"
+        },
+        {
+          "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时17分 ~ 23时02分]"
         },
         {
           "title": "短端美债收益率跌超9个基点",
@@ -766,17 +837,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 03时59分]"
-        },
-        {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/articles/3768886",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "据知情人士透露，Apollo接近为KKR旗下Atlantic Aviation达成100亿美元协议。（彭博）",
@@ -907,17 +967,6 @@
           "time_info": "[17时36分 ~ 19时50分]"
         },
         {
-          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2330950",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
           "title": "白宫：特朗普有意呼吁阿拉伯国家为战争“买单”",
           "url": "https://flash.jin10.com/detail/20260331020508015800",
           "source": "金十数据",
@@ -976,17 +1025,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时55分]"
-        },
-        {
-          "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
         },
         {
           "title": "特朗普再就停火威胁伊朗",
@@ -1053,7 +1091,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1078,6 +1116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "默沙东达成一项超8亿美元抗体药收购协议",
+          "url": "https://wallstreetcn.com/livenews/3080250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "华尔街分析师警告：如果战争持续到6月底，布油或升至每桶200美元",
@@ -1124,6 +1173,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "伊朗副总统：特朗普可能会向哈尔克岛派兵，但撤军将不在其掌控之中。",
           "url": "https://flash.jin10.com/detail/20260331030752465800",
           "source": "金十数据",
@@ -1157,6 +1217,17 @@
           "time_info": "03时59分"
         },
         {
+          "title": "美元指数DXY日内跌幅达0.50%，现报99.98。",
+          "url": "https://flash.jin10.com/detail/20260331223609501800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "深市公司2026年一季报预约披露时间出炉 沃华医药拔得头筹",
           "url": "https://wallstreetcn.com/livenews/3080062",
           "source": "华尔街见闻-快讯",
@@ -1174,9 +1245,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
+        },
+        {
+          "title": "特朗普前顾问班农：应该让内塔尼亚胡的儿子奔赴前线",
+          "url": "https://v.ifeng.com/c/8rwqUhcgozK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普证实，美国正与伊朗议会议长卡利巴夫进行对话",
@@ -1196,7 +1278,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1210,6 +1292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "Diego Megia旗下对冲基金Faula融资17.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3080244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "WTI原油期货涨4.00%，现报103.68美元/桶。",
@@ -1339,7 +1432,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1388,6 +1481,17 @@
           "time_info": "18时12分"
         },
         {
+          "title": "现货白银日内涨幅达5.5%，报73.96美元/盎司。 纽约银日内涨幅达5.0%，报74.15美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3080236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "特朗普已12次暗示伊朗战争即将结束，市场被PUA麻了",
           "url": "https://flash.jin10.com/detail/20260331122326655800",
           "source": "金十数据",
@@ -1416,7 +1520,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1430,6 +1534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "联合利华食品业务将与味好美合并，交易额达448亿美元",
+          "url": "https://wallstreetcn.com/livenews/3080235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普说对伊朗袭击以色列炼油厂的回应“很快到来”",
@@ -1449,7 +1564,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1548,7 +1663,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1603,7 +1718,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -1639,6 +1754,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "现货白银站上74美元/盎司，日内涨5.65%。",
+          "url": "https://flash.jin10.com/detail/20260331221527002800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股收盘）",
@@ -1680,9 +1806,42 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
+        },
+        {
+          "title": "Mistral融资8.3亿美元，拟在数据中心部署英伟达芯片",
+          "url": "https://wallstreetcn.com/livenews/3080238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "纽约期银日内涨5.00%，现报74.11美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260331221453258800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "美股涨幅扩大，纳指涨超2%，标普500指数涨1.6%，道指涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3080226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗问题）各国应从美国购买石油。",
