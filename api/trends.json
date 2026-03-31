@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-01T06:35:11.969645+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-04-01T07:34:51.160997+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 108,
+      "match_count": 119,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
           "url": "https://wallstreetcn.com/articles/3768825",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时34分]"
         },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
@@ -27,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时34分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -70,11 +71,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时34分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -85,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时34分]"
         },
         {
           "title": "特朗普前顾问班农：应该让内塔尼亚胡的儿子奔赴前线",
@@ -97,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时34分]"
         },
         {
           "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
@@ -108,11 +110,12 @@
             11,
             10,
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时34分]"
         },
         {
           "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
@@ -124,8 +127,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时34分]"
         },
         {
           "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
@@ -137,8 +140,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时34分]"
         },
         {
           "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
@@ -146,11 +149,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时57分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时57分 ~ 07时34分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：将在两到三周内结束伊朗战事",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时34分]"
         },
         {
           "title": "特朗普希望4月6日前与伊朗签协议",
@@ -164,6 +179,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时57分 ~ 06时35分]"
+        },
+        {
+          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
+          "url": "https://www.cls.cn/detail/2331315",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时34分]"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -189,17 +215,6 @@
           "time_info": "[00时57分 ~ 05时39分]"
         },
         {
-          "title": "美以伊战争丨特朗普：将在两到三周内结束伊朗战事",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 06时35分]"
-        },
-        {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
           "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
           "source": "澎湃新闻",
@@ -222,26 +237,15 @@
           "time_info": "[00时57分 ~ 05时39分]"
         },
         {
-          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
-          "url": "https://www.cls.cn/detail/2331315",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 06时35分]"
-        },
-        {
-          "title": "美国总统特朗普：（被问及伊朗威胁打击中东地区美国公司）拿什么威胁？玩具枪（BB guns）吗？他们已经没什么可以拿来威胁的了。",
-          "url": "https://flash.jin10.com/detail/20260401062411940800",
-          "source": "金十数据",
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时34分"
         },
         {
           "title": "美国总统特朗普称：将出席最高法院有关公民身份问题的听证会。",
@@ -250,7 +254,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -275,17 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上个交易日增加1.143吨，当前持仓量为1047.276吨。",
-          "url": "https://flash.jin10.com/detail/20260401062021564800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
         },
         {
           "title": "WTI 5月原油期货收报101.38美元/桶。 NYMEX 4月天然气期货收报2.8840美元/百万英热单位。 NYMEX 4月汽油期货收报3.3123美元/加仑，NYMEX 3月取暖油期货收报4.1634美元/加仑。",
@@ -321,24 +314,13 @@
           "time_info": "03时06分"
         },
         {
-          "title": "美国总统特朗普：（谈及伊朗表示）他们没有军队。他们一无所有。他们承认自己在失败。他们在乞求达成协议。",
-          "url": "https://flash.jin10.com/detail/20260401061746839800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
           "title": "特朗普称将在“两到三周”内结束伊朗战事",
           "url": "https://wallstreetcn.com/livenews/3080402",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -354,26 +336,40 @@
           "time_info": "00时57分"
         },
         {
-          "title": "美国总统特朗普：伊朗重建需要15到20年时间。",
-          "url": "https://flash.jin10.com/detail/20260401061710804800",
-          "source": "金十数据",
+          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
+          "url": "https://www.cls.cn/detail/2331277",
+          "source": "财联社热门",
           "ranks": [
-            4
+            13,
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时38分 ~ 07时34分]"
         },
         {
-          "title": "特朗普称将在两到三周内结束伊朗战事",
-          "url": "https://flash.jin10.com/detail/20260401061621623800",
-          "source": "金十数据",
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时34分]"
+        },
+        {
+          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
+          "url": "https://www.cls.cn/detail/2331350",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时34分"
         },
         {
           "title": "美股后续会怎么走",
@@ -414,6 +410,18 @@
           "time_info": "[04时53分 ~ 06时35分]"
         },
         {
+          "title": "美国总统特朗普：（被问及伊朗威胁打击中东地区美国公司）拿什么威胁？玩具枪（BB guns）吗？他们已经没什么可以拿来威胁的了。",
+          "url": "https://flash.jin10.com/detail/20260401062411940800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时34分]"
+        },
+        {
           "title": "美国联邦法官裁定：特朗普政府终止移民身份行为违法",
           "url": "https://wallstreetcn.com/livenews/3080292",
           "source": "华尔街见闻-快讯",
@@ -424,6 +432,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时57分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上个交易日增加1.143吨，当前持仓量为1047.276吨。",
+          "url": "https://flash.jin10.com/detail/20260401062021564800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时34分]"
         },
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -438,16 +458,40 @@
           "time_info": "[04时53分 ~ 05时39分]"
         },
         {
-          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
-          "url": "https://www.cls.cn/detail/2331277",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：（谈及伊朗表示）他们没有军队。他们一无所有。他们承认自己在失败。他们在乞求达成协议。",
+          "url": "https://flash.jin10.com/detail/20260401061746839800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            8
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时38分 ~ 06时35分]"
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时34分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗重建需要15到20年时间。",
+          "url": "https://flash.jin10.com/detail/20260401061710804800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普称将在两到三周内结束伊朗战事",
+          "url": "https://flash.jin10.com/detail/20260401061621623800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时34分]"
         },
         {
           "title": "法国对特朗普指责“不配合”表“惊讶”",
@@ -462,6 +506,17 @@
           "time_info": "[01时57分 ~ 03时06分]"
         },
         {
+          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
+          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时34分]"
+        },
+        {
           "title": "黄金ETF收跌将近3.8%，领跌美股大类资产类ETF，一季度布油基金涨超83%",
           "url": "https://wallstreetcn.com/livenews/3080383",
           "source": "华尔街见闻-快讯",
@@ -472,17 +527,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 06时35分]"
         },
         {
           "title": "Beyond Meat第四财季净营收6160万美元，分析师预期6290万美元。",
@@ -509,15 +553,28 @@
           "time_info": "[05时39分 ~ 06时35分]"
         },
         {
-          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
-          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：将于周三就出生地公民权案件上诉至最高法院。",
+          "url": "https://flash.jin10.com/detail/20260401060429496800",
+          "source": "金十数据",
           "ranks": [
-            10
+            10,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时34分 ~ 06时35分]"
+          "time_info": "[06时35分 ~ 07时34分]"
+        },
+        {
+          "title": "美国总统特朗普：不需要与伊朗达成协议，美国就能结束战争。当我们觉得他们被迫回到石器时代，无法制造核武器时，无论我们是否达成协议，我们都会离开。",
+          "url": "https://flash.jin10.com/detail/20260401060410948800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时34分]"
         },
         {
           "title": "谷歌发布论文，在2029年期限前就量子风险向加密行业发出警告",
@@ -666,7 +723,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -693,13 +750,24 @@
           "time_info": "05时39分"
         },
         {
+          "title": "特朗普愈发沮丧，计划“两到三周内”结束对伊朗战争，或放弃关键目标",
+          "url": "https://flash.jin10.com/detail/20260401064258971800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "Tether在从汇丰银行挖角数月后裁减黄金交易员",
           "url": "https://wallstreetcn.com/livenews/3080396",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -737,6 +805,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "最重要的变化？美债“脱钩”，市场嗅到了“全球财政刺激”的味道",
+          "url": "https://wallstreetcn.com/articles/3768816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "教皇利奥表示，他希望美国总统特朗普在与伊朗的战争中能找到“退路”。",
           "url": "https://flash.jin10.com/detail/20260401023744143800",
           "source": "金十数据",
@@ -748,13 +827,24 @@
           "time_info": "03时06分"
         },
         {
+          "title": "特朗普：伊朗需15到20年才能完成重建",
+          "url": "https://flash.jin10.com/detail/20260401064207291800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "2/10年期美债收益率周二跌超3个基点，两年期美债收益率在3月份累涨约42个基点",
           "url": "https://wallstreetcn.com/livenews/3080394",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -792,26 +882,26 @@
           "time_info": "04时53分"
         },
         {
-          "title": "美国总统特朗普：将于周三就出生地公民权案件上诉至最高法院。",
-          "url": "https://flash.jin10.com/detail/20260401060429496800",
-          "source": "金十数据",
+          "title": "特朗普：伊朗需15-20年才能完成重建",
+          "url": "https://wallstreetcn.com/livenews/3080427",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时34分"
         },
         {
-          "title": "美国总统特朗普：不需要与伊朗达成协议，美国就能结束战争。当我们觉得他们被迫回到石器时代，无法制造核武器时，无论我们是否达成协议，我们都会离开。",
-          "url": "https://flash.jin10.com/detail/20260401060410948800",
-          "source": "金十数据",
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "07时34分"
         },
         {
           "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股盘中）",
@@ -869,13 +959,24 @@
           "time_info": "04时53分"
         },
         {
+          "title": "美总统特朗普签署行政令，限制邮寄投票",
+          "url": "https://wallstreetcn.com/livenews/3080423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
           "title": "WTI原油、现货黄金周三小幅高开，美股股指期货微跌。",
           "url": "https://flash.jin10.com/detail/20260401060049918800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -919,7 +1020,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -941,7 +1042,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -952,9 +1053,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "WTI原油向上触及103美元/桶，日内涨1.18%。",
+          "url": "https://flash.jin10.com/detail/20260401062519619800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "美国总统特朗普：今天有大量船只在霍尔木兹海峡航行。",
@@ -963,7 +1075,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -974,7 +1086,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -1018,7 +1130,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -1051,7 +1163,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -1095,9 +1207,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "佣金价格战逼近极限，券商打起“靓号”牌",
+          "url": "https://wallstreetcn.com/livenews/3080413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "美国总统特朗普：（伊朗）经历了政权更迭，新任伊朗领导人非常不同，更加理性。",
@@ -1106,7 +1229,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -1139,9 +1262,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "黄金又突然暴涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8F%88%E7%AA%81%E7%84%B6%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "WTI原油向下触及100美元/桶，日内跌5.08%。",
@@ -1161,7 +1295,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -1216,7 +1350,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
