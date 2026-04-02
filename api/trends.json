@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T06:32:08.039296+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-04-03T07:35:54.029438+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 95,
+      "match_count": 102,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -94,11 +94,12 @@
           "ranks": [
             11,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -108,38 +109,6 @@
             12,
             10,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 06时32分]"
-        },
-        {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30,
-            23,
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时32分]"
-        },
-        {
-          "title": "美股三大指数低开 特斯拉跌逾4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            23,
-            27,
-            22,
-            17,
-            18,
-            19
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -156,8 +125,24 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 07时35分]"
+        },
+        {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30,
+            23,
+            21,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "特朗普讲话后金银直线跳水",
@@ -169,10 +154,28 @@
             25,
             14,
             22,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时35分]"
+        },
+        {
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            23,
+            27,
+            22,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
           "time_info": "[00时01分 ~ 06时32分]"
         },
         {
@@ -205,22 +208,23 @@
           "url": "https://www.cls.cn/detail/2334066",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 07时35分]"
         },
         {
-          "title": "黄金不再是必选项，FOF多元配置走上求变之路",
-          "url": "https://wallstreetcn.com/livenews/3081825",
-          "source": "华尔街见闻-快讯",
+          "title": "法拉第未来(FFIE.O)：迄今为止交付的FX Aegis机器人现在可以转换为正式交付，该系列机器人起售价为2490美元。",
+          "url": "https://flash.jin10.com/detail/20260403071615215800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时35分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -234,46 +238,13 @@
           "time_info": "01时06分"
         },
         {
-          "title": "据The Information：Tether以5000亿美元估值发起融资最后冲刺，正敦促投资者在接下来的两周内承诺达成协议。",
-          "url": "https://flash.jin10.com/detail/20260403061634448800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
-          "url": "https://wallstreetcn.com/livenews/3081824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
-          "url": "https://flash.jin10.com/detail/20260403061620774800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "泰达币发行人Tether为按5000亿美元估值融资进行最后一搏。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3081822",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -342,6 +313,19 @@
           "time_info": "[04时35分 ~ 06时32分]"
         },
         {
+          "title": "韩国3月外汇储备 4236.6亿美元，前值4276.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260403050002634800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时35分]"
+        },
+        {
           "title": "伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。 布伦特原油5分钟内下跌0.54美元/桶，报106.9美元/桶。 现货黄金5分钟内上涨10.61美元/盎司，报4674.47美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3081699",
           "source": "华尔街见闻-快讯",
@@ -354,6 +338,18 @@
           "time_info": "[00时02分 ~ 01时06分]"
         },
         {
+          "title": "黄金不再是必选项，FOF多元配置走上求变之路",
+          "url": "https://wallstreetcn.com/livenews/3081825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时35分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 4月2日（周四）晚盘收盘下跌0.04%报1033.0元/克；<br/>上海黄金交易所白银T+D 4月2日（周四）晚盘收盘上涨0.49%报17944.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260403023044891800",
           "source": "金十数据",
@@ -364,6 +360,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时52分]"
+        },
+        {
+          "title": "据The Information：Tether以5000亿美元估值发起融资最后冲刺，正敦促投资者在接下来的两周内承诺达成协议。",
+          "url": "https://flash.jin10.com/detail/20260403061634448800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时35分]"
+        },
+        {
+          "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
+          "url": "https://wallstreetcn.com/livenews/3081824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时35分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -379,16 +399,16 @@
           "time_info": "[04时35分 ~ 06时32分]"
         },
         {
-          "title": "韩国3月外汇储备 4236.6亿美元，前值4276.2亿美元。",
-          "url": "https://flash.jin10.com/detail/20260403050002634800",
+          "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
+          "url": "https://flash.jin10.com/detail/20260403061620774800",
           "source": "金十数据",
           "ranks": [
             3,
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时32分]"
+          "time_info": "[06时32分 ~ 07时35分]"
         },
         {
           "title": "美国投资级债券基金在4月1日当周面临53.5亿美元资金外流，创2025年4月中旬以来最大单周赎回。 宏观经济风险加重，造成这类资产大幅亏损。",
@@ -427,6 +447,17 @@
           "time_info": "[05时38分 ~ 06时32分]"
         },
         {
+          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
+          "url": "https://wallstreetcn.com/articles/3769043",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 07时35分]"
+        },
+        {
           "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260403040531633800",
           "source": "金十数据",
@@ -440,17 +471,6 @@
           "time_info": "[04时35分 ~ 06时32分]"
         },
         {
-          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
-          "url": "https://wallstreetcn.com/articles/3769043",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 03时52分]"
-        },
-        {
           "title": "一级交易商对美国政府债券的持仓在3月25日当周创历史新高，猛增170亿美元，至5570亿美元。",
           "url": "https://wallstreetcn.com/livenews/3081800",
           "source": "华尔街见闻-快讯",
@@ -461,6 +481,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "据CNBC：随着燃油价格持续上涨，美国联合航空(UAL.O)将托运行李费上调10美元。",
+          "url": "https://flash.jin10.com/detail/20260403055807040800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时35分]"
         },
         {
           "title": "周四（4月2日）纽约尾盘，现货黄金跌1.84%，报4670.80美元/盎司，亚太时段出现两波显著的加速下跌行情，北京时间14:11刷新日低至4554.21美元。 COMEX黄金期货跌2.40%，报4697.80美元/盎司，14:11也刷新日低至4580.40美元。",
@@ -511,6 +543,18 @@
           "time_info": "[05时38分 ~ 06时32分]"
         },
         {
+          "title": "美国联合航空（美联航）将托运行李费上调10美元，来应对燃油价格持续攀升。",
+          "url": "https://wallstreetcn.com/livenews/3081816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时35分]"
+        },
+        {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
           "url": "https://flash.jin10.com/detail/20260403040200866800",
           "source": "金十数据",
@@ -559,6 +603,30 @@
           "time_info": "[05时38分 ~ 06时32分]"
         },
         {
+          "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
+          "url": "https://wallstreetcn.com/livenews/3081814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时35分]"
+        },
+        {
+          "title": "芝商所（CME）上调部分铝期货合约保证金要求至5000美元，新规将于当地时间4月3日收盘后生效。",
+          "url": "https://flash.jin10.com/detail/20260403053424263800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时35分]"
+        },
+        {
           "title": "美联储：美国上周银行存款60.1万亿美元，之前一周52.2万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3081795",
           "source": "华尔街见闻-快讯",
@@ -593,6 +661,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时52分]"
+        },
+        {
+          "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
+          "url": "https://wallstreetcn.com/livenews/3081810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时35分]"
         },
         {
           "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
@@ -677,17 +757,6 @@
           "time_info": "01时06分"
         },
         {
-          "title": "据CNBC：随着燃油价格持续上涨，美国联合航空(UAL.O)将托运行李费上调10美元。",
-          "url": "https://flash.jin10.com/detail/20260403055807040800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "LME期铜收跌75美元，报12360美元/吨。 LME期铝收跌62美元，报3470美元/吨。 LME期锌收跌25美元，报3264美元/吨。 LME期铅收跌8美元，报1933美元/吨。 LME期镍收跌123美元，报17086美元/吨。 LME期锡收跌1085美元，报46277美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3081722",
           "source": "华尔街见闻-快讯",
@@ -710,15 +779,37 @@
           "time_info": "03时52分"
         },
         {
-          "title": "美国联合航空（美联航）将托运行李费上调10美元，来应对燃油价格持续攀升。",
-          "url": "https://wallstreetcn.com/livenews/3081816",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
+          "url": "https://www.cls.cn/detail/2334089",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时35分"
+        },
+        {
+          "title": "美国联合航空(UAL.O)：上调美国、墨西哥、加拿大及拉丁美洲地区旅客的首件和第二件托运行李费各10美元。",
+          "url": "https://flash.jin10.com/detail/20260403062731772800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓为1050.99吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260403062237385800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
@@ -730,28 +821,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
-          "url": "https://wallstreetcn.com/livenews/3081814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "芝商所（CME）上调部分铝期货合约保证金要求至5000美元，新规将于当地时间4月3日收盘后生效。",
-          "url": "https://flash.jin10.com/detail/20260403053424263800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "特朗普演说后，美油价差飙升至历史纪录水平",
@@ -774,6 +843,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "美国总统特朗普：伊朗到了该达成协议的时候了，以免为时已晚。",
@@ -809,17 +889,6 @@
           "time_info": "02时57分"
         },
         {
-          "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
-          "url": "https://wallstreetcn.com/livenews/3081810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "摩根大通：近期风险是油价被推至每桶120至130美元区间。",
           "url": "https://flash.jin10.com/detail/20260403015729364800",
           "source": "金十数据",
@@ -851,6 +920,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "赎回潮冲击2万亿美元私募信贷，业内警惕跨境风险传导",
+          "url": "https://wallstreetcn.com/livenews/3081828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -903,7 +983,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -950,6 +1030,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "泰达币发行人Tether为按5000亿美元估值融资进行最后的冲刺。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3081822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
