@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T05:38:10.183640+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-04-03T06:32:08.039296+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 83,
+      "match_count": 95,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -15,8 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时32分]"
+        },
+        {
+          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
+          "url": "https://wallstreetcn.com/articles/3769044",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时32分]"
+        },
+        {
+          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
+          "url": "https://wallstreetcn.com/articles/3769054",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时32分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时32分]"
         },
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -30,49 +63,17 @@
           "time_info": "[00时01分 ~ 05时38分]"
         },
         {
-          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
-          "url": "https://wallstreetcn.com/articles/3769044",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时38分]"
-        },
-        {
-          "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
-          "url": "https://wallstreetcn.com/articles/3769054",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时38分]"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时38分]"
-        },
-        {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2333830",
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时32分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -83,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时32分]"
         },
         {
           "title": "【每日收评】创业板指低开低走跌超2%，全市场超4300股收绿，油气、医药板块逆势活跃",
@@ -92,11 +93,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时32分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -104,11 +106,27 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时32分]"
+        },
+        {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30,
+            23,
+            21,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 06时32分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -120,11 +138,42 @@
             27,
             22,
             17,
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时32分]"
+        },
+        {
+          "title": "伊朗强硬回应特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            12,
+            11,
+            14
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时01分 ~ 05时38分]"
+          "time_info": "[01时06分 ~ 06时32分]"
+        },
+        {
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
+          "ranks": [
+            18,
+            16,
+            25,
+            14,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时32分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -138,59 +187,40 @@
           "time_info": "[00时01分 ~ 01时06分]"
         },
         {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时38分]"
-        },
-        {
-          "title": "伊朗强硬回应特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 05时38分]"
-        },
-        {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            18,
-            16,
-            25,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 04时35分]"
-        },
-        {
           "title": "特朗普发表讲话谈伊朗战事",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%E8%B0%88%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
             25,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时57分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[02时57分 ~ 06时32分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 06时32分]"
+        },
+        {
+          "title": "黄金不再是必选项，FOF多元配置走上求变之路",
+          "url": "https://wallstreetcn.com/livenews/3081825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -204,37 +234,74 @@
           "time_info": "01时06分"
         },
         {
-          "title": "韩国3月外汇储备 4236.6亿美元，前值4276.2亿美元。",
-          "url": "https://flash.jin10.com/detail/20260403050002634800",
+          "title": "据The Information：Tether以5000亿美元估值发起融资最后冲刺，正敦促投资者在接下来的两周内承诺达成协议。",
+          "url": "https://flash.jin10.com/detail/20260403061634448800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
+          "url": "https://wallstreetcn.com/livenews/3081824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
+          "url": "https://flash.jin10.com/detail/20260403061620774800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时32分"
         },
         {
-          "title": "周四（4月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8901元，较周三纽约尾盘跌127点，日内整体交投于6.8724-6.9042元区间。",
-          "url": "https://wallstreetcn.com/livenews/3081803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
-          "url": "https://wallstreetcn.com/livenews/3081802",
+          "title": "泰达币发行人Tether为按5000亿美元估值融资进行最后一搏。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3081822",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美国至4月6日当周外国央行持有美国国债 377.91亿美元，前值-231.77亿美元。",
+          "url": "https://flash.jin10.com/detail/20260403043033454800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时32分]"
+        },
+        {
+          "title": "美华盛顿规划机构批准特朗普白宫宴会厅项目",
+          "url": "https://wallstreetcn.com/livenews/3081794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时32分]"
         },
         {
           "title": "美国原油期货收涨至110美元上方，为2022年以来首次",
@@ -249,16 +316,30 @@
           "time_info": "[02时57分 ~ 03时52分]"
         },
         {
-          "title": "美国至4月6日当周外国央行持有美国国债 377.91亿美元，前值-231.77亿美元。",
-          "url": "https://flash.jin10.com/detail/20260403043033454800",
-          "source": "金十数据",
+          "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
+          "url": "https://wallstreetcn.com/livenews/3081793",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            12
+            2,
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时32分]"
+        },
+        {
+          "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
+          "url": "https://flash.jin10.com/detail/20260403041548791800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时32分]"
         },
         {
           "title": "伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。 布伦特原油5分钟内下跌0.54美元/桶，报106.9美元/桶。 现货黄金5分钟内上涨10.61美元/盎司，报4674.47美元/盎司。",
@@ -273,18 +354,6 @@
           "time_info": "[00时02分 ~ 01时06分]"
         },
         {
-          "title": "美华盛顿规划机构批准特朗普白宫宴会厅项目",
-          "url": "https://wallstreetcn.com/livenews/3081794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时38分]"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 4月2日（周四）晚盘收盘下跌0.04%报1033.0元/克；<br/>上海黄金交易所白银T+D 4月2日（周四）晚盘收盘上涨0.49%报17944.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260403023044891800",
           "source": "金十数据",
@@ -297,28 +366,29 @@
           "time_info": "[02时57分 ~ 03时52分]"
         },
         {
-          "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
-          "url": "https://wallstreetcn.com/livenews/3081793",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260403040716683800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            13
+            5,
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时32分]"
         },
         {
-          "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
-          "url": "https://flash.jin10.com/detail/20260403041548791800",
+          "title": "韩国3月外汇储备 4236.6亿美元，前值4276.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260403050002634800",
           "source": "金十数据",
           "ranks": [
             3,
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时38分]"
+          "time_info": "[05时38分 ~ 06时32分]"
         },
         {
           "title": "美国投资级债券基金在4月1日当周面临53.5亿美元资金外流，创2025年4月中旬以来最大单周赎回。 宏观经济风险加重，造成这类资产大幅亏损。",
@@ -333,16 +403,41 @@
           "time_info": "[04时35分 ~ 05时38分]"
         },
         {
-          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260403040716683800",
-          "source": "金十数据",
+          "title": "周四（4月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8901元，较周三纽约尾盘跌127点，日内整体交投于6.8724-6.9042元区间。",
+          "url": "https://wallstreetcn.com/livenews/3081803",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            16
+            3,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时38分]"
+          "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
+          "url": "https://wallstreetcn.com/livenews/3081802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260403040531633800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时32分]"
         },
         {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
@@ -356,16 +451,28 @@
           "time_info": "[02时57分 ~ 03时52分]"
         },
         {
-          "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260403040531633800",
-          "source": "金十数据",
+          "title": "一级交易商对美国政府债券的持仓在3月25日当周创历史新高，猛增170亿美元，至5570亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3081800",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            18
+            6,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时38分]"
+          "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "周四（4月2日）纽约尾盘，现货黄金跌1.84%，报4670.80美元/盎司，亚太时段出现两波显著的加速下跌行情，北京时间14:11刷新日低至4554.21美元。 COMEX黄金期货跌2.40%，报4697.80美元/盎司，14:11也刷新日低至4580.40美元。",
+          "url": "https://wallstreetcn.com/livenews/3081799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时32分]"
         },
         {
           "title": "美国证交会（SEC）文件显示，摩根士丹利(MS.N)首席执行官爱德华·皮克2025年的总薪酬为3720万美元。",
@@ -390,6 +497,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时52分]"
+        },
+        {
+          "title": "伊朗总统：美以袭击医院及医药机构“公然违反人道主义”",
+          "url": "https://wallstreetcn.com/livenews/3081798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时32分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -426,6 +545,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时38分]"
+        },
+        {
+          "title": "美元指数2日上涨",
+          "url": "https://flash.jin10.com/detail/20260403043416469800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款60.1万亿美元，之前一周52.2万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3081795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时32分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
@@ -534,15 +677,15 @@
           "time_info": "01时06分"
         },
         {
-          "title": "一级交易商对美国政府债券的持仓在3月25日当周创历史新高，猛增170亿美元，至5570亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3081800",
-          "source": "华尔街见闻-快讯",
+          "title": "据CNBC：随着燃油价格持续上涨，美国联合航空(UAL.O)将托运行李费上调10美元。",
+          "url": "https://flash.jin10.com/detail/20260403055807040800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时32分"
         },
         {
           "title": "LME期铜收跌75美元，报12360美元/吨。 LME期铝收跌62美元，报3470美元/吨。 LME期锌收跌25美元，报3264美元/吨。 LME期铅收跌8美元，报1933美元/吨。 LME期镍收跌123美元，报17086美元/吨。 LME期锡收跌1085美元，报46277美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -567,26 +710,15 @@
           "time_info": "03时52分"
         },
         {
-          "title": "周四（4月2日）纽约尾盘，现货黄金跌1.84%，报4670.80美元/盎司，亚太时段出现两波显著的加速下跌行情，北京时间14:11刷新日低至4554.21美元。 COMEX黄金期货跌2.40%，报4697.80美元/盎司，14:11也刷新日低至4580.40美元。",
-          "url": "https://wallstreetcn.com/livenews/3081799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "伊朗总统：美以袭击医院及医药机构“公然违反人道主义”",
-          "url": "https://wallstreetcn.com/livenews/3081798",
+          "title": "美国联合航空（美联航）将托运行李费上调10美元，来应对燃油价格持续攀升。",
+          "url": "https://wallstreetcn.com/livenews/3081816",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时32分"
         },
         {
           "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
@@ -600,15 +732,26 @@
           "time_info": "01时06分"
         },
         {
-          "title": "美元指数2日上涨",
-          "url": "https://flash.jin10.com/detail/20260403043416469800",
-          "source": "金十数据",
+          "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
+          "url": "https://wallstreetcn.com/livenews/3081814",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "06时32分"
+        },
+        {
+          "title": "芝商所（CME）上调部分铝期货合约保证金要求至5000美元，新规将于当地时间4月3日收盘后生效。",
+          "url": "https://flash.jin10.com/detail/20260403053424263800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "特朗普演说后，美油价差飙升至历史纪录水平",
@@ -620,17 +763,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "美联储：美国上周银行存款60.1万亿美元，之前一周52.2万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3081795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时38分"
         },
         {
           "title": "沙特公共投资基金正考虑在SpaceX IPO中认购50亿美元股份",
@@ -675,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
+          "url": "https://wallstreetcn.com/livenews/3081810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "摩根大通：近期风险是油价被推至每桶120至130美元区间。",
@@ -752,6 +895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
+          "url": "https://wallstreetcn.com/livenews/3081808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股盘中）",
@@ -947,7 +1101,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
