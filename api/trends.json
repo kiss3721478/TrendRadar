@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T16:54:35.105127+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-04-03T17:54:04.434598+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 128,
+      "match_count": 130,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -91,6 +91,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时01分 ~ 10时13分]"
+        },
+        {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时13分 ~ 17时54分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -197,6 +209,18 @@
           "time_info": "[00时01分 ~ 06时32分]"
         },
         {
+          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
+          "url": "https://wallstreetcn.com/articles/3769147",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时05分 ~ 17时54分]"
+        },
+        {
           "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
           "url": "https://www.cls.cn/detail/2334089",
           "source": "财联社热门",
@@ -209,16 +233,15 @@
           "time_info": "[07时35分 ~ 15时08分]"
         },
         {
-          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
-          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
           "source": "凤凰网",
           "ranks": [
-            4,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 16时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时13分 ~ 17时54分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -259,16 +282,29 @@
           "time_info": "[02时57分 ~ 06时32分]"
         },
         {
-          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
-          "url": "https://wallstreetcn.com/articles/3769147",
-          "source": "华尔街见闻",
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
           "ranks": [
-            7,
+            11,
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时05分 ~ 16时54分]"
+          "time_info": "[15时07分 ~ 17时54分]"
+        },
+        {
+          "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32879891",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时05分 ~ 17时54分]"
         },
         {
           "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
@@ -282,17 +318,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时35分 ~ 15时08分]"
-        },
-        {
-          "title": "密友出车祸被捕，特朗普紧急出面护短",
-          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 16时54分]"
         },
         {
           "title": "美以伊战争丨炸完大桥特朗普再发威胁，伊朗回击",
@@ -369,30 +394,6 @@
           "ranks": [
             13,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 16时54分]"
-        },
-        {
-          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
-          "url": "https://www.cls.cn/detail/2334381",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 16时54分]"
-        },
-        {
-          "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32879891",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -632,6 +633,52 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 06时32分]"
+        },
+        {
+          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
+          "url": "https://wallstreetcn.com/articles/3769139",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 17时54分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 17时54分]"
+        },
+        {
+          "title": "鲁比奥指责伊朗不把钱用于民生，特朗普：美国的钱要优先用来打仗",
+          "url": "https://news.ifeng.com/c/8s1YO2Kuf9C",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 17时54分]"
+        },
+        {
+          "title": "马克龙回怼特朗普",
+          "url": "https://www.douyin.com/hot/2453352",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 17时54分]"
         },
         {
           "title": "一级交易商对美国政府债券的持仓在3月25日当周创历史新高，猛增170亿美元，至5570亿美元。",
@@ -964,17 +1011,6 @@
           "time_info": "07时35分"
         },
         {
-          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
-          "url": "https://wallstreetcn.com/articles/3769139",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓为1050.99吨，较前一个交易日维持不变。",
           "url": "https://flash.jin10.com/detail/20260403062237385800",
           "source": "金十数据",
@@ -986,28 +1022,6 @@
           "time_info": "07时35分"
         },
         {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "鲁比奥指责伊朗不把钱用于民生，特朗普：美国的钱要优先用来打仗",
-          "url": "https://news.ifeng.com/c/8s1YO2Kuf9C",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
           "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
           "url": "https://flash.jin10.com/detail/20260403004016648800",
           "source": "金十数据",
@@ -1017,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "“战至美以后悔”！伊朗军方发言人嘲讽美军毫无斗志、特朗普谎话连篇",
+          "url": "https://flash.jin10.com/detail/20260403173224225800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "特朗普演说后，美油价差飙升至历史纪录水平",
@@ -1039,17 +1064,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
-        },
-        {
-          "title": "马克龙回怼特朗普",
-          "url": "https://www.douyin.com/hot/2453352",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "沙特公共投资基金正考虑在SpaceX IPO中认购50亿美元股份",
@@ -1091,9 +1105,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "国际现货黄金避险逻辑失效？守住4000关口才有机会 | 每日市场观察4.3",
+          "url": "https://flash.jin10.com/detail/20260403172740710800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "摩根大通：如果霍尔木兹海峡的石油运输在5月中旬前仍受阻，油价存在升至每桶150美元以上的风险。",
@@ -1157,7 +1182,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1190,7 +1215,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1410,7 +1435,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
