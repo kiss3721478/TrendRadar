@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T16:41:07.815214+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-04-04T17:38:28.503832+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时46分 ~ 16时41分]"
+          "appearance_count": 13,
+          "time_info": "[02时46分 ~ 17时38分]"
         },
         {
           "title": "两周卖金118吨，价值200亿美元！土耳其上周抛售近70吨黄金，创2013年以来最高纪录",
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时38分 ~ 07时34分]"
+        },
+        {
+          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
+          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 17时38分]"
         },
         {
           "title": "美国政府2027财年预算草案要点总结：特朗普“重武轻文”，大幅削减民生开支恐引发两党博弈",
@@ -287,17 +298,6 @@
           "time_info": "[06时33分 ~ 10时06分]"
         },
         {
-          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
-          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 16时41分]"
-        },
-        {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
           "url": "https://flash.jin10.com/detail/20260404034503573800",
           "source": "金十数据",
@@ -393,6 +393,18 @@
           "time_info": "[04时36分 ~ 07时34分]"
         },
         {
+          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
+          "url": "https://wallstreetcn.com/articles/3769222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 17时38分]"
+        },
+        {
           "title": "周五（4月3日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8859元，较周四纽约尾盘涨42点，日内整体交投于6.8904-6.8787元区间。",
           "url": "https://wallstreetcn.com/livenews/3082335",
           "source": "华尔街见闻-快讯",
@@ -432,6 +444,30 @@
           "time_info": "[02时46分 ~ 04时36分]"
         },
         {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 17时38分]"
+        },
+        {
+          "title": "黄金大幅回落",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%A4%A7%E5%B9%85%E5%9B%9E%E8%90%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 17时38分]"
+        },
+        {
           "title": "特朗普政府人事大换血",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%BA%BA%E4%BA%8B%E5%A4%A7%E6%8D%A2%E8%A1%80",
           "source": "bilibili 热搜",
@@ -453,17 +489,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 15时04分]"
-        },
-        {
-          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
-          "url": "https://wallstreetcn.com/articles/3769222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 16时41分]"
         },
         {
           "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
@@ -537,17 +562,6 @@
           "time_info": "[00时40分 ~ 01时34分]"
         },
         {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 16时41分]"
-        },
-        {
           "title": "美国联手新伙伴，将霍尔木兹海峡再保险担保翻倍至400亿美元",
           "url": "https://wallstreetcn.com/livenews/3082264",
           "source": "华尔街见闻-快讯",
@@ -572,17 +586,6 @@
           "time_info": "[00时40分 ~ 01时34分]"
         },
         {
-          "title": "黄金大幅回落",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%A4%A7%E5%B9%85%E5%9B%9E%E8%90%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 16时41分]"
-        },
-        {
           "title": "特朗普称美战机被击落不会影响与伊朗谈判",
           "url": "https://news.ifeng.com/c/8s2NeCx0C0O",
           "source": "凤凰网",
@@ -592,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
+          "url": "https://news.ifeng.com/c/8s3EHhsM4Il",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "停火斡旋陷僵局，伊朗拒绝与美方伊斯兰堡会面，周五美或有两架战机坠毁，特朗普称战机被击落不影响谈判",
