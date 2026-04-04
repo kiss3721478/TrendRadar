@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-05T06:29:55.116684+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-04-05T07:31:58.017911+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "美以伊战争丨特朗普发通牒：地狱将降临到伊朗头上",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 06时29分]"
-        },
         {
           "title": "伊朗号召民众找到美国飞行员就开枪，富商悬赏5万美元",
           "url": "https://news.ifeng.com/c/8s3NhKYvZFG",
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时31分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普发通牒：地狱将降临到伊朗头上",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时31分]"
         },
         {
           "title": "土耳其两周狂抛近120吨黄金",
@@ -49,11 +49,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时31分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -64,33 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时36分 ~ 06时29分]"
-        },
-        {
-          "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
-          "url": "https://flash.jin10.com/detail/20260405040644929800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时32分 ~ 06时29分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的许多军事领导人，领导得很糟糕，也很不明智。随着这次在德黑兰的大规模打击，他们和其他许多人都被终结了。",
-          "url": "https://flash.jin10.com/detail/20260405044003027800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时31分]"
         },
         {
           "title": "奥地利副总理：不想卷入特朗普发动的战争",
@@ -100,8 +76,35 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的许多军事领导人，领导得很糟糕，也很不明智。随着这次在德黑兰的大规模打击，他们和其他许多人都被终结了。",
+          "url": "https://flash.jin10.com/detail/20260405044003027800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
+          "url": "https://flash.jin10.com/detail/20260405040644929800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时32分 ~ 07时31分]"
         },
         {
           "title": "特朗普疑似嘲讽盟友的帖子得到了伊朗驻英国使馆的回复",
@@ -109,11 +112,23 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时31分]"
+        },
+        {
+          "title": "美以伊战争丨伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "特朗普就其移民政策发表最新讲话",
@@ -123,11 +138,12 @@
             3,
             8,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时32分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时32分 ~ 07时31分]"
         },
         {
           "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
@@ -152,6 +168,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时32分]"
+        },
+        {
+          "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
+          "url": "https://www.cls.cn/detail/2335423",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E6%8B%92%E7%BB%9D%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C48%E5%B0%8F%E6%97%B6%E2%80%9D%E9%80%9A%E7%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美国油价升至每加仑4.1美元 伊朗战争爆发后已上涨37%",
