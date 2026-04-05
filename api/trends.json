@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T16:43:01.871837+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-04-05T17:39:29.652783+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗号召民众找到美国飞行员就开枪，富商悬赏5万美元",
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 16时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 17时39分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -80,19 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 16时43分]"
-        },
-        {
-          "title": "美以伊战争丨美军第2名失联飞行员获救，特朗普发声",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 15时06分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 17时39分]"
         },
         {
           "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
@@ -104,8 +93,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 17时39分]"
+        },
+        {
+          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
+          "url": "https://www.cls.cn/detail/2335441",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 17时39分]"
+        },
+        {
+          "title": "美以伊战争丨美军第2名失联飞行员获救，特朗普发声",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时06分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
@@ -134,6 +148,18 @@
           "time_info": "[00时36分 ~ 07时31分]"
         },
         {
+          "title": "土耳其大量抛售黄金",
+          "url": "https://www.douyin.com/hot/2455663",
+          "source": "抖音",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时05分 ~ 17时39分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗的许多军事领导人，领导得很糟糕，也很不明智。随着这次在德黑兰的大规模打击，他们和其他许多人都被终结了。",
           "url": "https://flash.jin10.com/detail/20260405044003027800",
           "source": "金十数据",
@@ -146,6 +172,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时31分 ~ 10时27分]"
+        },
+        {
+          "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
+          "url": "https://wallstreetcn.com/articles/3769263",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 17时39分]"
         },
         {
           "title": "特朗普疑似嘲讽盟友的帖子得到了伊朗驻英国使馆的回复",
@@ -173,41 +212,30 @@
           "time_info": "[07时31分 ~ 10时27分]"
         },
         {
-          "title": "土耳其大量抛售黄金",
-          "url": "https://www.douyin.com/hot/2455663",
-          "source": "抖音",
+          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时05分 ~ 16时43分]"
-        },
-        {
-          "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
-          "url": "https://wallstreetcn.com/articles/3769263",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
+            13,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时27分 ~ 16时43分]"
+          "time_info": "[13时12分 ~ 17时39分]"
         },
         {
-          "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
-          "url": "https://www.cls.cn/detail/2335441",
-          "source": "财联社热门",
+          "title": "伊朗军方拒绝特朗普“48小时”通牒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
+          "source": "澎湃新闻",
           "ranks": [
+            12,
             10,
-            7,
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时27分 ~ 16时43分]"
+          "time_info": "[13时12分 ~ 17时39分]"
         },
         {
           "title": "特朗普就其移民政策发表最新讲话",
@@ -225,30 +253,16 @@
           "time_info": "[03时32分 ~ 07时31分]"
         },
         {
-          "title": "盘点｜绝对忠诚也非“铁饭碗”！特朗普为何连“砍”多位高官？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32904187",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 16时43分]"
-        },
-        {
-          "title": "伊朗军方拒绝特朗普“48小时”通牒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32906731",
-          "source": "澎湃新闻",
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
           "ranks": [
             12,
-            10,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时12分 ~ 16时43分]"
+          "time_info": "[15时05分 ~ 17时39分]"
         },
         {
           "title": "美国汽油均价升至4.1美元",
@@ -262,6 +276,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时12分 ~ 16时43分]"
+        },
+        {
+          "title": "烧给祖宗的“黄金”卖断货了",
+          "url": "https://www.baidu.com/s?wd=%E7%83%A7%E7%BB%99%E7%A5%96%E5%AE%97%E7%9A%84%E2%80%9C%E9%BB%84%E9%87%91%E2%80%9D%E5%8D%96%E6%96%AD%E8%B4%A7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时05分 ~ 17时39分]"
         },
         {
           "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
@@ -298,29 +324,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 15时06分]"
-        },
-        {
-          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
-          "url": "https://www.cls.cn/detail/2335478",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时05分 ~ 16时43分]"
-        },
-        {
-          "title": "烧给祖宗的“黄金”卖断货了",
-          "url": "https://www.baidu.com/s?wd=%E7%83%A7%E7%BB%99%E7%A5%96%E5%AE%97%E7%9A%84%E2%80%9C%E9%BB%84%E9%87%91%E2%80%9D%E5%8D%96%E6%96%AD%E8%B4%A7%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时05分 ~ 16时43分]"
         },
         {
           "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
@@ -416,6 +419,18 @@
           "time_info": "[15时05分 ~ 15时06分]"
         },
         {
+          "title": "【鸿海3月营收同比增长45.57%】鸿海公布，2026年3月营收为8037亿新台币，月增34.90%，年增45.57%（美元计价月增约34.1%，年增约51.5%），为历年同期最高。2026年第一季营收为2.1296万亿新台币，季减18.18%，年增29.68%（美元计价季减约19.5%，年增约35.1%），为历年同期最高。",
+          "url": "https://wallstreetcn.com/livenews/3082578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时39分]"
+        },
+        {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E6%8B%92%E7%BB%9D%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C48%E5%B0%8F%E6%97%B6%E2%80%9D%E9%80%9A%E7%89%92",
           "source": "百度热搜",
@@ -473,6 +488,17 @@
           "time_info": "[16时42分 ~ 16时43分]"
         },
         {
+          "title": "在伊朗被摧毁的美国特种作战飞机每架价值超过1亿美元",
+          "url": "https://flash.jin10.com/detail/20260405165622882800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
           "url": "https://wallstreetcn.com/articles/3769250",
           "source": "华尔街见闻",
@@ -506,17 +532,6 @@
           "time_info": "13时12分"
         },
         {
-          "title": "【鸿海3月营收同比增长45.57%】鸿海公布，2026年3月营收为8037亿新台币，月增34.90%，年增45.57%（美元计价月增约34.1%，年增约51.5%），为历年同期最高。2026年第一季营收为2.1296万亿新台币，季减18.18%，年增29.68%（美元计价季减约19.5%，年增约35.1%），为历年同期最高。",
-          "url": "https://wallstreetcn.com/livenews/3082578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
           "title": "美国油价升至每加仑4.1美元 伊朗战争爆发后已上涨37%",
           "url": "https://flash.jin10.com/detail/20260404225454067800",
           "source": "金十数据",
@@ -548,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "土耳其为何两周狂抛近120吨黄金",
+          "url": "https://www.toutiao.com/trending/7624262022032719908/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
