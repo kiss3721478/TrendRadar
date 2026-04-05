@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T22:36:04.491897+08:00",
-  "total_titles_processed": 1479,
+  "generated_at": "2026-04-05T23:33:10.873093+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 82,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普警告伊朗：还剩“48小时”，伊朗军方回应“让侵略者付出代价”，战争升级至海湾“基础设施”？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时12分 ~ 22时36分]"
+          "appearance_count": 17,
+          "time_info": "[13时12分 ~ 23时33分]"
         },
         {
           "title": "伊朗号召民众找到美国飞行员就开枪，富商悬赏5万美元",
@@ -55,8 +55,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时12分 ~ 22时36分]"
+          "appearance_count": 17,
+          "time_info": "[13时12分 ~ 23时33分]"
+        },
+        {
+          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
+          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[18时34分 ~ 23时33分]"
         },
         {
           "title": "特朗普再警告伊朗：“48小时内”可能采取进一步行动",
@@ -70,6 +82,23 @@
           "time_info": "[00时36分 ~ 07时31分]"
         },
         {
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[15时05分 ~ 23时33分]"
+        },
+        {
           "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
           "url": "https://www.cls.cn/detail/2335441",
           "source": "财联社热门",
@@ -81,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时27分 ~ 22时36分]"
+          "appearance_count": 18,
+          "time_info": "[10时27分 ~ 23时33分]"
         },
         {
           "title": "土耳其两周狂抛近120吨黄金",
@@ -99,36 +128,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时36分 ~ 22时36分]"
-        },
-        {
-          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
-          "url": "https://www.cls.cn/detail/2335478",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时05分 ~ 22时36分]"
-        },
-        {
-          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
-          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时34分 ~ 22时36分]"
+          "appearance_count": 28,
+          "time_info": "[00时36分 ~ 23时33分]"
         },
         {
           "title": "土耳其大量抛售黄金",
@@ -142,8 +143,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时05分 ~ 22时36分]"
+          "appearance_count": 16,
+          "time_info": "[15时05分 ~ 23时33分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -168,11 +169,24 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时12分 ~ 22时36分]"
+          "appearance_count": 17,
+          "time_info": "[13时12分 ~ 23时33分]"
+        },
+        {
+          "title": "4亿美元，灰飞烟灭",
+          "url": "https://news.ifeng.com/c/8s53G8e02Yv",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时29分 ~ 23时33分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -183,11 +197,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时12分 ~ 22时36分]"
+          "appearance_count": 17,
+          "time_info": "[13时12分 ~ 23时33分]"
         },
         {
           "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
@@ -199,8 +214,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时34分 ~ 22时36分]"
+          "appearance_count": 11,
+          "time_info": "[18时34分 ~ 23时33分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：能在4月6日前与伊朗达成协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时35分 ~ 23时33分]"
+        },
+        {
+          "title": "下周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
+          "url": "https://wallstreetcn.com/articles/3769257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时56分 ~ 23时33分]"
         },
         {
           "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
@@ -216,15 +253,15 @@
           "time_info": "[10时27分 ~ 18时34分]"
         },
         {
-          "title": "4亿美元，灰飞烟灭",
-          "url": "https://news.ifeng.com/c/8s53G8e02Yv",
+          "title": "外媒：特朗普一直待在白宫，并未公开露面接受记者采访",
+          "url": "https://v.ifeng.com/c/8s4k0EtHRMa",
           "source": "凤凰网",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[19时29分 ~ 22时36分]"
+          "time_info": "[20时56分 ~ 23时33分]"
         },
         {
           "title": "美以伊战争丨美军第2名失联飞行员获救，特朗普发声",
@@ -303,39 +340,6 @@
           "time_info": "[07时31分 ~ 10时27分]"
         },
         {
-          "title": "美以伊战争丨特朗普：能在4月6日前与伊朗达成协议",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时36分]"
-        },
-        {
-          "title": "下周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
-          "url": "https://wallstreetcn.com/articles/3769257",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时56分 ~ 22时36分]"
-        },
-        {
-          "title": "外媒：特朗普一直待在白宫，并未公开露面接受记者采访",
-          "url": "https://v.ifeng.com/c/8s4k0EtHRMa",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时56分 ~ 22时36分]"
-        },
-        {
           "title": "福克斯新闻披露的电话采访信息显示，美国总统特朗普声称，如果不达成伊朗协议，将攫取伊朗石油。 特朗普可以在明天（结束）之前与伊朗达成协议。 伊朗的谈判人员们暂时获得（被美国和以色列杀害的）“赦免”。",
           "url": "https://wallstreetcn.com/livenews/3082644",
           "source": "华尔街见闻-快讯",
@@ -345,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "特朗普称对救美飞行员结果满意",
+          "url": "https://wallstreetcn.com/livenews/3082665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
@@ -388,37 +403,38 @@
           "time_info": "[17时39分 ~ 20时57分]"
         },
         {
-          "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
-          "url": "https://wallstreetcn.com/livenews/3082650",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：“精心策划营救计划”，失踪飞行员已获救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32907824",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时55分 ~ 23时33分]"
         },
         {
-          "title": "美国白宫否认特朗普病重住院传闻",
-          "url": "https://wallstreetcn.com/livenews/3082649",
+          "title": "伊朗第一副总统：特朗普仍停留在“石器时代”",
+          "url": "https://wallstreetcn.com/livenews/3082663",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "23时33分"
         },
         {
-          "title": "特朗普：相信能在6日之前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/livenews/3082647",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗第一副总统说特朗普仍停留在“石器时代”",
+          "url": "https://flash.jin10.com/detail/20260405230132693800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "23时33分"
         },
         {
           "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
@@ -508,6 +524,18 @@
           "time_info": "[00时36分 ~ 01时30分]"
         },
         {
+          "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
+          "url": "https://wallstreetcn.com/livenews/3082650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 23时33分]"
+        },
+        {
           "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
           "url": "https://flash.jin10.com/detail/20260405124830248800",
           "source": "金十数据",
@@ -532,15 +560,52 @@
           "time_info": "[18时34分 ~ 19时31分]"
         },
         {
-          "title": "特朗普：“精心策划营救计划”，失踪飞行员已获救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32907824",
-          "source": "澎湃新闻",
+          "title": "美国白宫否认特朗普病重住院传闻",
+          "url": "https://wallstreetcn.com/livenews/3082649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 23时33分]"
+        },
+        {
+          "title": "特朗普：相信能在6日之前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3082647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 23时33分]"
+        },
+        {
+          "title": "白宫回应特朗普病重住院传闻",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%85%E9%87%8D%E4%BD%8F%E9%99%A2%E4%BC%A0%E9%97%BB%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时55分 ~ 22时36分]"
+          "time_info": "[22时35分 ~ 23时33分]"
+        },
+        {
+          "title": "特朗普称被击落战机的第二名机组人员“身受重伤”",
+          "url": "https://wallstreetcn.com/livenews/3082637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时56分 ~ 23时33分]"
         },
         {
           "title": "在伊朗被摧毁的美国特种作战飞机每架价值超过1亿美元",
@@ -592,16 +657,16 @@
           "time_info": "[15时05分 ~ 15时06分]"
         },
         {
-          "title": "特朗普称被击落战机的第二名机组人员“身受重伤”",
-          "url": "https://wallstreetcn.com/livenews/3082637",
-          "source": "华尔街见闻-快讯",
+          "title": "据福克斯新闻：美国总统特朗普称，目前伊朗方面的谈判代表已获有限赦免。",
+          "url": "https://flash.jin10.com/detail/20260405220016108800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            13
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时36分]"
+          "time_info": "[22时36分 ~ 23时33分]"
         },
         {
           "title": "特朗普发文：第二名失踪的美军飞行员“已平安无事”",
@@ -628,6 +693,18 @@
           "time_info": "[20时57分 ~ 21时56分]"
         },
         {
+          "title": "比特币维持0.7%的跌幅，暂报66786美元。 福克斯新闻披露的电话采访信息显示，美国总统特朗普声称，如果不达成伊朗协议，将攫取伊朗石油。 特朗普可以在明天（结束）之前与伊朗达成协议。 伊朗的谈判人员们暂时获得（被美国和以色列杀害的）“赦免”。 如果不“迅速”达成伊朗协议，考虑“破坏一切”。",
+          "url": "https://wallstreetcn.com/livenews/3082644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 23时33分]"
+        },
+        {
           "title": "特朗普：美军完成历史上“最大胆的搜救行动” 失踪飞行员均已获救",
           "url": "https://flash.jin10.com/detail/20260405121452100800",
           "source": "金十数据",
@@ -638,6 +715,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 15时06分]"
+        },
+        {
+          "title": "白宫否认特朗普病重住院传闻",
+          "url": "https://flash.jin10.com/detail/20260405215058350800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 23时33分]"
+        },
+        {
+          "title": "特朗普再次威胁：“4月7日将是伊朗的发电厂日和大桥日”，“打开那个该死的海峡”！",
+          "url": "https://wallstreetcn.com/articles/3769295",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时33分]"
         },
         {
           "title": "美国总统特朗普：根据我的指示，美国军方出动了数十架战机，携带世界上“最致命的武器”，将失踪的飞行员救回。他受了伤，但未来会完全康复。",
@@ -652,6 +752,18 @@
           "time_info": "[13时12分 ~ 15时06分]"
         },
         {
+          "title": "美媒：特朗普称最早明天与伊朗达成协议 否则将炸掉一切并接管石油",
+          "url": "https://flash.jin10.com/detail/20260405214823773800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 23时33分]"
+        },
+        {
           "title": "美国总统特朗普：美国军方营救了我们一位了不起的机组人员。",
           "url": "https://flash.jin10.com/detail/20260405121031640800",
           "source": "金十数据",
@@ -662,6 +774,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 15时06分]"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，今年早些时候，美国通过库尔德人向伊朗抗议者提供了枪支，但他认为这些枪支被库尔德人留下了。",
+          "url": "https://flash.jin10.com/detail/20260405214639915800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 23时33分]"
         },
         {
           "title": "特朗普证实救出失踪飞行员",
@@ -687,15 +811,16 @@
           "time_info": "[20时57分 ~ 21时56分]"
         },
         {
-          "title": "白宫回应特朗普病重住院传闻",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%85%E9%87%8D%E4%BD%8F%E9%99%A2%E4%BC%A0%E9%97%BB%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "据福克斯新闻：美国总统特朗普表示，他相信能在周一之前与伊朗达成协议，伊朗方面目前正在谈判。",
+          "url": "https://flash.jin10.com/detail/20260405214608411800",
+          "source": "金十数据",
           "ranks": [
-            12
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时36分]"
+          "time_info": "[22时36分 ~ 23时33分]"
         },
         {
           "title": "特朗普“F词”大骂伊朗 威胁打击伊朗电厂和桥梁",
@@ -734,6 +859,18 @@
           "time_info": "[07时31分 ~ 10时27分]"
         },
         {
+          "title": "美国共和党参议员格雷厄姆：仍希望外交途径重开海峡 特朗普态度坚决",
+          "url": "https://flash.jin10.com/detail/20260405214345789800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 23时33分]"
+        },
+        {
           "title": "特朗普称被击落战机飞行员全部获救，伊朗称击落一架美军搜救飞机",
           "url": "https://m.thepaper.cn/newsDetail_forward_32907829",
           "source": "澎湃新闻",
@@ -767,6 +904,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时57分 ~ 21时56分]"
+        },
+        {
+          "title": "分析：特朗普言论显示美伊在谈判方面没有任何进展",
+          "url": "https://flash.jin10.com/detail/20260405213305605800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 23时33分]"
         },
         {
           "title": "美国总统特朗普：我们已从伊朗境内的崇山峻岭中救出了那位伤势严重但非常勇敢的F-15机组人员/军官。",
@@ -803,28 +952,6 @@
           "time_info": "[16时42分 ~ 16时43分]"
         },
         {
-          "title": "据福克斯新闻：美国总统特朗普称，目前伊朗方面的谈判代表已获有限赦免。",
-          "url": "https://flash.jin10.com/detail/20260405220016108800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "比特币维持0.7%的跌幅，暂报66786美元。 福克斯新闻披露的电话采访信息显示，美国总统特朗普声称，如果不达成伊朗协议，将攫取伊朗石油。 特朗普可以在明天（结束）之前与伊朗达成协议。 伊朗的谈判人员们暂时获得（被美国和以色列杀害的）“赦免”。 如果不“迅速”达成伊朗协议，考虑“破坏一切”。",
-          "url": "https://wallstreetcn.com/livenews/3082644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
           "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
           "url": "https://wallstreetcn.com/articles/3769250",
           "source": "华尔街见闻",
@@ -834,39 +961,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
-        },
-        {
-          "title": "白宫否认特朗普病重住院传闻",
-          "url": "https://flash.jin10.com/detail/20260405215058350800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "美媒：特朗普称最早明天与伊朗达成协议 否则将炸掉一切并接管石油",
-          "url": "https://flash.jin10.com/detail/20260405214823773800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普表示，今年早些时候，美国通过库尔德人向伊朗抗议者提供了枪支，但他认为这些枪支被库尔德人留下了。",
-          "url": "https://flash.jin10.com/detail/20260405214639915800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
         },
         {
           "title": "美国前参议员表示特朗普已经住院",
@@ -889,39 +983,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普表示，他相信能在周一之前与伊朗达成协议，伊朗方面目前正在谈判。",
-          "url": "https://flash.jin10.com/detail/20260405214608411800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：仍希望外交途径重开海峡 特朗普态度坚决",
-          "url": "https://flash.jin10.com/detail/20260405214345789800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "分析：特朗普言论显示美伊在谈判方面没有任何进展",
-          "url": "https://flash.jin10.com/detail/20260405213305605800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
         },
         {
           "title": "美国油价升至每加仑4.1美元 伊朗战争爆发后已上涨37%",
