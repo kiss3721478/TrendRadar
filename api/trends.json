@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T21:19:03.738798+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2026-04-07T23:09:01.329890+08:00",
+  "total_titles_processed": 1828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 257,
+      "match_count": 279,
       "titles": [
         {
           "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时36分 ~ 21时19分]"
+          "appearance_count": 12,
+          "time_info": "[07时36分 ~ 23时09分]"
         },
         {
           "title": "假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产",
@@ -80,6 +80,19 @@
           "time_info": "[00时46分 ~ 10时24分]"
         },
         {
+          "title": "特朗普威胁伊朗“最后期限”，中方表态",
+          "url": "https://www.cls.cn/detail/2336527",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 23时09分]"
+        },
+        {
           "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
           "url": "https://wallstreetcn.com/articles/3769328",
           "source": "华尔街见闻",
@@ -92,8 +105,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时55分 ~ 21时19分]"
+          "appearance_count": 18,
+          "time_info": "[03时55分 ~ 23时09分]"
         },
         {
           "title": "土耳其甩卖黄金给所有人上了一课",
@@ -147,6 +160,20 @@
           "time_info": "[00时46分 ~ 07时36分]"
         },
         {
+          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/articles/3769330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 23时09分]"
+        },
+        {
           "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
           "url": "https://www.cls.cn/detail/2335621",
           "source": "财联社热门",
@@ -159,6 +186,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时46分 ~ 10时24分]"
+        },
+        {
+          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 23时09分]"
         },
         {
           "title": "美以伊战争丨特朗普：伊朗可在一夜内被击溃",
@@ -184,44 +225,16 @@
           "time_info": "[00时46分 ~ 07时36分]"
         },
         {
-          "title": "特朗普威胁伊朗“最后期限”，中方表态",
-          "url": "https://www.cls.cn/detail/2336527",
-          "source": "财联社热门",
+          "title": "多国央行开始卖黄金了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
             2,
-            1
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时02分 ~ 21时19分]"
-        },
-        {
-          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
-          "url": "https://wallstreetcn.com/articles/3769330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时23分 ~ 21时19分]"
-        },
-        {
-          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时23分 ~ 21时19分]"
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 23时09分]"
         },
         {
           "title": "土耳其两周狂抛近120吨黄金",
@@ -251,6 +264,31 @@
           "time_info": "[10时23分 ~ 21时19分]"
         },
         {
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 23时09分]"
+        },
+        {
+          "title": "联合国警告特朗普：或涉战争罪",
+          "url": "https://news.ifeng.com/c/8s8Tyoozbw4",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时18分 ~ 23时09分]"
+        },
+        {
           "title": "特朗普：该由美国收霍尔木兹海峡“通行费”",
           "url": "https://www.cls.cn/detail/2335995",
           "source": "财联社热门",
@@ -276,18 +314,6 @@
           "time_info": "[17时02分 ~ 19时54分]"
         },
         {
-          "title": "多国央行开始卖黄金了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时02分 ~ 21时19分]"
-        },
-        {
           "title": "特朗普：该由美国收霍尔木兹通行费",
           "url": "https://news.ifeng.com/c/8s7WhbxpGX0",
           "source": "凤凰网",
@@ -297,6 +323,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时23分 ~ 13时09分]"
+        },
+        {
+          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
+          "url": "https://wallstreetcn.com/articles/3769340",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 23时09分]"
         },
         {
           "title": "特朗普：伊朗可在一夜内被击溃 或许就是7日晚上",
@@ -310,6 +350,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时23分 ~ 15时16分]"
+        },
+        {
+          "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
+          "url": "https://www.cls.cn/detail/2336273",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 23时09分]"
         },
         {
           "title": "美以伊战争丨特朗普：被迫炸毁2架深陷沙地运输机",
@@ -345,28 +399,52 @@
           "time_info": "[21时18分 ~ 21时19分]"
         },
         {
-          "title": "联合国警告特朗普：或涉战争罪",
-          "url": "https://news.ifeng.com/c/8s8Tyoozbw4",
+          "title": "中方就特朗普威胁伊朗表态",
+          "url": "https://www.toutiao.com/trending/7624686886321393188/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 23时09分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915431",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 23时09分]"
+        },
+        {
+          "title": "特朗普对伊朗发出最强威胁：若不达成协议 今晚整个文明将消亡",
+          "url": "https://www.cls.cn/detail/2336994",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：整个文明将消亡",
+          "url": "https://news.ifeng.com/c/8s8XYUTRSiV",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
-        },
-        {
-          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
-          "url": "https://wallstreetcn.com/articles/3769368",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时02分 ~ 21时19分]"
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "特朗普再次点名北约、澳大利亚、日本、韩国：都不帮忙",
@@ -379,6 +457,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时02分 ~ 18时55分]"
+        },
+        {
+          "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛哈尔克岛传出爆炸，特朗普称“整个文明将消亡”",
+          "url": "https://wallstreetcn.com/articles/3769398",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "以色列总理警告特朗普勿仓促停火",
@@ -425,6 +514,19 @@
           "time_info": "01时44分"
         },
         {
+          "title": "央行连续17个月增持黄金",
+          "url": "https://www.douyin.com/hot/2458359",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时09分]"
+        },
+        {
           "title": "特朗普：一夜之间就能拿下伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_32915316",
           "source": "澎湃新闻",
@@ -436,6 +538,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时16分 ~ 21时19分]"
+        },
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时09分]"
+        },
+        {
+          "title": "多国央行开启战术性黄金抛售",
+          "url": "https://www.douyin.com/hot/2457701",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时09分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -515,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "WTI原油5分钟内上涨0.58美元/桶，报117.28美元/桶。 纳斯达克100指数跌幅扩大至1.5%，纳指跌1.55%，标普500指数跌幅重新扩大至1%。 新兴市场货币回吐涨幅。 媒体报道称，伊朗告知调停人巴基斯坦，伊朗将不再继续推进（与美国的）停火谈判。",
+          "url": "https://wallstreetcn.com/livenews/3083591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "美国总统特朗普：北约秘书长吕特周三将来见我。北约秘书长很棒。",
@@ -627,20 +766,6 @@
           "time_info": "19时54分"
         },
         {
-          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
-          "url": "https://wallstreetcn.com/articles/3769340",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时02分 ~ 21时19分]"
-        },
-        {
           "title": "专家：特朗普严重践踏国际法",
           "url": "https://www.toutiao.com/trending/7624815817067380777/",
           "source": "今日头条",
@@ -654,42 +779,17 @@
           "time_info": "[00时46分 ~ 06时37分]"
         },
         {
-          "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
-          "url": "https://www.cls.cn/detail/2336273",
+          "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
+          "url": "https://www.cls.cn/detail/2336608",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时02分 ~ 21时19分]"
-        },
-        {
-          "title": "中方就特朗普威胁伊朗表态",
-          "url": "https://www.toutiao.com/trending/7624686886321393188/",
-          "source": "今日头条",
-          "ranks": [
-            18,
+            13,
             11,
             12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时02分 ~ 21时19分]"
-        },
-        {
-          "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915431",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时02分 ~ 21时19分]"
+          "time_info": "[19时54分 ~ 23时09分]"
         },
         {
           "title": "内塔尼亚胡警告特朗普",
@@ -787,6 +887,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时55分]"
+        },
+        {
+          "title": "联合国警告特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时18分 ~ 23时09分]"
         },
         {
           "title": "英伟达支持的数据中心建设公司Firmus融资5.05亿美元。",
@@ -909,6 +1021,18 @@
           "time_info": "[18时55分 ~ 19时54分]"
         },
         {
+          "title": "央行连续第 17 个月增持黄金，这背后有哪些考量？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2024885012995093637",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时18分 ~ 23时09分]"
+        },
+        {
           "title": "特朗普最后通牒将到期，全世界都在屏息等待",
           "url": "https://news.ifeng.com/c/8s7eb3ChIcW",
           "source": "凤凰网",
@@ -1005,43 +1129,27 @@
           "time_info": "[10时23分 ~ 15时16分]"
         },
         {
-          "title": "央行连续17个月增持黄金",
-          "url": "https://www.douyin.com/hot/2458359",
-          "source": "抖音",
+          "title": "伊朗方称伊朗拒绝「临时停火」，特朗普威胁伊朗整个文明将消亡，拒绝停火原因是什么？美以伊三方谁最拖不起？",
+          "url": "https://www.zhihu.com/question/2024942392235614830",
+          "source": "知乎",
           "ranks": [
-            15,
-            16,
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时19分]"
+          "time_info": "[21时18分 ~ 23时09分]"
         },
         {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "央行抛售引发金价地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
-            23,
-            16
+            24,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时19分]"
-        },
-        {
-          "title": "多国央行开启战术性黄金抛售",
-          "url": "https://www.douyin.com/hot/2457701",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 21时19分]"
+          "time_info": "[21时18分 ~ 23时09分]"
         },
         {
           "title": "中方回应特朗普威胁一夜击毁伊朗",
@@ -1094,18 +1202,6 @@
           "time_info": "[13时09分 ~ 17时02分]"
         },
         {
-          "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
-          "url": "https://www.cls.cn/detail/2336608",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 21时19分]"
-        },
-        {
           "title": "伊朗最大产油岛哈尔克岛传出多次爆炸，特朗普称“整个文明将消亡”",
           "url": "https://wallstreetcn.com/articles/3769398",
           "source": "华尔街见闻",
@@ -1117,15 +1213,15 @@
           "time_info": "[21时18分 ~ 21时19分]"
         },
         {
-          "title": "联合国警告特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "美伊谈判“最后期限”逼近，美股跌幅扩大，油价攀升，黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "美国总统特朗普的和平委员会给哈马斯设定了解除武装的最后期限。（纽约时报）",
@@ -1473,6 +1569,17 @@
           "time_info": "[00时47分 ~ 01时44分]"
         },
         {
+          "title": "联合国警告特朗普政府",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
           "title": "数字货币市场至少涨超3.4%，比特币涨超4%突破7万美元关口，以太币维持超过4%的涨幅",
           "url": "https://wallstreetcn.com/livenews/3082905",
           "source": "华尔街见闻-快讯",
@@ -1520,15 +1627,15 @@
           "time_info": "[05时38分 ~ 06时37分]"
         },
         {
-          "title": "伊朗方称伊朗拒绝「临时停火」，特朗普威胁伊朗整个文明将消亡，拒绝停火原因是什么？美以伊三方谁最拖不起？",
-          "url": "https://www.zhihu.com/question/2024942392235614830",
-          "source": "知乎",
+          "title": "韩国回应特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
@@ -1555,6 +1662,17 @@
           "time_info": "[17时02分 ~ 18时55分]"
         },
         {
+          "title": "中方表态特朗普威胁伊朗最后期限",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
           "title": "特朗普：美军营救行动出动155架飞机，炸毁两架运输机",
           "url": "https://wallstreetcn.com/livenews/3082919",
           "source": "华尔街见闻-快讯",
@@ -1565,6 +1683,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时55分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：“整个文明将消亡”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32918291",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "现货黄金5分钟内上涨6.53美元/盎司，报4659.19美元/盎司。 WTI原油期货目前涨2.38%，报114.20美元，亚太盘初曾涨穿115美元。 伊朗媒体Mizan报道称，首都德黑兰听到爆炸声。 美国“战争部”部长海格塞斯宣称，“今天将对伊朗发动规模最大的袭击，明天的打击力度将比今天更大”。",
@@ -1591,17 +1720,6 @@
           "time_info": "[04时38分 ~ 05时38分]"
         },
         {
-          "title": "央行连续第 17 个月增持黄金，这背后有哪些考量？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2024885012995093637",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
-        },
-        {
           "title": "博主：俄土两国央行抛售难定黄金涨跌",
           "url": "https://www.toutiao.com/trending/7625801623134015018/",
           "source": "今日头条",
@@ -1613,6 +1731,28 @@
           "time_info": "[10时23分 ~ 10时24分]"
         },
         {
+          "title": "威胁炸伊朗基础设施、不怕牵涉战争罪，特朗普：伊朗人为了自由甘愿被炸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915193",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
+          "title": "特朗普威胁称伊朗整个文明将消亡",
+          "url": "https://www.douyin.com/hot/2458671",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
+        },
+        {
           "title": "多国央行开始卖黄金了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1622,17 +1762,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "央行抛售引发金价地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%8A%9B%E5%94%AE%E5%BC%95%E5%8F%91%E9%87%91%E4%BB%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "美国总统特朗普：我不想摧毁伊朗的基础设施。我们最不想做的就是重建发电厂。",
@@ -1710,6 +1839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "三座大山压制黄金，震荡区间在哪里？《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260407223811995800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "特朗普明言要抢伊朗石油 又称炸弹送“自由”",
@@ -1828,7 +1968,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -2306,6 +2446,17 @@
           "time_info": "19时54分"
         },
         {
+          "title": "现货白银日内大跌4.00%，现报69.87美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260407221831175800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "美国总统特朗普：这次行动我们本可能损失100到200人。",
           "url": "https://flash.jin10.com/detail/20260406235950284800",
           "source": "金十数据",
@@ -2381,6 +2532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "恒天然：4月7日全球乳品贸易（GDT）拍卖价格指数下降3.4%，奶粉各合同期FAS拍卖均价4,228美元/吨。 批发奶粉价格指数跌0.7%，报3,687美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3083572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "美国总统特朗普：将要求媒体机构提供泄露伊朗救援行动信息者的姓名。",
@@ -2488,7 +2650,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -2535,6 +2697,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "WTI原油突破117美元/桶，日内涨3.75%。",
+          "url": "https://flash.jin10.com/detail/20260407221320573800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "美国总统特朗普谈及伊朗问题，声称：周二是最后期限。 我已看过所有提议的方案。 伊朗的提议迈出了重要一步，但还不够好。 如果他们（伊朗）做好某些事，战争可能很快就会结束。 那些代表伊朗说话的人现在更加理性。 重申伊朗不能拥有核武器。 如果伊朗不让步，就不会有桥梁和发电站。 美国民众想要我们（在发动战争后）赢，然后（让美军）回国。 我希望美国赢，然后回国。",
@@ -2653,7 +2826,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -2678,6 +2851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗关闭对美沟通渠道，油价涨、美股黄金跌",
+          "url": "https://flash.jin10.com/detail/20260407220904342800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "人民币兑美元中间价创2023年4月25日以来新高",
@@ -2790,6 +2974,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "现货黄金加速走低，短线跌近40美元，失守4610美元/盎司，日内跌0.88%。",
+          "url": "https://flash.jin10.com/detail/20260407220711832800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "因印度外汇交易新规冲击，印度国家银行50亿美元卢比做空押注受挫。",
           "url": "https://wallstreetcn.com/livenews/3083297",
           "source": "华尔街见闻-快讯",
@@ -2834,13 +3029,24 @@
           "time_info": "13时09分"
         },
         {
+          "title": "现货白银日内跌幅达3.00%，现报70.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260407220621533800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "特朗普威胁伊朗：“整个文明将消亡”",
           "url": "https://wallstreetcn.com/livenews/3083488",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -2862,9 +3068,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "现货黄金短线走低逾20美元，最新报4625美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260407220545682800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "美国总统特朗普：营救飞行员的行动中无人伤亡。",
@@ -2900,6 +3117,28 @@
           "time_info": "15时16分"
         },
         {
+          "title": "纽约期银日内下跌3.00%，现报70.66美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260407220457500800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "挪威克朗兑美元涨幅扩大至1.3%，报0.9864，创2024年12月以来新高，投资者关注国际油价涨势。",
+          "url": "https://wallstreetcn.com/livenews/3083559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "美国总统特朗普：很多飞机都是用来佯攻的。",
           "url": "https://flash.jin10.com/detail/20260407011721517800",
           "source": "金十数据",
@@ -2928,9 +3167,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
+        },
+        {
+          "title": "道明证券：美元近期的涨势不太可能持续下去",
+          "url": "https://flash.jin10.com/detail/20260407220431329800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "特朗普与还在执行阿尔忒弥斯II号任务的宇航员通话，邀请宇航员作客白宫。",
