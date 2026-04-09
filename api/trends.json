@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T06:41:08.896883+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-04-10T07:38:15.791992+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 88,
+      "match_count": 91,
       "titles": [
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
         },
         {
           "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
         },
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
         },
         {
           "title": "高盛警告：若霍尔木兹再封一个月 布油2026年均价或破100美元",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
         },
         {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
@@ -67,28 +67,17 @@
           "time_info": "[01时07分 ~ 06时13分]"
         },
         {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
-        },
-        {
           "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
           "url": "https://www.zhihu.com/question/2025532903371580547",
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
         },
         {
           "title": "全国电视频道全面清除虚假宣传医药广告",
@@ -99,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
         },
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -110,30 +99,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
         },
         {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
         },
         {
           "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
           "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
         },
         {
           "title": "杭州一眼科医院院长被指猥亵医药公司销售经理，已被停职警方已立案",
@@ -141,11 +132,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
         },
         {
           "title": "美国对伊战事日均“烧钱”超5亿美元",
@@ -153,7 +145,20 @@
           "source": "今日头条",
           "ranks": [
             18,
-            21
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时38分]"
+        },
+        {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -169,6 +174,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 01时08分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
+          "url": "https://www.cls.cn/detail/2339795",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时13分 ~ 07时38分]"
         },
         {
           "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
@@ -227,17 +245,6 @@
           "time_info": "04时52分"
         },
         {
-          "title": "特朗普：伊朗在海峡石油运输方面表现得非常糟糕",
-          "url": "https://flash.jin10.com/detail/20260410063238426800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
           "title": "WTI 5月原油期货收涨3.46美元，涨幅3.66报97.87美元/桶。 中东Abu Dhabi Murban原油期货涨2.80%，报100.37美元/桶，北京时间20:47曾涨至102.10美元。 NYMEX 5月天然气期货收报2.67美元/百万英热单位。 NYMEX 5月汽油期货收报3.0007美元/加仑，NYMEX 5月取暖油期货收报3.9370美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3085287",
           "source": "华尔街见闻-快讯",
@@ -269,17 +276,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
-        },
-        {
-          "title": "WTI原油突破99美元/桶，日内涨1.03%。",
-          "url": "https://flash.jin10.com/detail/20260410063046277800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
         },
         {
           "title": "唐宁街：英国首相斯塔默与美国总统特朗普通电话，讨论了关于开放霍尔木兹海峡的计划。",
@@ -316,15 +312,52 @@
           "time_info": "04时52分"
         },
         {
+          "title": "特朗普：伊朗在海峡石油运输方面表现得非常糟糕",
+          "url": "https://flash.jin10.com/detail/20260410063238426800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时38分]"
+        },
+        {
+          "title": "WTI原油突破99美元/桶，日内涨1.03%。",
+          "url": "https://flash.jin10.com/detail/20260410063046277800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时38分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗在霍尔木兹海峡允许石油通过方面的表现非常糟糕。",
           "url": "https://flash.jin10.com/detail/20260410063005756800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时38分]"
+        },
+        {
+          "title": "高盛：霍尔木兹若再封锁一个月，布油全年均价将在100美元以上",
+          "url": "https://wallstreetcn.com/articles/3769562",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 07时38分]"
         },
         {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
@@ -338,28 +371,17 @@
           "time_info": "[03时06分 ~ 04时52分]"
         },
         {
-          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
-          "url": "https://www.cls.cn/detail/2339795",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时13分 ~ 06时41分]"
-        },
-        {
           "title": "现货金银、WTI原油周五小幅高开，美股三大股指期货微跌。",
           "url": "https://flash.jin10.com/detail/20260410060121700800",
           "source": "金十数据",
           "ranks": [
             6,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 06时41分]"
+          "appearance_count": 3,
+          "time_info": "[06时13分 ~ 07时38分]"
         },
         {
           "title": "世界银行行长Ajay Banga：世行能够迅速向多个国家提供200亿-250亿美元（救助资金）。 （世行）正设法在必要情况下额外获得500亿-600亿美元（支持性资金）。 新兴市场应当首先侧重于（应对）通胀（风险），其次才是经济增长。（彭博电视）",
@@ -367,22 +389,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 06时41分]"
-        },
-        {
-          "title": "高盛：霍尔木兹若再封锁一个月，布油全年均价将在100美元以上",
-          "url": "https://wallstreetcn.com/articles/3769562",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 06时41分]"
+          "appearance_count": 3,
+          "time_info": "[06时13分 ~ 07时38分]"
         },
         {
           "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
@@ -390,11 +402,71 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            21
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时13分 ~ 07时38分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗在允许石油通过霍尔木兹海峡输送方面做得糟糕。 有些人会说，那是不光彩的。 （谈及伊朗与霍尔木兹海峡）那并非我们所达成的协议。",
+          "url": "https://wallstreetcn.com/livenews/3085368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时13分 ~ 06时41分]"
+          "time_info": "[06时41分 ~ 07时38分]"
+        },
+        {
+          "title": "特朗普敦促北约作出承诺 确保霍尔木兹海峡安全",
+          "url": "https://flash.jin10.com/detail/20260410062604282800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时38分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.571吨，当前持仓量为1052.419吨。",
+          "url": "https://flash.jin10.com/detail/20260410062543675800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时38分]"
+        },
+        {
+          "title": "复盘 70 年代滞胀期，千金难买“黄金坑”",
+          "url": "https://wallstreetcn.com/articles/3769541",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 07时38分]"
+        },
+        {
+          "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
+          "url": "https://flash.jin10.com/detail/20260410061119660800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时38分]"
         },
         {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费",
@@ -489,17 +561,6 @@
           "time_info": "04时52分"
         },
         {
-          "title": "美国总统特朗普：伊朗在允许石油通过霍尔木兹海峡输送方面做得糟糕。 有些人会说，那是不光彩的。 （谈及伊朗与霍尔木兹海峡）那并非我们所达成的协议。",
-          "url": "https://wallstreetcn.com/livenews/3085368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        },
-        {
           "title": "特朗普夫人梅拉尼娅：我从未与爱泼斯坦有过关系，爱泼斯坦没有把我介绍给特朗普，这些指控有损我的声誉。",
           "url": "https://flash.jin10.com/detail/20260410023325174800",
           "source": "金十数据",
@@ -522,15 +583,15 @@
           "time_info": "04时52分"
         },
         {
-          "title": "特朗普敦促北约作出承诺 确保霍尔木兹海峡安全",
-          "url": "https://flash.jin10.com/detail/20260410062604282800",
+          "title": "特朗普警告伊朗：勿对霍尔木兹海峡船只收费",
+          "url": "https://flash.jin10.com/detail/20260410065335384800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时38分"
         },
         {
           "title": "特朗普：已要求内塔尼亚胡在黎巴嫩行动“更低调”",
@@ -544,15 +605,15 @@
           "time_info": "03时07分"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.571吨，当前持仓量为1052.419吨。",
-          "url": "https://flash.jin10.com/detail/20260410062543675800",
-          "source": "金十数据",
+          "title": "特朗普要求北约成员国就保障霍尔木兹海峡安全作出承诺",
+          "url": "https://wallstreetcn.com/livenews/3085375",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时38分"
         },
         {
           "title": "白宫官员称，美国总统特朗普正考虑从欧洲撤出部分美军。",
@@ -630,17 +691,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
-        },
-        {
-          "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
-          "url": "https://flash.jin10.com/detail/20260410061119660800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产增长至7.819万亿美元。",
