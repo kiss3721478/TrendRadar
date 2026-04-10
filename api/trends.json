@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T04:36:36.748200+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-04-11T05:37:32.585976+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -26,8 +26,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时37分]"
+        },
+        {
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 05时37分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -41,15 +52,28 @@
           "time_info": "[01时47分 ~ 01时48分]"
         },
         {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041025716800",
+          "source": "金十数据",
           "ranks": [
-            12
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 04时36分]"
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041023502800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -96,17 +120,6 @@
           "time_info": "02时52分"
         },
         {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041025716800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持COMEX黄金净多头头寸减少1,759手合约，至92,113手合约，创两年新低。",
           "url": "https://wallstreetcn.com/livenews/3086067",
           "source": "华尔街见闻-快讯",
@@ -116,17 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041023502800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时36分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的5.07亿美元。",
@@ -151,15 +153,15 @@
           "time_info": "03时44分"
         },
         {
-          "title": "美联储：美国上周银行存款19.085万亿美元，之前一周18.996万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3086088",
+          "title": "思科洽谈按至少2.5亿美元收购Astrix。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3086113",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时37分"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -247,6 +249,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时48分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.085万亿美元，之前一周18.996万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3086088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -346,6 +360,18 @@
           "time_info": "[00时51分 ~ 01时48分]"
         },
         {
+          "title": "美国3月赤字扩大至1640亿美元，退税与农民救助推高支出",
+          "url": "https://wallstreetcn.com/livenews/3086086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260411003343083800",
           "source": "金十数据",
@@ -394,6 +420,18 @@
           "time_info": "[03时44分 ~ 04时36分]"
         },
         {
+          "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3086084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
+        },
+        {
           "title": "LME期铜收涨164美元，报12846美元/吨。 LME期铝收涨54美元，报3498美元/吨。 LME期锌收涨6美元，报3333美元/吨。 LME期铅收跌5美元，报1922美元/吨。 LME期镍收涨153美元，报17241美元/吨。 LME期锡收涨301美元，报47987美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3086033",
           "source": "华尔街见闻-快讯",
@@ -404,6 +442,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 02时52分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时37分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月10日（周五）晚盘收盘上涨0.07%报1048.5元/克；<br/>上海黄金交易所白银T+D 4月10日（周五）晚盘收盘上涨1.45%报18832.0元/千克。",
@@ -417,15 +467,15 @@
           "time_info": "02时52分"
         },
         {
-          "title": "美国3月赤字扩大至1640亿美元，退税与农民救助推高支出",
-          "url": "https://wallstreetcn.com/livenews/3086086",
+          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3086110",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时37分"
         },
         {
           "title": "WTI原油跌破97美元/桶，日内跌1.04%。",
@@ -439,15 +489,15 @@
           "time_info": "02时52分"
         },
         {
-          "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3086084",
+          "title": "周五（4月10日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8258元，较周四纽约尾盘涨23点，日内整体交投于6.8344-6.8213元区间。",
+          "url": "https://wallstreetcn.com/livenews/3086106",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时37分"
         },
         {
           "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
@@ -500,7 +550,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -516,15 +566,15 @@
           "time_info": "00时51分"
         },
         {
-          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
-          "url": "https://flash.jin10.com/detail/20260411040442253800",
-          "source": "金十数据",
+          "title": "周五（4月10日）纽约尾盘，现货黄金跌0.34%，报4750.39美元/盎司，本周累计上涨1.57%，4月6-7日在4650美元附近低位持稳，4月8日亚太盘初曾拉升至4856.81美元。 COMEX黄金期货跌0.95%，报4772.00美元/盎司，本周累涨2.02%。",
+          "url": "https://wallstreetcn.com/livenews/3086098",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时36分"
+          "time_info": "05时37分"
         },
         {
           "title": "美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。",
@@ -544,9 +594,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普：美国准备提振匈牙利经济。",
+          "url": "https://wallstreetcn.com/livenews/3086095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "白宫官员：白宫内部的不确定性依然存在，特朗普目前认为霍尔木兹海峡短期内不太可能重新开放。",
@@ -577,7 +638,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
@@ -621,7 +682,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
         },
