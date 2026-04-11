@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T21:57:56.503114+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-04-11T22:39:14.115009+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 105,
+      "match_count": 110,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时09分 ~ 21时57分]"
+          "appearance_count": 14,
+          "time_info": "[10时09分 ~ 22时39分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时09分 ~ 21时57分]"
+          "appearance_count": 14,
+          "time_info": "[10时09分 ~ 22时39分]"
         },
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -44,8 +44,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时35分 ~ 21时57分]"
+          "appearance_count": 15,
+          "time_info": "[07时35分 ~ 22时39分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时01分 ~ 22时39分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -95,8 +111,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时35分 ~ 21时57分]"
+          "appearance_count": 15,
+          "time_info": "[07时35分 ~ 22时39分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -112,24 +128,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时35分 ~ 21时57分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 21时57分]"
+          "appearance_count": 15,
+          "time_info": "[07时35分 ~ 22时39分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -141,6 +141,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 07时35分]"
+        },
+        {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            7,
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 22时39分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -202,19 +217,15 @@
           "time_info": "[01时47分 ~ 01时48分]"
         },
         {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
+          "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            5,
-            7,
-            3,
-            16
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 21时57分]"
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -259,17 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
-          "url": "https://wallstreetcn.com/livenews/3086245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -365,6 +365,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 12时55分]"
+        },
+        {
+          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
+          "url": "https://wallstreetcn.com/livenews/3086245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时39分]"
         },
         {
           "title": "特朗普称若未达成协议，将加大对伊朗军事打击",
@@ -688,6 +700,18 @@
           "time_info": "[00时51分 ~ 01时48分]"
         },
         {
+          "title": "特朗普：美国绝不接受化肥行业的价格欺诈",
+          "url": "https://flash.jin10.com/detail/20260411210841996800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
           "title": "美国3月赤字扩大至1640亿美元，退税与农民救助推高支出",
           "url": "https://wallstreetcn.com/livenews/3086086",
           "source": "华尔街见闻-快讯",
@@ -724,6 +748,18 @@
           "time_info": "[10时09分 ~ 12时55分]"
         },
         {
+          "title": "巴基斯坦消息人士：此次三方会谈在美国总统特使威特科夫、美国副总统万斯、特朗普女婿库什纳与伊朗议会议长卡利巴夫、伊朗外长阿拉格齐以及巴基斯坦陆军参谋长之间面对面举行。",
+          "url": "https://flash.jin10.com/detail/20260411210744513800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
           "title": "美国3月政府预算 -1641亿美元，预期 -1533亿美元，前值 -1605亿美元。",
           "url": "https://wallstreetcn.com/livenews/3086051",
           "source": "华尔街见闻-快讯",
@@ -736,6 +772,29 @@
           "time_info": "[02时52分 ~ 03时44分]"
         },
         {
+          "title": "特朗普：我正密切关注化肥价格；美国不会接受化肥垄断企业的价格欺诈行为。",
+          "url": "https://wallstreetcn.com/livenews/3086237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
+          "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
+          "url": "https://news.ifeng.com/c/8sF8BSwcVz7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
+        },
+        {
           "title": "特朗普：伊朗手中已无筹码 存在的原因是为了谈判",
           "url": "https://flash.jin10.com/detail/20260411003033068800",
           "source": "金十数据",
@@ -746,6 +805,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时48分]"
+        },
+        {
+          "title": "特朗普：正在“清理”霍尔木兹海峡海峡 伊朗布雷艇已全部沉没",
+          "url": "https://flash.jin10.com/detail/20260411210428309800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时39分]"
         },
         {
           "title": "WTI 5月原油期货收跌1.30美元，跌幅1.33%，报96.57美元/桶。 布伦特6月原油期货收报95.20美元/桶。 NYMEX 5月天然气期货收报2.6480美元/百万英热单位。 NYMEX 5月汽油期货收报3.0373美元/加仑，NYMEX 5月取暖油期货收报3.7616美元/加仑。",
@@ -772,6 +843,41 @@
           "time_info": "[04时36分 ~ 05时37分]"
         },
         {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的28艘布雷快艇全部沉入海底。",
+          "url": "https://flash.jin10.com/detail/20260411210112404800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
+          "title": "特朗普称美方“开始清理霍尔木兹海峡”",
+          "url": "https://wallstreetcn.com/livenews/3086234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
           "title": "华泰证券：短期地缘局势变化并未破坏黄金的中长期底层逻辑",
           "url": "https://flash.jin10.com/detail/20260411092719332800",
           "source": "金十数据",
@@ -784,6 +890,18 @@
           "time_info": "[10时09分 ~ 12时55分]"
         },
         {
+          "title": "美国总统特朗普：我们现在正在进行清理霍尔木兹海峡的行动。",
+          "url": "https://flash.jin10.com/detail/20260411210041803800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时39分]"
+        },
+        {
           "title": "特朗普：大量完全空载的油轮，其中一些是全球最大的，目前正前往美国装载石油（以及天然气！）。",
           "url": "https://wallstreetcn.com/livenews/3086220",
           "source": "华尔街见闻-快讯",
@@ -794,6 +912,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时57分 ~ 21时57分]"
+        },
+        {
+          "title": "特朗普称美方开始清理霍尔木兹海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E6%96%B9%E5%BC%80%E5%A7%8B%E6%B8%85%E7%90%86%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
           "title": "LME期铜收涨164美元，报12846美元/吨。 LME期铝收涨54美元，报3498美元/吨。 LME期锌收涨6美元，报3333美元/吨。 LME期铅收跌5美元，报1922美元/吨。 LME期镍收涨153美元，报17241美元/吨。 LME期锡收涨301美元，报47987美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -867,37 +996,15 @@
           "time_info": "02时52分"
         },
         {
-          "title": "特朗普：美国绝不接受化肥行业的价格欺诈",
-          "url": "https://flash.jin10.com/detail/20260411210841996800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "巴基斯坦消息人士：此次三方会谈在美国总统特使威特科夫、美国副总统万斯、特朗普女婿库什纳与伊朗议会议长卡利巴夫、伊朗外长阿拉格齐以及巴基斯坦陆军参谋长之间面对面举行。",
-          "url": "https://flash.jin10.com/detail/20260411210744513800",
+          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
+          "url": "https://flash.jin10.com/detail/20260411214044894800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "特朗普：我正密切关注化肥价格；美国不会接受化肥垄断企业的价格欺诈行为。",
-          "url": "https://wallstreetcn.com/livenews/3086237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "22时39分"
         },
         {
           "title": "团伙制售掺假黄金 72家金店被骗",
@@ -922,17 +1029,6 @@
           "time_info": "02时52分"
         },
         {
-          "title": "特朗普：正在“清理”霍尔木兹海峡海峡 伊朗布雷艇已全部沉没",
-          "url": "https://flash.jin10.com/detail/20260411210428309800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
           "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
           "url": "https://flash.jin10.com/detail/20260411002832276800",
           "source": "金十数据",
@@ -955,17 +1051,6 @@
           "time_info": "02时52分"
         },
         {
-          "title": "美国总统特朗普：伊朗的28艘布雷快艇全部沉入海底。",
-          "url": "https://flash.jin10.com/detail/20260411210112404800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
           "title": "【特朗普：霍尔木兹海峡“很快就会重新开放”】4月10日，美国总统特朗普表示，霍尔木兹海峡“很快就会重新开放，无论如何都会开放”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3086118",
           "source": "华尔街见闻-快讯",
@@ -977,17 +1062,6 @@
           "time_info": "06时38分"
         },
         {
-          "title": "特朗普称美方“开始清理霍尔木兹海峡”",
-          "url": "https://wallstreetcn.com/livenews/3086234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
           "title": "据华尔街日报：美国总统特朗普承诺在离任前对幕僚进行大规模赦免。",
           "url": "https://flash.jin10.com/detail/20260411032227829800",
           "source": "金十数据",
@@ -997,17 +1071,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        },
-        {
-          "title": "美国总统特朗普：我们现在正在进行清理霍尔木兹海峡的行动。",
-          "url": "https://flash.jin10.com/detail/20260411210041803800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "特朗普向欧洲下了最后通牒",
