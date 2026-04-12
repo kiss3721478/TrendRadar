@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T18:39:00.454619+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-04-12T19:35:04.946383+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -40,21 +40,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时31分 ~ 18时39分]"
+          "appearance_count": 13,
+          "time_info": "[10时31分 ~ 19时35分]"
         },
         {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
+          "title": "如何评价泉州实习律师因转所、社保等纠纷状告律所胜诉后，遭律所主任在百人律师群公开指责、扬言封杀一事？",
+          "url": "https://www.zhihu.com/question/2025986895683871916",
+          "source": "知乎",
           "ranks": [
             4,
-            6,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 18时39分]"
+          "appearance_count": 8,
+          "time_info": "[16时47分 ~ 19时35分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -70,15 +69,18 @@
           "time_info": "[00时36分 ~ 10时32分]"
         },
         {
-          "title": "如何评价泉州实习律师因转所、社保等纠纷状告律所胜诉后，遭律所主任在百人律师群公开指责、扬言封杀一事？",
-          "url": "https://www.zhihu.com/question/2025986895683871916",
-          "source": "知乎",
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时47分 ~ 18时39分]"
+          "appearance_count": 24,
+          "time_info": "[00时36分 ~ 19时35分]"
         },
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -120,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 18时39分]"
+          "appearance_count": 24,
+          "time_info": "[00时36分 ~ 19时35分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
@@ -171,6 +173,28 @@
           "time_info": "[00时36分 ~ 00时37分]"
         },
         {
+          "title": "英国官员：特朗普的言论让英美关系紧张",
+          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 19时35分]"
+        },
+        {
+          "title": "分析师：美伊谈判无果将使美元获得进一步上涨动力",
+          "url": "https://flash.jin10.com/detail/20260412185611698800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
           "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
           "url": "https://wallstreetcn.com/livenews/3086335",
           "source": "华尔街见闻-快讯",
@@ -186,17 +210,6 @@
           "time_info": "[13时24分 ~ 18时39分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-12）",
-          "url": "https://flash.jin10.com/detail/20260412182311550800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
           "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
           "url": "https://news.ifeng.com/c/8sG0csY9qWa",
           "source": "凤凰网",
@@ -206,6 +219,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时23分 ~ 16时48分]"
+        },
+        {
+          "title": "以色列3月外汇储备下滑至2282.7亿美元，2月份修正值2345.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3086395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "70年代的黄金牛市：如何开始、如何结束",
@@ -218,6 +242,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时31分 ~ 15时14分]"
+        },
+        {
+          "title": "迫于特朗普“强烈反对”，英国暂缓归还查戈斯群岛主权",
+          "url": "https://wallstreetcn.com/livenews/3086393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-12）",
+          "url": "https://flash.jin10.com/detail/20260412182311550800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时35分]"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -269,17 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
-          "title": "英国官员：特朗普的言论让英美关系紧张",
-          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 18时39分]"
         },
         {
           "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
@@ -370,6 +406,18 @@
           "time_info": "[13时24分 ~ 15时14分]"
         },
         {
+          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
+          "url": "https://flash.jin10.com/detail/20260412180522857800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时35分]"
+        },
+        {
           "title": "伊朗谈判生变数 特朗普暗示或采取“海上封锁”手段",
           "url": "https://flash.jin10.com/detail/20260412122206149800",
           "source": "金十数据",
@@ -380,6 +428,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 15时14分]"
+        },
+        {
+          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
+          "url": "https://wallstreetcn.com/livenews/3086370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时35分]"
         },
         {
           "title": "美国法院再审特朗普关税，10%全球税率面临合法性考验",
@@ -439,26 +499,37 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
-          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
-          "url": "https://flash.jin10.com/detail/20260412180522857800",
-          "source": "金十数据",
+          "title": "黄金白银销量暴跌 市场剧烈震荡",
+          "url": "https://www.toutiao.com/trending/7627088440979718187/",
+          "source": "今日头条",
           "ranks": [
-            7
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
-          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
-          "url": "https://wallstreetcn.com/livenews/3086370",
+          "title": "特朗普：无论如何美国都赢了，达不达成协议无所谓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954237",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
+        },
+        {
+          "title": "美国代表团成员在巴基斯坦磋商结束后悉数离境。 总统特朗普女婿库什纳、特使Witkoff、以及技术团队已经离开伊斯兰堡。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3086389",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时39分"
+          "time_info": "19时35分"
         },
         {
           "title": "特朗普再次发文抨击媒体",
