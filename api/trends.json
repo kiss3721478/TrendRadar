@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T19:35:04.946383+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-04-12T21:02:06.183252+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -31,6 +31,18 @@
           "time_info": "[00时36分 ~ 16时48分]"
         },
         {
+          "title": "如何评价泉州实习律师因转所、社保等纠纷状告律所胜诉后，遭律所主任在百人律师群公开指责、扬言封杀一事？",
+          "url": "https://www.zhihu.com/question/2025986895683871916",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时47分 ~ 21时02分]"
+        },
+        {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
           "url": "https://wallstreetcn.com/articles/3769751",
           "source": "华尔街见闻",
@@ -40,20 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时31分 ~ 19时35分]"
-        },
-        {
-          "title": "如何评价泉州实习律师因转所、社保等纠纷状告律所胜诉后，遭律所主任在百人律师群公开指责、扬言封杀一事？",
-          "url": "https://www.zhihu.com/question/2025986895683871916",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时47分 ~ 19时35分]"
+          "appearance_count": 15,
+          "time_info": "[10时31分 ~ 21时02分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -79,8 +79,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时36分 ~ 19时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时36分 ~ 21时02分]"
         },
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -122,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时36分 ~ 19时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时36分 ~ 21时02分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
@@ -162,6 +162,17 @@
           "time_info": "[00时36分 ~ 05时32分]"
         },
         {
+          "title": "英国官员：特朗普的言论让英美关系紧张",
+          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 21时02分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -171,28 +182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 00时37分]"
-        },
-        {
-          "title": "英国官员：特朗普的言论让英美关系紧张",
-          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 19时35分]"
-        },
-        {
-          "title": "分析师：美伊谈判无果将使美元获得进一步上涨动力",
-          "url": "https://flash.jin10.com/detail/20260412185611698800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
@@ -210,6 +199,17 @@
           "time_info": "[13时24分 ~ 18时39分]"
         },
         {
+          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
+          "url": "https://www.cls.cn/detail/2341358",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 21时02分]"
+        },
+        {
           "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
           "url": "https://news.ifeng.com/c/8sG0csY9qWa",
           "source": "凤凰网",
@@ -221,15 +221,15 @@
           "time_info": "[13时23分 ~ 16时48分]"
         },
         {
-          "title": "以色列3月外汇储备下滑至2282.7亿美元，2月份修正值2345.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3086395",
-          "source": "华尔街见闻-快讯",
+          "title": "据华尔街日报：知情人士透露，美国财长贝森特曾与特朗普讨论过如果伊朗战争持续八到十二周，财政部可能采取的多种应对措施，以及美国在汽油价格可能上涨面前的脆弱性。",
+          "url": "https://flash.jin10.com/detail/20260412201048067800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "21时02分"
         },
         {
           "title": "70年代的黄金牛市：如何开始、如何结束",
@@ -244,27 +244,29 @@
           "time_info": "[10时31分 ~ 15时14分]"
         },
         {
-          "title": "迫于特朗普“强烈反对”，英国暂缓归还查戈斯群岛主权",
-          "url": "https://wallstreetcn.com/livenews/3086393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-12）",
           "url": "https://flash.jin10.com/detail/20260412182311550800",
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 21时02分]"
+        },
+        {
+          "title": "分析师：美伊谈判无果将使美元获得进一步上涨动力",
+          "url": "https://flash.jin10.com/detail/20260412185611698800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时35分]"
+          "time_info": "[19时35分 ~ 21时02分]"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -318,15 +320,51 @@
           "time_info": "[13时24分 ~ 15时14分]"
         },
         {
-          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
-          "url": "https://www.cls.cn/detail/2341358",
-          "source": "财联社热门",
+          "title": "以色列3月外汇储备下滑至2282.7亿美元，2月份修正值2345.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3086395",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时02分]"
+        },
+        {
+          "title": "迫于特朗普“强烈反对”，英国暂缓归还查戈斯群岛主权",
+          "url": "https://wallstreetcn.com/livenews/3086393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时02分]"
+        },
+        {
+          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/articles/3769762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时47分 ~ 17时45分]"
+          "time_info": "[18时38分 ~ 21时02分]"
+        },
+        {
+          "title": "特朗普：无论如何美国都赢了，达不达成协议无所谓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954237",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 21时02分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
@@ -368,6 +406,19 @@
           "time_info": "[05时32分 ~ 07时34分]"
         },
         {
+          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
+          "url": "https://flash.jin10.com/detail/20260412180522857800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 21时02分]"
+        },
+        {
           "title": "美国总统特朗普：（伊朗）他们也许会达成协议，也许不会。",
           "url": "https://flash.jin10.com/detail/20260412045150895800",
           "source": "金十数据",
@@ -406,18 +457,6 @@
           "time_info": "[13时24分 ~ 15时14分]"
         },
         {
-          "title": "伊朗回应特朗普：封锁伊朗无法让霍尔木兹海峡“开放”",
-          "url": "https://flash.jin10.com/detail/20260412180522857800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时35分]"
-        },
-        {
           "title": "伊朗谈判生变数 特朗普暗示或采取“海上封锁”手段",
           "url": "https://flash.jin10.com/detail/20260412122206149800",
           "source": "金十数据",
@@ -453,17 +492,6 @@
           "time_info": "[13时23分 ~ 13时24分]"
         },
         {
-          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
-          "url": "https://wallstreetcn.com/articles/3769762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
           "title": "OpenAI CEO住所遭袭",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
           "source": "bilibili 热搜",
@@ -473,6 +501,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "美国代表团成员在巴基斯坦磋商结束后悉数离境。 总统特朗普女婿库什纳、特使Witkoff、以及技术团队已经离开伊斯兰堡。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3086389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时02分]"
         },
         {
           "title": "黄金投资者周报上新！",
@@ -510,26 +550,37 @@
           "time_info": "[19时34分 ~ 19时35分]"
         },
         {
-          "title": "特朗普：无论如何美国都赢了，达不达成协议无所谓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32954237",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
-        },
-        {
-          "title": "美国代表团成员在巴基斯坦磋商结束后悉数离境。 总统特朗普女婿库什纳、特使Witkoff、以及技术团队已经离开伊斯兰堡。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3086389",
+          "title": "报道：特朗普与财长贝森特讨论如何应付伊朗战争持续8-12周",
+          "url": "https://wallstreetcn.com/livenews/3086412",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "21时02分"
+        },
+        {
+          "title": "以色列央行：3月份外汇储备为2228.71亿美元，2月份为2345.45亿美元。（外媒更正，非“2236.97亿美元”与“2299.09亿美元”。）",
+          "url": "https://flash.jin10.com/detail/20260412193931563800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美伊会谈后，美国代表团无一人留在巴基斯坦；特朗普女婿库什纳、美国总统特使威特科夫及技术团队已离开伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260412191654767800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "特朗普再次发文抨击媒体",
