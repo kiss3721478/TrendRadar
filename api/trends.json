@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T16:03:13.806060+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-04-13T18:46:00.866267+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 100,
+      "match_count": 117,
       "titles": [
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
@@ -69,8 +69,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 16时03分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 18时46分]"
         },
         {
           "title": "四国为何抛售黄金",
@@ -152,6 +152,19 @@
           "time_info": "[10时37分 ~ 16时03分]"
         },
         {
+          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
+          "url": "https://www.cls.cn/detail/2341979",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 18时46分]"
+        },
+        {
           "title": "前CIA局长呼吁罢免特朗普：这人显然精神失常",
           "url": "https://news.ifeng.com/c/8sHefjyep0j",
           "source": "凤凰网",
@@ -164,6 +177,18 @@
           "time_info": "[10时37分 ~ 16时03分]"
         },
         {
+          "title": "停火岌岌可危？特朗普被曝考虑恢复对伊朗有限军事打击",
+          "url": "https://www.cls.cn/detail/2341889",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 18时46分]"
+        },
+        {
           "title": "特朗普：我觉得教皇干得不咋地，我猜他喜欢犯罪",
           "url": "https://news.ifeng.com/c/8sHqM5JFO7f",
           "source": "凤凰网",
@@ -173,6 +198,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时41分 ~ 16时03分]"
+        },
+        {
+          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
+          "url": "https://wallstreetcn.com/articles/3769785",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时41分 ~ 18时46分]"
+        },
+        {
+          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2026779173369246174",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时37分 ~ 18时46分]"
+        },
+        {
+          "title": "伊朗战争丨教皇回击特朗普：我并不惧怕",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "美伊对峙再升级！特朗普罕见承认：11月中期选举前油价或维持高位",
@@ -188,28 +249,38 @@
           "time_info": "[10时37分 ~ 16时03分]"
         },
         {
-          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
-          "url": "https://www.cls.cn/detail/2341979",
+          "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
+          "url": "https://www.cls.cn/detail/2342019",
           "source": "财联社热门",
           "ranks": [
-            7,
-            3
+            6,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时41分 ~ 16时03分]"
+          "time_info": "[16时02分 ~ 18时46分]"
         },
         {
-          "title": "停火岌岌可危？特朗普被曝考虑恢复对伊朗有限军事打击",
-          "url": "https://www.cls.cn/detail/2341889",
-          "source": "财联社热门",
+          "title": "凤凰女记者：面对特朗普封锁海峡威胁，伊朗民间不以为然",
+          "url": "https://news.ifeng.com/c/8sI4OzcFPQr",
+          "source": "凤凰网",
           "ranks": [
-            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
+          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 16时03分]"
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
@@ -254,20 +325,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
-        },
-        {
-          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2026779173369246174",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时37分 ~ 16时03分]"
         },
         {
           "title": "欧元兑美元报价跌超0.5%，最低跌至1.1658。 欧元兑英镑大致持稳于0.8710，一度跌至0.86882。 欧元兑瑞郎跌0.32%，报0.92238，一度跌至0.92003。",
@@ -358,18 +418,6 @@
           "time_info": "[06时34分 ~ 07时35分]"
         },
         {
-          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
-          "url": "https://wallstreetcn.com/articles/3769785",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 16时03分]"
-        },
-        {
           "title": "布伦特原油期货触及102.60美元/桶的高位。",
           "url": "https://flash.jin10.com/detail/20260413060415896800",
           "source": "金十数据",
@@ -407,6 +455,18 @@
           "time_info": "[03时40分 ~ 05时35分]"
         },
         {
+          "title": "中方回应“特朗普称将封锁伊朗港口”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时46分]"
+        },
+        {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
           "url": "https://wallstreetcn.com/livenews/3086498",
           "source": "华尔街见闻-快讯",
@@ -419,6 +479,18 @@
           "time_info": "[06时34分 ~ 07时35分]"
         },
         {
+          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
+          "url": "https://wallstreetcn.com/articles/3769786",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时46分]"
+        },
+        {
           "title": "美股三大股指期货周一低开超1%。",
           "url": "https://flash.jin10.com/detail/20260413060153001800",
           "source": "金十数据",
@@ -429,6 +501,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时35分]"
+        },
+        {
+          "title": "中方回应特朗普威胁加征关税",
+          "url": "https://www.toutiao.com/trending/7628143442782064147/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时46分]"
+        },
+        {
+          "title": "中方回应特朗普重申将封锁伊朗港口",
+          "url": "https://www.toutiao.com/trending/7628108023306718761/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时46分]"
         },
         {
           "title": "“21小时内打了十几次电话”，万斯称：在伊斯兰堡美伊谈判期间与特朗普保持密切联系",
@@ -483,26 +578,26 @@
           "time_info": "[05时35分 ~ 07时35分]"
         },
         {
-          "title": "中方回应“特朗普称将封锁伊朗港口”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特朗普重申将封锁进出伊朗港口船只，中方回应",
+          "url": "https://news.ifeng.com/c/8sI7b9TiMxd",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
-          "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
-          "url": "https://www.cls.cn/detail/2342019",
-          "source": "财联社热门",
+          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
+          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "伊朗议会国家安全与外交政策委员会主席：美国总统唐纳德·特朗普关于霍尔木兹海峡的要求（对霍尔木兹海峡进行海上封锁））永远不会实现。 他说的是他的愿望，那是些从未实现过、也永远不会实现的要求。",
@@ -540,15 +635,15 @@
           "time_info": "[16时02分 ~ 16时03分]"
         },
         {
-          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
-          "url": "https://wallstreetcn.com/articles/3769786",
-          "source": "华尔街见闻",
+          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
+          "url": "https://www.cls.cn/detail/2342208",
+          "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "特朗普称今晚10点封锁伊朗",
@@ -560,6 +655,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
+          "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
+          "url": "https://www.cls.cn/detail/2342207",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "匈牙利福林兑欧元涨1.91%，报367.55福林，至少创2023年年中以来新高。 匈牙利福林兑美元涨1.52%，最高达到0.00317。 欧元兑美元报价跌超0.5%，最低跌至1.1658。 欧元兑英镑大致持稳于0.8710，一度跌至0.86882。 欧元兑瑞郎跌0.32%，报0.92238，一度跌至0.92003。",
@@ -574,15 +680,15 @@
           "time_info": "[05时35分 ~ 06时34分]"
         },
         {
-          "title": "中方回应特朗普威胁加征关税",
-          "url": "https://www.toutiao.com/trending/7628143442782064147/",
-          "source": "今日头条",
+          "title": "美伊谈判无果而终：油价重返100美元上方 亚太股市普遍走低",
+          "url": "https://www.cls.cn/detail/2341832",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "黄金、美债双双大跌！中东局势恐慌下市场再现“避险资产不避险”",
@@ -594,6 +700,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 16时03分]"
+        },
+        {
+          "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
+          "url": "https://www.cls.cn/detail/2342301",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "创业板再融资迎来黄金时代，改革推进两大举措",
@@ -619,15 +736,15 @@
           "time_info": "[00时39分 ~ 01时35分]"
         },
         {
-          "title": "中方回应特朗普重申将封锁伊朗港口",
-          "url": "https://www.toutiao.com/trending/7628108023306718761/",
-          "source": "今日头条",
+          "title": "特朗普：将封锁伊朗",
+          "url": "https://www.douyin.com/hot/2464515",
+          "source": "抖音",
           "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "国际油价飙涨 黄金开盘跳水",
@@ -699,6 +816,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "瑞银集团：上调2027年3月底布伦特原油价格预期至每桶85美元。",
+          "url": "https://flash.jin10.com/detail/20260413182206950800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "特朗普：全世界都在靠美国来获取石油，不用穿过霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260413102655993800",
           "source": "金十数据",
@@ -708,6 +836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "瑞银集团：上调布伦特原油价格预测，6月底为每桶100美元，9月底为每桶95美元，12月底为每桶90美元。",
+          "url": "https://flash.jin10.com/detail/20260413182141927800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "封锁令引发油价飙升 黄金抹去上周涨幅",
@@ -749,7 +888,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -776,15 +915,37 @@
           "time_info": "10时37分"
         },
         {
+          "title": "摩根大通：预计2026年下半年铝价平均约为每吨3500美元。",
+          "url": "https://flash.jin10.com/detail/20260413181958105800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）上海金午盘价为1041.58元/克，较国际金价(1039.68元/克)，高1.9元/克",
           "url": "https://flash.jin10.com/detail/20260413153221138800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "摩根大通：预计随着供应中断的规模在现货市场日益显现，2026年第二季度铝价平均为每吨3800美元。",
+          "url": "https://flash.jin10.com/detail/20260413181947324800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应：海峡通航受阻的根源在于伊朗战事",
@@ -793,7 +954,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -818,6 +979,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "摩根大通：维持基准观点，认为现货铝价在未来几个月内仍有上行潜力，有望达到每吨4000美元及以上。",
+          "url": "https://flash.jin10.com/detail/20260413181919678800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美元盘初走强升破99关口 澳元走低1%",
@@ -859,7 +1031,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -892,7 +1064,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -947,7 +1119,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -958,7 +1130,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1084,6 +1256,17 @@
           "time_info": "13时42分"
         },
         {
+          "title": "全球屏息！今晚10点，特朗普霍尔木兹“拦截令”将生效",
+          "url": "https://flash.jin10.com/detail/20260413180913606800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "美国总统特朗普：战争爆发之后，股市实际上没跌多少。",
           "url": "https://flash.jin10.com/detail/20260412223442403800",
           "source": "金十数据",
@@ -1137,6 +1320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "摩根士丹利：维持布伦特原油的即期价格预测不变——2026年第二季度为110美元/桶，第三季度为100美元/桶，预计2027年将稳定在80美元/桶左右。 我们的假设是，霍尔木兹海峡的原油出口在4月仍然低迷，5月至7月将收复约70%的降幅，直到10月才会回到稳定状态。",
+          "url": "https://wallstreetcn.com/livenews/3086854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "美国总统特朗普：一旦局势平息，石油和天然气的价格最终会降低。",
