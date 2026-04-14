@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T15:46:46.763584+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-04-14T17:18:35.044073+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 132,
+      "match_count": 138,
       "titles": [
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -132,6 +132,19 @@
           "time_info": "[00时29分 ~ 04时55分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 17时18分]"
+        },
+        {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
           "url": "https://v.ifeng.com/c/8sIUop0o5UZ",
           "source": "凤凰网",
@@ -231,18 +244,6 @@
           "time_info": "[13时23分 ~ 15时46分]"
         },
         {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 15时46分]"
-        },
-        {
           "title": "伊朗强硬回应特朗普封锁威胁",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E9%94%81%E5%A8%81%E8%83%81%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -296,9 +297,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 17时18分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月14日（周二）收盘上涨0.55%报1047.0元/克；<br/>上海黄金交易所白银T+D 4月14日（周二）收盘上涨3.81%报19150.0元/千克。",
@@ -307,7 +321,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -321,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "特朗普威胁向伊朗供武将加征关税，中方回应",
+          "url": "https://news.ifeng.com/c/8sJnWoKRpnK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "智利国家铜业公司（Codelco）：由于中东战争的缘故，公司直接成本上涨0.1美元/磅。 一季度自营矿产总量27.13万吨，同比下滑8.3%。",
@@ -468,6 +493,19 @@
           "time_info": "[05时50分 ~ 06时43分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 17时18分]"
+        },
+        {
           "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
           "url": "https://flash.jin10.com/detail/20260414041925108800",
           "source": "金十数据",
@@ -503,28 +541,17 @@
           "time_info": "[10时31分 ~ 15时46分]"
         },
         {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
+            13,
             8,
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时31分 ~ 15时46分]"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 15时46分]"
+          "time_info": "[13时23分 ~ 17时18分]"
         },
         {
           "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
@@ -536,6 +563,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时42分 ~ 07时52分]"
+        },
+        {
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 17时18分]"
         },
         {
           "title": "戴尔科技美股盘后跌3%，惠普（HPQ）跌3%，英伟达否认媒体的收购传闻。",
@@ -560,18 +600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时43分]"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时46分]"
         },
         {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
@@ -646,6 +674,18 @@
           "time_info": "[05时50分 ~ 06时43分]"
         },
         {
+          "title": "美以袭击已致伊朗损失2700亿美元",
+          "url": "https://www.toutiao.com/trending/7628206506252570148/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 17时18分]"
+        },
+        {
           "title": "美国白宫：特朗普提名共和党前众议员Michelle Steel出任驻韩国大使。",
           "url": "https://flash.jin10.com/detail/20260414050141708800",
           "source": "金十数据",
@@ -680,18 +720,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时46分]"
         },
         {
           "title": "NYMEX天然气期货跌幅扩大至0.5%，报2.615美元/百万英热单位，创2024年11月份以来盘中新低，受到北美天气偏暖、需求低迷的影响。",
@@ -776,6 +804,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美元兑日元USD/JPY回落至159下方，日内跌0.27%。",
@@ -872,7 +911,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -949,7 +988,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1042,6 +1081,17 @@
           "time_info": "13时23分"
         },
         {
+          "title": "上期所：调整黄金等期货相关合约涨跌停板幅度和交易保证金比例",
+          "url": "https://wallstreetcn.com/livenews/3087580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "深圳破获7800万元特大走私黄金案",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E7%A0%B4%E8%8E%B77800%E4%B8%87%E5%85%83%E7%89%B9%E5%A4%A7%E8%B5%B0%E7%A7%81%E9%BB%84%E9%87%91%E6%A1%88",
           "source": "百度热搜",
@@ -1073,17 +1123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
-        },
-        {
-          "title": "美以袭击已致伊朗损失2700亿美元",
-          "url": "https://www.toutiao.com/trending/7628206506252570148/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月13日（周一）晚盘收盘下跌0.11%报1040.05元/克；<br/>上海黄金交易所白银T+D 4月13日（周一）晚盘收盘上涨0.99%报18630.0元/千克。",
@@ -1147,9 +1186,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "金十图示：2026年04月14日（周二）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260414170339556800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美债收益率高开低走",
@@ -1218,6 +1268,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "近一周“一口价”黄金产品最高下跌17%",
+          "url": "https://wallstreetcn.com/livenews/3087572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "美联储去年债券持仓账面亏损收窄至不足8500亿美元",
           "url": "https://flash.jin10.com/detail/20260414033856360800",
           "source": "金十数据",
@@ -1249,6 +1310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8164，较上一交易日官方收盘价涨174点，较上日夜盘收盘涨136点。",
+          "url": "https://wallstreetcn.com/livenews/3087571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "现货黄金一度突破4750美元/盎司，日内涨0.02%。",
@@ -1301,7 +1373,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1312,7 +1384,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1378,7 +1450,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1389,7 +1461,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1422,7 +1494,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -1466,7 +1538,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
