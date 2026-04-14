@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T06:45:04.966175+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-04-15T07:42:22.593533+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 59,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -32,6 +32,31 @@
           "time_info": "[01时06分 ~ 04时54分]"
         },
         {
+          "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2343966",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 07时42分]"
+        },
+        {
+          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
+          "url": "https://wallstreetcn.com/articles/3769900",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 07时42分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -43,6 +68,17 @@
           "time_info": "[01时06分 ~ 03时15分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 07时42分]"
+        },
+        {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
           "url": "https://wallstreetcn.com/articles/3769872",
           "source": "华尔街见闻",
@@ -52,30 +88,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时06分 ~ 03时15分]"
-        },
-        {
-          "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2343966",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时45分]"
-        },
-        {
-          "title": "中国3月按美元计出口同比增长2.5%，进口同比增27.8%",
-          "url": "https://wallstreetcn.com/articles/3769900",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时45分]"
         },
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -105,15 +117,16 @@
           "time_info": "[01时06分 ~ 06时45分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
+            11,
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[03时14分 ~ 07时42分]"
         },
         {
           "title": "比特币一度涨穿7.6万美元，以太币目前涨超3.7%",
@@ -127,15 +140,37 @@
           "time_info": "01时07分"
         },
         {
-          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "国际油价短线走低，WTI原油期货一度跌至87美元下方，此前特朗普称他认为战争非常接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3088037",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 06时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "特朗普对福克斯新闻表示，他认为战争非常接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3088036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
+          "url": "https://www.cls.cn/detail/2344222",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "WTI 5月原油期货收跌7.80美元，跌幅7.87%，报91.28美元/桶。 NYMEX 5月天然气期货收报2.599美元/百万英热单位。 NYMEX 5月汽油期货收报3.0395美元/加仑，NYMEX 5月取暖油期货收报3.6243美元/加仑。",
@@ -147,6 +182,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
+          "url": "https://news.ifeng.com/c/8sKPIktXF3q",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时54分 ~ 07时42分]"
+        },
+        {
+          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 07时42分]"
         },
         {
           "title": "LME期铜收涨231美元，报13284美元/吨。 LME期铝收跌44美元，报3563美元/吨。 LME期锌收涨26美元，报3342美元/吨。 LME期铅收涨13美元，报1935美元/吨。 LME期镍收涨508美元，报18206美元/吨。 LME期锡收涨2071美元，报50331美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -177,20 +236,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
         {
-          "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
-          "url": "https://news.ifeng.com/c/8sKPIktXF3q",
-          "source": "凤凰网",
+          "title": "韩国将向伊朗提供50万美元人道主义援助",
+          "url": "https://wallstreetcn.com/livenews/3088032",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时54分 ~ 06时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "亚马逊逾百亿美元收购卫星公司 直面星链竞争",
@@ -278,17 +337,6 @@
           "time_info": "[05时52分 ~ 06时45分]"
         },
         {
-          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
-        },
-        {
           "title": "世界银行行长Banga：世界银行能够在15个月内针对支持“那些受到伊朗战争冲击的国家”进行800亿-1000亿美元融资。",
           "url": "https://wallstreetcn.com/livenews/3087978",
           "source": "华尔街见闻-快讯",
@@ -372,6 +420,17 @@
           "time_info": "04时54分"
         },
         {
+          "title": "美股收盘：中概股集体大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 4月14日（周二）晚盘收盘上涨1.31%报1060.48元/克；<br/>上海黄金交易所白银T+D 4月14日（周二）晚盘收盘上涨4.26%报19620.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260415023151045800",
           "source": "金十数据",
@@ -400,7 +459,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -414,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
+          "url": "https://flash.jin10.com/detail/20260415063058322800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
@@ -436,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普暗示美伊会谈或在2天内恢复",
+          "url": "https://www.toutiao.com/trending/7628753825699991090/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "特朗普称对意大利总理“不帮助美国”表示震惊",
@@ -513,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.286吨，当前持仓量为1049.478吨。",
+          "url": "https://flash.jin10.com/detail/20260415062333782800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "纽约金日内涨幅达2.0%，报4863.1美元/盎司。",
