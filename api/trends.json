@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T10:36:34.365570+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-04-16T13:31:48.025460+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 80,
+      "match_count": 85,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 10时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 13时31分]"
         },
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -86,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 10时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 13时31分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -99,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 10时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 13时31分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -220,6 +220,18 @@
           "time_info": "[01时04分 ~ 06时41分]"
         },
         {
+          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
+          "url": "https://www.cls.cn/detail/2345537",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 13时31分]"
+        },
+        {
           "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
           "url": "https://wallstreetcn.com/livenews/3088828",
           "source": "华尔街见闻-快讯",
@@ -262,17 +274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
-          "url": "https://www.cls.cn/detail/2345537",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
         },
         {
           "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
@@ -408,6 +409,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时42分]"
+        },
+        {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 13时31分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股收盘）",
@@ -578,17 +591,6 @@
           "time_info": "[04时48分 ~ 05时53分]"
         },
         {
-          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
-          "url": "https://wallstreetcn.com/articles/3770050",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
-        },
-        {
           "title": "【每日收评】创业板高开低走跌超1%，医药板块逆势爆发，算力硬件、锂电股双双熄火",
           "url": "https://www.cls.cn/detail/2344899",
           "source": "财联社热门",
@@ -633,6 +635,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
+          "url": "https://www.cls.cn/detail/2345555",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "市场消息：法拉第未来修订了其1000万美元的股权投资协议，将投资金额提高至1200万美元。此次修订删除了反稀释条款，旨在加强对现有股东权益的保护。",
           "url": "https://flash.jin10.com/detail/20260416063042071800",
           "source": "金十数据",
@@ -666,13 +679,24 @@
           "time_info": "04时48分"
         },
         {
+          "title": "如何看待美股新高",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
           "url": "https://www.cls.cn/detail/2345498",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -741,6 +765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普 vs 鲍威尔：美联储控制权的“宪法级”对决即将上演",
+          "url": "https://flash.jin10.com/detail/20260416130543222800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -895,6 +930,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普称以黎领导人将对话",
+          "url": "https://wallstreetcn.com/livenews/3088982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "金价稳住但未赢，市场在等什么？",
+          "url": "https://flash.jin10.com/detail/20260416125619591800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美国参议院投票否决旨在限制特朗普对伊战争权力的动议",
