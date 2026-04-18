@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T18:40:46.124813+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-04-18T19:35:01.337177+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 139,
+      "match_count": 142,
       "titles": [
         {
           "title": "美伊磋商结束战争计划！美国考虑解冻200亿美元伊朗资产，换取伊方放弃浓缩铀！",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 18时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 19时35分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时41分 ~ 18时40分]"
+          "appearance_count": 12,
+          "time_info": "[05时41分 ~ 19时35分]"
         },
         {
           "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 18时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 19时35分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -81,6 +81,43 @@
           "time_info": "[00时02分 ~ 07时39分]"
         },
         {
+          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
+          "url": "https://wallstreetcn.com/articles/3770301",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时22分 ~ 19时35分]"
+        },
+        {
+          "title": "美伊停战谅解备忘录披露：双方目前讨论的解冻金额为200亿美元",
+          "url": "https://www.cls.cn/detail/2348145",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时22分 ~ 19时35分]"
+        },
+        {
+          "title": "特朗普：伊朗不会拥有核武器",
+          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
           "url": "https://news.ifeng.com/c/8sPFMrNRcR5",
           "source": "凤凰网",
@@ -105,6 +142,21 @@
           "time_info": "[00时02分 ~ 13时07分]"
         },
         {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时39分 ~ 19时35分]"
+        },
+        {
           "title": "受贿数额特别巨大，国家中医药管理局原局长于文明被提起公诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_32991126",
           "source": "澎湃新闻",
@@ -116,6 +168,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 10时22分]"
+        },
+        {
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 19时35分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -145,30 +210,30 @@
           "time_info": "[00时02分 ~ 10时22分]"
         },
         {
-          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
-          "url": "https://wallstreetcn.com/articles/3770301",
+          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
+          "url": "https://wallstreetcn.com/articles/3770302",
           "source": "华尔街见闻",
           "ranks": [
+            8,
             6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时22分 ~ 18时40分]"
-        },
-        {
-          "title": "美伊停战谅解备忘录披露：双方目前讨论的解冻金额为200亿美元",
-          "url": "https://www.cls.cn/detail/2348145",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时22分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 19时35分]"
+        },
+        {
+          "title": "霍尔木兹海峡将迎来开放 金价飙升至一个月高位",
+          "url": "https://www.cls.cn/detail/2348169",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 19时35分]"
         },
         {
           "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
@@ -229,43 +294,27 @@
           "time_info": "[10时22分 ~ 16时51分]"
         },
         {
-          "title": "特朗普：伊朗不会拥有核武器",
-          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
+          "title": "特朗普：以色列，适可而止",
+          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
           "source": "凤凰网",
           "ranks": [
-            3
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时22分 ~ 19时35分]"
+        },
+        {
+          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
+          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时07分 ~ 18时40分]"
-        },
-        {
-          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
-          "url": "https://www.cls.cn/detail/2348129",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时39分 ~ 18时40分]"
-        },
-        {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 18时40分]"
+          "time_info": "[17时48分 ~ 19时35分]"
         },
         {
           "title": "特朗普认为美伊之间显著分歧不多",
@@ -279,29 +328,30 @@
           "time_info": "[06时38分 ~ 07时39分]"
         },
         {
-          "title": "霍尔木兹海峡将迎来开放 金价飙升至一个月高位",
-          "url": "https://www.cls.cn/detail/2348169",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 18时40分]"
-        },
-        {
-          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
-          "url": "https://wallstreetcn.com/articles/3770302",
-          "source": "华尔街见闻",
+          "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2028181845926318977",
+          "source": "知乎",
           "ranks": [
             8,
             6,
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 19时35分]"
+        },
+        {
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 19时35分]"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
@@ -327,18 +377,6 @@
           "time_info": "[00时02分 ~ 03时01分]"
         },
         {
-          "title": "特朗普：以色列，适可而止",
-          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时22分 ~ 18时40分]"
-        },
-        {
           "title": "4亿美元白宫宴会厅项目为何被叫停",
           "url": "https://search.bilibili.com/all?keyword=4%E4%BA%BF%E7%BE%8E%E5%85%83%E7%99%BD%E5%AE%AB%E5%AE%B4%E4%BC%9A%E5%8E%85%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BD%95%E8%A2%AB%E5%8F%AB%E5%81%9C",
           "source": "bilibili 热搜",
@@ -353,15 +391,15 @@
           "time_info": "[13时07分 ~ 18时40分]"
         },
         {
-          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
-          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
+          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
+          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
           "source": "凤凰网",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时35分]"
         },
         {
           "title": "市场消息：人工智能编程初创公司Cursor正就新一轮融资进行谈判，拟筹资20亿美元。",
@@ -373,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美伊极限拉扯！中东局势变数迭起，黄金反弹还能维持多久？",
+          "url": "https://flash.jin10.com/detail/20260418192208533800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "WTI 5月原油期货收跌10.84美元，跌幅11.45%，报83.85美元/桶。 中东Abu Dhabi Murban原油期货跌11.10%，报90.38美元/桶，本周累跌7.93%。 NYMEX 5月天然气期货收报2.6740美元/百万英热单位。 NYMEX 5月汽油期货收报3.0048美元/加仑，NYMEX 5月取暖油期货收报3.3974美元/加仑。",
@@ -397,18 +446,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2028181845926318977",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 18时40分]"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 4月17日（周五）晚盘收盘上涨1.03%报1063.28元/克；<br/>上海黄金交易所白银T+D 4月17日（周五）晚盘收盘上涨3.76%报20278.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260418023437488800",
           "source": "金十数据",
@@ -429,19 +466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        },
-        {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 18时40分]"
         },
         {
           "title": "美媒：以总理对特朗普“禁止”轰炸黎巴嫩帖文感震惊",
@@ -591,17 +615,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时39分 ~ 10时22分]"
-        },
-        {
-          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
-          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时07分 ~ 18时40分]"
         },
         {
           "title": "美国总统特朗普声称：美国与伊朗将在本周末会谈。 清除伊朗浓缩铀不会动用地面部队。 伊朗的浓缩铀将被带到美国。（CBS）",
@@ -872,6 +885,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "又见内幕交易？霍尔木兹开放前20分钟，神秘交易员甩出7.6亿美元空单，精准做空原油",
+          "url": "https://wallstreetcn.com/articles/3770325",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 19时35分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将于周六上午9点（北京时间21:00）签署一项行政命令。",
@@ -1376,6 +1400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-18）",
+          "url": "https://flash.jin10.com/detail/20260418183631999800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "特朗普称美伊协议与黎巴嫩没有关联",
