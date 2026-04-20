@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T20:04:33.419567+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-04-20T22:51:05.451818+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 76,
+      "match_count": 96,
       "titles": [
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时37分 ~ 22时51分]"
         },
         {
           "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时37分 ~ 20时04分]"
         },
         {
           "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
@@ -169,6 +169,17 @@
           "time_info": "[13时41分 ~ 18时48分]"
         },
         {
+          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
+          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时48分 ~ 22时51分]"
+        },
+        {
           "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
           "url": "https://www.cls.cn/detail/2348969",
           "source": "财联社热门",
@@ -208,6 +219,28 @@
           "time_info": "[13时41分 ~ 16时07分]"
         },
         {
+          "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
+          "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
+          "url": "https://news.ifeng.com/c/8sUALVwFbq7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "伊朗释放混乱信号，美股期货回落，油价飙升近8%，黄金小幅走软",
           "url": "https://wallstreetcn.com/articles/3770361",
           "source": "华尔街见闻",
@@ -231,15 +264,15 @@
           "time_info": "[16时06分 ~ 16时07分]"
         },
         {
-          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
-          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
-          "source": "凤凰网",
+          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
+          "url": "https://wallstreetcn.com/articles/3770404",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时48分 ~ 20时04分]"
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "伊朗战争丨特朗普透露谈判消息：伊朗担心有诈",
@@ -312,6 +345,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "特朗普称并非因以色列才对伊朗开战",
+          "url": "https://wallstreetcn.com/livenews/3091211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "特朗普：以色列从未把我拉进与伊朗的战争",
+          "url": "https://wallstreetcn.com/livenews/3091209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "维多集团Q1利润约20亿美元，战争导致部分业务亏损但整体强劲",
@@ -494,6 +549,17 @@
           "time_info": "[06时36分 ~ 07时36分]"
         },
         {
+          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2349767",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "临时停火周三到期 特朗普称美伊将复谈 伊媒称拒谈",
           "url": "https://flash.jin10.com/detail/20260420045756611800",
           "source": "金十数据",
@@ -590,6 +656,17 @@
           "time_info": "[00时40分 ~ 01时36分]"
         },
         {
+          "title": "爱奇艺股价从46美元跌到1.4美元",
+          "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E8%82%A1%E4%BB%B7%E4%BB%8E46%E7%BE%8E%E5%85%83%E8%B7%8C%E5%88%B01.4%E7%BE%8E%E5%85%83&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "特朗普：若美伊达成协议 “很可能”前往伊斯兰堡",
           "url": "https://flash.jin10.com/detail/20260419224124557800",
           "source": "金十数据",
@@ -620,7 +697,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -686,7 +763,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -719,9 +796,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
+        },
+        {
+          "title": "Agnico Eagle通过多项交易整合芬兰黄金资产",
+          "url": "https://wallstreetcn.com/livenews/3091201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
@@ -779,6 +867,17 @@
           "time_info": "13时41分"
         },
         {
+          "title": "美国总统特朗普：在伊朗的结果将是惊人的。 如果伊朗的新领导人（政权更替！）足够聪明，伊朗就能拥有一个伟大而繁荣的未来！",
+          "url": "https://wallstreetcn.com/livenews/3091197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "“华丽七巨头”卷土重来：4万亿美元市值回归，标普500或再创新高",
           "url": "https://flash.jin10.com/detail/20260420125518081800",
           "source": "金十数据",
@@ -790,6 +889,28 @@
           "time_info": "13时41分"
         },
         {
+          "title": "特朗普否认被以色列拉下水 称伊朗的结果将令人惊叹",
+          "url": "https://flash.jin10.com/detail/20260420222322813800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "Strategy斥资25.4亿美元购入比特币，为2024年11月以来最大单笔买入",
+          "url": "https://wallstreetcn.com/livenews/3091196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "特朗普边称要谈判边威胁伊朗，伊朗称「已为战火重燃做好准备」，特朗普目的何在？目前局势如何？",
           "url": "https://www.zhihu.com/question/2029496732459778569",
           "source": "知乎",
@@ -799,6 +920,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "特朗普签署行政令放宽准入限制，美股致幻剂板块全线飙升",
+          "url": "https://wallstreetcn.com/livenews/3091195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "男子美国摆摊进货1元卖5美元",
@@ -823,6 +955,50 @@
           "time_info": "07时36分"
         },
         {
+          "title": "美国总统特朗普：伊朗的结果将“非常惊人”。",
+          "url": "https://flash.jin10.com/detail/20260420221812641800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "OpenAI将在未来数周发布新款图像模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3091192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美国总统特朗普：以色列并没有说服我与伊朗开战。",
+          "url": "https://flash.jin10.com/detail/20260420221727498800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "WTI原油期货目前涨4.59%，报87.70美元/桶。 布伦特原油5分钟内上涨0.5美元/桶，报94.22美元/桶。 据PBS报道，美国总统特朗普声称，如果停火到期失效，将会有大量炸弹开始爆炸。 被问及伊朗是否在（与美方）对话，声称自己并不知道。 伊朗被认为在磋商。 如果伊朗不参加巴基斯坦会谈，那“也没关系”。",
+          "url": "https://wallstreetcn.com/livenews/3091191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "市场情绪正转型，交易员或更有底气重构长期黄金多头",
           "url": "https://flash.jin10.com/detail/20260420100634951800",
           "source": "金十数据",
@@ -832,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普：停火协议若到期，炸弹就会爆炸",
+          "url": "https://flash.jin10.com/detail/20260420221207574800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "黄金跳水暴跌",
@@ -856,6 +1043,17 @@
           "time_info": "18时48分"
         },
         {
+          "title": "据CNN：白宫方面表示，预计美国代表团很快会出发，但具体时间尚不清楚。此前特朗普表示代表团“现在正前往”巴基斯坦。",
+          "url": "https://flash.jin10.com/detail/20260420221123548800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "印度为什么开始卡黄金进口了",
           "url": "https://www.toutiao.com/trending/7630610845180890667/",
           "source": "今日头条",
@@ -865,6 +1063,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "随着美元回落，新兴市场外汇指数延续涨势，触及盘中高点。",
+          "url": "https://wallstreetcn.com/livenews/3091185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "人民币兑美元中间价报6.8648，下调26点；上一交易日中间价6.8622，上一交易日官方收盘价6.8263，上日夜盘报收6.8184。",
@@ -884,7 +1093,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -898,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "特朗普认为战争结束后汽油价格会下降。（国会山报）",
+          "url": "https://wallstreetcn.com/livenews/3091183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     }
