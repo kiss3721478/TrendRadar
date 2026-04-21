@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T13:27:44.462605+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-04-21T15:49:53.328624+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 96,
+      "match_count": 107,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 13时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 15时49分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 15时49分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -115,6 +115,39 @@
           "time_info": "[00时09分 ~ 03时13分]"
         },
         {
+          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
+          "url": "https://www.cls.cn/detail/2350106",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 15时49分]"
+        },
+        {
+          "title": "美以伊冲突把500亿美元石油打没了",
+          "url": "https://news.ifeng.com/c/8sV2aVLnsaO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时49分]"
+        },
+        {
+          "title": "春耕“黄金窗口期”已开启",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%80%95%E2%80%9C%E9%BB%84%E9%87%91%E7%AA%97%E5%8F%A3%E6%9C%9F%E2%80%9D%E5%B7%B2%E5%BC%80%E5%90%AF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时49分]"
+        },
+        {
           "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
           "url": "https://www.cls.cn/detail/2350029",
           "source": "财联社热门",
@@ -128,15 +161,29 @@
           "time_info": "[06时42分 ~ 13时27分]"
         },
         {
-          "title": "美伊停火倒计时？特朗普敲定21日“二轮谈判”，伊朗仍未点头答应！",
-          "url": "https://www.cls.cn/detail/2350106",
-          "source": "财联社热门",
+          "title": "特朗普撇清：以色列可说不动我",
+          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "source": "凤凰网",
           "ranks": [
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 13时27分]"
+          "time_info": "[13时27分 ~ 15时49分]"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 15时49分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -151,15 +198,15 @@
           "time_info": "[03时13分 ~ 07时42分]"
         },
         {
-          "title": "美以伊冲突把500亿美元石油打没了",
-          "url": "https://news.ifeng.com/c/8sV2aVLnsaO",
+          "title": "伊朗战争丨特朗普亲信坦言：79岁的他正在失控",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "15时49分"
         },
         {
           "title": "DeepWay深向累计完成超3.1亿美元Pre-IPO轮融资",
@@ -173,15 +220,15 @@
           "time_info": "10时33分"
         },
         {
-          "title": "春耕“黄金窗口期”已开启",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%80%95%E2%80%9C%E9%BB%84%E9%87%91%E7%AA%97%E5%8F%A3%E6%9C%9F%E2%80%9D%E5%B7%B2%E5%BC%80%E5%90%AF",
-          "source": "百度热搜",
+          "title": "黄金高位追多意愿渐弱，但深度下跌也暂难实现",
+          "url": "https://flash.jin10.com/detail/20260421152849363800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "15时49分"
         },
         {
           "title": "金十图示：2026年04月21日（周二）上海金早盘价为1054.76元/克，较国际金价(1052.86元/克)，高1.9元/克",
@@ -195,49 +242,49 @@
           "time_info": "10时33分"
         },
         {
+          "title": "美国关税退款最大受益者 沃尔玛或获超100亿美元关税退款",
+          "url": "https://flash.jin10.com/detail/20260421152624785800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "WTI原油跌破86美元/桶，日内跌近1.6%，报85.97美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3091537",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
         {
-          "title": "价值500亿美元的石油没了",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%B7%E5%80%BC500%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E7%9F%B3%E6%B2%B9%E6%B2%A1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "特朗普撇清：以色列可说不动我",
-          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
           "source": "凤凰网",
           "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 15时49分]"
+        },
+        {
+          "title": "据The Information：马斯克去年大规模增持了SpaceX的股份，耗资14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260421152559999800",
+          "source": "金十数据",
+          "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 13时27分]"
+          "time_info": "15时49分"
         },
         {
           "title": "美国总统特朗普：如果在特朗普的领导下达成协议，将确保和平、安全和保障，不仅惠及以色列和中东，也惠及欧洲、美国及其他所有地区。",
@@ -360,16 +407,16 @@
           "time_info": "[04时45分 ~ 05时46分]"
         },
         {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            8
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 13时27分]"
+          "time_info": "[13时27分 ~ 15时49分]"
         },
         {
           "title": "Peabody Energy美股盘后涨3.6%，白宫称特朗普签署煤炭相关的备忘录。",
@@ -382,6 +429,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时46分]"
+        },
+        {
+          "title": "价值500亿美元的石油没了",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%B7%E5%80%BC500%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E7%9F%B3%E6%B2%B9%E6%B2%A1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时49分]"
         },
         {
           "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
@@ -502,6 +561,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时46分]"
+        },
+        {
+          "title": "民调：特朗普支持率创第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7630352961877655571/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时49分]"
         },
         {
           "title": "现货黄金周二小幅高开0.2%。",
@@ -664,7 +735,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -686,7 +757,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -719,29 +790,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "民调：特朗普支持率创第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7630352961877655571/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -768,6 +817,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "金十图示：2026年04月21日（周二）上海金午盘价为1049.29元/克，较国际金价(1048.62元/克)，高0.67元/克",
+          "url": "https://flash.jin10.com/detail/20260421151644797800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "纽元兑美元短线走高，整体涨幅扩大至0.34%，报0.5909。 最新数据显示，新西兰一季度CPI同比升幅维持在3.1%不变，分析师预期放缓至2.9%。",
           "url": "https://wallstreetcn.com/livenews/3091371",
           "source": "华尔街见闻-快讯",
@@ -788,6 +848,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "马斯克去年购买了14亿美元的SpaceX股票。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3091625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "美国总统特朗普“重申”：如果不达成伊朗协议，美军就不会解除对霍尔木兹海峡的封锁。 封锁正在摧毁伊朗。",
@@ -862,7 +944,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -900,6 +982,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "美媒：特朗普不打算延长美伊停火期限",
+          "url": "https://wallstreetcn.com/livenews/3091620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
           "url": "https://flash.jin10.com/detail/20260421052808846800",
           "source": "金十数据",
@@ -909,6 +1002,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "避险买盘或已转向！国际现货黄金叙事正处关键节点 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260421151329408800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "报告显示未来十年重建加沙需714亿美元",
@@ -928,9 +1032,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "SpaceX总裁Shotwell去年收入8,500万美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3091618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "特朗普：如未能达成协议“几无可能”再延长停火",
@@ -999,13 +1114,24 @@
           "time_info": "10时33分"
         },
         {
+          "title": "WTI原油短线上扬近1美元，报89.52美元/桶；布伦特原油短线上涨约0.7美元，报91.27美元/桶。消息面上，有报道称美国代表团已抵达巴基斯坦首都伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260421151100413800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "印度卢比兑美元下跌0.2%，至93.3250，为近一周以来最低水平，印度央行放松了本月早些时候为支撑卢比而实施的一些市场交易限制。",
           "url": "https://wallstreetcn.com/livenews/3091514",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -1060,7 +1186,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
