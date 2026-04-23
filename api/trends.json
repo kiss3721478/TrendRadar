@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:08:35.457183+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-04-23T21:28:35.248740+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 157,
+      "match_count": 176,
       "titles": [
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时05分 ~ 19时08分]"
+          "appearance_count": 12,
+          "time_info": "[04时05分 ~ 21时28分]"
         },
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -82,6 +82,18 @@
           "time_info": "[01时01分 ~ 06时47分]"
         },
         {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 21时28分]"
+        },
+        {
           "title": "伊朗：特朗普又说谎了",
           "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
           "source": "凤凰网",
@@ -117,6 +129,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时01分 ~ 04时05分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 21时28分]"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
@@ -158,18 +181,6 @@
           "time_info": "[01时01分 ~ 04时05分]"
         },
         {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 19时08分]"
-        },
-        {
           "title": "报道：中石化折价出售宁德时代H股，套现金额超7.6亿美元",
           "url": "https://wallstreetcn.com/articles/3770558",
           "source": "华尔街见闻",
@@ -193,17 +204,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 02时09分]"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 19时08分]"
         },
         {
           "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
@@ -304,6 +304,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 21时28分]"
         },
         {
           "title": "伊朗战争丨以媒：特朗普设定对伊停火期限26日结束",
@@ -422,9 +433,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡被“紧紧封闭”，直到伊朗能够达成协议为止！",
+          "url": "https://flash.jin10.com/detail/20260423211914891800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，大全新能源初步收涨16.5%，晶科能源涨11.2%，阿特斯太阳能涨8.8%，亚朵涨5%，金山云跌2.1%，新东方跌3.1%，华住跌3.9%，再鼎医药跌6.5%。 ETF中，ASHS涨2.2%，ASHR涨1.7%，CQQQ涨1.6%，KWEB跌0.5%。",
@@ -444,9 +466,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "特朗普：我们完全控制霍尔木兹海峡。 在伊朗达成协议之前，霍尔木兹海峡将严密封锁。 伊朗正艰难地试图搞清楚谁是领导人。",
+          "url": "https://wallstreetcn.com/livenews/3093333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月23日（周四）收盘下跌0.86%报1036.8元/克；<br/>上海黄金交易所白银T+D 4月23日（周四）收盘下跌2.8%报18894.0元/千克。",
@@ -466,7 +499,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -505,6 +538,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "美国总统特朗普：我们已完全控制霍尔木兹海峡，未经美国海军批准，任何船只都无法进出。在伊朗达成协议之前，该海峡将被“严密封锁”。",
+          "url": "https://flash.jin10.com/detail/20260423211645142800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
           "url": "https://www.cls.cn/detail/2352936",
           "source": "财联社热门",
@@ -515,17 +559,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时34分 ~ 15时52分]"
-        },
-        {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 19时08分]"
         },
         {
           "title": "美国国务院批准向立陶宛潜在出售AIM-9X“响尾蛇”Block II导弹，金额为2.14亿美元。",
@@ -545,9 +578,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗在确定领导人方面面临很大困难。他们根本无法形成共识，内部斗争正在“强硬派”与“温和派”之间展开。",
+          "url": "https://flash.jin10.com/detail/20260423211605502800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -570,6 +614,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 21时28分]"
         },
         {
           "title": "德州仪器（TXN）美股盘后维持上涨大约11%的表现。",
@@ -644,18 +701,6 @@
           "time_info": "[07时45分 ~ 13时31分]"
         },
         {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 19时08分]"
-        },
-        {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33032152",
           "source": "澎湃新闻",
@@ -666,6 +711,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时34分 ~ 13时31分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 21时28分]"
         },
         {
           "title": "现货黄金",
@@ -739,18 +797,6 @@
           "time_info": "[06时47分 ~ 07时45分]"
         },
         {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时08分]"
-        },
-        {
           "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260423003201816800",
           "source": "金十数据",
@@ -806,6 +852,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "特朗普称下令击沉霍尔木兹布雷船",
+          "url": "https://wallstreetcn.com/livenews/3093326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
           "source": "凤凰网",
@@ -848,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "美国天然气期货日内走低3.00%，现报2.640美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260423211445660800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "美元指数涨约0.2%",
@@ -933,7 +1001,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -982,6 +1050,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
+          "url": "https://www.zhihu.com/question/2030589948001084304",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普将决定停火期限的时间表。",
           "url": "https://flash.jin10.com/detail/20260423032914409800",
           "source": "金十数据",
@@ -1002,6 +1081,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "国际油价短线拉升，此前特朗普命令海军向在霍尔木兹海峡布雷的船只开火",
+          "url": "https://wallstreetcn.com/livenews/3093320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
+          "url": "https://www.cls.cn/detail/2353470",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "WTI原油周四开盘失守95美元/桶，日内跌幅0.37%。",
@@ -1032,7 +1133,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1065,9 +1166,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3093319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2353918",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "预测市场显示 特朗普面临弹劾的风险持续攀升",
@@ -1123,6 +1246,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "特朗普：我们的扫雷舰现在正在清理海峡。 已下令海军向任何在霍尔木兹海峡布雷的船只开火。 已下令将霍尔木兹海峡的扫雷力量增至“三倍”水平。",
+          "url": "https://wallstreetcn.com/livenews/3093317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "白宫新闻秘书莱维特：（关于伊朗停火延长）特朗普希望各方采取统一回应。他尚未设定最后期限。",
@@ -1186,7 +1331,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1246,6 +1391,17 @@
           "time_info": "05时51分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-04-23）",
+          "url": "https://flash.jin10.com/detail/20260423210425806800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "美国总统特朗普预计伊朗外长阿拉格齐将继续参与伊朗谈判。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3092804",
           "source": "华尔街见闻-快讯",
@@ -1266,6 +1422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "美部长称600美元降到10美元是降价600%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%83%A8%E9%95%BF%E7%A7%B0600%E7%BE%8E%E5%85%83%E9%99%8D%E5%88%B010%E7%BE%8E%E5%85%83%E6%98%AF%E9%99%8D%E4%BB%B7600%25%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "美元指数22日上涨",
@@ -1307,7 +1474,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1373,7 +1540,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1499,6 +1666,17 @@
           "time_info": "05时51分"
         },
         {
+          "title": "通胀担忧加剧，金价命悬4700美元关口，能否悬崖勒马？金十研究员高阳正在直播分析，点击进入直播间<font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260423210034126800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "数字货币市场走高，比特币一度逼近8万美元关口",
           "url": "https://wallstreetcn.com/livenews/3092760",
           "source": "华尔街见闻-快讯",
@@ -1527,7 +1705,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1593,7 +1771,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
@@ -1626,9 +1804,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "俄罗斯至4月17日当周央行黄金和外汇储备 7795亿美元，前值7748亿美元。",
+          "url": "https://flash.jin10.com/detail/20260423210006556800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "特斯拉美股盘后涨幅迅速收窄至1.6%。",
@@ -1697,6 +1886,28 @@
           "time_info": "15时52分"
         },
         {
+          "title": "谷歌在阿尔卑斯山地区投资建设首个数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "梅洛尼“背叛”特朗普 美意发生什么",
+          "url": "https://www.toutiao.com/trending/7631531609938083859/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "美股纳指飙升",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E9%A3%99%E5%8D%87%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -1714,7 +1925,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
