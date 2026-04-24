@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T05:47:23.899331+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-04-25T06:38:47.229651+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 86,
+      "match_count": 90,
       "titles": [
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "特朗普的嘴，开了挂了",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -50,8 +50,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
+        },
+        {
+          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
+          "url": "https://news.ifeng.com/c/8saNhgKa31P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -59,17 +70,6 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
-        },
-        {
-          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
-          "url": "https://news.ifeng.com/c/8saNhgKa31P",
-          "source": "凤凰网",
-          "ranks": [
             5
           ],
           "is_new": false,
@@ -87,6 +87,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 05时47分]"
+        },
+        {
+          "title": "男子30年前被扣押2859克黄金申请退赔，辽宁营口警方：正研究，将尽快答复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044575",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -111,21 +125,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
-        },
-        {
-          "title": "男子30年前被扣押2859克黄金申请退赔，辽宁营口警方：正研究，将尽快答复",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044575",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
@@ -137,8 +138,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "美媒：美对伊战事日均花费近10亿美元",
@@ -151,8 +152,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "男子30年前被扣押2859克黄金未返还",
@@ -166,8 +167,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
         },
         {
           "title": "金价跌破神话了吗",
@@ -177,8 +178,45 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 05时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时38分]"
+        },
+        {
+          "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260425040603793800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时38分]"
+        },
+        {
+          "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260425040536488800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时38分]"
+        },
+        {
+          "title": "男子30年前被扣押2859克黄金申请退赔",
+          "url": "https://www.toutiao.com/trending/7632309024016580627/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 06时38分]"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -196,6 +234,18 @@
           "time_info": "[00时56分 ~ 04时48分]"
         },
         {
+          "title": "因拒交数据，苹果或在印度面临 380 亿美元反垄断处罚，印度为何要索要这些信息？苹果又为何拒绝提交？",
+          "url": "https://www.zhihu.com/question/2030231825646187454",
+          "source": "知乎",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时38分]"
+        },
+        {
           "title": "金价跌破新低",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -210,43 +260,6 @@
           "time_info": "[01时50分 ~ 05时47分]"
         },
         {
-          "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260425040603793800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
-        },
-        {
-          "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260425040536488800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
-        },
-        {
-          "title": "男子30年前被扣押2859克黄金申请退赔",
-          "url": "https://www.toutiao.com/trending/7632309024016580627/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 05时47分]"
-        },
-        {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260425003044610800",
           "source": "金十数据",
@@ -258,15 +271,15 @@
           "time_info": "00时56分"
         },
         {
-          "title": "因拒交数据，苹果或在印度面临 380 亿美元反垄断处罚，印度为何要索要这些信息？苹果又为何拒绝提交？",
-          "url": "https://www.zhihu.com/question/2030231825646187454",
-          "source": "知乎",
+          "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
+          "url": "https://wallstreetcn.com/livenews/3094320",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 03时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
         {
           "title": "以总理称与特朗普就伊朗问题进行了一次“极好的谈话”",
@@ -291,6 +304,19 @@
           "time_info": "02时52分"
         },
         {
+          "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
+          "url": "https://flash.jin10.com/detail/20260425033951908800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 06时38分]"
+        },
+        {
           "title": "WTI 6月原油期货收跌1.45美元，跌幅1.51%，报94.40美元/桶，本周累计上涨将近14.30%。 中东Abu Dhabi Murban原油期货跌1.74%，报104.11美元/桶，本周累涨13.53%。 NYMEX 5月天然气期货收报2.5230美元/百万英热单位。 NYMEX 5月汽油期货收报3.4626美元/加仑，NYMEX 5月取暖油期货收报3.8874美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3094256",
           "source": "华尔街见闻-快讯",
@@ -300,17 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "周五（4月24日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8346元，较周四纽约尾盘涨10点，日内整体交投于6.8403-6.8310元区间。 本周，离岸人民币累计下跌大约180点，跌幅大约0.26%，周二亚太午盘达到6.8117元，随后持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3094308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
         },
         {
           "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
@@ -326,6 +341,19 @@
           "time_info": "[03时53分 ~ 05时47分]"
         },
         {
+          "title": "美联储：美国上周银行存款19.099万亿美元，之前一周19.056万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3094296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时38分]"
+        },
+        {
           "title": "特朗普称伊朗拟提出提议回应美方要求，伊方暂无回应",
           "url": "https://wallstreetcn.com/livenews/3094279",
           "source": "华尔街见闻-快讯",
@@ -339,17 +367,17 @@
           "time_info": "[03时53分 ~ 05时47分]"
         },
         {
-          "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
-          "url": "https://flash.jin10.com/detail/20260425033951908800",
-          "source": "金十数据",
+          "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3094294",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            18,
-            19
+            2,
+            15,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时53分 ~ 05时47分]"
+          "time_info": "[04时48分 ~ 06时38分]"
         },
         {
           "title": "美国总统特朗普讨论伊朗停火问题，试图达成一份协议。（Axios）",
@@ -362,18 +390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时53分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款19.099万亿美元，之前一周19.056万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3094296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：4月21日当周，投机者所持COMEX黄金净多头头寸减少3,352手合约，至95,498手合约。 所持COMEX白银净多头头寸降低至8,863手合约，创七周新低。 所持COMEX铜净多头头寸增至59,132手合约，创逾三个月新高。 减持NYMEX铂金净多头头寸。 增持NYMEX钯金净空头头寸。",
@@ -389,16 +405,17 @@
           "time_info": "[03时53分 ~ 05时47分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3094294",
+          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨超2%领跑",
+          "url": "https://wallstreetcn.com/livenews/3094292",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            15
+            4,
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时38分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -436,16 +453,29 @@
           "time_info": "[00时56分 ~ 01时51分]"
         },
         {
-          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨超2%领跑",
-          "url": "https://wallstreetcn.com/livenews/3094292",
+          "title": "周五（4月24日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8346元，较周四纽约尾盘涨10点，日内整体交投于6.8403-6.8310元区间。 本周，离岸人民币累计下跌大约180点，跌幅大约0.26%，周二亚太午盘达到6.8117元，随后持续下挫。",
+          "url": "https://wallstreetcn.com/livenews/3094308",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
+          "time_info": "[05时47分 ~ 06时38分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX黄金期货投机性净多头寸减少3354手至95498手。",
+          "url": "https://flash.jin10.com/detail/20260425033308849800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 06时38分]"
         },
         {
           "title": "周五（4月24日），韩元兑美元最终涨0.25%，报1476.26韩元，本周累计下跌1.09%，整体持续走低。",
@@ -472,17 +502,41 @@
           "time_info": "[03时53分 ~ 05时47分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，COMEX黄金期货投机性净多头寸减少3354手至95498手。",
-          "url": "https://flash.jin10.com/detail/20260425033308849800",
-          "source": "金十数据",
+          "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
+          "url": "https://wallstreetcn.com/livenews/3094289",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            21,
-            22
+            7,
+            20,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时53分 ~ 05时47分]"
+          "time_info": "[04时48分 ~ 06时38分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
+          "url": "https://flash.jin10.com/detail/20260425040149158800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时38分]"
+        },
+        {
+          "title": "特朗普：只要半句话，美国就能省下1590亿美元",
+          "url": "https://flash.jin10.com/detail/20260425035056520800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时38分]"
         },
         {
           "title": "特朗普政府冻结3.44亿美元加密货币，借口是与伊朗有关联。（CNN）",
@@ -507,18 +561,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时48分]"
-        },
-        {
-          "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
-          "url": "https://wallstreetcn.com/livenews/3094289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
         },
         {
           "title": "纽元兑美元日内涨幅达0.5%，报0.5882。",
@@ -569,6 +611,18 @@
           "time_info": "[02时52分 ~ 03时53分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周五（4月24日），美国科技股七巨头（Magnificent 7）指数涨2.08%，报213.18点，本周累计上涨1.19%。 “超大”市值科技股指数涨3.04%，报421.45点，本周累涨2.94%。",
+          "url": "https://wallstreetcn.com/livenews/3094299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时38分]"
+        },
+        {
           "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3094267",
           "source": "华尔街见闻-快讯",
@@ -587,30 +641,6 @@
           "ranks": [
             13,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
-          "url": "https://flash.jin10.com/detail/20260425040149158800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
-        },
-        {
-          "title": "特朗普：只要半句话，美国就能省下1590亿美元",
-          "url": "https://flash.jin10.com/detail/20260425035056520800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -641,6 +671,17 @@
           "time_info": "[03时53分 ~ 04时48分]"
         },
         {
+          "title": "美伊谈判有望：伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
           "title": "白宫：特朗普对联邦调查局局长有信心。",
           "url": "https://flash.jin10.com/detail/20260425011829012800",
           "source": "金十数据",
@@ -661,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
+          "url": "https://wallstreetcn.com/livenews/3094313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
         {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",
@@ -773,15 +825,15 @@
           "time_info": "00时56分"
         },
         {
-          "title": "美股七巨头收盘播报｜周五（4月24日），美国科技股七巨头（Magnificent 7）指数涨2.08%，报213.18点，本周累计上涨1.19%。 “超大”市值科技股指数涨3.04%，报421.45点，本周累涨2.94%。",
-          "url": "https://wallstreetcn.com/livenews/3094299",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时47分"
+          "time_info": "06时38分"
         },
         {
           "title": "据日经新闻：竞标方将为软银美国数据中心项目选择客户。谷歌和微软将成为竞标方之一。",
@@ -977,7 +1029,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         },
