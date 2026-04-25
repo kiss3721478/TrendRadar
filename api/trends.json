@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T05:37:13.049575+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-04-26T06:37:18.089916+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 06时37分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 06时37分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -31,16 +43,15 @@
           "time_info": "[00时41分 ~ 05时37分]"
         },
         {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 06时37分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -49,22 +60,12 @@
           "ranks": [
             5,
             9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时37分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
+            13,
             8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时37分]"
+          "time_info": "[01时37分 ~ 06时37分]"
         },
         {
           "title": "阿塞拜疆主权基金一季度出售超30亿美元黄金 是购入以来首次减持！",
@@ -74,8 +75,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 06时37分]"
         },
         {
           "title": "“淡化”特朗普 美共和党调整中期选举策略",
@@ -85,8 +86,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时37分]"
         },
         {
           "title": "美国总统特朗普：而且，我们掌握着所有筹码，他们却一无所有！如果他们想谈，只需打个电话就行了。",
@@ -162,6 +163,32 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
+          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
+          "url": "https://flash.jin10.com/detail/20260426034614966800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时39分 ~ 06时37分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
+          "url": "https://flash.jin10.com/detail/20260426033155583800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时39分 ~ 06时37分]"
+        },
+        {
           "title": "美国总统特朗普：不通过《拯救美国法案》将导致美国参议院历史上政党最糟糕的结果。",
           "url": "https://flash.jin10.com/detail/20260426001239377800",
           "source": "金十数据",
@@ -174,16 +201,16 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
-          "title": "美国总统特朗普：加密货币是一个“庞大的行业”。",
-          "url": "https://flash.jin10.com/detail/20260426034614966800",
-          "source": "金十数据",
+          "title": "成都一女子狂买27万黄金被拦下",
+          "url": "https://www.toutiao.com/trending/7632327580498231359/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            18
+            30,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时37分]"
+          "time_info": "[04时39分 ~ 06时37分]"
         },
         {
           "title": "美国总统特朗普：“我们掌握着所有筹码。他们随时可以给我们打电话。”",
@@ -245,6 +272,18 @@
           "time_info": "[03时44分 ~ 04时39分]"
         },
         {
+          "title": "据华尔街日报：伊朗谈判代表已向美方传递信息，要求美国总统特朗普缓和其威胁性言论，并认为更温和的言辞将有助于伊朗强硬派更愿意参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260426043427804800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时37分]"
+        },
+        {
           "title": "据半岛电视台：美国总统特朗普谈结束伊朗停火：“我甚至都没想过这事儿。”",
           "url": "https://flash.jin10.com/detail/20260426025149294800",
           "source": "金十数据",
@@ -267,18 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时39分]"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普预计将出席白宫记者协会晚宴，这也将是他以总统身份首次亮相该活动。",
-          "url": "https://flash.jin10.com/detail/20260426033155583800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时37分]"
         },
         {
           "title": "预测市场Polymarket数据显示，随着美伊谈判取消，本月底原油价格回升至100美元/桶以上的概率为64%。",
@@ -386,17 +413,6 @@
           "time_info": "00时41分"
         },
         {
-          "title": "据华尔街日报：伊朗谈判代表已向美方传递信息，要求美国总统特朗普缓和其威胁性言论，并认为更温和的言辞将有助于伊朗强硬派更愿意参与谈判。",
-          "url": "https://flash.jin10.com/detail/20260426043427804800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "特朗普谈及伊朗谈判，表示通过电话沟通同样可行。",
           "url": "https://flash.jin10.com/detail/20260426000138941800",
           "source": "金十数据",
@@ -439,17 +455,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        },
-        {
-          "title": "成都一女子狂买27万黄金被拦下",
-          "url": "https://www.toutiao.com/trending/7632327580498231359/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
         }
       ]
     }
