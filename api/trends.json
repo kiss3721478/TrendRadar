@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T16:38:23.407134+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-04-28T19:06:14.552754+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 117,
+      "match_count": 134,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -115,6 +115,17 @@
           "time_info": "[10时50分 ~ 14时02分]"
         },
         {
+          "title": "【每日收评】深成指与创业板指双双跌超1%，煤炭、医药等防御性板块逆势活跃，工业气体概念持续爆发",
+          "url": "https://www.cls.cn/detail/2358189",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 19时06分]"
+        },
+        {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
           "url": "https://www.cls.cn/detail/2357129",
           "source": "财联社热门",
@@ -126,6 +137,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 07时54分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-28）",
+          "url": "https://flash.jin10.com/detail/20260428190146182800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "“黄金被扣30年”将按正常时效处理",
@@ -141,6 +163,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 07时54分]"
+        },
+        {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 19时06分]"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -186,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时00分 ~ 19时06分]"
         },
         {
           "title": "科技巨头财报周前夕，美股高位徘徊，英伟达续涨4%，油价攀升施压市场，美债下挫",
@@ -244,6 +289,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "可口可乐第一季度净营收125亿美元，预估122.5亿美元。 第一季度可比每股收益0.86美元，预估0.81美元。 可口可乐仍然预测全年资本支出22亿美元，市场预估22.1亿美元。 可口可乐预计全年可比每股收益增长8％至9％。 可口可乐美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3095726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "英伟达涨超2%，刷新盘中历史高位至212.6美元，盘中市值5.17万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3095148",
           "source": "华尔街见闻-快讯",
@@ -272,7 +328,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -286,6 +342,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时00分 ~ 19时06分]"
         },
         {
           "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
@@ -360,38 +427,16 @@
           "time_info": "[05时02分 ~ 06时52分]"
         },
         {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
-          "source": "澎湃新闻",
+          "title": "达里奥：美伊战争“改写”货币定义，黄金或成“终极避险选项”！",
+          "url": "https://www.cls.cn/detail/2357820",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 16时38分]"
-        },
-        {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时00分 ~ 16时38分]"
-        },
-        {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
-          "ranks": [
+            8,
             11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时00分 ~ 16时38分]"
+          "time_info": "[16时38分 ~ 19时06分]"
         },
         {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
@@ -414,6 +459,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时02分]"
+        },
+        {
+          "title": "央视曝光“掺假黄金”",
+          "url": "https://www.toutiao.com/trending/7633210915437051967/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 19时06分]"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 19时06分]"
         },
         {
           "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
@@ -464,6 +532,17 @@
           "time_info": "[05时02分 ~ 06时52分]"
         },
         {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 19时06分]"
+        },
+        {
           "title": "美股收盘：英伟达涨4%创新高",
           "url": "https://flash.jin10.com/detail/20260428040039049800",
           "source": "金十数据",
@@ -488,6 +567,17 @@
           "time_info": "[05时02分 ~ 06时52分]"
         },
         {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 19时06分]"
+        },
+        {
           "title": "美元指数27日下跌",
           "url": "https://flash.jin10.com/detail/20260428034651678800",
           "source": "金十数据",
@@ -510,6 +600,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时54分 ~ 10时50分]"
+        },
+        {
+          "title": "金价涨不动了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 19时06分]"
         },
         {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
@@ -606,18 +707,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "达里奥：美伊战争“改写”货币定义，黄金或成“终极避险选项”！",
-          "url": "https://www.cls.cn/detail/2357820",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -738,7 +828,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -815,9 +905,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "D.A.戴维森：首次覆盖美光科技(MU.O)，给予“买入”评级，目标价为1000美元。",
+          "url": "https://flash.jin10.com/detail/20260428184653197800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "白宫记者协会枪手被指控试图刺杀美国总统特朗普。",
@@ -859,7 +960,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -881,7 +982,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -930,13 +1031,24 @@
           "time_info": "10时50分"
         },
         {
+          "title": "通用汽车第一季度调整后每股收益3.70美元，预估2.60美元。 第一季度净销售额和营收436.2亿美元，预估434亿美元。 第一季度调整后息税前利润42.5亿美元，预估30.2亿美元。 第一季度自由现金流12.7亿美元，预估19.2亿美元。 第一季度汽车销量899000辆，预估902126辆。 通用汽车预计全年调整后每股收益11.50美元至13.50美元。 通用汽车预计全年调整后EBIT 135亿美元至155亿美元。 通用汽车预计全年净利润99亿美元至114亿美元，市场预估111.4亿美元。 通用汽车美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3095702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "多国央行集体甩卖黄金，有哪些信息值得关注？是警示信号吗？",
           "url": "https://www.zhihu.com/question/2032400582497887693",
           "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -991,9 +1103,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "蒙特利尔银行：将微软(MSFT.O)目标价从575美元下调至505美元。",
+          "url": "https://flash.jin10.com/detail/20260428183931316800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "报道：谷歌员工敦促Pichai阻止美国军方使用其AI技术",
@@ -1095,6 +1218,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "复星医药：控股子公司药品获欧盟上市批准",
+          "url": "https://flash.jin10.com/detail/20260428183643401800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "迪士尼股价短线下挫，从涨约0.5%转而下跌约0.4%。 美国总统特朗普声称，ABC与迪士尼应当立即解雇Jimmy Kimmel，Kimmel一点都不风趣。",
           "url": "https://wallstreetcn.com/livenews/3095163",
           "source": "华尔街见闻-快讯",
@@ -1137,6 +1271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "美国能源部长Wright：特朗普专注于与伊朗达成恰当的协议。",
+          "url": "https://wallstreetcn.com/livenews/3095689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "白宫：特朗普与幕僚讨论伊朗最新提议，核问题是红线之一",
@@ -1200,7 +1345,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1249,6 +1394,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "通用汽车(GM.N)：关税总成本将低于最初估计的30亿至40亿美元。",
+          "url": "https://flash.jin10.com/detail/20260428183236680800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.812%（3月24日为3.936%），投标倍数2.65（前次为2.44）。 两年期美债收益率涨2.95个基点，刷新日高至3.8078%。",
           "url": "https://wallstreetcn.com/livenews/3095125",
           "source": "华尔街见闻-快讯",
@@ -1258,17 +1414,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "央视曝光“掺假黄金”",
-          "url": "https://www.toutiao.com/trending/7633210915437051967/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
         },
         {
           "title": "谈判陷入僵局之际 特朗普与团队就伊朗问题举行磋商",
@@ -1282,6 +1427,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "中金黄金：一季度净利润23.8亿元，同比增长129.23%；公司业绩增长主要受益于矿产金业务盈利能力的提升。",
+          "url": "https://wallstreetcn.com/livenews/3095678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
           "url": "https://flash.jin10.com/detail/20260428013540130800",
           "source": "金十数据",
@@ -1291,6 +1447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "通用汽车(GM.N)预计全年净利润99亿美元至114亿美元，市场预估111.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260428183142394800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.955%（3月25日为3.980%），投标倍数2.33（前次为2.29）。",
@@ -1315,6 +1482,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "报道称OpenAI未达销售目标 相关股票下跌",
+          "url": "https://wallstreetcn.com/livenews/3095675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
           "title": "黄金短期难回5000美元",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%9F%AD%E6%9C%9F%E9%9A%BE%E5%9B%9E5000%E7%BE%8E%E5%85%83%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -1324,6 +1502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "通用汽车(GM.N)：预计2026年的总关税成本将在25亿美元至35亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260428183118121800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         }
       ]
     }
