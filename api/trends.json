@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T18:05:57.235781+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-04-29T20:17:45.782064+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 126,
+      "match_count": 133,
       "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 20时17分]"
+        },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
           "url": "https://wallstreetcn.com/articles/3771068",
@@ -35,17 +46,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 15时23分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 18时05分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -99,6 +99,19 @@
           "time_info": "[00时51分 ~ 08时02分]"
         },
         {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时00分 ~ 20时17分]"
+        },
+        {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2358855",
           "source": "财联社热门",
@@ -111,19 +124,6 @@
           "time_info": "[07时00分 ~ 12时31分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时00分 ~ 18时05分]"
-        },
-        {
           "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
           "url": "https://www.cls.cn/detail/2359134",
           "source": "财联社热门",
@@ -133,8 +133,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 18时05分]"
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 20时17分]"
         },
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -143,9 +143,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 20时17分]"
+        },
+        {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 20时17分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -168,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini在英国推出新的个性化功能。",
+          "url": "https://flash.jin10.com/detail/20260429194814328800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
@@ -198,9 +220,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
+        },
+        {
+          "title": "艾伯维第一季度调整后每股收益2.65美元，预估2.60美元。 艾伯维预计全年调整后每股收益14.08至14.28美元，此前预计为13.96至14.16美元。",
+          "url": "https://wallstreetcn.com/livenews/3096623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "周二（4月28日），韩元兑美元最终涨0.13%，报1472.56韩元，北京时间19:57曾跌至1478.81韩元刷新日低。",
@@ -214,15 +247,37 @@
           "time_info": "02时18分"
         },
         {
+          "title": "中远海控：控股子公司东方海外签订12份造船协议 总价22.2亿美元",
+          "url": "https://wallstreetcn.com/livenews/3096621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "英国国王给特朗普送了一口钟",
           "url": "https://www.toutiao.com/trending/7634038550409216027/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
+        },
+        {
+          "title": "中远海控：控股子公司东方海外签订12份造船协议 总价22.2亿美元",
+          "url": "https://flash.jin10.com/detail/20260429194420593800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "T-Mobile一季度营收231.1亿美元，分析师预期229.8亿美元。",
@@ -247,15 +302,15 @@
           "time_info": "12时31分"
         },
         {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "title": "美国国防部正式申请更名为战争部，预计成本5000万美元",
+          "url": "https://news.ifeng.com/c/8siIUtDas1d",
           "source": "凤凰网",
           "ranks": [
-            5
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时30分 ~ 20时17分]"
         },
         {
           "title": "台积电清仓Arm剩余股份，套现约2.31亿美元",
@@ -337,17 +392,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 02时18分]"
-        },
-        {
-          "title": "美国国防部正式申请更名为战争部，预计成本5000万美元",
-          "url": "https://news.ifeng.com/c/8siIUtDas1d",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 18时05分]"
         },
         {
           "title": "美元指数28日上涨",
@@ -446,6 +490,18 @@
           "time_info": "[12时30分 ~ 15时23分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 20时17分]"
+        },
+        {
           "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
           "url": "https://news.ifeng.com/c/8si2qqUHRAp",
           "source": "凤凰网",
@@ -489,18 +545,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 18时05分]"
         },
         {
           "title": "民调：特朗普支持率跌至任内新低",
@@ -657,6 +701,18 @@
           "time_info": "[07时00分 ~ 08时02分]"
         },
         {
+          "title": "黄金重要信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E9%87%8D%E8%A6%81%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 20时17分]"
+        },
+        {
           "title": "伊朗战争丨受战事影响，特朗普支持率跌至任内新低",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -696,7 +752,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -740,7 +796,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -960,7 +1016,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -1042,6 +1098,17 @@
           "time_info": "15时23分"
         },
         {
+          "title": "查尔斯国王给特朗普送了口钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "铜价跌至两周低点，受累于美元走强及通胀担忧",
           "url": "https://wallstreetcn.com/livenews/3095935",
           "source": "华尔街见闻-快讯",
@@ -1097,6 +1164,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "欧佩克基金启动15亿美元援助计划 为受战争影响国家提供支持",
+          "url": "https://flash.jin10.com/detail/20260429193240810800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "光伏逆变器供应商Enphase Energy一季度营收2.829亿美元，分析师预期2.838亿美元。 一季度美国营收季环比锐减23%，欧洲营收季环比增长36%。 一季度资本开支0.199亿美元，分析师预期0.13亿美元。 一季度调整后每股收益（EPS）为0.47美元，分析师预期0.44美元。 预计二季度营收2.8亿-3.1亿美元，分析师预期2.968亿美元。",
           "url": "https://wallstreetcn.com/livenews/3096008",
           "source": "华尔街见闻-快讯",
@@ -1106,6 +1184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
@@ -1125,7 +1214,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -1246,7 +1335,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -1312,7 +1401,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -1411,18 +1500,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "黄金重要信号",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E9%87%8D%E8%A6%81%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
