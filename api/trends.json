@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T15:23:58.603963+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-04-29T18:05:57.235781+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 114,
+      "match_count": 126,
       "titles": [
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
@@ -35,6 +35,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 15时23分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 18时05分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -75,17 +86,6 @@
           "time_info": "[00时51分 ~ 08时02分]"
         },
         {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 15时23分]"
-        },
-        {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
@@ -120,8 +120,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时00分 ~ 15时23分]"
+          "appearance_count": 6,
+          "time_info": "[07时00分 ~ 18时05分]"
+        },
+        {
+          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
+          "url": "https://www.cls.cn/detail/2359134",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 18时05分]"
+        },
+        {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -168,6 +192,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "德国总理默茨：与特朗普的私人关系仍然“良好”。",
+          "url": "https://wallstreetcn.com/livenews/3096508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "周二（4月28日），韩元兑美元最终涨0.13%，报1472.56韩元，北京时间19:57曾跌至1478.81韩元刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3095953",
           "source": "华尔街见闻-快讯",
@@ -177,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "英国国王给特朗普送了一口钟",
+          "url": "https://www.toutiao.com/trending/7634038550409216027/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "T-Mobile一季度营收231.1亿美元，分析师预期229.8亿美元。",
@@ -201,16 +247,15 @@
           "time_info": "12时31分"
         },
         {
-          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
-          "url": "https://www.cls.cn/detail/2359134",
-          "source": "财联社热门",
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 15时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "台积电清仓Arm剩余股份，套现约2.31亿美元",
@@ -294,6 +339,17 @@
           "time_info": "[00时51分 ~ 02时18分]"
         },
         {
+          "title": "美国国防部正式申请更名为战争部，预计成本5000万美元",
+          "url": "https://news.ifeng.com/c/8siIUtDas1d",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 18时05分]"
+        },
+        {
           "title": "美元指数28日上涨",
           "url": "https://flash.jin10.com/detail/20260429050156496800",
           "source": "金十数据",
@@ -330,6 +386,19 @@
           "time_info": "[07时00分 ~ 08时02分]"
         },
         {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.cls.cn/detail/2358979",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 18时05分]"
+        },
+        {
           "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
           "url": "https://wallstreetcn.com/articles/3771067",
           "source": "华尔街见闻",
@@ -353,6 +422,19 @@
           "time_info": "[08时02分 ~ 15时23分]"
         },
         {
+          "title": "特朗普再次无视英国王室规矩",
+          "url": "https://www.douyin.com/hot/2482526",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 18时05分]"
+        },
+        {
           "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
           "url": "https://www.cls.cn/detail/2358925",
           "source": "财联社热门",
@@ -364,46 +446,11 @@
           "time_info": "[12时30分 ~ 15时23分]"
         },
         {
-          "title": "美国国防部正式申请更名为战争部，预计成本5000万美元",
-          "url": "https://news.ifeng.com/c/8siIUtDas1d",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 15时23分]"
-        },
-        {
           "title": "纪念建国250周年，美国将发行印有特朗普肖像的护照(图)",
           "url": "https://news.ifeng.com/c/8si2qqUHRAp",
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普再次无视英国王室规矩",
-          "url": "https://www.douyin.com/hot/2482526",
-          "source": "抖音",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时30分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://www.cls.cn/detail/2358979",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -442,6 +489,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 18时05分]"
         },
         {
           "title": "民调：特朗普支持率跌至任内新低",
@@ -539,6 +598,18 @@
           "time_info": "[07时00分 ~ 08时02分]"
         },
         {
+          "title": "英国王嘲讽美国特朗普表情亮了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%83%85%E4%BA%AE%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 18时05分]"
+        },
+        {
           "title": "特朗普支持率降至任内新低",
           "url": "https://www.douyin.com/hot/2482851",
           "source": "抖音",
@@ -548,6 +619,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "阿联酋退出欧佩克 黄金为何暴跌",
+          "url": "https://www.toutiao.com/trending/7634029642852077097/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 18时05分]"
         },
         {
           "title": "WTI原油日内跌幅达0.5%，报99.43美元/桶。",
@@ -607,6 +690,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "特朗普一句“爆料”逗笑英国国王",
+          "url": "https://www.toutiao.com/trending/7634095221042581028/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "马斯克控诉“慈善被掠夺”，OpenAI反驳其想要“王国的钥匙”",
           "url": "https://flash.jin10.com/detail/20260429115733020800",
           "source": "金十数据",
@@ -629,17 +723,6 @@
           "time_info": "05时58分"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
           "title": "特朗普爆伊朗“崩溃”请求开海峡！伊朗却宣布绝对控制，要求缴纳通行费",
           "url": "https://flash.jin10.com/detail/20260429072129903800",
           "source": "金十数据",
@@ -649,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
+          "url": "https://news.ifeng.com/c/8sifWoWmOAa",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
@@ -860,6 +954,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "美媒：特朗普会见油气行业高管，聚焦伊朗战争能源冲击",
+          "url": "https://flash.jin10.com/detail/20260429172824224800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
           "url": "https://wallstreetcn.com/livenews/3095938",
           "source": "华尔街见闻-快讯",
@@ -932,7 +1037,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -1003,17 +1108,6 @@
           "time_info": "05时58分"
         },
         {
-          "title": "阿联酋退出欧佩克 黄金为何暴跌",
-          "url": "https://www.toutiao.com/trending/7634029642852077097/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
           "url": "https://wallstreetcn.com/livenews/3096006",
           "source": "华尔街见闻-快讯",
@@ -1025,13 +1119,24 @@
           "time_info": "05时58分"
         },
         {
+          "title": "特朗普及其核心幕僚周二在白宫会见了石油和天然气行业高管，讨论伊朗战争对能源领域的影响及其他议题。",
+          "url": "https://flash.jin10.com/detail/20260429172451146800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "美元兑日元一个月波动率降至2022年3月以来的最低水平。",
           "url": "https://wallstreetcn.com/livenews/3096279",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -1078,17 +1183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        },
-        {
-          "title": "英国王嘲讽美国特朗普表情亮了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%83%85%E4%BA%AE%E4%BA%86%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
         },
         {
           "title": "路透社/益普索调查：34%的美国人对美国总统特朗普的工作表现表示认可，较4月中旬的36%下降。",
@@ -1146,6 +1240,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "阿联酋退出欧佩克后黄金走势如何",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E8%81%94%E9%85%8B%E9%80%80%E5%87%BA%E6%AC%A7%E4%BD%A9%E5%85%8B%E5%90%8E%E9%BB%84%E9%87%91%E8%B5%B0%E5%8A%BF%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8372元，较周一夜盘收盘跌97点。成交量522.63亿美元。",
           "url": "https://wallstreetcn.com/livenews/3095969",
           "source": "华尔街见闻-快讯",
@@ -1199,6 +1304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "法巴银行：美国经济增长虽相对强劲，但美元仍将走弱",
+          "url": "https://flash.jin10.com/detail/20260429171440933800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "周二（4月28日），美股行业ETF涨跌各异，半导体ETF收跌2.97%，全球科技股指数ETF、科技行业ETF、网络股指数ETF跌1.81%-0.98%. 银行业ETF、区域银行ETF则至多收涨0.43%，能源业ETF涨1.66%。",
@@ -1273,7 +1389,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -1287,6 +1403,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "特朗普会见石油公司高层，讨论伊朗战争的影响，雪佛龙首席执行官也出席了与特朗普的会议。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3096459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "黄金重要信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E9%87%8D%E8%A6%81%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "WTI 6月原油期货收涨3.56美元，涨幅3.69%，报99.93美元/桶。 布伦特6月原油期货收涨3.03美元，涨幅2.80%，报111.26美元/桶。 中东Abu Dhabi Murban原油期货涨2.91%，报107.22美元/桶。 NYMEX 5月天然气期货收报2.5590美元/百万英热单位。 NYMEX 5月汽油期货收报3.5604美元/加仑，NYMEX 5月取暖油期货收报3.9712美元/加仑。",
