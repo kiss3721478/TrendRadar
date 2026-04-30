@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-05-01T06:04:33.027739+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-05-01T07:53:21.170809+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 115,
+      "match_count": 131,
       "titles": [
+        {
+          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
+          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
+        },
+        {
+          "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
+          "url": "https://www.zhihu.com/question/2032585303555138489",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
+        },
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
           "url": "https://wallstreetcn.com/articles/3771214",
@@ -44,40 +68,17 @@
           "time_info": "[01时21分 ~ 06时04分]"
         },
         {
-          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
-          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
-        },
-        {
-          "title": "法拉第未来获 4500 万美元融资，被指 11 年烧光 32 亿美元交付不足 30 辆车，投资者为何还敢给钱？",
-          "url": "https://www.zhihu.com/question/2032585303555138489",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
-        },
-        {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
           "url": "https://wallstreetcn.com/articles/3771319",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
         },
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -85,11 +86,60 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
+        },
+        {
+          "title": "湖南一医院院长儿子被曝涉嫌“吃空饷”，湖南中医药大学已介入调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082124",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
+        },
+        {
+          "title": "2859.2克黄金被扣30年迎转机",
+          "url": "https://www.baidu.com/s?wd=2859.2%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E8%BF%8E%E8%BD%AC%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
+        },
+        {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
+        },
+        {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "美国总统特朗普签署联邦合同相关命令。",
@@ -125,15 +175,65 @@
           "time_info": "01时21分"
         },
         {
-          "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
-          "url": "https://wallstreetcn.com/livenews/3097732",
+          "title": "特朗普称已“摧毁”伊朗核能力，仅少数人知晓谈判实际进展",
+          "url": "https://wallstreetcn.com/livenews/3097761",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "07时53分"
+        },
+        {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
+        },
+        {
+          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
+          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
+        },
+        {
+          "title": "金价突涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E6%B6%A8%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            21,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时53分]"
         },
         {
           "title": "现货钯金日内涨幅扩大至4.00%，现报1527.85美元/盎司。",
@@ -178,28 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        },
-        {
-          "title": "4月份，欧元兑美元累计上涨1.54%，周四（4月30日）纽约尾盘报1.1731，4月7日以来持续走高，4月17日达到1.1849，随后略微回吐涨幅； 英镑兑美元累涨2.83%，报1.3602，4-7日以来持续上扬，4月14日以来高位窄幅震荡——主要交投于1.35上方，4月30日达到1.3612； 美元兑瑞郎累跌2.18%，报0.7817。 商品货币对中，澳元兑美元累涨4.31%、报0.7197，纽元兑美元累涨2.75%、报0.5905，美元兑加元累跌2.37%、报1.3586。 瑞典克朗兑美元累涨2.45%，挪威克朗兑美元累涨4.54%，丹麦克朗兑美元累涨1.52%。",
-          "url": "https://wallstreetcn.com/livenews/3097731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "湖南一医院院长儿子被曝涉嫌“吃空饷”，湖南中医药大学已介入调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082124",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -257,18 +335,6 @@
           "time_info": "05时01分"
         },
         {
-          "title": "2859.2克黄金被扣30年迎转机",
-          "url": "https://www.baidu.com/s?wd=2859.2%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E8%BF%8E%E8%BD%AC%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
-        },
-        {
           "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
           "url": "https://flash.jin10.com/detail/20260501005757572800",
           "source": "金十数据",
@@ -291,15 +357,29 @@
           "time_info": "03时21分"
         },
         {
-          "title": "分析师分析师电话会：苹果公司预计第三财季营收将同比增长14%-17%，分析师预期增长9.1%。 预计第三财季服务营收增幅将与第二财季（至3月的三个月）类似。 预计第三财季毛利润率为47.5%-48.5%。 本公司不再追求净现金中性立场。 苹果公司美股盘后上涨3.45%。",
-          "url": "https://wallstreetcn.com/livenews/3097728",
-          "source": "华尔街见闻-快讯",
+          "title": "这4个小时是黄金睡眠时间",
+          "url": "https://www.toutiao.com/trending/7634205649488347163/",
+          "source": "今日头条",
           "ranks": [
-            4
+            9,
+            6,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时53分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "07时53分"
         },
         {
           "title": "美国总统特朗普：田纳西州重新划分选区将使共和党多出一个席位。",
@@ -324,24 +404,13 @@
           "time_info": "03时21分"
         },
         {
-          "title": "特朗普称只有少数人知晓美伊谈判实际进展",
-          "url": "https://flash.jin10.com/detail/20260501054138317800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
           "title": "周四（4月30日）纽约尾盘，美元兑日元跌2.39%，报156.58日元，北京时间16:00转涨，18:27开始加速上涨，19:45刷新日高至155.57日元，4月份累计上涨1.34%，4月30日波动幅度即整个月的波动幅度——交投区间为160.72-155.57日元，4月1-29日“窄幅震荡”于160-158日元这样的区间。 欧元兑日元跌1.86%，报183.72日元，4月份累涨0.19%，4月1-17日持续走高，经过一段时期的高位盘整之后，4月30日暴跌；英镑兑日元跌1.46%，报213.008日元，4月份累涨1.47%。",
           "url": "https://wallstreetcn.com/livenews/3097725",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -358,15 +427,15 @@
           "time_info": "[01时21分 ~ 06时04分]"
         },
         {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
+          "title": "还是不解气，特朗普又炮轰默茨",
+          "url": "https://news.ifeng.com/c/8skrGhZKZnd",
+          "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
+          "time_info": "[03时20分 ~ 07时53分]"
         },
         {
           "title": "金价“跳水”背后藏着什么博弈",
@@ -377,54 +446,6 @@
             17,
             14,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
-        },
-        {
-          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
-          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
-        },
-        {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
-        },
-        {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时04分]"
-        },
-        {
-          "title": "金价突涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E6%B6%A8%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            21,
-            28
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -455,17 +476,16 @@
           "time_info": "[05时01分 ~ 06时04分]"
         },
         {
-          "title": "这4个小时是黄金睡眠时间",
-          "url": "https://www.toutiao.com/trending/7634205649488347163/",
-          "source": "今日头条",
+          "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
+          "url": "https://wallstreetcn.com/livenews/3097732",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            6,
-            7
+            1,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时04分]"
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时53分]"
         },
         {
           "title": "英镑/美元日内涨幅达1.0%，报1.3608。",
@@ -480,6 +500,18 @@
           "time_info": "[03时21分 ~ 05时01分]"
         },
         {
+          "title": "4月份，欧元兑美元累计上涨1.54%，周四（4月30日）纽约尾盘报1.1731，4月7日以来持续走高，4月17日达到1.1849，随后略微回吐涨幅； 英镑兑美元累涨2.83%，报1.3602，4-7日以来持续上扬，4月14日以来高位窄幅震荡——主要交投于1.35上方，4月30日达到1.3612； 美元兑瑞郎累跌2.18%，报0.7817。 商品货币对中，澳元兑美元累涨4.31%、报0.7197，纽元兑美元累涨2.75%、报0.5905，美元兑加元累跌2.37%、报1.3586。 瑞典克朗兑美元累涨2.45%，挪威克朗兑美元累涨4.54%，丹麦克朗兑美元累涨1.52%。",
+          "url": "https://wallstreetcn.com/livenews/3097731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时53分]"
+        },
+        {
           "title": "特朗普政府对鲍威尔的调查结束了，美国司法部正准备对美联储传票裁决提起上诉",
           "url": "https://wallstreetcn.com/livenews/3097647",
           "source": "华尔街见闻-快讯",
@@ -492,15 +524,40 @@
           "time_info": "[01时21分 ~ 03时21分]"
         },
         {
-          "title": "还是不解气，特朗普又炮轰默茨",
-          "url": "https://news.ifeng.com/c/8skrGhZKZnd",
-          "source": "凤凰网",
+          "title": "分析师分析师电话会：苹果公司预计第三财季营收将同比增长14%-17%，分析师预期增长9.1%。 预计第三财季服务营收增幅将与第二财季（至3月的三个月）类似。 预计第三财季毛利润率为47.5%-48.5%。 本公司不再追求净现金中性立场。 苹果公司美股盘后上涨3.45%。",
+          "url": "https://wallstreetcn.com/livenews/3097728",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时04分]"
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普称只有少数人知晓美伊谈判实际进展",
+          "url": "https://flash.jin10.com/detail/20260501054138317800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时53分]"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 07时53分]"
         },
         {
           "title": "美国总统特朗普：我们对霍尔木兹海峡的封锁百分之百有效。",
@@ -533,17 +590,6 @@
           "ranks": [
             9,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时04分]"
-        },
-        {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -592,7 +638,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -617,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "周四（4月30日），美股降息赢家指数收涨0.70%，报91.53点，4月份劣迹上涨4.92%，4月1日以来持续走高、在4月21日美股开盘时达到98.86点，随后逐步回吐涨幅。 “特朗普关税输家”指数涨1.30%，报103.40点，4月份累涨3.41%，4月21日美股开盘曾达到110.11点。 “特朗普金融指数”涨1.44%，报163.60点，4月份累涨9.30%，4月15日以来持续高位震荡。 散户抱团概念股指数/迷因股（meme stock）指数涨2.48%，报14.51点，4月份累涨18.06%，4月21日美股盘初曾达到16.30点。",
+          "url": "https://wallstreetcn.com/livenews/3097756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "澳元兑美元AUD/USD突破0.72，日内涨1.18%。英镑兑美元GBP/USD向上触及1.36，为2月17日以来首次，日内涨0.92%。",
@@ -652,6 +709,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "影响金价的关键因素是什么",
+          "url": "https://www.douyin.com/hot/2482875",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "特朗普取消部分威士忌关税",
           "url": "https://flash.jin10.com/detail/20260501024648995800",
           "source": "金十数据",
@@ -685,6 +753,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
+          "url": "https://wallstreetcn.com/articles/3771342",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "美国烈酒公司百富门（Brown-Forman）股价上涨2%，特朗普表示将取消部分与威士忌相关的关税。",
           "url": "https://flash.jin10.com/detail/20260501024429251800",
           "source": "金十数据",
@@ -705,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "马斯克2025年特斯拉薪酬总额达1580亿美元",
+          "url": "https://wallstreetcn.com/livenews/3097752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "Rivian(RIVN.O)第一季度营收为13.8亿美元，预期为13.6亿美元。",
@@ -729,6 +819,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
+          "url": "https://wallstreetcn.com/livenews/3097751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "美国总统特朗普向伊拉克候任总理表示祝贺。",
           "url": "https://wallstreetcn.com/livenews/3097669",
           "source": "华尔街见闻-快讯",
@@ -740,6 +841,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "周四（4月30日），美股存储芯片与硬件供应链指数收涨3.96%，报153.43点，4月份累计上涨47.32%，整体持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3097750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "美国总统特朗普：我将取消与苏格兰和肯塔基州在威士忌和波旁威士忌领域合作相关的威士忌关税和限制。",
           "url": "https://flash.jin10.com/detail/20260501023140297800",
           "source": "金十数据",
@@ -749,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "特朗普再度发声：不在乎鲍威尔是否留任理事，对此事早有预料",
+          "url": "https://flash.jin10.com/detail/20260501064327961800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "Meta拟发巨额债券，欲募资多达250亿美元",
@@ -779,7 +902,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -867,7 +990,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -894,15 +1017,37 @@
           "time_info": "03时21分"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少3.427吨，当前持仓量为1035.768吨。",
+          "url": "https://flash.jin10.com/detail/20260501063015361800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "现货黄金周五涨1.5%，4月份累跌1%，白银整体冲高回落",
           "url": "https://wallstreetcn.com/livenews/3097715",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "提醒：苹果公司电话会结束。 苹果公司美股盘后维持3.9%的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3097744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "美元兑加元USD/CAD失守1.36，日内跌幅0.61%。",
@@ -933,7 +1078,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -955,9 +1100,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "金价跳水背后藏着什么博弈",
+          "url": "https://www.toutiao.com/trending/7634525215950638633/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "金十图示：2026年04月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -977,9 +1133,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "现货钯金日内涨幅扩大至4.00%，现报1525.54美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260501060949018800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
@@ -1010,7 +1177,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -1021,7 +1188,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -1054,7 +1221,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -1109,7 +1276,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -1169,6 +1336,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "周四（4月30日）纽约尾盘，美国10年期基准国债收益率下跌6.11个基点，刷新日低至4.3686%，4月份累计上涨5.41个基点，整体交投于4.2243%-4.4339%区间，4月17日跳水至期内底部，随后持续回升。 两年期美债收益率下跌8.20个基点，刷新日低至3.8648%，4月份累涨7.59个基点，整体交投于3.6768%-3.9510%区间。",
+          "url": "https://wallstreetcn.com/livenews/3097736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "特朗普称参选美国总统的人应接受认知能力测试",
           "url": "https://flash.jin10.com/detail/20260501020938040800",
           "source": "金十数据",
@@ -1208,9 +1386,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普：只有少数人知晓美伊谈判实际进展",
+          "url": "https://wallstreetcn.com/livenews/3097733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "美国总统特朗普：美国卫生局长提名人凯西将继续为美国的卫生事业而战。",
@@ -1241,7 +1430,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -1263,7 +1452,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -1285,7 +1474,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -1296,7 +1485,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         }
