@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T04:42:51.684894+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-05-03T05:41:02.311633+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "男子30年前被扣押2859克黄金申请退赔被拒受理续：辽宁盖州警方被责令重新作出决定",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
@@ -60,22 +60,12 @@
             2,
             3,
             4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时42分]"
-        },
-        {
-          "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
-          "url": "https://www.zhihu.com/question/2033868695617933924",
-          "source": "知乎",
-          "ranks": [
-            6
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
@@ -86,8 +76,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
+          "url": "https://www.zhihu.com/question/2033868695617933924",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
@@ -97,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -109,8 +111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
@@ -120,8 +122,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "福州1-0战胜泉州",
@@ -131,30 +133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
-        },
-        {
-          "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
-          "url": "https://flash.jin10.com/detail/20260503042107626800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "特朗普的白宫贸易顾问纳瓦罗纳瓦罗：美联储主席任期于5月15日届满时，鲍威尔就应该“滚出”美国华盛顿特区。",
-          "url": "https://wallstreetcn.com/livenews/3098184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -165,8 +145,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
@@ -179,8 +159,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
@@ -191,8 +171,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -202,8 +182,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "媒体：泉州一高校因学生走路看手机劝退学生还辞退4名教师？各方回应",
@@ -214,8 +194,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -225,8 +205,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
@@ -238,8 +218,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "闽超福州1:0泉州",
@@ -249,8 +229,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "闽超泉州主场赵文卓再现“郑成功”",
@@ -261,30 +241,111 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "辽宁警方被责令处理黄金退赔案",
           "url": "https://www.douyin.com/hot/2486384",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
+          "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
+          "url": "https://flash.jin10.com/detail/20260503042107626800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普的白宫贸易顾问纳瓦罗纳瓦罗：美联储主席任期于5月15日届满时，鲍威尔就应该“滚出”美国华盛顿特区。",
+          "url": "https://wallstreetcn.com/livenews/3098184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时41分]"
         },
         {
           "title": "特朗普政府新规生效后 超三百万人失去联邦食品援助",
           "url": "https://flash.jin10.com/detail/20260503033253469800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时41分]"
+        },
+        {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 05时41分]"
+        },
+        {
+          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            19,
+            21,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
+          "title": "马斯克去年在特斯拉挣了0美元",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E5%9C%A8%E7%89%B9%E6%96%AF%E6%8B%89%E6%8C%A3%E4%BA%860%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普政府加速推进向中东出售86亿美元武器",
+          "url": "https://flash.jin10.com/detail/20260503011447935800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            18,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 05时41分]"
         },
         {
           "title": "特朗普金卡计划为何失败",
@@ -298,34 +359,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 03时57分]"
-        },
-        {
-          "title": "特朗普政府加速推进向中东出售86亿美元武器",
-          "url": "https://flash.jin10.com/detail/20260503011447935800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 04时42分]"
-        },
-        {
-          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            19,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时42分]"
         },
         {
           "title": "伯克希尔哈撒韦现金储备激增至创纪录的3970亿美元",
@@ -356,28 +389,17 @@
           "time_info": "[00时45分 ~ 04时42分]"
         },
         {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
+          "title": "女子15年前买的金条完全不含黄金",
+          "url": "https://www.toutiao.com/trending/7634657327857614889/",
+          "source": "今日头条",
           "ranks": [
-            10
+            22,
+            19,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时58分 ~ 04时42分]"
-        },
-        {
-          "title": "马斯克去年在特斯拉挣了0美元",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E5%9C%A8%E7%89%B9%E6%96%AF%E6%8B%89%E6%8C%A3%E4%BA%860%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 04时42分]"
+          "time_info": "[03时57分 ~ 05时41分]"
         },
         {
           "title": "三星被判向中兴支付3.92亿美元",
@@ -430,27 +452,27 @@
           "time_info": "[00时45分 ~ 01时43分]"
         },
         {
-          "title": "女子15年前买的金条完全不含黄金",
-          "url": "https://www.toutiao.com/trending/7634657327857614889/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 04时42分]"
-        },
-        {
           "title": "特朗普政府：无需为其他美国廉价航空公司提供救助",
           "url": "https://wallstreetcn.com/livenews/3098166",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时41分]"
+        },
+        {
+          "title": "巴菲特：伯克希尔已从苹果投资中获利1850亿美元",
+          "url": "https://wallstreetcn.com/livenews/3098167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时41分"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
