@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T10:39:03.679439+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-05-02T13:37:19.529141+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 138,
+      "match_count": 151,
       "titles": [
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
@@ -26,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 10时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 13时37分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -53,8 +54,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 10时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 13时37分]"
+        },
+        {
+          "title": "今起，回扣入刑！医药行业“合规红线”再收紧 穿透式监管直击灰色地带",
+          "url": "https://www.cls.cn/detail/2361707",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 13时37分]"
         },
         {
           "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
@@ -91,19 +106,6 @@
             9,
             10,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 10时39分]"
-        },
-        {
-          "title": "今起，回扣入刑！医药行业“合规红线”再收紧 穿透式监管直击灰色地带",
-          "url": "https://www.cls.cn/detail/2361707",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -154,8 +156,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时42分 ~ 13时37分]"
+        },
+        {
+          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时42分 ~ 10时39分]"
+          "time_info": "[10时38分 ~ 13时37分]"
         },
         {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
@@ -181,39 +194,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时53分 ~ 08时42分]"
-        },
-        {
-          "title": "女子15年前买的金条完全不含黄金",
-          "url": "https://www.toutiao.com/trending/7634657327857614889/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "女子15年前买的金条经检测不含黄金",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9015%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E9%87%91%E6%9D%A1%E7%BB%8F%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%90%AB%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
         },
         {
           "title": "伊朗战争丨特朗普：说我们没赢，这是叛国",
@@ -271,15 +251,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1035.768吨，较前一个交易日维持不变。",
-          "url": "https://flash.jin10.com/detail/20260502102042473800",
+          "title": "特朗普称美国已出售1亿桶委内瑞拉石油，未来一个月还会再有1亿桶",
+          "url": "https://flash.jin10.com/detail/20260502131125491800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "13时37分"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：4月30日，EBS平台受理的日元成交量达到858亿美元，创最近十年来新高。 通过CME旗下FX Link产品的日元成交量突破9.2万合约，创历史新高。 日元期权成交总额42亿美元。 4月30日，期货、期权、现货市场的日元成交量1407亿美元。",
@@ -317,6 +297,18 @@
           "time_info": "[04时04分 ~ 08时42分]"
         },
         {
+          "title": "女子15年前买的金条完全不含黄金",
+          "url": "https://www.toutiao.com/trending/7634657327857614889/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 13时37分]"
+        },
+        {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
           "url": "https://wallstreetcn.com/articles/3771459",
           "source": "华尔街见闻",
@@ -339,15 +331,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "据华尔街日报：特朗普政府已于当地时间周四终止了对精神航空的救助计划。美国商务部长卢特尼克已将精神航空首席执行官转介至美国交通部，以寻求帮助以结束该航空公司的运营。",
-          "url": "https://flash.jin10.com/detail/20260502095753000800",
+          "title": "分析：伊朗僵局可能使美国总统特朗普的处境比开战前更糟",
+          "url": "https://flash.jin10.com/detail/20260502130655165800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "13时37分"
         },
         {
           "title": "周五（5月1日），美联储隔夜逆回购协议（RRP）使用规模为6.07亿美元（交易对手5家），上个交易日报82.61亿美元。",
@@ -396,6 +388,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时53分 ~ 10时39分]"
+        },
+        {
+          "title": "女子15年前买的金条经检测不含黄金",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9015%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E9%87%91%E6%9D%A1%E7%BB%8F%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%90%AB%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 13时37分]"
         },
         {
           "title": "特朗普告诉国会，伊朗战争已“终止”，美国参议院少数党领袖舒默对此回应称：“这真是胡说八道。 这是一场非法战争，每一天共和党人继续同谋并允许其继续，都是在让生命处于危险之中，混乱加剧，物价上涨，而美国人却在为此买单。 ”",
@@ -448,17 +452,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
-          "url": "https://flash.jin10.com/detail/20260502095648869800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
           "title": "特朗普暗示不会就持续对伊朗军事行动寻求国会批准",
           "url": "https://wallstreetcn.com/livenews/3097993",
           "source": "华尔街见闻-快讯",
@@ -479,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "特朗普威胁称“美军将从伊朗返回路上去接管古巴”",
+          "url": "https://wallstreetcn.com/livenews/3098108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "郑丽文希望去美国见特朗普，黄国昌回应",
@@ -503,6 +507,32 @@
           "time_info": "[02时06分 ~ 05时53分]"
         },
         {
+          "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
+          "url": "https://flash.jin10.com/detail/20260502080736827800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 13时37分]"
+        },
+        {
+          "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260502080556644800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 13时37分]"
+        },
+        {
           "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
           "url": "https://wallstreetcn.com/livenews/3098073",
           "source": "华尔街见闻-快讯",
@@ -516,16 +546,17 @@
           "time_info": "[06时50分 ~ 10时39分]"
         },
         {
-          "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
-          "url": "https://flash.jin10.com/detail/20260502080736827800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3098088",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            17
+            3,
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时39分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 13时37分]"
         },
         {
           "title": "LME期铜收涨10美元，报12996美元/吨。 LME期铝收涨48美元，报3522美元/吨。 LME期锌收跌16美元，报3344美元/吨。 LME期铅收跌6美元，报1949美元/吨。 LME期镍收跌103美元，报19365美元/吨。 LME期锡收涨209美元，报49423美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -552,18 +583,6 @@
           "time_info": "[02时07分 ~ 04时04分]"
         },
         {
-          "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502080556644800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时39分]"
-        },
-        {
           "title": "特朗普：对伊朗提出的最新谈判方案“不满意”",
           "url": "https://wallstreetcn.com/livenews/3097986",
           "source": "华尔街见闻-快讯",
@@ -576,16 +595,52 @@
           "time_info": "[01时01分 ~ 02时07分]"
         },
         {
-          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/3098088",
+          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
+          "url": "https://wallstreetcn.com/livenews/3098085",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            5,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 13时37分]"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1035.768吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260502102042473800",
+          "source": "金十数据",
+          "ranks": [
             3,
-            16
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时39分]"
+          "time_info": "[10时39分 ~ 13时37分]"
+        },
+        {
+          "title": "据华尔街日报：特朗普政府已于当地时间周四终止了对精神航空的救助计划。美国商务部长卢特尼克已将精神航空首席执行官转介至美国交通部，以寻求帮助以结束该航空公司的运营。",
+          "url": "https://flash.jin10.com/detail/20260502095753000800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 13时37分]"
+        },
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时42分 ~ 13时37分]"
         },
         {
           "title": "德国副总理：我们不需要特朗普的建议",
@@ -597,6 +652,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时06分 ~ 05时53分]"
+        },
+        {
+          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
+          "url": "https://flash.jin10.com/detail/20260502095648869800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 13时37分]"
         },
         {
           "title": "美国总统特朗普：美国现在生产和卖出的石油更多了。",
@@ -611,27 +678,53 @@
           "time_info": "[01时01分 ~ 02时07分]"
         },
         {
-          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
-          "url": "https://wallstreetcn.com/livenews/3098085",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时39分]"
-        },
-        {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
-          "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时42分 ~ 10时39分]"
+          "time_info": "[10时38分 ~ 13时37分]"
+        },
+        {
+          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
+          "url": "https://wallstreetcn.com/livenews/3098084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 13时37分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3098081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 13时37分]"
+        },
+        {
+          "title": "闽超泉州官宣赵文卓：把郑成功请来了",
+          "url": "https://www.baidu.com/s?wd=%E9%97%BD%E8%B6%85%E6%B3%89%E5%B7%9E%E5%AE%98%E5%AE%A3%E8%B5%B5%E6%96%87%E5%8D%93%EF%BC%9A%E6%8A%8A%E9%83%91%E6%88%90%E5%8A%9F%E8%AF%B7%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 13时37分]"
         },
         {
           "title": "短端美债收益率本周累涨约10个基点",
@@ -645,6 +738,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时50分 ~ 10时39分]"
+        },
+        {
+          "title": "男子30年前被扣押2859克黄金申请退赔被拒受理续：辽宁盖州警方被责令重新作出决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084131",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 13时37分]"
         },
         {
           "title": "周五（5月1日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8310元，较周四纽约尾盘涨10点，日内整体交投于6.8360-6.8233元区间。",
@@ -719,29 +824,6 @@
           "time_info": "[05时53分 ~ 08时42分]"
         },
         {
-          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
-          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时39分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗提出了我无法同意的事。",
           "url": "https://wallstreetcn.com/livenews/3097981",
           "source": "华尔街见闻-快讯",
@@ -752,18 +834,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时07分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时39分]"
         },
         {
           "title": "美国总统特朗普：美国现在不会离开霍尔木兹海峡。",
@@ -778,17 +848,6 @@
           "time_info": "[01时01分 ~ 02时07分]"
         },
         {
-          "title": "闽超泉州官宣赵文卓：把郑成功请来了",
-          "url": "https://www.baidu.com/s?wd=%E9%97%BD%E8%B6%85%E6%B3%89%E5%B7%9E%E5%AE%98%E5%AE%A3%E8%B5%B5%E6%96%87%E5%8D%93%EF%BC%9A%E6%8A%8A%E9%83%91%E6%88%90%E5%8A%9F%E8%AF%B7%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
           "title": "美国总统特朗普：可能会去法国参加七国集团（G7）峰会。",
           "url": "https://wallstreetcn.com/livenews/3097979",
           "source": "华尔街见闻-快讯",
@@ -799,6 +858,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时07分]"
+        },
+        {
+          "title": "知情人士透露，特朗普政府与精神航空控股公司（Spirit Aviation Holdings Inc.）之间的谈判已经结束，未能达成救助这家陷入困境的航空公司的协议。上述人士表示，该航司正准备在纽约时间周六凌晨3点左右停止运营。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 13时37分]"
         },
         {
           "title": "谈判短期达成结果不现实！特朗普称“目标是迫使放弃发展核武器”，伊朗最高领袖“将核、导弹都视为国家资产”",
@@ -824,6 +895,18 @@
           "time_info": "[01时01分 ~ 02时07分]"
         },
         {
+          "title": "特朗普声称美国“几乎能立即”接管古巴",
+          "url": "https://wallstreetcn.com/livenews/3098094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 13时37分]"
+        },
+        {
           "title": "美股总市值突破 75 万亿美元，创历史新高，主要受哪些因素拉动？如何解读这一市值？",
           "url": "https://www.zhihu.com/question/2033586111524468458",
           "source": "知乎",
@@ -845,6 +928,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时07分]"
+        },
+        {
+          "title": "特朗普称美国“几乎能立即接管”古巴",
+          "url": "https://flash.jin10.com/detail/20260502084948231800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 13时37分]"
         },
         {
           "title": "欧洲议会贸易委员会主席Bernd Lange：美国总统特朗普的行为让人无法接受。 我们欧盟以及欧洲议会，正在履行《苏格兰协议》（Scotland Deal）。 我们目前正在起草相关立法；我们已有议会立场，并计划在 6 月敲定。 美国已多次违反该协议。 最近的这一举动证明了美方是多么地不可信。 这不是对待紧密合作伙伴的方式。",
@@ -893,17 +988,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 02时07分]"
-        },
-        {
-          "title": "男子30年前被扣押2859克黄金申请退赔被拒受理续：辽宁盖州警方被责令重新作出决定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084131",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 10时39分]"
         },
         {
           "title": "特朗普：我认为将近400艘油轮被困在霍尔木兹海峡",
@@ -1029,6 +1113,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "美股创新高之际，对冲基金资产规模创新高",
+          "url": "https://flash.jin10.com/detail/20260502121701582800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "比特币涨超2%，美股盘初曾逼近7.9万美元，狗狗币最近七天涨超10%",
           "url": "https://wallstreetcn.com/livenews/3097992",
           "source": "华尔街见闻-快讯",
@@ -1084,6 +1179,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
+          "url": "https://wallstreetcn.com/articles/3771461",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "美国总统特朗普：（关于对欧盟汽车的关税）欧盟未遵守协议。",
           "url": "https://flash.jin10.com/detail/20260502002828872800",
           "source": "金十数据",
@@ -1093,6 +1199,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
+          "url": "https://www.zhihu.com/question/2033267772931749457",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "马斯克承认蒸馏ChatGPT",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "美国总统特朗普：伊朗已经没有军队了。",
@@ -1128,15 +1267,15 @@
           "time_info": "05时53分"
         },
         {
-          "title": "知情人士透露，特朗普政府与精神航空控股公司（Spirit Aviation Holdings Inc.）之间的谈判已经结束，未能达成救助这家陷入困境的航空公司的协议。上述人士表示，该航司正准备在纽约时间周六凌晨3点左右停止运营。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3098096",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
+          "url": "https://www.cls.cn/detail/2362040",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "13时37分"
         },
         {
           "title": "美国总统特朗普：对意大利和西班牙感到不满。",
@@ -1150,6 +1289,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "特朗普将美国封锁伊朗港口比作海盗行为：是“非常赚钱的生意”",
+          "url": "https://flash.jin10.com/detail/20260502105413404800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "美媒：特朗普告知国会，对伊朗战事已“结束”",
           "url": "https://wallstreetcn.com/livenews/3098021",
           "source": "华尔街见闻-快讯",
@@ -1159,17 +1309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        },
-        {
-          "title": "特朗普声称美国“几乎能立即”接管古巴",
-          "url": "https://wallstreetcn.com/livenews/3098094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         },
         {
           "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
@@ -1249,17 +1388,6 @@
           "time_info": "02时07分"
         },
         {
-          "title": "特朗普称美国“几乎能立即接管”古巴",
-          "url": "https://flash.jin10.com/detail/20260502084948231800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
           "title": "布伦特原油期货本周涨超9%，周四一度逼近115美元",
           "url": "https://wallstreetcn.com/livenews/3098015",
           "source": "华尔街见闻-快讯",
@@ -1293,6 +1421,28 @@
           "time_info": "01时01分"
         },
         {
+          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2033639221991319346",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）对最新提案不满意。",
           "url": "https://flash.jin10.com/detail/20260502002417534800",
           "source": "金十数据",
@@ -1324,6 +1474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美国汽油均价创近4年来新高，加州突破6美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33089658",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的6.07亿美元。",
