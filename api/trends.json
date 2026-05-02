@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T22:46:44.762771+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-05-02T23:45:31.315658+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 194,
+      "match_count": 196,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时38分 ~ 22时46分]"
+          "appearance_count": 11,
+          "time_info": "[10时38分 ~ 23时45分]"
         },
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时37分 ~ 22时46分]"
+          "appearance_count": 9,
+          "time_info": "[13时37分 ~ 23时45分]"
         },
         {
           "title": "男子30年前被扣押2859克黄金申请退赔被拒受理续：辽宁盖州警方被责令重新作出决定",
@@ -57,11 +57,12 @@
             7,
             6,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时38分 ~ 22时46分]"
+          "appearance_count": 11,
+          "time_info": "[10时38分 ~ 23时45分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -109,8 +110,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时38分 ~ 22时46分]"
+          "appearance_count": 11,
+          "time_info": "[10时38分 ~ 23时45分]"
         },
         {
           "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
@@ -123,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时01分 ~ 22时46分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 23时45分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -137,8 +138,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时42分 ~ 22时46分]"
+          "appearance_count": 12,
+          "time_info": "[08时42分 ~ 23时45分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -168,6 +169,23 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[01时01分 ~ 21时10分]"
+        },
+        {
+          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            11,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时37分 ~ 23时45分]"
         },
         {
           "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
@@ -233,23 +251,6 @@
           "time_info": "[02时06分 ~ 05时53分]"
         },
         {
-          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            11,
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时37分 ~ 22时46分]"
-        },
-        {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
           "source": "澎湃新闻",
@@ -288,6 +289,19 @@
           "time_info": "[05时53分 ~ 08时42分]"
         },
         {
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时06分 ~ 23时45分]"
+        },
+        {
           "title": "女子15年前买的金条完全不含黄金",
           "url": "https://www.toutiao.com/trending/7634657327857614889/",
           "source": "今日头条",
@@ -301,19 +315,6 @@
           "time_info": "[10时38分 ~ 17时06分]"
         },
         {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时06分 ~ 22时46分]"
-        },
-        {
           "title": "伊朗战争丨特朗普：说我们没赢，这是叛国",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -323,6 +324,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
+          "url": "https://news.ifeng.com/c/8so6eb1hVjp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时45分]"
         },
         {
           "title": "女子15年前买的金条经检测不含黄金",
@@ -411,7 +423,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -549,17 +561,6 @@
           "time_info": "[05时53分 ~ 10时39分]"
         },
         {
-          "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
-          "url": "https://news.ifeng.com/c/8so6eb1hVjp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）我感到不满。",
           "url": "https://flash.jin10.com/detail/20260502003003874800",
           "source": "金十数据",
@@ -607,6 +608,34 @@
           "time_info": "[17时06分 ~ 21时10分]"
         },
         {
+          "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
+          "url": "https://wallstreetcn.com/livenews/3098148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 23时45分]"
+        },
+        {
+          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
+          "url": "https://wallstreetcn.com/livenews/3098147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 23时45分]"
+        },
+        {
           "title": "郑丽文希望去美国见特朗普，黄国昌回应",
           "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
           "source": "凤凰网",
@@ -616,6 +645,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时06分 ~ 06时50分]"
+        },
+        {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时44分 ~ 23时45分]"
+        },
+        {
+          "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时44分 ~ 23时45分]"
         },
         {
           "title": "伊朗战争丨特朗普：对伊朗最新的谈判方案不满意",
@@ -653,19 +706,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时42分 ~ 13时37分]"
-        },
-        {
-          "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
-          "url": "https://wallstreetcn.com/livenews/3098148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时45分 ~ 22时46分]"
         },
         {
           "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1035.768吨，较前一个交易日维持不变。",
@@ -720,17 +760,17 @@
           "time_info": "[08时42分 ~ 13时37分]"
         },
         {
-          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
-          "url": "https://wallstreetcn.com/livenews/3098147",
+          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098157",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             12,
-            21
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时45分 ~ 22时46分]"
+          "time_info": "[21时10分 ~ 23时45分]"
         },
         {
           "title": "LME期铜收涨10美元，报12996美元/吨。 LME期铝收涨48美元，报3522美元/吨。 LME期锌收跌16美元，报3344美元/吨。 LME期铅收跌6美元，报1949美元/吨。 LME期镍收跌103美元，报19365美元/吨。 LME期锡收涨209美元，报49423美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -845,6 +885,19 @@
           "time_info": "[08时42分 ~ 13时37分]"
         },
         {
+          "title": "伯克希尔哈撒韦现金储备激增至创纪录的3970亿美元",
+          "url": "https://wallstreetcn.com/livenews/3098155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时45分]"
+        },
+        {
           "title": "特朗普称美国已出售1亿桶委内瑞拉石油，未来一个月还会再有1亿桶",
           "url": "https://flash.jin10.com/detail/20260502131125491800",
           "source": "金十数据",
@@ -867,18 +920,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时52分 ~ 19时45分]"
-        },
-        {
-          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时46分]"
         },
         {
           "title": "分析：伊朗僵局可能使美国总统特朗普的处境比开战前更糟",
@@ -964,18 +1005,6 @@
           "time_info": "[13时37分 ~ 15时43分]"
         },
         {
-          "title": "伯克希尔哈撒韦现金储备激增至创纪录的3970亿美元",
-          "url": "https://wallstreetcn.com/livenews/3098155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时46分]"
-        },
-        {
           "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
           "url": "https://wallstreetcn.com/livenews/3098122",
           "source": "华尔街见闻-快讯",
@@ -990,15 +1019,17 @@
           "time_info": "[15时43分 ~ 19时45分]"
         },
         {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
+          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
+          "url": "https://www.cls.cn/detail/2362019",
+          "source": "财联社热门",
           "ranks": [
+            13,
+            10,
             11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时44分 ~ 22时46分]"
+          "time_info": "[18时52分 ~ 23时45分]"
         },
         {
           "title": "黄金创史上最大双月跌幅",
@@ -1012,18 +1043,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时06分 ~ 19时45分]"
-        },
-        {
-          "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时44分 ~ 22时46分]"
         },
         {
           "title": "“闽超”泉州vs福州",
@@ -1051,6 +1070,19 @@
           "time_info": "[08时42分 ~ 13时37分]"
         },
         {
+          "title": "伯克希尔哈撒韦第一季度运营利润为113.5亿美元，同比增长18%。 第一季度净利润101.1亿美元，去年同期为46亿美元。 第一季度保险承保业务运营收入17.2亿美元，同比增长29% 第一季度保险投资业务运营收入26.8亿美元，同比下降7.4% 第一季度伯克希尔哈撒韦能源公司运营收入11.1亿美元，同比增长1.5% 第一季度投资净亏损为12.40亿美元，去年同期亏损为50.38亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时45分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
           "url": "https://wallstreetcn.com/livenews/3098081",
           "source": "华尔街见闻-快讯",
@@ -1076,6 +1108,18 @@
           "time_info": "[10时38分 ~ 13时37分]"
         },
         {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时45分]"
+        },
+        {
           "title": "短端美债收益率本周累涨约10个基点",
           "url": "https://wallstreetcn.com/livenews/3098066",
           "source": "华尔街见闻-快讯",
@@ -1087,18 +1131,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时50分 ~ 10时39分]"
-        },
-        {
-          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
-          "url": "https://www.cls.cn/detail/2362019",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 22时46分]"
         },
         {
           "title": "周五（5月1日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.8310元，较周四纽约尾盘涨10点，日内整体交投于6.8360-6.8233元区间。",
@@ -1113,6 +1145,18 @@
           "time_info": "[05时53分 ~ 08时42分]"
         },
         {
+          "title": "闽超泉州主场赵文卓再现“郑成功”",
+          "url": "https://www.baidu.com/s?wd=%E9%97%BD%E8%B6%85%E6%B3%89%E5%B7%9E%E4%B8%BB%E5%9C%BA%E8%B5%B5%E6%96%87%E5%8D%93%E5%86%8D%E7%8E%B0%E2%80%9C%E9%83%91%E6%88%90%E5%8A%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时45分]"
+        },
+        {
           "title": "美国汽油均价创近4年来新高，加州突破6美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33089658",
           "source": "澎湃新闻",
@@ -1124,6 +1168,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时37分 ~ 17时06分]"
+        },
+        {
+          "title": "媒体：泉州一高校因学生走路看手机劝退学生还辞退4名教师？各方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092359",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时45分]"
         },
         {
           "title": "周五（5月1日）纽约尾盘，现货黄金跌0.04%，报4616.35美元/盎司，本周累计下跌2.02%，4月27-29日持续下挫，本周大部分时间交投于4600美元附近。 现货白银涨2.22%，报75.3804美元/盎司，本周累跌0.46%，呈现出宽底U形走势。 现货铂金涨0.11%，报1990.05美元/盎司，本周累跌1.31%，4月30日纽约尾盘曾跌至1876.62美元。 现货钯金跌0.41%，报1526.71美元/盎司，本周累涨3.68%，4月28-29日低位持稳，随后持续走高。",
@@ -1198,18 +1255,6 @@
           "time_info": "[13时37分 ~ 15时43分]"
         },
         {
-          "title": "伯克希尔哈撒韦第一季度运营利润为113.5亿美元，同比增长18%。 第一季度净利润101.1亿美元，去年同期为46亿美元。 第一季度保险承保业务运营收入17.2亿美元，同比增长29% 第一季度保险投资业务运营收入26.8亿美元，同比下降7.4% 第一季度伯克希尔哈撒韦能源公司运营收入11.1亿美元，同比增长1.5% 第一季度投资净亏损为12.40亿美元，去年同期亏损为50.38亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时46分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗提出了我无法同意的事。",
           "url": "https://wallstreetcn.com/livenews/3097981",
           "source": "华尔街见闻-快讯",
@@ -1246,6 +1291,17 @@
           "time_info": "[01时01分 ~ 02时07分]"
         },
         {
+          "title": "福州1-0战胜泉州",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E1-0%E6%88%98%E8%83%9C%E6%B3%89%E5%B7%9E",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 23时45分]"
+        },
+        {
           "title": "美国总统特朗普：可能会去法国参加七国集团（G7）峰会。",
           "url": "https://wallstreetcn.com/livenews/3097979",
           "source": "华尔街见闻-快讯",
@@ -1279,17 +1335,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 10时39分]"
-        },
-        {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时46分]"
         },
         {
           "title": "特朗普将美国封锁伊朗港口比作海盗行为：是“非常赚钱的生意”",
@@ -1351,16 +1396,16 @@
           "time_info": "[18时52分 ~ 19时45分]"
         },
         {
-          "title": "闽超泉州主场赵文卓再现“郑成功”",
-          "url": "https://www.baidu.com/s?wd=%E9%97%BD%E8%B6%85%E6%B3%89%E5%B7%9E%E4%B8%BB%E5%9C%BA%E8%B5%B5%E6%96%87%E5%8D%93%E5%86%8D%E7%8E%B0%E2%80%9C%E9%83%91%E6%88%90%E5%8A%9F%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
+          "url": "https://www.cls.cn/detail/2362106",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            28
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时46分]"
+          "time_info": "[22时46分 ~ 23时45分]"
         },
         {
           "title": "特朗普：对伊朗最新提交的谈判方案“不满意”",
@@ -1375,16 +1420,16 @@
           "time_info": "[01时01分 ~ 02时07分]"
         },
         {
-          "title": "媒体：泉州一高校因学生走路看手机劝退学生还辞退4名教师？各方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092359",
-          "source": "澎湃新闻",
+          "title": "闽超福州1:0泉州",
+          "url": "https://www.douyin.com/hot/2486970",
+          "source": "抖音",
           "ranks": [
-            15,
-            13
+            12,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时46分]"
+          "time_info": "[22时46分 ~ 23时45分]"
         },
         {
           "title": "特朗普称美国“几乎能立即接管”古巴",
@@ -1621,9 +1666,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
+        },
+        {
+          "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
+          "url": "https://www.zhihu.com/question/2033868695617933924",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊战事已“结束”",
@@ -1690,17 +1746,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
-        },
-        {
-          "title": "福州1-0战胜泉州",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E1-0%E6%88%98%E8%83%9C%E6%B3%89%E5%B7%9E",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
         },
         {
           "title": "美国总统特朗普：伊朗已经没有军队了。",
@@ -1824,26 +1869,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "闽超福州1:0泉州",
-          "url": "https://www.douyin.com/hot/2486970",
-          "source": "抖音",
+          "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
+          "url": "https://www.zhihu.com/question/2033826035330978433",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
-          "url": "https://www.cls.cn/detail/2362106",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
+          "time_info": "23时45分"
         },
         {
           "title": "美国总统特朗普：不确定我们是否能达成协议。",
