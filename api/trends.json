@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T07:43:18.845202+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-05-03T10:50:25.140103+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 41,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2362040",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时50分]"
         },
         {
           "title": "男子30年前被扣押2859克黄金申请退赔被拒受理续：辽宁盖州警方被责令重新作出决定",
@@ -47,23 +48,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时43分]"
-        },
-        {
-          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
-          "url": "https://www.cls.cn/detail/2361824",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时50分]"
         },
         {
           "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
@@ -78,16 +68,17 @@
           "time_info": "[00时45分 ~ 07时43分]"
         },
         {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
           "source": "财联社热门",
           "ranks": [
+            6,
             7,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时50分]"
         },
         {
           "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
@@ -118,6 +109,19 @@
           "time_info": "[00时45分 ~ 07时43分]"
         },
         {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时50分]"
+        },
+        {
           "title": "福州1-0战胜泉州",
           "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%B7%9E1-0%E6%88%98%E8%83%9C%E6%B3%89%E5%B7%9E",
           "source": "百度热搜",
@@ -129,6 +133,19 @@
           "time_info": "[00时45分 ~ 07时43分]"
         },
         {
+          "title": "媒体：泉州一高校因学生走路看手机劝退学生还辞退4名教师？各方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092359",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时50分]"
+        },
+        {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
           "url": "https://www.cls.cn/detail/2362106",
           "source": "财联社热门",
@@ -137,8 +154,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时50分]"
+        },
+        {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时50分]"
         },
         {
           "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
@@ -153,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时50分]"
         },
         {
           "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
@@ -163,29 +192,6 @@
           "ranks": [
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时43分]"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时43分]"
-        },
-        {
-          "title": "媒体：泉州一高校因学生走路看手机劝退学生还辞退4名教师？各方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092359",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -201,6 +207,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时45分 ~ 07时43分]"
+        },
+        {
+          "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 10时50分]"
+        },
+        {
+          "title": "闽超福州1:0泉州",
+          "url": "https://www.douyin.com/hot/2486970",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 10时50分]"
         },
         {
           "title": "闽超泉州主场赵文卓再现“郑成功”",
@@ -228,29 +260,17 @@
           "time_info": "[00时45分 ~ 07时43分]"
         },
         {
-          "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
-          "source": "澎湃新闻",
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            18,
-            19
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时45分 ~ 06时41分]"
-        },
-        {
-          "title": "闽超福州1:0泉州",
-          "url": "https://www.douyin.com/hot/2486970",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时43分]"
+          "time_info": "[02时58分 ~ 10时50分]"
         },
         {
           "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
@@ -262,18 +282,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 05时41分]"
-        },
-        {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时58分 ~ 07时43分]"
         },
         {
           "title": "马斯克去年在特斯拉挣了0美元",
@@ -314,11 +322,12 @@
           "ranks": [
             1,
             3,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 07时43分]"
+          "appearance_count": 5,
+          "time_info": "[04时42分 ~ 10时50分]"
         },
         {
           "title": "特朗普的白宫贸易顾问纳瓦罗纳瓦罗：美联储主席任期于5月15日届满时，鲍威尔就应该“滚出”美国华盛顿特区。",
@@ -340,11 +349,12 @@
           "ranks": [
             3,
             5,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 07时43分]"
+          "appearance_count": 5,
+          "time_info": "[04时42分 ~ 10时50分]"
         },
         {
           "title": "女子15年前买的金条完全不含黄金",
@@ -374,6 +384,50 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
+          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771492",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260503100854906800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "越南4月贸易帐 -32.8亿美元，预期-4亿美元，前值-6.77亿美元。",
+          "url": "https://flash.jin10.com/detail/20260503100527566800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "特朗普金卡计划为何失败",
@@ -415,6 +469,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 04时42分]"
+        },
+        {
+          "title": "英国法院裁定三星向中兴赔偿3.92亿美元，被指严重低估专利价值",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33093047",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 10时50分]"
         },
         {
           "title": "特朗普政府：无需为其他美国廉价航空公司提供救助",
@@ -491,15 +557,70 @@
           "time_info": "[06时41分 ~ 07时43分]"
         },
         {
-          "title": "英国法院裁定三星向中兴赔偿3.92亿美元，被指严重低估专利价值",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093047",
-          "source": "澎湃新闻",
+          "title": "伊朗战争丨伊方公布最新谈判方案，特朗普回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            12
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "10时50分"
+        },
+        {
+          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
+          "url": "https://flash.jin10.com/detail/20260503094347765800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "越南4月贸易余额 -32.8亿美元，预期 -4亿美元，前值 -6.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
+          "url": "https://wallstreetcn.com/livenews/3098221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你打带娃去哪了？有选择研学吗？",
+          "url": "https://www.zhihu.com/question/2032142179552994728",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "特朗普说有可能重启对伊朗空袭",
+          "url": "https://flash.jin10.com/detail/20260503081040091800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "巴菲特：伯克希尔已从苹果投资中获利1850亿美元",
@@ -513,6 +634,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://wallstreetcn.com/livenews/3098201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "马斯克手撕OpenAI为哪般",
           "url": "https://www.toutiao.com/trending/7635297039152057892/",
           "source": "今日头条",
@@ -522,6 +654,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "特朗普称从德国撤军规模将远超5000人",
+          "url": "https://wallstreetcn.com/livenews/3098200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "特朗普称美国有可能重启对伊朗空袭",
+          "url": "https://wallstreetcn.com/livenews/3098199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "特朗普威胁称伊朗“尚未付出足够大代价”",
+          "url": "https://wallstreetcn.com/livenews/3098198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     }
