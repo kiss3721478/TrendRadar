@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T14:14:00.679785+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-05-04T17:19:24.942590+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 78,
+      "match_count": 91,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -101,16 +101,32 @@
           "time_info": "[00时50分 ~ 14时14分]"
         },
         {
+          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
+          "url": "https://wallstreetcn.com/articles/3771507",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时57分 ~ 17时19分]"
+        },
+        {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
           "url": "https://www.cls.cn/detail/2362106",
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 14时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 17时19分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -123,21 +139,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 10时48分]"
-        },
-        {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时57分 ~ 14时14分]"
         },
         {
           "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
@@ -155,6 +156,17 @@
           "time_info": "[00时51分 ~ 07时44分]"
         },
         {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时13分 ~ 17时19分]"
+        },
+        {
           "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
           "url": "https://www.zhihu.com/question/2034052667509621790",
           "source": "知乎",
@@ -166,6 +178,17 @@
           "time_info": "[00时50分 ~ 06时41分]"
         },
         {
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时13分 ~ 17时19分]"
+        },
+        {
           "title": "如何评价福建泉州某职业技术大学，学生因为走路玩手机被劝退？",
           "url": "https://www.zhihu.com/question/2033604089888646898",
           "source": "知乎",
@@ -175,17 +198,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时48分 ~ 14时14分]"
-        },
-        {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
         },
         {
           "title": "特朗普谈及美军扣押伊朗油轮，称这是一笔非常赚钱的买卖，我们就像海盗，如何看待此事？",
@@ -214,17 +226,6 @@
           "time_info": "[00时50分 ~ 05时41分]"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
-        },
-        {
           "title": "特朗普：美国将从周一开始帮助一些船只离开霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3098312",
           "source": "华尔街见闻-快讯",
@@ -238,6 +239,18 @@
           "time_info": "[04时44分 ~ 06时41分]"
         },
         {
+          "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 17时19分]"
+        },
+        {
           "title": "欧佩克主要产油国连续第三个月宣布增产，伊朗新谈判方案重创原油，特朗普称伊朗新提议不可接受，美国将启动引导被困霍尔木兹海峡船只驶离行动…后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260504103301059800",
           "source": "金十数据",
@@ -249,15 +262,61 @@
           "time_info": "10时48分"
         },
         {
+          "title": "港交所拟重启黄金期货交易",
+          "url": "https://wallstreetcn.com/livenews/3098449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "印度数据中心公司Yotta的CEO表示，公司在IPO前寻求60亿美元的估值。",
+          "url": "https://flash.jin10.com/detail/20260504165231332800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "德国汽车股盘前普跌1~2%，此前特朗普称将对欧盟输美汽车和卡车加征25%关税。",
           "url": "https://wallstreetcn.com/livenews/3098402",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 17时19分]"
         },
         {
           "title": "据华尔街日报：游戏驿站(GME.N)提出以每股125美元或约合560亿美元的价格收购eBay(EBAY.O)。",
@@ -305,18 +364,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时44分 ~ 07时44分]"
-        },
-        {
-          "title": "特朗普：伊朗的“新提议”不可接受",
-          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 14时14分]"
         },
         {
           "title": "美官员澄清：特朗普“解救”霍尔木兹海峡被困船只的行动不涉及军舰护航",
@@ -456,6 +503,19 @@
           "time_info": "[04时44分 ~ 07时44分]"
         },
         {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 17时19分]"
+        },
+        {
           "title": "美国总统特朗普：我完全留意到，我的代表们正在与伊朗进行非常积极的磋商，这些磋商有望为各方带来积极成果。",
           "url": "https://flash.jin10.com/detail/20260504044058616800",
           "source": "金十数据",
@@ -480,6 +540,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时59分 ~ 05时41分]"
+        },
+        {
+          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时48分 ~ 17时19分]"
         },
         {
           "title": "着眼经济转型，阿联酋石油巨头布局550亿美元项目",
@@ -510,30 +582,6 @@
           "time_info": "[04时44分 ~ 07时44分]"
         },
         {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 14时14分]"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时48分 ~ 14时14分]"
-        },
-        {
           "title": "特朗普在接受采访时表示，（伊朗的）提议我不接受。我们考虑了伊朗的提议，但这对我们不利。",
           "url": "https://flash.jin10.com/detail/20260504013508239800",
           "source": "金十数据",
@@ -547,15 +595,16 @@
           "time_info": "[02时59分 ~ 04时44分]"
         },
         {
-          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
-          "source": "澎湃新闻",
+          "title": "金价又又又跌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%8F%88%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            11,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时48分 ~ 14时14分]"
+          "time_info": "[14时13分 ~ 17时19分]"
         },
         {
           "title": "德国总理默茨：（就与特朗普在部队撤回问题上发生的争执）两者之间没有关联。",
@@ -631,17 +680,6 @@
           "time_info": "[06时41分 ~ 07时44分]"
         },
         {
-          "title": "金价又又又跌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%8F%88%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
-        },
-        {
           "title": "WTI原油周一低开2.7%，最新报101.02美元/桶。",
           "url": "https://flash.jin10.com/detail/20260504060152818800",
           "source": "金十数据",
@@ -695,9 +733,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "港交所拟重启黄金期货交易",
+          "url": "https://flash.jin10.com/detail/20260504163540570800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "金十图示：2026年05月04日（周一）黄金ETF持仓报告",
@@ -733,6 +782,28 @@
           "time_info": "10时48分"
         },
         {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "网传泉州某职业大学学生走路玩手机被劝退，4 名教师被辞退，学校称为警醒师生，实际未执行，反映出哪些问题？",
+          "url": "https://www.zhihu.com/question/2033604089888646898",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "持仓逼近200亿美元！“稳定币老大”Tether“放缓”囤金，一季度还是买了6吨",
           "url": "https://wallstreetcn.com/articles/3771502",
           "source": "华尔街见闻",
@@ -755,13 +826,24 @@
           "time_info": "10时48分"
         },
         {
+          "title": "现货白银日内跌超2.00%，现报74.24美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "北约秘书长：由于一些欧洲国家在伊朗战争中的立场，特朗普现在感到很沮丧。",
           "url": "https://flash.jin10.com/detail/20260504132754851800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -810,6 +892,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3098437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "Anthropic携手华尔街巨头 豪掷15亿美元深耕私募AI咨询市场",
           "url": "https://flash.jin10.com/detail/20260504101348077800",
           "source": "金十数据",
@@ -821,6 +914,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "布伦特原油日内涨幅达2.0%，报110.37美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "亚行将为亚太地区两项新倡议提供700亿美元支持",
           "url": "https://flash.jin10.com/detail/20260503232056925800",
           "source": "金十数据",
@@ -830,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "四道难关近在眼前 特朗普怎么过",
+          "url": "https://www.toutiao.com/trending/7634889469027581971/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "澳新银行：预计2026年布伦特原油价格将超过90美元/桶，2027年为80-85美元/桶。",
@@ -849,7 +964,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -860,7 +975,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -871,9 +986,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.0%，报103.01美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "美军周一将开展「自由计划」霍尔木兹海峡船只疏导行动，伊朗表示反对，特朗普此举在政治和经济上有何深意？",
+          "url": "https://www.zhihu.com/question/2034567556967739711",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "伊朗最高领袖外事顾问：特朗普近期言行难掩“白宫幻想破灭”",
@@ -893,7 +1030,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -904,9 +1041,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3098425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "报道：中国机器人初创公司灵心巧手寻求60亿美元估值",
@@ -937,7 +1085,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         }
