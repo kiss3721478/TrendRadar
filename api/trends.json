@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T05:03:39.868611+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-05-06T06:59:29.186143+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 64,
+      "match_count": 71,
       "titles": [
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
@@ -16,30 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
         },
         {
           "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
           "url": "https://www.cls.cn/detail/2362745",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
-        },
-        {
-          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
-          "url": "https://www.cls.cn/detail/2362725",
-          "source": "财联社热门",
-          "ranks": [
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
         },
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -49,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
         },
         {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
@@ -62,6 +52,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 03时19分]"
+        },
+        {
+          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
+          "url": "https://www.cls.cn/detail/2362725",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
         },
         {
           "title": "谷歌(GOOG.O)首席科学家警告称，欧盟监管机构的数据共享方式未能有效保护欧洲人的隐私。",
@@ -142,6 +144,52 @@
           "time_info": "03时19分"
         },
         {
+          "title": "创新药持续创收，医药公司首季成绩单喜人",
+          "url": "https://wallstreetcn.com/livenews/3098969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。",
+          "url": "https://wallstreetcn.com/livenews/3098968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
+          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
+        },
+        {
+          "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
+          "url": "https://www.cls.cn/detail/2363061",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 06时59分]"
+        },
+        {
           "title": "金价跳水是机会还是坑",
           "url": "https://www.toutiao.com/trending/7636354274716290614/",
           "source": "今日头条",
@@ -165,6 +213,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 03时19分]"
+        },
+        {
+          "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
+          "url": "https://wallstreetcn.com/articles/3771562",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
+        },
+        {
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
         },
         {
           "title": "布伦特原油日内跌幅达4.0%，报109.82美元/桶。",
@@ -191,40 +263,6 @@
           "time_info": "[02时06分 ~ 03时19分]"
         },
         {
-          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
-          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
-        },
-        {
-          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
-          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
-        },
-        {
-          "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
-          "url": "https://wallstreetcn.com/articles/3771562",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
-        },
-        {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
           "url": "https://www.cls.cn/detail/2362589",
           "source": "财联社热门",
@@ -233,8 +271,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
         },
         {
           "title": "巴菲特谈为人处事“黄金法则”：你希望别人怎么待你，你就怎样待别人，照此行事没见过谁不快乐的",
@@ -242,11 +280,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
         },
         {
           "title": "特朗普准备“抛弃”台湾了吗",
@@ -255,11 +294,12 @@
           "ranks": [
             22,
             20,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
         },
         {
           "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
@@ -269,20 +309,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时03分]"
-        },
-        {
-          "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
-          "url": "https://www.cls.cn/detail/2363061",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 06时59分]"
         },
         {
           "title": "特朗普避谈伊朗何种行为将被视为违反停火协议：你们会知道的",
@@ -326,7 +354,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -348,7 +376,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -359,7 +387,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -381,7 +409,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -408,6 +436,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.714吨，当前持仓量为1034.054吨。",
+          "url": "https://flash.jin10.com/detail/20260506061702400800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "沙特一季度财政赤字1257亿里亚尔（折合335亿美元），逼近全年赤字440亿美元的预期。 一季度总体开支3867亿里亚尔，同比增长20%；一季度财政收入2610亿里亚尔。",
           "url": "https://wallstreetcn.com/livenews/3098869",
           "source": "华尔街见闻-快讯",
@@ -425,7 +464,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -458,7 +497,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -480,7 +519,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -491,7 +530,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -502,7 +541,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -513,7 +552,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -540,6 +579,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "AMD(AMD.O)美股盘后涨超11%。",
+          "url": "https://flash.jin10.com/detail/20260506055845033800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "OpenAI：在我们持续测试和完善体验的过程中，将逐步向更多企业开放广告管理器。",
           "url": "https://flash.jin10.com/detail/20260506015935825800",
           "source": "金十数据",
@@ -557,9 +607,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "ChatGPT宣布，已作为插件登陆Excel和谷歌表格（Google Sheets）。ChatGPT表示，其能帮助分析杂乱的数据、编写公式、更新电子表格，并在操作过程中解释其操作步骤——这一切都无需离开电子表格界面。服务将由GPT-5.5提供支持。",
+          "url": "https://flash.jin10.com/detail/20260506055208531800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "OpenAI：今天，我们开始逐步推出ChatGPT中的测试版自助广告管理器。",
@@ -579,7 +640,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -601,7 +662,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -623,9 +684,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "周二（5月5日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8270元，较周一纽约尾盘涨36点，日内整体交投于6.8360-6.8255元区间。",
+          "url": "https://wallstreetcn.com/livenews/3098947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
@@ -645,7 +717,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -656,7 +728,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -667,9 +739,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "金价涨超0.7%，自4500美元附近反弹",
+          "url": "https://wallstreetcn.com/livenews/3098945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "AMD(AMD.O)2026年Q1营收102.53亿美元，上年同期74.38亿美元，市场预期98.92亿美元。",
@@ -678,7 +761,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -689,7 +772,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -700,7 +783,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -722,7 +805,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         }
