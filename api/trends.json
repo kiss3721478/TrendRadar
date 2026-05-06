@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-06T07:48:16.990063+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-05-06T10:45:15.415175+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 79,
+      "match_count": 92,
       "titles": [
+        {
+          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
+          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时06分 ~ 10时45分]"
+        },
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
           "url": "https://wallstreetcn.com/articles/3771561",
@@ -32,15 +43,15 @@
           "time_info": "[02时06分 ~ 07时48分]"
         },
         {
-          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
-          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
+          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
+          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
           "source": "凤凰网",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时06分 ~ 07时48分]"
+          "appearance_count": 8,
+          "time_info": "[02时06分 ~ 10时45分]"
         },
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -53,6 +64,45 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时06分 ~ 07时48分]"
+        },
+        {
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时06分 ~ 10时45分]"
+        },
+        {
+          "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
+          "url": "https://www.cls.cn/detail/2363061",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时19分 ~ 10时45分]"
+        },
+        {
+          "title": "巴菲特谈为人处事“黄金法则”：你希望别人怎么待你，你就怎样待别人，照此行事没见过谁不快乐的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33097949",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时06分 ~ 10时45分]"
         },
         {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
@@ -77,30 +127,6 @@
           "time_info": "[07时47分 ~ 07时48分]"
         },
         {
-          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
-          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时06分 ~ 07时48分]"
-        },
-        {
-          "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
-          "url": "https://www.cls.cn/detail/2363061",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时19分 ~ 07时48分]"
-        },
-        {
           "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
           "url": "https://wallstreetcn.com/articles/3771562",
           "source": "华尔街见闻",
@@ -114,15 +140,15 @@
           "time_info": "[02时06分 ~ 07时48分]"
         },
         {
-          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
-          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
-          "source": "凤凰网",
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时06分 ~ 07时48分]"
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         },
         {
           "title": "谷歌(GOOG.O)首席科学家警告称，欧盟监管机构的数据共享方式未能有效保护欧洲人的隐私。",
@@ -142,7 +168,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -153,20 +179,6 @@
           "ranks": [
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时06分 ~ 07时48分]"
-        },
-        {
-          "title": "巴菲特谈为人处事“黄金法则”：你希望别人怎么待你，你就怎样待别人，照此行事没见过谁不快乐的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33097949",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14,
-            16
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -216,7 +228,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -238,7 +250,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -361,6 +373,29 @@
           "time_info": "[06时59分 ~ 07时48分]"
         },
         {
+          "title": "OpenAI或加速手机开发",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 10时45分]"
+        },
+        {
+          "title": "特朗普承认自己曾“不得不”常买中国货",
+          "url": "https://www.cls.cn/detail/2363024",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
           "title": "特朗普避谈伊朗何种行为将被视为违反停火协议：你们会知道的",
           "url": "https://wallstreetcn.com/livenews/3098873",
           "source": "华尔街见闻-快讯",
@@ -385,6 +420,17 @@
           "time_info": "[02时06分 ~ 03时19分]"
         },
         {
+          "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2362959",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.714吨，当前持仓量为1034.054吨。",
           "url": "https://flash.jin10.com/detail/20260506061702400800",
           "source": "金十数据",
@@ -395,6 +441,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时48分]"
+        },
+        {
+          "title": "我们在开发 VR 独立游戏，快三年了，累计年底投入 45 万美元，内容是打丧尸，类似亚利桑那阳光，还能坚持吗？",
+          "url": "https://www.zhihu.com/question/2033300815583122067",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "现在“抄底”黄金是捡漏吗",
+          "url": "https://www.toutiao.com/trending/7636550911220780586/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "抓住晨起后的黄金时间 做好这几件事",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%93%E4%BD%8F%E6%99%A8%E8%B5%B7%E5%90%8E%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E9%97%B4+%E5%81%9A%E5%A5%BD%E8%BF%99%E5%87%A0%E4%BB%B6%E4%BA%8B",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         },
         {
           "title": "周二（5月5日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8270元，较周一纽约尾盘涨36点，日内整体交投于6.8360-6.8255元区间。",
@@ -409,13 +488,24 @@
           "time_info": "[06时59分 ~ 07时48分]"
         },
         {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://wallstreetcn.com/livenews/3098974",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -437,7 +527,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -475,17 +565,6 @@
           "time_info": "05时03分"
         },
         {
-          "title": "OpenAI或加速手机开发",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
           "title": "市场消息：美国国务院批准向乌克兰潜在销售联合直接攻击弹药增程型及相关设备，金额为3.736亿美元。",
           "url": "https://flash.jin10.com/detail/20260506021849250800",
           "source": "金十数据",
@@ -514,9 +593,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "遭遇供应危机后，澳大利亚拟投入72亿美元建立燃油储备",
+          "url": "https://flash.jin10.com/detail/20260506102742672800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
@@ -580,7 +670,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -605,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "现货白银上涨近3%，至每盎司75.01美元。",
+          "url": "https://wallstreetcn.com/livenews/3099047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)一直在测试与谷歌和Anthropic的集成。",
@@ -651,6 +752,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "鹰派预期将继续施压金价，但情绪指标暗示长期配置机会已到？",
+          "url": "https://flash.jin10.com/detail/20260506102413219800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "美股行业ETF普遍收涨，半导体ETF涨超3.1%",
           "url": "https://wallstreetcn.com/livenews/3098929",
           "source": "华尔街见闻-快讯",
@@ -693,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "分析师：中东紧张局势缓和，黄金期货上涨",
+          "url": "https://flash.jin10.com/detail/20260506102019973800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "OpenAI：在我们持续测试和完善体验的过程中，将逐步向更多企业开放广告管理器。",
@@ -869,6 +992,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8562，创2023年3月24日以来新高，上调66点；上一交易日中间价6.8628，上一交易日官方收盘价6.8335，上日夜盘报收6.8310。",
+          "url": "https://wallstreetcn.com/livenews/3099028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "现货黄金向上触及4630美元/盎司，日内涨1.62%。",
+          "url": "https://flash.jin10.com/detail/20260506100833851800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "美债收益率走低，因伊朗停火协议得以维持和油价下跌",
