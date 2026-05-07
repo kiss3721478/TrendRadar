@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T19:48:29.227816+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-05-07T22:08:14.749590+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 127,
+      "match_count": 141,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时55分 ~ 22时08分]"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[06时55分 ~ 19时48分]"
+          "time_info": "[10时47分 ~ 22时08分]"
         },
         {
           "title": "中方再回应特朗普访华",
@@ -33,15 +44,15 @@
           "time_info": "[00时28分 ~ 14时10分]"
         },
         {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时47分 ~ 19时48分]"
+          "time_info": "[17时50分 ~ 22时08分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -56,6 +67,33 @@
           "time_info": "[00时28分 ~ 05时57分]"
         },
         {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时10分 ~ 22时08分]"
+        },
+        {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 22时08分]"
+        },
+        {
           "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
           "url": "https://www.cls.cn/detail/2364367",
           "source": "财联社热门",
@@ -68,17 +106,6 @@
           "time_info": "[08时03分 ~ 14时10分]"
         },
         {
-          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
-          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时48分]"
-        },
-        {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -88,6 +115,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 08时03分]"
+        },
+        {
+          "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "2026美加墨世界杯转播权涨到3亿美元，央视选择拒绝",
@@ -125,6 +163,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时03分 ~ 14时10分]"
+        },
+        {
+          "title": "世界杯中国赞助商已投入超5亿美元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E5%B7%B2%E6%8A%95%E5%85%A5%E8%B6%855%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 22时08分]"
         },
         {
           "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
@@ -172,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "纽约准备批准一揽子广泛的移民保护措施，以反击特朗普。",
+          "url": "https://flash.jin10.com/detail/20260507215355912800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "现货白银站上80美元/盎司，日内涨3.5%。",
@@ -293,6 +355,17 @@
           "time_info": "14时10分"
         },
         {
+          "title": "苹果股价创下历史新高，最高报290.33美元/股，总市值报4.25万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "地缘缓和曙光重燃，黄金是否已重新启动涨势？",
           "url": "https://flash.jin10.com/detail/20260507101705643800",
           "source": "金十数据",
@@ -310,7 +383,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -348,19 +421,6 @@
           "time_info": "14时10分"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时10分 ~ 19时48分]"
-        },
-        {
           "title": "分析称Axios报道70分钟前油市现9.2亿美元异常空单",
           "url": "https://flash.jin10.com/detail/20260506235838713800",
           "source": "金十数据",
@@ -389,9 +449,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 22时08分]"
         },
         {
           "title": "马士基：第一季度息税前利润为3.4亿美元。",
@@ -426,30 +499,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时03分 ~ 17时51分]"
-        },
-        {
-          "title": "世界杯中国赞助商已投入超5亿美元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E5%B7%B2%E6%8A%95%E5%85%A5%E8%B6%855%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时48分]"
-        },
-        {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时47分 ~ 19时48分]"
         },
         {
           "title": "美国军方希望开发一种成本低于25万美元的拦截器。（华尔街日报）",
@@ -539,16 +588,16 @@
           "time_info": "[17时50分 ~ 19时48分]"
         },
         {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时48分]"
+          "time_info": "[19时48分 ~ 22时08分]"
         },
         {
           "title": "特朗普称暂停自由计划行动",
@@ -610,6 +659,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时55分]"
+        },
+        {
+          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2365305",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "金价今年或涨至5200美元",
@@ -693,6 +753,17 @@
           "time_info": "[17时50分 ~ 17时51分]"
         },
         {
+          "title": "黄金涨跌关键在美联储？大摩：年内有望冲上5200美元，还有一次降息！",
+          "url": "https://www.cls.cn/detail/2364823",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
+        },
+        {
           "title": "金价涨2.8%，逼近4700美元",
           "url": "https://wallstreetcn.com/livenews/3099570",
           "source": "华尔街见闻-快讯",
@@ -748,6 +819,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "美股三大股指小幅高开，标普500指数涨0.09%，道指涨0.39%，纳指涨0.14%。ARM下跌7%，因AI芯片供应担忧盖过乐观业绩指引。美股AI应用软件股走强，Datadog涨超30%，Snowflake涨10%，MongoDB涨12%。光通信板块走低，Coherent跌超5%，Credo、Lumentum跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3100035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股盘中）",
@@ -822,7 +904,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -860,24 +942,13 @@
           "time_info": "17时51分"
         },
         {
-          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
-          "url": "https://wallstreetcn.com/articles/3771704",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
           "title": "纽约期银日内大涨5.00%，现报81.18美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260507192619763800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -891,6 +962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "预测平台Kalshi完成10亿美元F轮融资，估值达220亿美元",
+          "url": "https://wallstreetcn.com/livenews/3100029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
@@ -948,6 +1030,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "波兰央行行长：波兰央行目前持有595吨黄金储备，并计划将其增至700吨。",
+          "url": "https://wallstreetcn.com/livenews/3100027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "消息人士透露，以色列总理内塔尼亚胡将于周三与特朗普政府官员举行会谈，以便更好地了解美伊谈判的最新进展。",
           "url": "https://flash.jin10.com/detail/20260506234235329800",
           "source": "金十数据",
@@ -965,9 +1058,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：与美国总统特朗普保持着“几乎每日”的联系，在美方就对伊和平问题展开谈判时，将“不会有任何意外”。",
+          "url": "https://flash.jin10.com/detail/20260507214625285800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "卡夫亨氏（Kraft Heinz）：截至2026年第一季度，伊朗冲突未对我们的经营业绩产生重大影响。 受伊朗冲突等因素影响，预计2026年全年通胀压力将有所增加。 截至3月28日，预计在2026年余下时间内裁减400个职位，主要集中在北美以外地区。 季度重组活动产生了2,300万美元的净收益，其他重组成本产生了4,500万美元的净收益。 截至3月28日，《One Big Beautiful Bill》法案未对我们的总税收计提产生重大影响。 预计2026年资本支出约为9亿美元。",
@@ -1031,7 +1135,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -1045,6 +1149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3100025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "韩国4月外汇储备 4278.8亿美元，前值4236.6亿美元。",
@@ -1179,6 +1294,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260507214244190800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "在岸人民币兑美元涨116点至6.8033元，创2023年2月14日以来新高。 离岸人民币兑美元涨107点至6.8024元，创2023年2月10日以来新高。",
           "url": "https://wallstreetcn.com/livenews/3099682",
           "source": "华尔街见闻-快讯",
@@ -1188,6 +1314,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "WTI原油跌破90美元/桶，报89.9美元/桶，日内跌5.4%；布伦特原油日内跌幅达5.0%，报96.18美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3100019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "世界黄金协会：4月全球黄金ETF扭转颓势，录得66亿美元净流入",
+          "url": "https://wallstreetcn.com/livenews/3100018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "名不见经传的塞尔维亚团体出价23.5亿美元，竞购俄资石油公司NIS过半股份",
@@ -1295,7 +1443,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -1441,6 +1589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "美股AI应用软件股走强，Datadog涨超30%，Snowflake涨10%，MongoDB涨12%。",
+          "url": "https://flash.jin10.com/detail/20260507213139386800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "美股盘前，ARM跌超4%，公司Q4财季营收同比增长20.2%。",
