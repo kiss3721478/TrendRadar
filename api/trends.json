@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T21:49:00.319563+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-05-08T23:26:27.027904+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 144,
+      "match_count": 157,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 21时49分]"
+          "appearance_count": 10,
+          "time_info": "[10时51分 ~ 23时26分]"
         },
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -81,6 +81,22 @@
           "time_info": "[00时49分 ~ 05时58分]"
         },
         {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10,
+            11,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时51分 ~ 23时26分]"
+        },
+        {
           "title": "特朗普访华前瞻——台湾怎么办？",
           "url": "https://news.ifeng.com/c/8swQYqpheqc",
           "source": "凤凰网",
@@ -103,21 +119,6 @@
           "time_info": "[00时49分 ~ 05时58分]"
         },
         {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 21时49分]"
-        },
-        {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
           "url": "https://www.cls.cn/detail/2366051",
           "source": "财联社热门",
@@ -127,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 21时49分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 23时26分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -140,6 +141,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时51分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
+          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时48分 ~ 23时26分]"
         },
         {
           "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
@@ -168,17 +180,6 @@
           "time_info": "[00时49分 ~ 10时51分]"
         },
         {
-          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
-          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
-        },
-        {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
           "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
@@ -189,6 +190,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 07时04分]"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 23时26分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -213,18 +227,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时31分 ~ 19时15分]"
-        },
-        {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 21时49分]"
         },
         {
           "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
@@ -256,9 +258,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "美国总统特朗普：战争部已向公众发布了第一批不明飞行物/不明空中现象（UFO/UAP）档案，供大家查阅和研究。为了实现完全透明，我荣幸地指示我的政府部门识别并提供与外星生命、不明空中现象和不明飞行物相关的政府档案。以往的政府在这个问题上未能做到透明，但有了这些新的文件和视频，人们可以自行判断“这到底是怎么回事？”祝大家愉快！",
+          "url": "https://flash.jin10.com/detail/20260508231252471800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "周四（5月7日）纽约尾盘，欧元兑美元跌0.03%，报1.1744，英镑兑美元跌0.14%，报1.3575，美元兑瑞郎涨0.08%，报0.7793。 商品货币对中，澳元兑美元跌0.17%，纽元兑美元跌0.08%，美元兑加元涨0.03%。",
@@ -322,7 +335,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -355,9 +368,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "阿斯麦ADR创盘中历史新高，成为首家市值突破6000亿美元的欧洲公司",
+          "url": "https://wallstreetcn.com/livenews/3100813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -422,7 +446,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -444,9 +468,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "沪市主板111家医药类公司一季度合计营收超3305亿元",
+          "url": "https://wallstreetcn.com/livenews/3100811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
@@ -557,8 +592,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 23时26分]"
+        },
+        {
+          "title": "中国赞助商投入超 5 亿美元赞助美加墨世界杯，若世界杯不在中国转播，会造成哪些影响？谁该为此买单？",
+          "url": "https://www.zhihu.com/question/2035688647794635303",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 23时26分]"
         },
         {
           "title": "分析人士：美伊和平协议若落地 黄金白银“超级牛市”有望重启",
@@ -572,18 +620,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 10时51分]"
-        },
-        {
-          "title": "中国赞助商投入超 5 亿美元赞助美加墨世界杯，若世界杯不在中国转播，会造成哪些影响？谁该为此买单？",
-          "url": "https://www.zhihu.com/question/2035688647794635303",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时49分]"
         },
         {
           "title": "回扣入刑 医药代表迎最严监管",
@@ -838,7 +874,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -852,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "花旗：铜市场短期支撑位在13000美元/吨附近。 基本假设是，美国关税、库存动能将构成逆风，那将造成铜价到四季度跌至12000美元。",
+          "url": "https://wallstreetcn.com/livenews/3100807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "巴菲特为何说美股正赌场化",
@@ -893,7 +940,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1058,7 +1105,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1080,7 +1127,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1149,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "阿根廷国家石油公司YPF：上调与埃尼集团Eni、ADNOC合资公司的资本开支（不含钻井）至240亿美元。 投资者对阿根廷液化天然气（LNG）的需求超过（本公司自身的）融资目标。",
+          "url": "https://wallstreetcn.com/livenews/3100800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美国天然气期货日内涨超3.00%，现报2.812美元/百万英热。",
@@ -1278,7 +1336,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1338,6 +1396,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "特朗普将欧盟批准关税协议的最后期限延长至7月4日",
           "url": "https://flash.jin10.com/detail/20260508034301244800",
           "source": "金十数据",
@@ -1347,6 +1416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "据悉伊朗战争消息公布前油价押注总额达70亿美元，规模远超此前报道",
@@ -1393,6 +1473,28 @@
           "time_info": "15时32分"
         },
         {
+          "title": "巴克莱：维持布伦特原油价格2026年预期在100美元/桶不变，存在上行风险倾。 即使在最乐观的情境下，我们认为油价可能仍然偏低，因为需求保持强劲韧性，且库存持续快速消耗。 建议做多2026年12月ICE柴油与布伦特原油的裂解价差（Crack Spread），撰写本文时该价差为33.4美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3100794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "金价今年会涨至5200美元吗",
+          "url": "https://www.toutiao.com/trending/7637144858989170214/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "美国贸易法庭的裁决并未全面阻止特朗普10%的关税，仅针对两家提起诉讼的公司。",
           "url": "https://flash.jin10.com/detail/20260508054706756800",
           "source": "金十数据",
@@ -1413,6 +1515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "美国总统特朗普赞扬弗吉尼亚州法院裁定推翻民主党选区划分。",
+          "url": "https://flash.jin10.com/detail/20260508225351506800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "纽约期金涨超0.3%，收复4700美元关口，现货白银一度涨穿82美元",
@@ -1465,7 +1578,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1479,6 +1592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "哈塞特质疑“新债王”的债务言论，宣称：美国信奉强势美元",
+          "url": "https://wallstreetcn.com/livenews/3100792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "分析师：中东局势缓和预期打压美元与美债收益率",
@@ -1547,6 +1671,17 @@
           "time_info": "17时20分"
         },
         {
+          "title": "特朗普的“餐厅菜单”上新？继TACO后，NACHO逻辑正席卷市场",
+          "url": "https://flash.jin10.com/detail/20260508224705469800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3100199",
           "source": "华尔街见闻-快讯",
@@ -1567,6 +1702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "花旗：基准情景显示，受美国关税及库存动态带来的阻力影响，铜价预计将于2026年第四季度温和回落至12,000美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260508224606380800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "WTI原油5分钟内上涨0.66美元/桶，报92.37美元/桶；布伦特原油5分钟内上涨0.59美元/桶，报98.47美元/桶。",
@@ -1619,7 +1765,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
