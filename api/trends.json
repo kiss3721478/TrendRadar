@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T15:32:12.048763+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-05-08T17:20:36.699758+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 110,
+      "match_count": 122,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -20,6 +20,17 @@
           "time_info": "[00时49分 ~ 10时51分]"
         },
         {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 17时20分]"
+        },
+        {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
           "url": "https://wallstreetcn.com/articles/3771614",
           "source": "华尔街见闻",
@@ -32,15 +43,30 @@
           "time_info": "[00时49分 ~ 07时04分]"
         },
         {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
           "ranks": [
-            1
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时51分 ~ 15时32分]"
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 17时20分]"
+        },
+        {
+          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771759",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时24分 ~ 17时20分]"
         },
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -74,32 +100,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时49分 ~ 05时58分]"
-        },
-        {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时51分 ~ 15时32分]"
-        },
-        {
-          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771759",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时24分 ~ 15时32分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -150,6 +150,32 @@
           "time_info": "[00时49分 ~ 07时04分]"
         },
         {
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 17时20分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 17时20分]"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗不迅速签署协议，那么在将来，我们将会以更猛烈、更激烈的手段来对付他们。",
           "url": "https://flash.jin10.com/detail/20260508063613403800",
           "source": "金十数据",
@@ -170,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股收跌，油价走V，黄金冲高转跌",
@@ -211,7 +248,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -283,28 +320,16 @@
           "time_info": "04时14分"
         },
         {
-          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
-          "url": "https://wallstreetcn.com/articles/3771769",
-          "source": "华尔街见闻",
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
           "ranks": [
             7,
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时51分 ~ 15时32分]"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时51分 ~ 15时32分]"
+          "time_info": "[13时31分 ~ 17时20分]"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -318,6 +343,17 @@
           "time_info": "10时51分"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "特朗普：给予欧盟至7月4日履行贸易协议，否则将提高关税",
           "url": "https://wallstreetcn.com/livenews/3100166",
           "source": "华尔街见闻-快讯",
@@ -327,6 +363,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 17时20分]"
+        },
+        {
+          "title": "6G产业化进程加速 工信部批复“黄金频谱”用于试验",
+          "url": "https://www.cls.cn/detail/2365676",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 17时20分]"
         },
         {
           "title": "世界杯中国赞助商已投入超5亿美元",
@@ -368,18 +428,6 @@
           "time_info": "[02时24分 ~ 04时14分]"
         },
         {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 15时32分]"
-        },
-        {
           "title": "WTI原油5分钟内下跌0.52美元/桶，报94.93美元/桶；布伦特原油5分钟内下跌0.57美元/桶，报100.6美元/桶。 据半岛电视台，美国官员表示，关于准备重启“自由行动”的报道不属实。",
           "url": "https://wallstreetcn.com/livenews/3100151",
           "source": "华尔街见闻-快讯",
@@ -404,28 +452,16 @@
           "time_info": "[13时31分 ~ 15时32分]"
         },
         {
-          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
-          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 15时32分]"
-        },
-        {
-          "title": "6G产业化进程加速 工信部批复“黄金频谱”用于试验",
-          "url": "https://www.cls.cn/detail/2365676",
+          "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
+          "url": "https://www.cls.cn/detail/2365829",
           "source": "财联社热门",
           "ranks": [
-            13,
-            8
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 15时32分]"
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 17时20分]"
         },
         {
           "title": "分析人士：美伊和平协议若落地 黄金白银“超级牛市”有望重启",
@@ -507,17 +543,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 07时04分]"
-        },
-        {
-          "title": "阶跃将完成近25亿美元融资：终端产业链资方集体入场，加速筹备赴港IPO",
-          "url": "https://www.cls.cn/detail/2365829",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时32分]"
         },
         {
           "title": "布伦特原油期货转涨，此前一度下跌5美元/桶。",
@@ -627,7 +652,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -663,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "巴菲特为何说美股正赌场化",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%B8%BA%E4%BD%95%E8%AF%B4%E7%BE%8E%E8%82%A1%E6%AD%A3%E8%B5%8C%E5%9C%BA%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美股收盘：三大股指收跌 Arm跌10%",
@@ -764,6 +800,17 @@
           "time_info": "13时32分"
         },
         {
+          "title": "恒瑞医药：HRS-3005片等多个药品获批开展临床试验",
+          "url": "https://flash.jin10.com/detail/20260508164228437800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "LME期铜跌0.1%，报13372.50美元/吨。 LME期铅涨0.1%，报1980美元/吨，一度涨至1990美元创2月27日以来盘中新高。 LME期铝涨1.0%，报3488美元/吨。 LME期锌涨1.6%，报3455美元/吨。 LME期锡涨0.5%，报54105美元/吨。 LME期镍跌0.6%，报19090美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3100112",
           "source": "华尔街见闻-快讯",
@@ -841,6 +888,17 @@
           "time_info": "10时51分"
         },
         {
+          "title": "中国央行连续第18个月增持黄金，国际金价升破4700美元后贵不贵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "央行连续第18个月增持黄金",
           "url": "https://www.douyin.com/hot/2491379",
           "source": "抖音",
@@ -872,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "美元指数DXY向下触及98，日内跌0.27%。",
+          "url": "https://flash.jin10.com/detail/20260508164000056800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国总统特朗普：会见巴西总统卢拉的情况非常不错。",
@@ -938,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "中美双方就特朗普访华保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "据路透社旗下媒体IFR：沙特阿拉伯公共投资基金敲定70亿美元三部分债券的最终条款。",
@@ -1028,6 +1108,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "在岸人民币兑美元5月8日16:30收盘报6.8017，较上一交易日下跌2点。",
+          "url": "https://flash.jin10.com/detail/20260508163111892800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "美元兑日元涨0.17%，刷新日高至156.65。",
           "url": "https://wallstreetcn.com/livenews/3100133",
           "source": "华尔街见闻-快讯",
@@ -1100,7 +1191,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1114,6 +1205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD向上触及1.36，日内涨0.36%。",
+          "url": "https://flash.jin10.com/detail/20260508162824288800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "纽约期金涨超0.3%，收复4700美元关口，现货白银一度涨穿82美元",
@@ -1144,7 +1246,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1171,6 +1273,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美元指数向下触及98，日内跌0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3100553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "丰田：预计本财年美元兑日元平均汇率为150。预计本财年欧元平均汇率为180日元。",
           "url": "https://flash.jin10.com/detail/20260508125634580800",
           "source": "金十数据",
@@ -1188,7 +1301,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1202,6 +1315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "非农今晚20:30登场 美元会否再遭当头一棒？",
+          "url": "https://flash.jin10.com/detail/20260508162127063800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
@@ -1235,6 +1359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "特朗普对欧设定红线：若不将关税降至零，就大幅加税！",
+          "url": "https://flash.jin10.com/detail/20260508161738691800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "人民币兑美元中间价报6.8502，下调15点；上一交易日中间价6.8487，上一交易日官方收盘价6.8015，上日夜盘报收6.8068。",
