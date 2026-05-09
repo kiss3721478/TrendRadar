@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T18:57:42.036571+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-05-09T19:54:24.460370+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 115,
+      "match_count": 117,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 18时57分]"
+          "appearance_count": 8,
+          "time_info": "[10时45分 ~ 19时54分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时56分 ~ 18时57分]"
+          "appearance_count": 9,
+          "time_info": "[07时56分 ~ 19时54分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
@@ -68,6 +68,18 @@
           "time_info": "[01时17分 ~ 07时56分]"
         },
         {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时45分 ~ 19时54分]"
+        },
+        {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
           "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
@@ -80,18 +92,6 @@
           "time_info": "[01时17分 ~ 06时06分]"
         },
         {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 18时57分]"
-        },
-        {
           "title": "花旗：当前基本情景预计，2026年第二季度布伦特原油价格平均为110美元，随后在第三季度降至95美元，第四季度降至80美元。",
           "url": "https://flash.jin10.com/detail/20260509041442169800",
           "source": "金十数据",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时00分 ~ 07时56分]"
+        },
+        {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时45分 ~ 19时54分]"
         },
         {
           "title": "花旗：维持对未来3个月原油价格120美元的预测。",
@@ -128,17 +139,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时17分 ~ 10时45分]"
-        },
-        {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 18时57分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -175,6 +175,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 19时54分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -255,6 +267,19 @@
           "time_info": "03时17分"
         },
         {
+          "title": "中国4月以美元计价出口同比增长14.1%，进口同比增长25.3%",
+          "url": "https://wallstreetcn.com/articles/3771888",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时57分 ~ 19时54分]"
+        },
+        {
           "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
           "url": "https://flash.jin10.com/detail/20260509024606066800",
           "source": "金十数据",
@@ -277,29 +302,30 @@
           "time_info": "10时45分"
         },
         {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
+            10,
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时49分 ~ 17时20分]"
+          "time_info": "[15时57分 ~ 19时54分]"
         },
         {
-          "title": "中国4月以美元计价出口同比增长14.1%，进口同比增长25.3%",
-          "url": "https://wallstreetcn.com/articles/3771888",
-          "source": "华尔街见闻",
+          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
+          "url": "https://www.zhihu.com/question/2036400046988579032",
+          "source": "知乎",
           "ranks": [
-            8,
-            6,
-            7
+            17,
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 18时57分]"
+          "appearance_count": 5,
+          "time_info": "[15时57分 ~ 19时54分]"
         },
         {
           "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
@@ -350,17 +376,16 @@
           "time_info": "[07时56分 ~ 10时45分]"
         },
         {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时57分 ~ 18时57分]"
+          "time_info": "[17时19分 ~ 19时54分]"
         },
         {
           "title": "美股大类资产类ETF普遍收涨，纳指ETF涨超2.3%，布油基金今年迄今涨超87%",
@@ -423,28 +448,15 @@
           "time_info": "[06时06分 ~ 07时56分]"
         },
         {
-          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
-          "url": "https://www.zhihu.com/question/2036400046988579032",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 18时57分]"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时57分]"
+          "time_info": "[17时19分 ~ 19时54分]"
         },
         {
           "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
@@ -552,17 +564,6 @@
           "time_info": "[13时49分 ~ 15时57分]"
         },
         {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
-        },
-        {
           "title": "据华尔街日报，苹果与英特尔达成初步的芯片制造协议。 英特尔涨幅扩大至18.9%，盘中市值突破6500亿美元。",
           "url": "https://wallstreetcn.com/livenews/3100847",
           "source": "华尔街见闻-快讯",
@@ -597,6 +598,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 10时45分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
+          "url": "https://flash.jin10.com/detail/20260509182305293800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时54分]"
         },
         {
           "title": "美国总统特朗普：我们有一个问题，因为墨西哥由毒贩们经营。",
@@ -735,6 +748,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3101062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "2026年一季度我国黄金产量81.065吨，同比下降7.08%",
           "url": "https://flash.jin10.com/detail/20260509100300004800",
           "source": "金十数据",
@@ -821,17 +845,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
-          "url": "https://flash.jin10.com/detail/20260509182305293800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
         },
         {
           "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
@@ -1043,6 +1056,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "霍尔木兹海峡受阻，德航运巨头称每周额外花费超5000万美元",
+          "url": "https://wallstreetcn.com/livenews/3101053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
           "url": "https://wallstreetcn.com/livenews/3100943",
           "source": "华尔街见闻-快讯",
@@ -1148,7 +1172,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
