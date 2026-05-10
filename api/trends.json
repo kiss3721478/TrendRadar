@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:15:10.092703+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-05-10T19:52:28.129124+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "中国4月以美元计价出口同比增长14.1%，进口同比增长25.3%",
@@ -131,6 +131,44 @@
           "time_info": "[00时55分 ~ 07时49分]"
         },
         {
+          "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
+          "url": "https://www.toutiao.com/trending/7637174028100403226/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时52分]"
+        },
+        {
+          "title": "世界杯中国转播费从 3 亿美元腰斩到 1.5 亿，这个报价怎么样？未来还会降价吗？",
+          "url": "https://www.zhihu.com/question/2036716290836883357",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时52分 ~ 19时52分]"
+        },
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 19时52分]"
+        },
+        {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
           "url": "https://wallstreetcn.com/livenews/3101087",
           "source": "华尔街见闻-快讯",
@@ -147,15 +185,16 @@
           "time_info": "[04时57分 ~ 16时54分]"
         },
         {
-          "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
-          "url": "https://www.toutiao.com/trending/7637174028100403226/",
-          "source": "今日头条",
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
           "ranks": [
-            1
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时15分]"
+          "appearance_count": 8,
+          "time_info": "[07时48分 ~ 19时52分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -185,18 +224,6 @@
           "time_info": "[00时55分 ~ 07时49分]"
         },
         {
-          "title": "世界杯中国转播费从 3 亿美元腰斩到 1.5 亿，这个报价怎么样？未来还会降价吗？",
-          "url": "https://www.zhihu.com/question/2036716290836883357",
-          "source": "知乎",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时52分 ~ 18时15分]"
-        },
-        {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
@@ -211,29 +238,17 @@
           "time_info": "[10时52分 ~ 18时15分]"
         },
         {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
+          "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
+          "url": "https://wallstreetcn.com/articles/3771915",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            4,
-            2
+            8,
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时12分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时48分 ~ 18时15分]"
+          "time_info": "[16时54分 ~ 19时52分]"
         },
         {
           "title": "新债王：若黄金跌到3500美元会买入",
@@ -281,18 +296,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 04时01分]"
-        },
-        {
-          "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
-          "url": "https://wallstreetcn.com/articles/3771915",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时15分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -383,9 +386,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO：伊拉克将6月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油价格升水2.45美元/桶。",
@@ -394,7 +408,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -405,7 +419,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -419,6 +433,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "“闽超”厦门vs泉州",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%97%BD%E8%B6%85%E2%80%9D%E5%8E%A6%E9%97%A8vs%E6%B3%89%E5%B7%9E",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "看对黄金却被洗？交易前先看这6点！",
