@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-11T06:46:44.120474+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-05-11T07:52:46.659455+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时52分]"
         },
         {
           "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
@@ -25,22 +26,24 @@
           "ranks": [
             7,
             6,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时52分]"
         },
         {
           "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
           "url": "https://wallstreetcn.com/articles/3771915",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时52分]"
         },
         {
           "title": "世界杯中国转播费从 3 亿美元腰斩到 1.5 亿，这个报价怎么样？未来还会降价吗？",
@@ -51,11 +54,12 @@
             17,
             13,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时52分]"
         },
         {
           "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
@@ -64,22 +68,12 @@
           "ranks": [
             1,
             5,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时46分]"
-        },
-        {
-          "title": "美国共和党参议员Roger Wicker敦促特朗普重启疏导霍尔木兹海峡受困船只的“自由计划”行动。",
-          "url": "https://flash.jin10.com/detail/20260511062819908800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时52分]"
         },
         {
           "title": "据以色列第i24频道：以色列总理内塔尼亚胡离开在死海举行的德鲁兹派与切尔克斯派地方领导人会议，他向与会者表示，必须赶回耶路撒冷接听美国总统特朗普的紧急来电。",
@@ -93,15 +87,29 @@
           "time_info": "03时03分"
         },
         {
-          "title": "美国总统特朗普在社交媒体上发帖批评福克斯新闻偏袒民主党人撒谎。",
-          "url": "https://flash.jin10.com/detail/20260511061810220800",
+          "title": "特朗普拒绝伊朗和平方案：完全不可接受！",
+          "url": "https://flash.jin10.com/detail/20260511071706316800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时52分"
+        },
+        {
+          "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3101173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时52分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.75%，暂报3056.02点，逼近2月4日顶部3104.13点、1月31日顶部3352.34点，1月11曾拉升至6268.44点。 MarketVectorTM数字资产100中盘指数涨3.40%，报3325.00点，逼近1月29日顶部3518.94点，2025年11月11日顶部在5063.12点。 MarketVector数字资产100指数涨1.20%，报16100.89点。 目前，Solana涨1.44%，狗狗币跌0.21%，XRP涨3.30%。 比特币涨0.59%，暂报81338.26美元，最近三天迄今累涨1.84%，整体持续走高；以太坊涨0.87%，暂报2349.68美元，最近三天迄今累涨2.66%。",
@@ -118,6 +126,20 @@
           "time_info": "[01时52分 ~ 05时47分]"
         },
         {
+          "title": "特朗普：伊朗对和平方案的回应“完全不可接受”",
+          "url": "https://wallstreetcn.com/livenews/3101172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时52分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗将无法再嘲笑美国。",
           "url": "https://flash.jin10.com/detail/20260511020232071800",
           "source": "金十数据",
@@ -129,15 +151,18 @@
           "time_info": "03时03分"
         },
         {
-          "title": "美伊未达成一致：原油走高3% 黄金跌破4700",
-          "url": "https://flash.jin10.com/detail/20260511061124258800",
-          "source": "金十数据",
+          "title": "内塔尼亚胡与特朗普通电话",
+          "url": "https://wallstreetcn.com/livenews/3101171",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4,
+            8,
+            20,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时52分]"
         },
         {
           "title": "美国总统特朗普宣称：伊朗一直在与美国和全世界“耍花招”。 伊朗将再也笑不出来。",
@@ -154,45 +179,6 @@
           "time_info": "[03时03分 ~ 06时46分]"
         },
         {
-          "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3101173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时46分]"
-        },
-        {
-          "title": "特朗普：伊朗对和平方案的回应“完全不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3101172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时46分]"
-        },
-        {
-          "title": "内塔尼亚胡与特朗普通电话",
-          "url": "https://wallstreetcn.com/livenews/3101171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时46分]"
-        },
-        {
           "title": "特朗普：伊朗的回应完全不可接受",
           "url": "https://flash.jin10.com/detail/20260511041440041800",
           "source": "金十数据",
@@ -203,6 +189,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时47分]"
+        },
+        {
+          "title": "特朗普：联邦机构必须优先采购美国货",
+          "url": "https://wallstreetcn.com/livenews/3101161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时47分 ~ 07时52分]"
+        },
+        {
+          "title": "美国共和党参议员Roger Wicker敦促特朗普重启疏导霍尔木兹海峡受困船只的“自由计划”行动。",
+          "url": "https://flash.jin10.com/detail/20260511062819908800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时52分]"
         },
         {
           "title": "美国总统特朗普：我们刚刚成功促成三名波兰人和两名摩尔多瓦人获释，他们此前被关押在白俄罗斯和俄罗斯的拘留所。",
@@ -217,16 +228,42 @@
           "time_info": "[04时46分 ~ 05时47分]"
         },
         {
-          "title": "特朗普：联邦机构必须优先采购美国货",
-          "url": "https://wallstreetcn.com/livenews/3101161",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普在社交媒体上发帖批评福克斯新闻偏袒民主党人撒谎。",
+          "url": "https://flash.jin10.com/detail/20260511061810220800",
+          "source": "金十数据",
           "ranks": [
             4,
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时47分 ~ 06时46分]"
+          "time_info": "[06时46分 ~ 07时52分]"
+        },
+        {
+          "title": "美伊未达成一致：原油走高3% 黄金跌破4700",
+          "url": "https://flash.jin10.com/detail/20260511061124258800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时52分]"
+        },
+        {
+          "title": "特朗普指责伊朗“拖延、戏弄”美国，称拜登比奥巴马更糟",
+          "url": "https://wallstreetcn.com/livenews/3101168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时52分]"
         },
         {
           "title": "如何看待一季度中国黄金消费量303吨",
@@ -239,19 +276,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 05时47分]"
-        },
-        {
-          "title": "特朗普指责伊朗“拖延、戏弄”美国，称拜登比奥巴马更糟",
-          "url": "https://wallstreetcn.com/livenews/3101168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时46分]"
         },
         {
           "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
@@ -315,6 +339,30 @@
           "time_info": "[05时47分 ~ 06时46分]"
         },
         {
+          "title": "现货黄金周一低开近20美元，现报4699.3美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260511060153180800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时52分]"
+        },
+        {
+          "title": "布伦特原油期货跳涨3.5%，此前特朗普称伊朗的回应“不可接受”。",
+          "url": "https://wallstreetcn.com/livenews/3101184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时52分]"
+        },
+        {
           "title": "美媒：特朗普对伊朗最新回应表示拒绝 未明确说明后续计划",
           "url": "https://flash.jin10.com/detail/20260511043952589800",
           "source": "金十数据",
@@ -327,6 +375,30 @@
           "time_info": "[05时47分 ~ 06时46分]"
         },
         {
+          "title": "WTI原油周一开盘大涨3%，现报98.44美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260511060144279800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时52分]"
+        },
+        {
+          "title": "周一亚太盘初，标普、道指期货跌超0.2%，纳指期货跌0.1%。 COMEX黄金期货跌超0.5%，报4705美元；现货黄金跌0.3%，报4698美元。 白银跌1.2%，报79.91美元。",
+          "url": "https://wallstreetcn.com/livenews/3101183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时52分]"
+        },
+        {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
           "url": "https://wallstreetcn.com/articles/3771914",
           "source": "华尔街见闻",
@@ -336,6 +408,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "现货白银跌超1%，现报79.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260511060052783800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时52分]"
+        },
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260511060044695800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时52分]"
         },
         {
           "title": "据以色列第12频道：以色列总理内塔尼亚胡刚刚结束与美国总统特朗普的通话。",
@@ -372,70 +468,26 @@
           "time_info": "03时03分"
         },
         {
-          "title": "现货黄金周一低开近20美元，现报4699.3美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260511060153180800",
+          "title": "金十图示：2026年05月11日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260511065605577800",
           "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时52分"
         },
         {
-          "title": "布伦特原油期货跳涨3.5%，此前特朗普称伊朗的回应“不可接受”。",
-          "url": "https://wallstreetcn.com/livenews/3101184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "WTI原油周一开盘大涨3%，现报98.44美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260511060144279800",
+          "title": "美国总统特朗普在社交媒体上发帖批评最高法院大法官关税裁决让美国损失了1590亿美元、出生公民权裁决危害国家安全。",
+          "url": "https://flash.jin10.com/detail/20260511063947355800",
           "source": "金十数据",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "周一亚太盘初，标普、道指期货跌超0.2%，纳指期货跌0.1%。 COMEX黄金期货跌超0.5%，报4705美元；现货黄金跌0.3%，报4698美元。 白银跌1.2%，报79.91美元。",
-          "url": "https://wallstreetcn.com/livenews/3101183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "现货白银跌超1%，现报79.25美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260511060052783800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美股三大股指期货周一开盘微跌。",
-          "url": "https://flash.jin10.com/detail/20260511060044695800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时52分"
         },
         {
           "title": "消息人士：人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元，并计划发行3000万股股票。若按指导区间上限定价，IPO融资规模可能达到48亿美元。",
@@ -444,7 +496,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
