@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T01:24:53.187160+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-12T03:51:04.161052+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 39,
+      "match_count": 53,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
         },
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -26,8 +26,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
+        },
+        {
+          "title": "美国总统特朗普将于5月13日至15日访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
+        },
+        {
+          "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2037095315845664890",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
         },
         {
           "title": "美国总统特朗普将对中国进行国事访问",
@@ -37,19 +61,76 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
         },
         {
-          "title": "美国总统特朗普将于5月13日至15日访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
-          "source": "澎湃新闻",
+          "title": "外交部介绍特朗普访华安排和中方期待",
+          "url": "https://www.toutiao.com/trending/7638111822163496490/",
+          "source": "今日头条",
           "ranks": [
+            4,
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
+        },
+        {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
+        },
+        {
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
+        },
+        {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
+        },
+        {
+          "title": "周一（5月11日）纽约尾盘，美元兑日元涨0.37%，刷新日高至157.27日元，北京时间03:16（悉尼盘初）跌至156.45日元刷新日低，日内主要持稳于157日元上方。 欧元兑日元涨0.30%，英镑兑日元涨0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3101836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时51分"
+        },
+        {
+          "title": "美元指数11日上涨",
+          "url": "https://flash.jin10.com/detail/20260512032542198800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报3038.63点。 MarketVectorTM数字资产100中盘指数跌1.03%，报3295.16点。 MarketVector数字资产100指数涨0.11%，报16122.26点。 目前，Solana涨1.08%，狗狗币涨0.11%，XRP跌0.75%。 比特币涨0.22%，暂报81582.41美元；以太坊跌1.42%，暂报2329.94美元。",
@@ -63,59 +144,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2037095315845664890",
-          "source": "知乎",
+          "title": "周一（5月11日）纽约尾盘，ICE美元指数涨0.06%，报97.955点，日内交投区间为98.153-97.805点，亚太午盘刷新日高，之后逐步回撤，纽约早间转跌、北京时间22:43刷新日低。 彭博美元指数涨0.10%，报1189.10点，日内交投区间为1190.88-1187.80点。",
+          "url": "https://wallstreetcn.com/livenews/3101835",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "外交部介绍特朗普访华安排和中方期待",
-          "url": "https://www.toutiao.com/trending/7638111822163496490/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2368275",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时51分"
         },
         {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
@@ -129,22 +166,80 @@
           "time_info": "01时24分"
         },
         {
-          "title": "布伦特原油期货涨超4美元。",
-          "url": "https://wallstreetcn.com/livenews/3101789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
           "url": "https://wallstreetcn.com/articles/3771976",
           "source": "华尔街见闻",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
+        },
+        {
+          "title": "从产业角度解析医药体系",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E4%BA%A7%E4%B8%9A%E8%A7%92%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%8C%BB%E8%8D%AF%E4%BD%93%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
+        },
+        {
+          "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
+          "url": "https://www.toutiao.com/trending/7638642573942197823/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
+        },
+        {
+          "title": "中美元首会晤官宣为何是全球利好",
+          "url": "https://www.toutiao.com/trending/7637913647012954158/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时51分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
+        },
+        {
+          "title": "美股盘中：百度集团涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9B%98%E4%B8%AD%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 03时51分]"
+        },
+        {
+          "title": "布伦特原油期货涨超4美元。",
+          "url": "https://wallstreetcn.com/livenews/3101789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -162,33 +257,11 @@
           "time_info": "01时24分"
         },
         {
-          "title": "从产业角度解析医药体系",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E4%BA%A7%E4%B8%9A%E8%A7%92%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%8C%BB%E8%8D%AF%E4%BD%93%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
           "title": "Hudson River一季度交易收入64亿美元，创该公司历史上最佳表现，较2025年总收入增超50%。",
           "url": "https://wallstreetcn.com/livenews/3101787",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
-          "url": "https://www.toutiao.com/trending/7638642573942197823/",
-          "source": "今日头条",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -228,6 +301,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7963元，较上周五夜盘收盘涨42点。成交量378.74亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3101825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
           "title": "法国总统马克龙：将投资230亿欧元（约合270亿美元）用于非洲。",
           "url": "https://flash.jin10.com/detail/20260512004104487800",
           "source": "金十数据",
@@ -237,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "美国天然气期货日内大涨6.00%，现报2.923美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260512024040267800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国总统特朗普谈Hantavirus：这种疾病早就存在了。",
@@ -250,15 +345,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "中美元首会晤官宣为何是全球利好",
-          "url": "https://www.toutiao.com/trending/7637913647012954158/",
-          "source": "今日头条",
+          "title": "芝加哥小麦期货涨约2.8%，特朗普口头打压牛肉价格",
+          "url": "https://wallstreetcn.com/livenews/3101822",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时51分"
         },
         {
           "title": "美国总统特朗普：与伊朗达成外交解决方案的可能性仍然存在。",
@@ -283,6 +378,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "WTI 6月原油期货收涨2.65美元，涨幅2.78%，报98.07美元/桶。 布伦特7月原油期货收涨2.92美元，涨幅2.88%，报104.21美元/桶。 中东Abu Dhabi Murban原油期货涨4.84%，报103.60美元/桶。 NYMEX 6月天然气期货收报2.91美元/百万英热单位。 NYMEX 6月汽油期货收报3.5998美元/加仑，NYMEX 6月取暖油期货收报3.9686美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3101818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：显然，伊朗战争目前吸引了美国及特朗普的最多关注。但美国人民也优先支持结束这场俄乌冲突。",
           "url": "https://flash.jin10.com/detail/20260512003227230800",
           "source": "金十数据",
@@ -305,6 +411,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 5月11日（周一）晚盘收盘上涨0.82%报1034.6元/克；<br/>上海黄金交易所白银T+D 5月11日（周一）晚盘收盘上涨6.13%报21095.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260512023036729800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
           "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3101773",
           "source": "华尔街见闻-快讯",
@@ -316,6 +433,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "Payward按200亿美元估值融资。（Coindesk）",
+          "url": "https://wallstreetcn.com/livenews/3101815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
           "title": "美国总统特朗普：许多人认为油价会达到250或300美元/桶，但并没有发生。",
           "url": "https://flash.jin10.com/detail/20260512003121417800",
           "source": "金十数据",
@@ -325,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "白宫新闻副秘书Kelly：美国总统特朗普对伊朗局势拥有各种选项。",
+          "url": "https://wallstreetcn.com/livenews/3101813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "【特朗普：“停火协议已岌岌可危”】美国总统特朗普5月11日在白宫对媒体表示，伊朗对美国所提方案的回应“愚蠢”，“停火协议已岌岌可危”。 (CCTV国际时讯)",
@@ -382,6 +521,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "白宫官员：美国总统特朗普将于周一签署行政命令，允许增加牛肉进口，并支持美国牛群规模的恢复。",
+          "url": "https://wallstreetcn.com/livenews/3101809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
           "title": "美国总统特朗普：正认真考虑将委内瑞拉设为美国第51个州。",
           "url": "https://flash.jin10.com/detail/20260512002026655800",
           "source": "金十数据",
@@ -424,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "周一（5月11日），韩元兑美元最终跌0.72%，报1471.96韩元，亚太时段显著走低，北京时间13:59刷新日低至1476.74韩元，日内绝大部分时间低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3101806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "KKR将向其参与管理的一只私募信贷基金注入3亿美元",
