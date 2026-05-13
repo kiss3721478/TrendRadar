@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T00:27:25.735241+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-14T03:03:29.903365+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 38,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普抵达北京开始访华",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "特朗普抵达北京",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -59,19 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "美国行业协会称，美政府正考虑为核电站零部件提供数十亿美元融资",
-          "url": "https://wallstreetcn.com/livenews/3103144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "特朗普乘专机抵达中国",
@@ -81,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "特朗普抵京",
@@ -92,13 +81,81 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
           "url": "https://www.douyin.com/hot/2497952",
           "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "美国总统特朗普抵达北京，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://wallstreetcn.com/articles/3772194",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
+          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "美国国土安全部：美国海岸警卫队与达维防务公司签署了一项价值35亿美元的合同，用于建造和交付五艘北极安全切割船。",
+          "url": "https://flash.jin10.com/detail/20260514025448278800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "美国行业协会称，美政府正考虑为核电站零部件提供数十亿美元融资",
+          "url": "https://wallstreetcn.com/livenews/3103144",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
@@ -118,48 +175,37 @@
           "time_info": "00时27分"
         },
         {
-          "title": "美国总统特朗普抵达北京，如何理解时隔近十年中美又一次元首会晤的特殊性？",
-          "url": "https://www.zhihu.com/question/2037099280243102645",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "美国总统特朗普抵达北京",
-          "url": "https://wallstreetcn.com/articles/3772194",
-          "source": "华尔街见闻",
+          "title": "美国国务院：如果古巴政府允许，美国准备向古巴人民提供1亿美元的直接援助。",
+          "url": "https://flash.jin10.com/detail/20260514025123007800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "03时03分"
         },
         {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
+          "title": "央视现场报道特朗普抵京",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%8E%B0%E5%9C%BA%E6%8A%A5%E9%81%93%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E4%BA%AC",
+          "source": "bilibili 热搜",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "03时03分"
         },
         {
-          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
-          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
-          "source": "凤凰网",
+          "title": "美国副总统万斯：特朗普总统的核心目标是让世界和美国人民免受伊朗拥有核武器的威胁。",
+          "url": "https://flash.jin10.com/detail/20260514024415109800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "03时03分"
         },
         {
           "title": "美股首只纯存储ETF，刷新华尔街史上最快规模增长纪录",
@@ -169,63 +215,68 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
           "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "闻泰科技就安世争端索赔80亿美元",
-          "url": "https://www.toutiao.com/trending/7638628778822991935/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
-          "url": "https://wallstreetcn.com/articles/3772146",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "美国总统特朗普抵达北京开始访华",
           "url": "https://m.thepaper.cn/newsDetail_forward_33173644",
           "source": "澎湃新闻",
           "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
+          "url": "https://wallstreetcn.com/articles/3772146",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "闻泰科技就安世争端索赔80亿美元",
+          "url": "https://www.toutiao.com/trending/7638628778822991935/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "特朗普抵京 韩正前往机场迎接",
@@ -235,19 +286,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "美国总统特朗普将抵达北京",
           "url": "https://www.cls.cn/detail/2370400",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "特朗普团队抵达下榻酒店",
@@ -257,41 +309,159 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "十余位商界代表随特朗普访华",
           "url": "https://www.toutiao.com/trending/7639365631187537434/",
           "source": "今日头条",
           "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.toutiao.com/trending/7638540672749125641/",
+          "source": "今日头条",
+          "ranks": [
+            16,
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "特朗普走出机舱",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%87%BA%E6%9C%BA%E8%88%B1",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
         },
         {
           "title": "十余位商界代表随特朗普访华",
           "url": "https://www.baidu.com/s?wd=%E5%8D%81%E4%BD%99%E4%BD%8D%E5%95%86%E7%95%8C%E4%BB%A3%E8%A1%A8%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普访问中国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "美国总统特朗普抵京，韩正前往机场迎接",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33173795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普走出机舱",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%87%BA%E6%9C%BA%E8%88%B1%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普公布访华团高管名单",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 03时03分]"
+        },
+        {
+          "title": "美国副总统万斯：特朗普总统面临多种外交和军事选择。",
+          "url": "https://flash.jin10.com/detail/20260514024345382800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "03时03分"
+        },
+        {
+          "title": "阿斯麦ADR涨超5%，现报1602美元，盘中市值突破6300亿美元。近日苹果与英特尔达成芯片代工合作，市场预期阿斯麦将从中获利，高盛认为阿斯麦被严重低估。",
+          "url": "https://wallstreetcn.com/livenews/3103189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "WTI 6月原油期货收跌1.16美元，跌幅1.14报101.02美元/桶。 中东Abu Dhabi Murban原油期货跌0.80%，报105.15美元/桶。 NYMEX 6月天然气期货收报2.8640美元/百万英热单位。 NYMEX 6月汽油期货收报3.6187美元/加仑，NYMEX 6月取暖油期货收报3.9667美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3103188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
+          "url": "https://wallstreetcn.com/livenews/3103184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
         },
         {
           "title": "现货白银日内涨幅达3.00%，现报89.11美元/盎司。纽约期银日内大涨5.00%，现报89.88美元/盎司。",
@@ -305,48 +475,26 @@
           "time_info": "00时27分"
         },
         {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
+          "title": "上海黄金交易所黄金T+D 5月13日（周三）晚盘收盘下跌0.11%报1027.17元/克；<br/>上海黄金交易所白银T+D 5月13日（周三）晚盘收盘上涨0.6%报21747.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260514023016324800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "03时03分"
         },
         {
-          "title": "特朗普访问中国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "外交部：欢迎特朗普访问中国",
-          "url": "https://www.toutiao.com/trending/7638540672749125641/",
-          "source": "今日头条",
+          "title": "美国参议院民主党领导人Schumer谴责总统特朗普，称：任命新的美联储主席将破坏央行独立性。",
+          "url": "https://wallstreetcn.com/livenews/3103179",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "美国总统特朗普抵京，韩正前往机场迎接",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33173795",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "03时03分"
         },
         {
           "title": "特朗普访华随行人员名单",
@@ -371,6 +519,72 @@
           "time_info": "00时27分"
         },
         {
+          "title": "布伦特原油日内走低2.02美元，现报103.28美元/桶，跌幅1.92%。",
+          "url": "https://flash.jin10.com/detail/20260514022833522800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "Modal预计年化收入大约3亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3103176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "巴西雷亚尔兑美元在现货交易中跌破5.00。",
+          "url": "https://flash.jin10.com/detail/20260514022633763800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "埃及与国际伊斯兰贸易金融公司（ITFC）签署15亿美元贷款协议，来支持粮食和能源安全。",
+          "url": "https://wallstreetcn.com/livenews/3103175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3103173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "巴西雷亚尔兑美元贬值2%，现货交易报4.99。",
+          "url": "https://flash.jin10.com/detail/20260514021921316800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
           "title": "现货白银日内涨幅达2%，现报88.24美元/盎司。纽约银日内涨幅达4.5%，报89.46美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3103121",
           "source": "华尔街见闻-快讯",
@@ -382,15 +596,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "特朗普走出机舱",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%87%BA%E6%9C%BA%E8%88%B1%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "记者起诉英伟达、谷歌、微软，指控其AI语音模型侵权",
+          "url": "https://wallstreetcn.com/livenews/3103166",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "03时03分"
         },
         {
           "title": "随特朗普访华的商界代表有谁",
@@ -415,15 +629,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "特朗普公布访华团高管名单",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
-          "source": "bilibili 热搜",
+          "title": "据知情人士透露，实物黄金交易商Gens Aurea SpA.寻求通过意大利IPO融资3亿-5亿欧元。 该公司及其大股东DVC Partners考虑最快在未来几个月内启动发行，且仅由股东出售股份。 Gens Aurea正与法国巴黎银行、杰富瑞金融集团（Jefferies Financial Group Inc.）以及联合信贷银行（UniCredit SpA）的银行家合作筹划此次交易。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3103162",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "03时03分"
         }
       ]
     }
