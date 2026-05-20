@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T13:04:47.954871+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-05-20T17:39:24.932507+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 127,
+      "match_count": 140,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -79,6 +79,18 @@
           "time_info": "[00时19分 ~ 08时05分]"
         },
         {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 17时39分]"
+        },
+        {
           "title": "摩根大通：黄金牛市未结束！下调年底目标至6000美元，但白银神话正在破灭",
           "url": "https://wallstreetcn.com/articles/3772585",
           "source": "华尔街见闻",
@@ -105,6 +117,17 @@
           "time_info": "[00时19分 ~ 08时05分]"
         },
         {
+          "title": "通胀担忧高企，美长债收益率飙升至多年高位，标普纳指三连跌，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3772605",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 17时39分]"
+        },
+        {
           "title": "探秘美国1美元房子长什么样",
           "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E7%BE%8E%E5%9B%BD1%E7%BE%8E%E5%85%83%E6%88%BF%E5%AD%90%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
           "source": "bilibili 热搜",
@@ -118,18 +141,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 08时05分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时04分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -154,17 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
-        },
-        {
-          "title": "通胀担忧高企，美长债收益率飙升至多年高位，标普纳指三连跌，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3772605",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "万斯为特朗普超长交易清单辩护",
@@ -309,9 +309,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "机构：黄金价格因美元的走强及利率担忧而下跌",
@@ -357,6 +368,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时16分 ~ 13时04分]"
+        },
+        {
+          "title": "美债收益率破5%意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
@@ -428,6 +450,18 @@
           "time_info": "[08时05分 ~ 13时04分]"
         },
         {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 17时39分]"
+        },
+        {
           "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
           "url": "https://wallstreetcn.com/livenews/3106251",
           "source": "华尔街见闻-快讯",
@@ -440,6 +474,30 @@
           "time_info": "[04时49分 ~ 06时16分]"
         },
         {
+          "title": "英伟达财报倒计时！期权市场押注：3550亿美元单日市值巨震将至",
+          "url": "https://www.cls.cn/detail/2376293",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 17时39分]"
+        },
+        {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 17时39分]"
+        },
+        {
           "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
           "url": "https://wallstreetcn.com/livenews/3106248",
           "source": "华尔街见闻-快讯",
@@ -450,6 +508,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时16分]"
+        },
+        {
+          "title": "高盛英伟达前瞻：业绩大概率超预期，但市场更关注“1万亿美元”指引之外的增量空间",
+          "url": "https://wallstreetcn.com/articles/3772638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 17时39分]"
         },
         {
           "title": "华尔街警告：美股“黄金时代”结束",
@@ -487,18 +558,6 @@
           "time_info": "[04时49分 ~ 06时16分]"
         },
         {
-          "title": "高盛英伟达前瞻：业绩大概率超预期，但市场更关注“1万亿美元”指引之外的增量空间",
-          "url": "https://wallstreetcn.com/articles/3772638",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时04分]"
-        },
-        {
           "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
           "url": "https://www.cls.cn/detail/2376118",
           "source": "财联社热门",
@@ -509,6 +568,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 13时04分]"
+        },
+        {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 17时39分]"
         },
         {
           "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
@@ -582,17 +652,6 @@
           "time_info": "[04时48分 ~ 04时49分]"
         },
         {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
           "title": "谷歌Gemini：上个月我们发布了适用于macOS的Gemini应用。在接下来的几周里，我们将把 Gemini Spar 引入Gemini 桌面应用，以帮助处理本地文件整理或将PDF数据直接提取到Google Sheets中。",
           "url": "https://flash.jin10.com/detail/20260520022256133800",
           "source": "金十数据",
@@ -624,6 +683,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美国副总统万斯：无论美国总统特朗普对伊朗做出什么决定，这种情况不会永远持续。",
@@ -736,6 +817,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "谷歌(GOOG.O)：Gemini Omni 今天将上线 Gemini应用，面向付费用户。用户可以通过任意组合的文本、图片和视频输入来实现创意。只需打开 Gemini，从相册中附加一个视频，然后进行修改。就是这么简单。",
           "url": "https://flash.jin10.com/detail/20260520021523065800",
           "source": "金十数据",
@@ -769,17 +861,6 @@
           "time_info": "03时01分"
         },
         {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
           "title": "报道：SpaceX若上市，华乐投资与创始基金各自有望斩获超600亿美元回报",
           "url": "https://wallstreetcn.com/livenews/3106202",
           "source": "华尔街见闻-快讯",
@@ -797,7 +878,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -835,15 +916,26 @@
           "time_info": "03时01分"
         },
         {
-          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
-          "url": "https://www.cls.cn/detail/2376249",
+          "title": "WTI原油日内跌幅达2.0%，报102.05美元/桶；布伦特原油日内跌幅达2.0%，报109.04美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3106627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "抛盘狂砸1小时！美债惊现“投降式”交易：30年期收益率创19年新高",
+          "url": "https://www.cls.cn/detail/2376210",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时04分"
+          "time_info": "17时39分"
         },
         {
           "title": "路透社/益普索的调查显示，美国总统特朗普的支持率降至35%，接近其任期内的最低水平。",
@@ -888,17 +980,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "英伟达财报倒计时！期权市场押注：3550亿美元单日市值巨震将至",
-          "url": "https://www.cls.cn/detail/2376293",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "路透社/益普索调查显示，美国总统特朗普在共和党内的支持率降至79%。",
@@ -951,7 +1032,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -1055,6 +1136,17 @@
           "time_info": "06时16分"
         },
         {
+          "title": "官方通报315晚会曝光涉中医药事件",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89%E6%B6%89%E4%B8%AD%E5%8C%BB%E8%8D%AF%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "据The Information：SpaceX的IPO可能将为Founders Fund和Valor各自带来超过600亿美元的收益。",
           "url": "https://flash.jin10.com/detail/20260520020524904800",
           "source": "金十数据",
@@ -1094,7 +1186,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -1226,7 +1318,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -1264,6 +1356,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "美股盘前，半导体股普涨，英特尔涨超4%，美光科技涨近4%，高通涨近3%，阿斯麦、AMD涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3106616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "Gemini Omni亮相 谷歌强化视频生成与编辑能力",
           "url": "https://flash.jin10.com/detail/20260520015749647800",
           "source": "金十数据",
@@ -1281,9 +1384,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "知情人士：软银CEO孙正义曾表示相信OpenAI创始人Sam Altman正引领着本世纪最重要的技术变革。",
+          "url": "https://flash.jin10.com/detail/20260520165930678800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
@@ -1341,6 +1455,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8060，较上一交易日官方收盘价跌21点，较上日夜盘收盘涨62点。",
+          "url": "https://wallstreetcn.com/livenews/3106613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8122元，较周一夜盘收盘跌127点。成交量588.15亿美元。",
           "url": "https://wallstreetcn.com/livenews/3106223",
           "source": "华尔街见闻-快讯",
@@ -1350,6 +1475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "欧元兑美元跌0.2%至1.1584，触及4月7日以来的最低点。",
+          "url": "https://wallstreetcn.com/livenews/3106612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "花旗预计短期内布伦特原油将飙升至每桶120美元",
@@ -1413,7 +1549,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -1427,6 +1563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "据以色列媒体：特朗普与内塔尼亚胡昨晚通电话，讨论了即将对伊朗做出的决定。",
+          "url": "https://flash.jin10.com/detail/20260520165123555800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
