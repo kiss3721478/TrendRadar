@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T06:58:54.783240+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-05-25T08:05:51.118007+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 26,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时58分]"
-        },
-        {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时05分]"
         },
         {
           "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
@@ -37,8 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时05分]"
+        },
+        {
+          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2380075",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时05分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -49,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时05分]"
         },
         {
           "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
@@ -58,11 +59,38 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时05分]"
+        },
+        {
+          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
+          "url": "https://wallstreetcn.com/articles/3772995",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时05分]"
+        },
+        {
+          "title": "特朗普一季度做了3711笔证券交易",
+          "url": "https://www.toutiao.com/trending/7643303101427879430/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            17,
+            10,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时05分]"
         },
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -76,29 +104,15 @@
           "time_info": "[01时01分 ~ 06时58分]"
         },
         {
-          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
-          "url": "https://wallstreetcn.com/articles/3772995",
-          "source": "华尔街见闻",
+          "title": "布伦特原油失守96美元/桶，日内跌幅4.60%。",
+          "url": "https://flash.jin10.com/detail/20260525080121794800",
+          "source": "金十数据",
           "ranks": [
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时58分]"
-        },
-        {
-          "title": "特朗普一季度做了3711笔证券交易",
-          "url": "https://www.toutiao.com/trending/7643303101427879430/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            17,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -121,7 +135,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -132,18 +146,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "布伦特原油期货日内跌幅扩大至4.4%，报每桶99美元。",
-          "url": "https://wallstreetcn.com/livenews/3108552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -173,6 +176,19 @@
           "time_info": "[01时01分 ~ 04时05分]"
         },
         {
+          "title": "特朗普：美伊协议“尚未完全谈妥”",
+          "url": "https://wallstreetcn.com/livenews/3108545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 08时05分]"
+        },
+        {
           "title": "美元兑日元USD/JPY跌破159，日内跌0.25%。",
           "url": "https://flash.jin10.com/detail/20260525050625522800",
           "source": "金十数据",
@@ -185,16 +201,16 @@
           "time_info": "[05时56分 ~ 06时58分]"
         },
         {
-          "title": "特朗普：美伊协议“尚未完全谈妥”",
-          "url": "https://wallstreetcn.com/livenews/3108545",
+          "title": "布伦特原油期货日内跌幅扩大至4.4%，报每桶99美元。",
+          "url": "https://wallstreetcn.com/livenews/3108552",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时58分]"
+          "time_info": "[06时58分 ~ 08时05分]"
         },
         {
           "title": "特朗普告诉美方代表：不要急于达成协议",
@@ -232,6 +248,28 @@
           "time_info": "02时07分"
         },
         {
+          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1.06%，标普500指数期货涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3108570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "现货黄金日内涨幅扩大至1.5%，现货白银涨幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3108567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
           "url": "https://flash.jin10.com/detail/20260525025220703800",
           "source": "金十数据",
@@ -243,13 +281,35 @@
           "time_info": "04时05分"
         },
         {
+          "title": "特朗普称美伊协议“未谈妥”",
+          "url": "https://www.douyin.com/hot/2511044",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "特朗普被自己人“围攻”：共和党强硬派怒批伊朗协议“让步太多”",
+          "url": "https://flash.jin10.com/detail/20260525074701003800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
           "url": "https://flash.jin10.com/detail/20260525060644652800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -260,7 +320,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
         },
@@ -271,9 +331,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "现货钯金日内涨幅扩大至2.00%，现报1376.31美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260525073637860800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "特朗普：若与伊朗达成协议，将是“良好且正当的”",
@@ -285,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "美股三大股指期货延续涨势，纳斯达克100指数期货涨幅达1%，标普500指数期货涨0.65%，道指期货涨0.54%。",
+          "url": "https://flash.jin10.com/detail/20260525073538076800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
@@ -307,6 +389,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "现货白银持续走高，日内大涨4%，现报78.48美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260525072243028800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
+          "url": "https://flash.jin10.com/detail/20260525070547710800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "现货白银站上78美元/盎司，日内涨3.41%。",
+          "url": "https://flash.jin10.com/detail/20260525070428948800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "特朗普称美伊协议未谈妥：封锁将持续",
+          "url": "https://www.toutiao.com/trending/7643602399059250731/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "现货白银日内涨幅达3%，现报77.71美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260525064806759800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内涨幅扩大至0.50%，现报0.5878。",
+          "url": "https://flash.jin10.com/detail/20260525064641711800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     }
