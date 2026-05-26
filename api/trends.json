@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T13:04:47.616780+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-05-26T17:55:30.700341+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "中美元首会晤是否谈及日本？外交部回应",
@@ -56,6 +56,17 @@
           "time_info": "[00时27分 ~ 08时06分]"
         },
         {
+          "title": "特朗普要求先签“亚伯拉罕协议”，沙特回应",
+          "url": "https://news.ifeng.com/c/8tQf0euzx96",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 17时55分]"
+        },
+        {
           "title": "布伦特原油突破94美元/桶，日内涨1.07%。",
           "url": "https://flash.jin10.com/detail/20260526080113078800",
           "source": "金十数据",
@@ -65,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
-        },
-        {
-          "title": "特朗普要求先签“亚伯拉罕协议”，沙特回应",
-          "url": "https://news.ifeng.com/c/8tQf0euzx96",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
@@ -95,7 +95,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -106,7 +106,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -117,9 +117,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "现货白银日内跌超3.00%，现报75.71美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260526174535130800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "欢聚集团一季度净营收5.557亿美元，分析师预期5.397亿美元。 第一季度经调整每股ADS持续经营净收益 1.11美元。 第一季度毛利率34.1％，预估34.3％。 欢聚集团预计第二季度净营收5.62亿美元至5.81亿美元。",
@@ -155,6 +166,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 06时08分]"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 17时55分]"
         },
         {
           "title": "据AXIOS：一位美国高级官员透露，特朗普政府将支持以色列加大对真主党的军事打击力度。",
@@ -251,18 +274,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 02时26分]"
-        },
-        {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时04分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7834元，较上周五夜盘收盘涨144点。成交量404.68亿美元。",
@@ -385,6 +396,17 @@
           "time_info": "[02时26分 ~ 04时23分]"
         },
         {
+          "title": "创纪录！特朗普最新民调曝光",
+          "url": "https://news.ifeng.com/c/8tRHolWd0Kl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
           "url": "https://flash.jin10.com/detail/20260526051929396800",
           "source": "金十数据",
@@ -402,7 +424,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -418,6 +440,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "分析师：金价阻力最小的路径依然是下行",
+          "url": "https://flash.jin10.com/detail/20260526174510610800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
           "url": "https://wallstreetcn.com/livenews/3109030",
           "source": "华尔街见闻-快讯",
@@ -427,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "印尼宣布2026年追加规模约为4亿美元经济刺激计划",
+          "url": "https://flash.jin10.com/detail/20260526174208007800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "谈判重启黄金反弹，空头压制真解除了吗？",
@@ -462,6 +506,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "多家投行下调金价预判",
+          "url": "https://www.douyin.com/hot/2513019",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
           "url": "https://wallstreetcn.com/livenews/3108956",
           "source": "华尔街见闻-快讯",
@@ -473,6 +528,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "现货黄金跌超1%，现报4522.18美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3109324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "美元指数25日下跌",
           "url": "https://flash.jin10.com/detail/20260526042947544800",
           "source": "金十数据",
@@ -482,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7870，较上一交易日官方收盘价跌33点，较上日夜盘收盘跌36点。",
+          "url": "https://wallstreetcn.com/livenews/3109323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "美股三大股指期货涨幅收窄，纳斯达克100指数期货现涨1%，道指期货、标普500指数期货涨约0.7%。",
@@ -611,7 +688,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -622,7 +699,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
