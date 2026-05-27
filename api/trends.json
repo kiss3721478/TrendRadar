@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-27T16:03:52.723433+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-05-27T20:20:41.530219+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 70,
+      "match_count": 80,
       "titles": [
-        {
-          "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 05时45分]"
-        },
         {
           "title": "美光告别“周期魔咒”？瑞银给出1600美元天价目标：LTA或撑起1.8万亿美元市值",
           "url": "https://wallstreetcn.com/articles/3773167",
@@ -30,8 +19,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 16时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 20时20分]"
+        },
+        {
+          "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 05时45分]"
+        },
+        {
+          "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773173",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 20时20分]"
         },
         {
           "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
@@ -71,15 +83,16 @@
           "time_info": "[00时42分 ~ 16时03分]"
         },
         {
-          "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773173",
-          "source": "华尔街见闻",
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
           "ranks": [
+            3,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 16时03分]"
+          "time_info": "[16时03分 ~ 20时20分]"
         },
         {
           "title": "俄罗斯再次未能成功出售黄金生产商UGC的股权",
@@ -99,7 +112,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -115,15 +128,15 @@
           "time_info": "00时42分"
         },
         {
-          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
-          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
-          "source": "凤凰网",
+          "title": "美光科技美股盘前涨近10%，前一交易日收涨超19%。",
+          "url": "https://wallstreetcn.com/livenews/3110081",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时03分"
+          "time_info": "20时20分"
         },
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -148,6 +161,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时45分 ~ 11时42分]"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "上海黄金交易所黄金T+D 5月26日（周二）晚盘收盘下跌0.97%报984.5元/克；<br/>上海黄金交易所白银T+D 5月26日（周二）晚盘收盘下跌0.6%报18554.0元/千克。",
@@ -194,6 +218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时10分 ~ 11时42分]"
+        },
+        {
+          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
+          "url": "https://wallstreetcn.com/articles/3773207",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 20时20分]"
         },
         {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
@@ -268,17 +304,6 @@
           "time_info": "[05时45分 ~ 07时10分]"
         },
         {
-          "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
-          "url": "https://wallstreetcn.com/articles/3773207",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日维持不变，当前持仓量为1034.853吨。",
           "url": "https://flash.jin10.com/detail/20260527063446040800",
           "source": "金十数据",
@@ -351,9 +376,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "AI热潮推动下，美股期指上扬，美光盘前涨近10%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "中国黄金：董事、总经理王宇飞离任",
@@ -362,7 +398,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -411,6 +447,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
+          "url": "https://www.zhihu.com/question/2042901886798403259",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "白宫格斗赛“八角笼”效果图亮相 搞一张门票可能需上百万美元",
           "url": "https://www.cls.cn/detail/2382262",
           "source": "财联社热门",
@@ -442,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "美元利差优势稳固维持强势表现，但五月末或迎来阶段性顶部？",
@@ -497,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "现货白银日内跌幅达4.0%，报73.73美元/盎司；纽约银日内跌幅达3.5%，报73.89美元/盎司。 现货黄金日内跌幅达1.5%，报4437.55美元/盎司；纽约金日内跌幅达1.5%，报4466.3美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -571,7 +640,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -642,6 +711,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "现货白银日内跌幅达3.5%，报74.15美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "美国贸易代表格里尔：美国总统特朗普对关税豁免计划不感兴趣。",
           "url": "https://flash.jin10.com/detail/20260527042055039800",
           "source": "金十数据",
@@ -659,7 +739,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -675,13 +755,24 @@
           "time_info": "05时45分"
         },
         {
+          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "国际现货黄金再跌破4500，短线反弹将“满布荆棘”",
           "url": "https://flash.jin10.com/detail/20260527153014895800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -719,6 +810,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "现货黄金日内跌幅达1%，报4461.2美元/盎司。 纽约金日内跌幅达1%，报4484.9美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "特朗普在白宫会见巴西大选热门挑战者弗拉维奥·博索纳罗",
           "url": "https://wallstreetcn.com/livenews/3109655",
           "source": "华尔街见闻-快讯",
@@ -736,7 +838,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -780,9 +882,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "长周末归来，纽约可可期货持续上涨，目前涨9.8%刷新日高至4175美元；（伦敦上市的）可可期货也涨9.1%。 在可可豆产量存在风险之际，投资者加大空头回补的力度。",
