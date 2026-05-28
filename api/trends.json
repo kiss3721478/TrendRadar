@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T19:40:14.055904+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-05-28T23:52:25.170879+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 113,
+      "match_count": 120,
       "titles": [
         {
           "title": "韩国历史第二例！三星工会同意新薪酬方案：人均40万美元奖金！",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 11时32分]"
+        },
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 23时52分]"
         },
         {
           "title": "瑞银、巴克莱大幅上调美光、闪迪目标价，华尔街再燃存储股狂潮，美光市值突破1万亿美元",
@@ -43,18 +55,6 @@
           "time_info": "[00时37分 ~ 07时17分]"
         },
         {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 19时40分]"
-        },
-        {
           "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
           "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
           "source": "凤凰网",
@@ -65,6 +65,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时31分 ~ 19时40分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时31分 ~ 23时52分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -89,19 +102,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 11时32分]"
-        },
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时31分 ~ 19时40分]"
         },
         {
           "title": "伊朗将浓缩铀运往中俄？特朗普回应",
@@ -242,6 +242,18 @@
           "time_info": "03时25分"
         },
         {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 23时52分]"
+        },
+        {
           "title": "美国总统特朗普：我并不关心中期选举。",
           "url": "https://flash.jin10.com/detail/20260528000819941800",
           "source": "金十数据",
@@ -319,6 +331,18 @@
           "time_info": "00时37分"
         },
         {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 23时52分]"
+        },
+        {
           "title": "特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁",
           "url": "https://flash.jin10.com/detail/20260528000717180800",
           "source": "金十数据",
@@ -358,7 +382,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -399,6 +423,17 @@
           "time_info": "[05时54分 ~ 07时17分]"
         },
         {
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 23时52分]"
+        },
+        {
           "title": "继美光、三星之后，SK 海力士市值也突破 1 万亿美元，韩国股指甚至涨到熔断，股价飙升的原因是什么？",
           "url": "https://www.zhihu.com/question/2042901886798403259",
           "source": "知乎",
@@ -409,6 +444,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时37分 ~ 03时25分]"
+        },
+        {
+          "title": "Snowflake盘后暴涨超30%，与AWS签订60亿美元采购协议",
+          "url": "https://wallstreetcn.com/articles/3773285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 23时52分]"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -422,26 +468,16 @@
           "time_info": "[00时37分 ~ 03时25分]"
         },
         {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
+          "title": "5 月 28 日现货黄金跳水，盘中跌破 4400 美元 / 盎司，受到哪些因素影响？还会持续下跌吗？",
+          "url": "https://www.zhihu.com/question/2043314967013581849",
+          "source": "知乎",
           "ranks": [
-            6
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
-        },
-        {
-          "title": "特朗普的两张稀土王牌，先打上“内战”了",
-          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 23时52分]"
         },
         {
           "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
@@ -455,17 +491,6 @@
           "time_info": "[11时31分 ~ 11时32分]"
         },
         {
-          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
-          "url": "https://wallstreetcn.com/articles/3773316",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
-        },
-        {
           "title": "“不在乎中期选举”，特朗普称美伊协议须“完美”，仍欲捆绑“亚伯拉罕协议”",
           "url": "https://wallstreetcn.com/livenews/3110269",
           "source": "华尔街见闻-快讯",
@@ -476,28 +501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 07时17分]"
-        },
-        {
-          "title": "Snowflake盘后暴涨超30%，与AWS签订60亿美元采购协议",
-          "url": "https://wallstreetcn.com/articles/3773285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
-        },
-        {
-          "title": "5 月 28 日现货黄金跳水，盘中跌破 4400 美元 / 盎司，受到哪些因素影响？还会持续下跌吗？",
-          "url": "https://www.zhihu.com/question/2043314967013581849",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "SK海力士市值突破万亿美元",
@@ -566,6 +569,28 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美媒称美伊达成60天谅解备忘录、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
+          "url": "https://wallstreetcn.com/articles/3773378",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "美国总统特朗普：伊朗以为他们能拖住我，但事实并非如此。",
           "url": "https://flash.jin10.com/detail/20260528000555759800",
           "source": "金十数据",
@@ -630,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普政府起诉四州，指控它们拒绝向ICE发放秘密车牌",
+          "url": "https://flash.jin10.com/detail/20260528231554936800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "白宫：美伊谈判“进展顺利”，特朗普已划出“红线”",
@@ -720,6 +756,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2384590",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "WTI原油期货向上触及90美元/桶，日内涨1.49%。",
           "url": "https://flash.jin10.com/detail/20260528063455090800",
           "source": "金十数据",
@@ -740,6 +787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "空头大军意外成推手？高盛：美股或迎“轧空式”新涨势！",
+          "url": "https://flash.jin10.com/detail/20260528230552151800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "白宫：美国与伊朗的谈判推进得不错，总统特朗普已经清晰地划定“红线”。",
@@ -880,7 +938,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1006,6 +1064,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "AI初创公司Groq据悉正为新实体筹集6.5亿美元资金",
+          "url": "https://flash.jin10.com/detail/20260528225227812800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "周三（5月27日），韩元兑美元最终涨0.53%，报1499.98韩元。",
           "url": "https://wallstreetcn.com/livenews/3110213",
           "source": "华尔街见闻-快讯",
@@ -1034,7 +1103,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1111,7 +1180,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1268,6 +1337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "国际原油价格抹去涨幅，WTI原油期货接近每桶87美元。",
+          "url": "https://wallstreetcn.com/livenews/3110816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         }
       ]
     }
