@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-05-29T05:11:49.277367+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-05-29T07:16:43.258307+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 49,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 07时16分]"
+        },
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 07时16分]"
+        },
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 07时16分]"
+        },
         {
           "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
           "url": "https://wallstreetcn.com/articles/3773313",
@@ -19,37 +52,41 @@
           "time_info": "[02时36分 ~ 05时11分]"
         },
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
+          "title": "黄金为什么暴涨暴跌",
+          "url": "https://www.toutiao.com/trending/7644938884576448042/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 07时16分]"
+        },
+        {
+          "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
+          "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "美伊达成 60 天停火备忘录框架，霍尔木兹海峡恢复无限制通航，油价跳水，黄金转涨，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2043458312344187663",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时11分]"
-        },
-        {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时11分]"
-        },
-        {
-          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
-          "url": "https://wallstreetcn.com/articles/3773316",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 07时16分]"
         },
         {
           "title": "周四（5月28日），韩元兑美元最终涨0.43%，报1493.48韩元。",
@@ -69,7 +106,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -102,7 +139,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -135,7 +172,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -145,35 +182,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时11分]"
-        },
-        {
-          "title": "黄金为什么暴涨暴跌",
-          "url": "https://www.toutiao.com/trending/7644938884576448042/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时11分]"
-        },
-        {
-          "title": "美伊达成 60 天停火备忘录框架，霍尔木兹海峡恢复无限制通航，油价跳水，黄金转涨，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2043458312344187663",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 07时16分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -183,8 +197,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 07时16分]"
         },
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -195,8 +209,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 07时16分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -206,8 +220,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 07时16分]"
         },
         {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
@@ -217,8 +231,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 07时16分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.285吨，当前持仓量为1032.568吨。",
+          "url": "https://flash.jin10.com/detail/20260529063205779800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "2026全球投资者大会与会嘉宾：中国资产有望迎来外资增配黄金期",
+          "url": "https://wallstreetcn.com/livenews/3110975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
@@ -238,9 +274,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
@@ -249,9 +296,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
+          "url": "https://wallstreetcn.com/livenews/3110974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "Anthropic：本月初我们的年化收入超过了470亿美元。",
@@ -271,9 +329,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。",
+          "url": "https://wallstreetcn.com/livenews/3110972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "Anthropic在H轮融资中筹得650亿美元，投后估值达9650亿美元。",
@@ -293,7 +362,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -304,9 +373,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "伦敦金失守4400美元，银行积存金限制未“松绑”",
+          "url": "https://wallstreetcn.com/livenews/3110971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "周四（5月28日），美联储隔夜逆回购协议（RRP）使用规模为11.63亿美元（交易对手7家），上个交易日报18.53亿美元。",
@@ -326,9 +406,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
+          "url": "https://wallstreetcn.com/livenews/3110968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "美国至5月22日当周外国央行持有美国国债 128.29亿美元，前值-202.38亿美元。",
@@ -337,7 +428,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -348,7 +439,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -359,7 +450,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -392,7 +483,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -414,7 +505,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -430,13 +521,24 @@
           "time_info": "02时36分"
         },
         {
+          "title": "美国芝商所下调黄金与白银期货合约保证金",
+          "url": "https://wallstreetcn.com/livenews/3110959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "戴尔(DELL.N)预计2027财年Q2营收440亿-450亿美元。",
           "url": "https://flash.jin10.com/detail/20260529041125676800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -447,9 +549,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国国务院：美国政府计划承诺出资1350万美元支持肯尼亚的埃博拉防范工作。",
+          "url": "https://flash.jin10.com/detail/20260529053030699800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "周四（5月28日）纽约尾盘，彭博谷物分类指数涨0.46%，报31.6386点。 CBOT玉米期货涨0.83%，CBOT小麦期货涨0.24%。 CBOT大豆期货涨0.89%，刷新日高至11.96美元/蒲式耳，豆粕期货涨0.97%，豆油期货涨1.86%。",
@@ -458,7 +571,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -469,7 +582,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -480,7 +593,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -502,7 +615,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -524,9 +637,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "戴尔科技美股盘后涨幅扩大至27%。",
+          "url": "https://wallstreetcn.com/livenews/3110950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
