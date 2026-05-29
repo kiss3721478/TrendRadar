@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-29T19:29:28.640985+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-05-29T23:27:45.658854+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 82,
+      "match_count": 108,
       "titles": [
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 23时27分]"
+        },
         {
           "title": "国家大基金领投DeepSeek，投前估值450亿美元",
           "url": "https://wallstreetcn.com/articles/3773316",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时36分 ~ 11时32分]"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 19时29分]"
         },
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -149,6 +149,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "力拓ADR一度上涨1.8%，该公司称加拿大魁北克省。15亿美元规模AP60冶炼厂扩建项目将于2026年年底之前完工。",
+          "url": "https://wallstreetcn.com/livenews/3111541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国财长贝森特：石油（价格）将低于美国、以色列发动伊朗战争之前的水平。 石油市场将得到很好的供应。 关于伊朗的条款磋商反反复复。 霍尔木兹海峡将免费开放，将近2000艘船只等待离开波斯湾。 总统特朗普不会接受一份糟糕的协议。",
           "url": "https://wallstreetcn.com/livenews/3110890",
           "source": "华尔街见闻-快讯",
@@ -158,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "纽元兑美元涨1%，刷新3月份以来高位至0.5994。",
+          "url": "https://wallstreetcn.com/livenews/3111540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -205,6 +227,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "特朗普说美伊就核问题和霍尔木兹海峡以外次要事项达成一致",
+          "url": "https://wallstreetcn.com/livenews/3111539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "CBOE全球市场公司计划于12月在其CBOE EDGX股票交易所推出23X5美国股票交易；预计在上线初期将有约20种股票可供交易，其中包括“美股七巨头”。",
           "url": "https://flash.jin10.com/detail/20260529021834083800",
           "source": "金十数据",
@@ -222,7 +255,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -247,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "特朗普说伊朗浓缩铀材料将被挖出销毁",
+          "url": "https://wallstreetcn.com/livenews/3111538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
@@ -298,6 +342,18 @@
           "time_info": "[02时36分 ~ 07时16分]"
         },
         {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 23时27分]"
+        },
+        {
           "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
           "url": "https://www.cls.cn/detail/2384760",
           "source": "财联社热门",
@@ -319,17 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 19时29分]"
         },
         {
           "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
@@ -383,7 +428,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -432,6 +477,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "布伦特原油日内跌幅达2.5%，报90.36美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3111536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
           "url": "https://wallstreetcn.com/livenews/3110933",
           "source": "华尔街见闻-快讯",
@@ -454,6 +510,39 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773437",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
+          "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "Anthropic：本月初我们的年化收入超过了470亿美元。",
           "url": "https://flash.jin10.com/detail/20260529021303339800",
           "source": "金十数据",
@@ -463,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "国际原油价格持续下跌 WTI原油跌破89美元关口",
+          "url": "https://flash.jin10.com/detail/20260529231413982800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）",
@@ -487,6 +587,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "OpenAI确认推出Rosalind BioDefense Program。",
+          "url": "https://wallstreetcn.com/livenews/3111534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "Anthropic在H轮融资中筹得650亿美元，投后估值达9650亿美元。",
           "url": "https://flash.jin10.com/detail/20260529021231819800",
           "source": "金十数据",
@@ -509,6 +620,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "特朗普说美伊就核问题和霍尔木兹海峡以外次要事项达成一致",
+          "url": "https://flash.jin10.com/detail/20260529231353506800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "Gap一季度净销售35亿美元，分析师预期35.2亿美元。 预计全年净销售将增长1%-2%，公司原本预计会增长2%-3%。 预计全年调整后每股收益（EPS）大约为2.30-2.40美元，公司原本预计大约2.20-2.35美元。 盖普（GPS）美股盘后跌9.8。",
           "url": "https://wallstreetcn.com/livenews/3110930",
           "source": "华尔街见闻-快讯",
@@ -529,6 +651,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "【特朗普就结束伊朗战事提出条件】美国总统特朗普29日说，伊朗必须同意永远不拥有核武器。霍尔木兹海峡必须立即开放，双向通行无阻，不收取任何通行费。所有水雷必须予以清除。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3111533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "WTI原油短线持续走低，现报89.05美元/桶，跌幅2.21%；布伦特原油现跌2.5%。",
+          "url": "https://flash.jin10.com/detail/20260529231028665800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "周四（5月28日），美联储隔夜逆回购协议（RRP）使用规模为11.63亿美元（交易对手7家），上个交易日报18.53亿美元。",
@@ -575,6 +719,17 @@
           "time_info": "15时55分"
         },
         {
+          "title": "特朗普就结束伊朗战事提出条件",
+          "url": "https://flash.jin10.com/detail/20260529231002596800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
           "url": "https://wallstreetcn.com/livenews/3110968",
           "source": "华尔街见闻-快讯",
@@ -584,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普说即将开会就伊朗战事作出最终决定",
+          "url": "https://wallstreetcn.com/livenews/3111530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国至5月22日当周外国央行持有美国国债 128.29亿美元，前值-202.38亿美元。",
@@ -630,6 +796,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "特朗普说即将开会就伊朗战事作出最终决定",
+          "url": "https://flash.jin10.com/detail/20260529230239683800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.290%（4月28日为4.175%），投标倍数2.52（前次为2.51）。",
           "url": "https://wallstreetcn.com/livenews/3110874",
           "source": "华尔街见闻-快讯",
@@ -652,6 +829,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "特朗普称将就伊朗问题作出“最终决定” 美国记者解读称特朗普暗示批准协议",
+          "url": "https://flash.jin10.com/detail/20260529230219349800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "Autodesk将按大约36亿美元现金收购Maintainx。",
           "url": "https://wallstreetcn.com/livenews/3110921",
           "source": "华尔街见闻-快讯",
@@ -661,6 +849,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "特朗普对伊朗协议提出要求，称：将做“最终决定”",
+          "url": "https://wallstreetcn.com/livenews/3111525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "据AXIOS网站记者Barak Ravid：特朗普暗示即将批准与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260529230217516800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
@@ -694,6 +904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "美国总统特朗普：在另行通知之前，否则不会进行任何资金交换。",
+          "url": "https://flash.jin10.com/detail/20260529230047258800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "Anthropic：推出Claude Opus 4.8，收费为10美元/100万tokens。 对常规使用Opus 4.7的收费维持现状不变。",
@@ -762,15 +983,37 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美国总统特朗普：滞留在霍尔木兹海峡的船只可能开始返航。",
+          "url": "https://flash.jin10.com/detail/20260529225954047800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "现货黄金日内涨幅达1.0%，报4542.06美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3111375",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "摩根大通：LME锌价料将在更长时期内保持在高位，预计2026年均价为每吨3400-3500美元。",
+          "url": "https://wallstreetcn.com/livenews/3111517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "金十图示：2026年05月29日（周五）上海金早盘价为982.78元/克，较国际金价(979.13元/克)，高3.65元/克",
@@ -784,15 +1027,37 @@
           "time_info": "11时32分"
         },
         {
+          "title": "报道：特朗普政府企图让美国车辆制造在USMCA占比达到50%",
+          "url": "https://wallstreetcn.com/livenews/3111516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "廉价手机的黄金时代正在迎来终结",
           "url": "https://www.baidu.com/s?wd=%E5%BB%89%E4%BB%B7%E6%89%8B%E6%9C%BA%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E6%AD%A3%E5%9C%A8%E8%BF%8E%E6%9D%A5%E7%BB%88%E7%BB%93",
           "source": "百度热搜",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "美国总统特朗普：其他不那么重要的事项已达成一致。",
+          "url": "https://flash.jin10.com/detail/20260529225925212800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "周四（5月28日）纽约尾盘，彭博谷物分类指数涨0.46%，报31.6386点。 CBOT玉米期货涨0.83%，CBOT小麦期货涨0.24%。 CBOT大豆期货涨0.89%，刷新日高至11.96美元/蒲式耳，豆粕期货涨0.97%，豆油期货涨1.86%。",
@@ -823,7 +1088,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -837,6 +1102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国总统特朗普：美国将与伊朗及国际原子能机构协调，挖出铀矿并予以销毁。",
+          "url": "https://flash.jin10.com/detail/20260529225734804800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "纽约期金日内涨1％，现报4526.58美元/盎司。",
@@ -859,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的铀将被美国挖出来。",
+          "url": "https://flash.jin10.com/detail/20260529225720100800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "据知情人士透露，美国与伊朗达成了关于60天停火的谅解备忘录（MoU），但仍需特朗普批准。（路透）",
@@ -911,7 +1198,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
