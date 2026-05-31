@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-05-31T16:14:21.840680+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-05-31T18:57:24.650282+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "TrendForce大幅上调存储市场预测：2027年规模料超1.28万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 18时57分]"
+        },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
           "url": "https://wallstreetcn.com/articles/3773482",
@@ -29,22 +46,6 @@
             5,
             3,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 16时14分]"
-        },
-        {
-          "title": "TrendForce大幅上调存储市场预测：2027年规模料超1.28万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            2,
-            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -101,6 +102,31 @@
           "time_info": "[01时03分 ~ 12时46分]"
         },
         {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 18时57分]"
+        },
+        {
+          "title": "中美元首会晤后，台海发生四个变化，说明了什么？",
+          "url": "https://news.ifeng.com/c/8tZePmggRkn",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时57分]"
+        },
+        {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
           "url": "https://wallstreetcn.com/articles/3773469",
           "source": "华尔街见闻",
@@ -110,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "中美元首会晤后，台海发生四个变化，说明了什么？",
-          "url": "https://news.ifeng.com/c/8tZePmggRkn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -168,18 +183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 16时14分]"
         },
         {
           "title": "黄金投资者周报上新！",
@@ -249,11 +252,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 16时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 18时57分]"
         },
         {
           "title": "美联储发出加息警告 股市黄金会怎样",
@@ -266,6 +270,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时56分 ~ 08时01分]"
+        },
+        {
+          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3111866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 18时57分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
@@ -303,18 +320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 04时56分]"
-        },
-        {
-          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3111866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 16时14分]"
         },
         {
           "title": "被从肯尼迪中心“除名”，特朗普表示“震惊”",
@@ -356,7 +361,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -378,7 +383,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -389,7 +394,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -411,7 +416,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -427,13 +432,24 @@
           "time_info": "01时03分"
         },
         {
+          "title": "多名艺人辞演 特朗普要当国庆开场秀主角",
+          "url": "https://flash.jin10.com/detail/20260531165738443800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "美国总统特朗普：所有竞选总统和副总统的人都应该被强制进行高难度认知测试。国会和民主党人应该要求这一点！",
           "url": "https://flash.jin10.com/detail/20260531123650502800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -444,7 +460,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -455,7 +471,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
