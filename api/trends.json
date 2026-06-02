@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-02T16:29:38.416085+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-06-02T20:41:28.409073+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 80,
+      "match_count": 97,
       "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 20时41分]"
+        },
         {
           "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
           "url": "https://www.cls.cn/detail/2387748",
@@ -55,18 +68,6 @@
           "time_info": "[07时01分 ~ 11时54分]"
         },
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 16时29分]"
-        },
-        {
           "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
           "url": "https://www.cls.cn/detail/2387782",
           "source": "财联社热门",
@@ -88,6 +89,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普再发5张照片回味中国",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "美股收盘：三大股指创收盘新高 英伟达涨6%",
@@ -129,7 +141,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -195,9 +207,43 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "Shake Shack预计全年调整后EBITDA 2.25亿美元至2.35亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3113070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 20时41分]"
+        },
+        {
+          "title": "能拉动10吨卡车的“黑黄金”量产了",
+          "url": "https://www.baidu.com/s?wd=%E8%83%BD%E6%8B%89%E5%8A%A810%E5%90%A8%E5%8D%A1%E8%BD%A6%E7%9A%84%E2%80%9C%E9%BB%91%E9%BB%84%E9%87%91%E2%80%9D%E9%87%8F%E4%BA%A7%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "惠与第二财季调整后每股收益（EPS）为0.79美元，分析师预期0.54美元。 将Elliott Investment Partners的Chris Hsu纳入董事会。 预计全年调整后EPS为3.35-3.45美元，公司原本预计2.30-2.50美元。 惠与（HPE）美股盘后涨28%。",
@@ -211,15 +257,38 @@
           "time_info": "04时18分"
         },
         {
+          "title": "IBM美股盘前短线拉升，跌幅一度收窄至2%，公司承诺在未来五年投入逾100亿美元用于量子计算。",
+          "url": "https://wallstreetcn.com/livenews/3113069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "特朗普再发5张照片回味中国：他们的宴会厅又大又漂亮",
           "url": "https://news.ifeng.com/c/8td32CwSj89",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "算力、存储之后是光连接？黄仁勋“钦点”下一家万亿美元公司",
+          "url": "https://www.cls.cn/detail/2388254",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 20时41分]"
         },
         {
           "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
@@ -232,18 +301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 11时54分]"
-        },
-        {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 16时29分]"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
@@ -269,6 +326,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时18分 ~ 11时54分]"
+        },
+        {
+          "title": "黄仁勋：Marvell可能会成为“下一家万亿美元公司”",
+          "url": "https://wallstreetcn.com/articles/3773635",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 20时41分]"
         },
         {
           "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
@@ -342,28 +411,6 @@
           "time_info": "[04时18分 ~ 07时01分]"
         },
         {
-          "title": "黄仁勋：Marvell可能会成为“下一家万亿美元公司”",
-          "url": "https://wallstreetcn.com/articles/3773635",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "算力、存储之后是光连接？黄仁勋“钦点”下一家万亿美元公司",
-          "url": "https://www.cls.cn/detail/2388254",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：我今晚与特朗普总统通了电话，并告诉他，如果真主党不停止袭击我们的城市和公民，以色列将对贝鲁特的目标发动打击。我们的立场依然坚定不变。与此同时，以色列国防军将继续按计划在黎巴嫩南部开展行动。",
           "url": "https://flash.jin10.com/detail/20260602033426312800",
           "source": "金十数据",
@@ -381,7 +428,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -397,13 +444,46 @@
           "time_info": "04时18分"
         },
         {
+          "title": "摩根士丹利将慧与科技（HPE）目标股价从33.00美元上调至71.00美元。",
+          "url": "https://wallstreetcn.com/livenews/3113067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "黄金再次触底反弹？震荡格局仍未打破！多空博弈鹿死谁手？金十研究员Steven正在直播，点击进入直播间观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260602201632281800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "能拉动10吨卡车的“黑黄金”量产了",
+          "url": "https://www.toutiao.com/trending/7646703806205739049/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "Alphabet拟融资800亿美元推进AI战略 伯克希尔将认购100亿美元股份",
           "url": "https://www.cls.cn/detail/2387726",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -425,7 +505,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -452,6 +532,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "特朗普：以色列和黎真主党的所有交火行动将立即停止，与伊朗谈判正“快速推进”",
+          "url": "https://wallstreetcn.com/articles/3773600",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国参议院多数党领袖图恩：白宫尚未就总统特朗普的基金发布任何官方声明。",
           "url": "https://flash.jin10.com/detail/20260602032044587800",
           "source": "金十数据",
@@ -469,7 +560,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -491,7 +582,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -529,6 +620,17 @@
           "time_info": "11时54分"
         },
         {
+          "title": "“大宗牛市”未完待续？瑞银：原油、黄金和铜铝都有“基本面支撑”！",
+          "url": "https://www.cls.cn/detail/2388313",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "美国参议院多数党领袖图恩：希望将美国总统特朗普的“武器化”基金从移民执法支出法案中删除。",
           "url": "https://flash.jin10.com/detail/20260602031957054800",
           "source": "金十数据",
@@ -557,7 +659,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -579,9 +681,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
+          "url": "https://www.cls.cn/detail/2388081",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
@@ -639,6 +752,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "挂单报告：国际现货黄金下方多单占优 欧美上方空单密集",
+          "url": "https://flash.jin10.com/detail/20260602200517909800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "短中期美债收益率涨超3个基点",
           "url": "https://wallstreetcn.com/livenews/3112662",
           "source": "华尔街见闻-快讯",
@@ -661,6 +785,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "超微电脑(SMCI.O)美股盘前涨4.6%，与Arm合作推出节能型AI服务器。",
+          "url": "https://flash.jin10.com/detail/20260602200501660800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
           "url": "https://wallstreetcn.com/livenews/3112620",
           "source": "华尔街见闻-快讯",
@@ -681,6 +816,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月2日（周二）晚盘盘初上涨0.69%报985.99元/克；<br/>上海黄金交易所白银T+D 6月2日（周二）晚盘盘初上涨1.25%报18420.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260602200440966800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "云顶新耀就希布替尼达成独家授权许可与合作协议，里程碑付款最高可获10.3亿美元",
+          "url": "https://wallstreetcn.com/livenews/3113049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "曝特朗普私下多次质疑万斯实力",
@@ -722,7 +879,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -736,6 +893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "IBM(IBM.N)计划在未来五年向量子计算领域投资超过100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260602200327758800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
@@ -777,7 +945,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -791,6 +959,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "IBM(IBM.N)承诺投资超过100亿美元用于量子计算，目标于2029年实现全球首台大规模容错量子计算机。",
+          "url": "https://flash.jin10.com/detail/20260602200111026800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在Anthropic提交上市申请后，他并未关注IPO的时机。",
@@ -868,6 +1047,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "伊朗叫停与美谈判！霍尔木兹通航仍受限！国际现货黄金修复预期加强？金十卢教练直播中，立即观看！",
+          "url": "https://flash.jin10.com/detail/20260602195219951800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "特朗普：与伊朗的谈判正“快速推进”",
