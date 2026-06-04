@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T07:43:32.220199+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-06-04T11:56:27.230468+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 74,
+      "match_count": 88,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 07时43分]"
+          "appearance_count": 6,
+          "time_info": "[02时42分 ~ 11时56分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -42,6 +42,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时42分 ~ 07时43分]"
+        },
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时42分 ~ 11时56分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -78,18 +91,6 @@
           "time_info": "[02时42分 ~ 05时49分]"
         },
         {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 07时43分]"
-        },
-        {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
           "url": "https://wallstreetcn.com/articles/3773725",
           "source": "华尔街见闻",
@@ -108,31 +109,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 11时56分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
           "url": "https://news.ifeng.com/c/8tffKr5raZ8",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "黄金ETF近一个月资金净流出超百亿元",
-          "url": "https://flash.jin10.com/detail/20260604072936749800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 11时56分]"
         },
         {
           "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
@@ -141,7 +132,18 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 11时56分]"
+        },
+        {
+          "title": "黄金ETF近一个月资金净流出超百亿元",
+          "url": "https://flash.jin10.com/detail/20260604072936749800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -152,7 +154,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -179,15 +181,48 @@
           "time_info": "05时49分"
         },
         {
+          "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
+          "url": "https://wallstreetcn.com/articles/3773813",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "特朗普欲将以黎冲突和美伊谈判“分开处理”",
           "url": "https://wallstreetcn.com/livenews/3114010",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "全球首位万亿美元富豪本月诞生？SpaceX披露IPO细节 敲定135美元发行价",
+          "url": "https://www.cls.cn/detail/2390224",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
@@ -309,6 +344,17 @@
           "time_info": "[02时42分 ~ 05时49分]"
         },
         {
+          "title": "美众议院通过决议限制特朗普对伊动武",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 11时56分]"
+        },
+        {
           "title": "博通首席执行官：预计第三季度软件收入约为89亿美元。",
           "url": "https://flash.jin10.com/detail/20260604051749977800",
           "source": "金十数据",
@@ -348,9 +394,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "美众院通过决议限制特朗普对伊朗动武",
+          "url": "https://www.toutiao.com/trending/7646226299874426916/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
+          "url": "https://www.cls.cn/detail/2390202",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "特朗普点名万斯、鲁比奥：两人大选联手将是一支难以被击败的团队",
+          "url": "https://news.ifeng.com/c/8tfpnbgvAEj",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "周三（6月3日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7803元，较周二纽约尾盘跌180点，日内整体交投于6.7612-6.7817元区间。",
@@ -362,6 +441,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2390155",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "博通CEO：重申2027财年AI芯片销售将超过1000亿美元。",
@@ -386,15 +487,15 @@
           "time_info": "05时49分"
         },
         {
-          "title": "美众议院通过决议限制特朗普对伊动武",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
-          "source": "百度热搜",
+          "title": "英国监管机构给谷歌AI搜索“立新规”",
+          "url": "https://wallstreetcn.com/livenews/3114177",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "11时56分"
         },
         {
           "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
@@ -540,13 +641,24 @@
           "time_info": "05时49分"
         },
         {
+          "title": "全球首个万亿美元ETF诞生",
+          "url": "https://flash.jin10.com/detail/20260604105858700800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "Meta寻求对AI智能体每个月收取至多200美元费用。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3114045",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -568,7 +680,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -579,7 +691,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -612,7 +724,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -623,7 +735,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -645,7 +757,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -661,6 +773,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "【台积电魏哲家：预计今年全年营收成长仍将超过30%】台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超过30%。",
+          "url": "https://wallstreetcn.com/livenews/3114157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "美元指数3日上涨",
           "url": "https://flash.jin10.com/detail/20260604044651294800",
           "source": "金十数据",
@@ -670,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "特朗普施压见效？以色列与黎巴嫩同意停火，伊朗谈判或现转机",
+          "url": "https://flash.jin10.com/detail/20260604105245920800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "美国总统特朗普：企图将伊朗与黎巴嫩问题分开处理。",
@@ -700,9 +834,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "印尼盾兑美元首次跌破1美元兑18000印尼盾关口。",
+          "url": "https://wallstreetcn.com/livenews/3114153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.85%，暂报2701.85点。 MarketVectorTM数字资产100中盘指数涨1.30%，报2908.80点。 MarketVector数字资产100指数跌2.75%，报13212.00点。 目前，Solana跌3.70%，狗狗币跌1.92%，XRP持平。 比特币跌1.78%，暂报65764.47美元，日内主要出现两波下跌行情，北京时间11:50跌至65391.95美元，目前正测试这一低位；以太坊跌4.10%，暂报1824.89美元，00:27刷新日低至1809.278美元。",
@@ -733,7 +878,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -744,7 +889,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -755,7 +900,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -777,7 +922,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -788,7 +933,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -835,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "比特币跌超5%至62000美元下方。",
+          "url": "https://wallstreetcn.com/livenews/3114146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     }
