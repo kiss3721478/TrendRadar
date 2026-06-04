@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T11:56:27.230468+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-06-04T16:21:44.085937+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 88,
+      "match_count": 100,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -16,8 +16,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时42分 ~ 11时56分]"
+          "appearance_count": 7,
+          "time_info": "[02时42分 ~ 16时21分]"
+        },
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时42分 ~ 16时21分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -42,19 +55,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时42分 ~ 07时43分]"
-        },
-        {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时42分 ~ 11时56分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -91,6 +91,40 @@
           "time_info": "[02时42分 ~ 05时49分]"
         },
         {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 16时21分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 16时21分]"
+        },
+        {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 16时21分]"
+        },
+        {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
           "url": "https://wallstreetcn.com/articles/3773725",
           "source": "华尔街见闻",
@@ -103,38 +137,38 @@
           "time_info": "[02时42分 ~ 07时43分]"
         },
         {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
+          "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
+          "url": "https://wallstreetcn.com/articles/3773813",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时43分 ~ 11时56分]"
+          "time_info": "[11时56分 ~ 16时21分]"
         },
         {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时43分 ~ 11时56分]"
+          "time_info": "[11时56分 ~ 16时21分]"
         },
         {
-          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
-          "url": "https://www.cls.cn/detail/2390139",
+          "title": "全球首位万亿美元富豪本月诞生？SpaceX披露IPO细节 敲定135美元发行价",
+          "url": "https://www.cls.cn/detail/2390224",
           "source": "财联社热门",
           "ranks": [
-            2
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时43分 ~ 11时56分]"
+          "time_info": "[11时56分 ~ 16时21分]"
         },
         {
           "title": "黄金ETF近一个月资金净流出超百亿元",
@@ -146,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "美股盘前，存储芯片股延续跌势，美光科技、闪迪均跌超2%；博通跌超10%，公司上季营收超预期增48%再创新高，AI收入指引逊色。",
+          "url": "https://wallstreetcn.com/livenews/3114295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
@@ -181,28 +226,6 @@
           "time_info": "05时49分"
         },
         {
-          "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
-          "url": "https://wallstreetcn.com/articles/3773813",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
           "title": "特朗普欲将以黎冲突和美伊谈判“分开处理”",
           "url": "https://wallstreetcn.com/livenews/3114010",
           "source": "华尔街见闻-快讯",
@@ -212,17 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
-        },
-        {
-          "title": "全球首位万亿美元富豪本月诞生？SpaceX披露IPO细节 敲定135美元发行价",
-          "url": "https://www.cls.cn/detail/2390224",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
@@ -344,6 +356,29 @@
           "time_info": "[02时42分 ~ 05时49分]"
         },
         {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 16时21分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
+          "url": "https://www.cls.cn/detail/2390202",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 16时21分]"
+        },
+        {
           "title": "美众议院通过决议限制特朗普对伊动武",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
           "source": "百度热搜",
@@ -405,20 +440,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
         {
-          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
-          "url": "https://www.cls.cn/detail/2390202",
-          "source": "财联社热门",
+          "title": "韩元兑美元汇率跌至自2009年以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3114287",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普点名万斯、鲁比奥：两人大选联手将是一支难以被击败的团队",
@@ -427,7 +462,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -443,15 +478,15 @@
           "time_info": "05时49分"
         },
         {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
+          "title": "美股超级IPO如何影响指数",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E8%B6%85%E7%BA%A7IPO%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%8C%87%E6%95%B0",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
@@ -460,9 +495,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "博通CEO：重申2027财年AI芯片销售将超过1000亿美元。",
@@ -474,6 +520,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "如何看待美股窄牛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "从商业角度分析，李宁给 38 岁斯蒂芬·库里超 4 亿美元的球鞋合同是否合理？",
+          "url": "https://www.zhihu.com/question/2045429680648586500",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "【特朗普称与伊朗谈判进展“非常顺利”】美国总统特朗普表示，与伊朗的谈判进展非常顺利，新一轮谈判可能在本周末举行。一旦协议签署后，霍尔木兹海峡将立即重新开放。 特朗普称，如果伊朗签署了协议，那就意味着他们已承诺绝不拥有核武器，绝不自行研发，也绝不从外部购买。特朗普称，最初的协议草案中只规定了“不自行研发”这一项，并没有“绝不从外部购买”。这个问题引发了长达两周的谈判，但最终美国把这一条也加了进去。只要伊朗签署那份文件，协议便正式生效。特朗普表示，理论上讲，“他们距离签署协议已经非常接近了”。 在谈及伊朗浓缩铀问题时，特朗普表示，“将在不久的将来拿到它”。 特朗普称，“我们完全可以再耗上两三周，把对方彻底消灭。但我宁愿不那样做。”他表示，如果能通过书面协议达成同样的目标，且无需造成大规模杀伤，那他更倾向于选择这种方式。 特朗普还表示，正在尝试将霍尔木兹海峡的开放问题与黎巴嫩的战事问题区分处理。特朗普称，他们有史以来第一次与黎真主党进行了对话，前一天已达成共识：他们不会攻击以色列，以色列也不会攻击他们。（央视）",
@@ -493,7 +561,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -518,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "全球央妈4月重新“扫货”黄金：波兰蝉联最大买家 中国央行18连增",
+          "url": "https://www.cls.cn/detail/2390391",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "博通首席执行官：预计2026财年人工智能半导体收入将达到560亿美元。",
@@ -647,7 +726,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -661,6 +740,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "韩元兑美元跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3114275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "全球央行扫货黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E6%89%AB%E8%B4%A7%E9%BB%84%E9%87%91%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "白宫：美国总统特朗普签署有关联邦雇员的命令。",
@@ -683,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "黄仁勋一句话让Marvell市值暴涨超620亿美元，光通信还能狂飙多久",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33299441",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普遭遇党内反弹：众议院投票叫停对伊战争",
@@ -740,6 +852,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "韩元兑美元KRW/USD跌至自2009年3月以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260604154019997800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
           "url": "https://wallstreetcn.com/livenews/3114012",
           "source": "华尔街见闻-快讯",
@@ -779,7 +902,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -801,7 +924,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -845,7 +968,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -949,6 +1072,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "美股芯片巨头暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
           "url": "https://wallstreetcn.com/livenews/3113939",
           "source": "华尔街见闻-快讯",
@@ -988,7 +1122,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         }
