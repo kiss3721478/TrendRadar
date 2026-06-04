@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T16:21:44.085937+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-06-04T19:53:32.468897+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 100,
+      "match_count": 118,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 16时21分]"
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 19时53分]"
         },
         {
           "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
@@ -57,6 +58,17 @@
           "time_info": "[02时42分 ~ 07时43分]"
         },
         {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 19时53分]"
+        },
+        {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
@@ -91,17 +103,6 @@
           "time_info": "[02时42分 ~ 05时49分]"
         },
         {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 16时21分]"
-        },
-        {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
           "url": "https://news.ifeng.com/c/8tffKr5raZ8",
           "source": "凤凰网",
@@ -125,6 +126,30 @@
           "time_info": "[07时43分 ~ 16时21分]"
         },
         {
+          "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
+          "url": "https://wallstreetcn.com/articles/3773813",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 19时53分]"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 19时53分]"
+        },
+        {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
           "url": "https://wallstreetcn.com/articles/3773725",
           "source": "华尔街见闻",
@@ -135,28 +160,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时42分 ~ 07时43分]"
-        },
-        {
-          "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
-          "url": "https://wallstreetcn.com/articles/3773813",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 16时21分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 16时21分]"
         },
         {
           "title": "全球首位万亿美元富豪本月诞生？SpaceX披露IPO细节 敲定135美元发行价",
@@ -188,7 +191,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -215,6 +218,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "美、布两油短线下跌近1美元，此前特朗普发文称美国正处于结束伊朗战争的最后谈判阶段。",
+          "url": "https://flash.jin10.com/detail/20260604192450276800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "博通首席执行官：截至目前，我们已收到总计60亿美元的采购订单。",
           "url": "https://flash.jin10.com/detail/20260604052024394800",
           "source": "金十数据",
@@ -224,6 +238,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "特朗普斥众议院投票：宁愿国家失败也不让我再赢一次",
+          "url": "https://flash.jin10.com/detail/20260604192337351800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "WTI原油期货回落至94美元/桶下方，日内跌2.11%。",
+          "url": "https://flash.jin10.com/detail/20260604192326096800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "特朗普欲将以黎冲突和美伊谈判“分开处理”",
@@ -246,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达2.5%，报95.36美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3114410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "华为人才离职创业公司估值1亿美元",
@@ -310,6 +357,19 @@
           "time_info": "[02时42分 ~ 07时43分]"
         },
         {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 19时53分]"
+        },
+        {
           "title": "750亿美元！SpaceX或大幅打破融资纪录 一图速览全球前十大IPO",
           "url": "https://www.cls.cn/detail/2389692",
           "source": "财联社热门",
@@ -356,16 +416,40 @@
           "time_info": "[02时42分 ~ 05时49分]"
         },
         {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
           "ranks": [
             10,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时56分 ~ 16时21分]"
+          "time_info": "[16时21分 ~ 19时53分]"
+        },
+        {
+          "title": "从商业角度分析，李宁给 38 岁斯蒂芬·库里超 4 亿美元的球鞋合同是否合理？",
+          "url": "https://www.zhihu.com/question/2045429680648586500",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时53分]"
+        },
+        {
+          "title": "全球央妈4月重新“扫货”黄金：波兰蝉联最大买家 中国央行18连增",
+          "url": "https://www.cls.cn/detail/2390391",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时53分]"
         },
         {
           "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
@@ -379,6 +463,18 @@
           "time_info": "[11时56分 ~ 16时21分]"
         },
         {
+          "title": "如何看待美股窄牛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时53分]"
+        },
+        {
           "title": "美众议院通过决议限制特朗普对伊动武",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
           "source": "百度热搜",
@@ -388,6 +484,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时43分 ~ 11时56分]"
+        },
+        {
+          "title": "美股芯片巨头暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时53分]"
         },
         {
           "title": "博通首席执行官：预计第三季度软件收入约为89亿美元。",
@@ -434,6 +541,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "特朗普：美国正处于结束伊朗战争的最后谈判阶段。",
+          "url": "https://wallstreetcn.com/livenews/3114408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "美众院通过决议限制特朗普对伊朗动武",
           "url": "https://www.toutiao.com/trending/7646226299874426916/",
           "source": "今日头条",
@@ -445,13 +563,24 @@
           "time_info": "11时56分"
         },
         {
+          "title": "谷歌计划释放3200万只蚊子",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "韩元兑美元汇率跌至自2009年以来最低水平。",
           "url": "https://wallstreetcn.com/livenews/3114287",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -484,7 +613,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -500,17 +629,6 @@
           "time_info": "11时56分"
         },
         {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "博通CEO：重申2027财年AI芯片销售将超过1000亿美元。",
           "url": "https://wallstreetcn.com/livenews/3114024",
           "source": "华尔街见闻-快讯",
@@ -520,28 +638,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
-        },
-        {
-          "title": "如何看待美股窄牛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E7%AA%84%E7%89%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "从商业角度分析，李宁给 38 岁斯蒂芬·库里超 4 亿美元的球鞋合同是否合理？",
-          "url": "https://www.zhihu.com/question/2045429680648586500",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "【特朗普称与伊朗谈判进展“非常顺利”】美国总统特朗普表示，与伊朗的谈判进展非常顺利，新一轮谈判可能在本周末举行。一旦协议签署后，霍尔木兹海峡将立即重新开放。 特朗普称，如果伊朗签署了协议，那就意味着他们已承诺绝不拥有核武器，绝不自行研发，也绝不从外部购买。特朗普称，最初的协议草案中只规定了“不自行研发”这一项，并没有“绝不从外部购买”。这个问题引发了长达两周的谈判，但最终美国把这一条也加了进去。只要伊朗签署那份文件，协议便正式生效。特朗普表示，理论上讲，“他们距离签署协议已经非常接近了”。 在谈及伊朗浓缩铀问题时，特朗普表示，“将在不久的将来拿到它”。 特朗普称，“我们完全可以再耗上两三周，把对方彻底消灭。但我宁愿不那样做。”他表示，如果能通过书面协议达成同样的目标，且无需造成大规模杀伤，那他更倾向于选择这种方式。 特朗普还表示，正在尝试将霍尔木兹海峡的开放问题与黎巴嫩的战事问题区分处理。特朗普称，他们有史以来第一次与黎真主党进行了对话，前一天已达成共识：他们不会攻击以色列，以色列也不会攻击他们。（央视）",
@@ -566,6 +662,28 @@
           "time_info": "11时56分"
         },
         {
+          "title": "SpaceX：散户投资者将能够以与大型机构相同的价格参与。预计SpaceX每股价格为135美元。 拟授予承销商30天期权，可额外购买最多83,333,333股A类普通股。 已启动555,555,555股A类普通股的首次公开募股（IPO）路演。 已申请将其A类普通股在纳斯达克全球精选市场和纳斯达克德克萨斯上市，股票代码为“SPCX”。 高盛、摩根士丹利、美银证券、花旗、摩根大通、巴克莱及其他公司将担任本次发行的账簿管理人。",
+          "url": "https://wallstreetcn.com/livenews/3114401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在进行最后谈判以结束伊朗战争。",
+          "url": "https://flash.jin10.com/detail/20260604191540995800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
           "url": "https://wallstreetcn.com/livenews/3113962",
           "source": "华尔街见闻-快讯",
@@ -588,15 +706,15 @@
           "time_info": "05时49分"
         },
         {
-          "title": "全球央妈4月重新“扫货”黄金：波兰蝉联最大买家 中国央行18连增",
-          "url": "https://www.cls.cn/detail/2390391",
-          "source": "财联社热门",
+          "title": "美国金融科技公司Ramp在新一轮融资中估值达440亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114400",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "19时53分"
         },
         {
           "title": "博通首席执行官：预计2026财年人工智能半导体收入将达到560亿美元。",
@@ -632,6 +750,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "富途控股美股盘前跌超5%，老虎证券跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3114398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "特朗普称与伊朗谈判进展“非常顺利”",
           "url": "https://flash.jin10.com/detail/20260604050137939800",
           "source": "金十数据",
@@ -665,6 +794,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "美国总统特朗普：众议院对战争权力的投票毫无意义。",
+          "url": "https://flash.jin10.com/detail/20260604191441978800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "周三（6月3日），韩元兑美元最终跌1.13%，报1535.14韩元。 北京时间13:18，韩元初夏一波加速下跌行情，14:00以来持续震荡走低。",
           "url": "https://wallstreetcn.com/livenews/3113958",
           "source": "华尔街见闻-快讯",
@@ -676,6 +816,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
+          "url": "https://www.zhihu.com/question/2045468542531851848",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "现货钯金日内跌近5%，现报1302美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260604045559160800",
           "source": "金十数据",
@@ -685,6 +836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "瑞杰金融：将博通(AVGO.O)目标价从428美元上调至450美元。",
+          "url": "https://flash.jin10.com/detail/20260604191426553800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "SpaceX寻求通过历史上最大规模IPO融资750亿美元",
@@ -748,7 +910,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -759,7 +921,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -792,7 +954,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -841,6 +1003,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "百万黄金被盗 半瓶可乐成破案关键",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91%E8%A2%AB%E7%9B%97+%E5%8D%8A%E7%93%B6%E5%8F%AF%E4%B9%90%E6%88%90%E7%A0%B4%E6%A1%88%E5%85%B3%E9%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "WTI原油日内走低1.00%，现报96.81美元/桶。",
           "url": "https://flash.jin10.com/detail/20260604063500099800",
           "source": "金十数据",
@@ -858,7 +1031,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -905,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3114383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "美元指数3日上涨",
@@ -962,6 +1146,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "SpaceX：散户投资者将能够以与大型机构投资者相同的价格参与本次发行。预计发行价为每股135美元。",
+          "url": "https://flash.jin10.com/detail/20260604190718473800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "印尼盾兑美元首次跌破1美元兑18000印尼盾关口。",
           "url": "https://wallstreetcn.com/livenews/3114153",
           "source": "华尔街见闻-快讯",
@@ -971,6 +1166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "据俄新社：俄罗斯德米特里耶夫表示，俄罗斯本周将与美国总统特使威特科夫和特朗普女婿库什纳进行接触。",
+          "url": "https://flash.jin10.com/detail/20260604190629338800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.85%，暂报2701.85点。 MarketVectorTM数字资产100中盘指数涨1.30%，报2908.80点。 MarketVector数字资产100指数跌2.75%，报13212.00点。 目前，Solana跌3.70%，狗狗币跌1.92%，XRP持平。 比特币跌1.78%，暂报65764.47美元，日内主要出现两波下跌行情，北京时间11:50跌至65391.95美元，目前正测试这一低位；以太坊跌4.10%，暂报1824.89美元，00:27刷新日低至1809.278美元。",
@@ -993,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "致尚科技：2026年1月1日至本公告披露日，公司持续收到美国某光纤连接解决方案提供商的采购订单，累积订单金额约6640.04万美元，折合人民币约4.6亿元（不含税）。",
+          "url": "https://wallstreetcn.com/livenews/3114379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "特朗普称美伊协议可能在本周末达成",
@@ -1070,17 +1287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
-        },
-        {
-          "title": "美股芯片巨头暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
