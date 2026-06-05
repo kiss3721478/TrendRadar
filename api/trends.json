@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:48:16.428414+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-06-05T20:37:42.070763+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 93,
+      "match_count": 102,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时07分 ~ 13时16分]"
+        },
+        {
+          "title": "母亲把黄金藏水壶被女儿当废品卖了",
+          "url": "https://www.toutiao.com/trending/7647722605785612351/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
@@ -179,6 +190,29 @@
           "time_info": "01时48分"
         },
         {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 20时37分]"
+        },
+        {
           "title": "美国总统特朗普：将在林肯纪念堂修建步道。",
           "url": "https://flash.jin10.com/detail/20260605034812419800",
           "source": "金十数据",
@@ -201,6 +235,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "现货黄金短线下挫近20美元，现报4447.73美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260605203116255800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "标普500指数初步收涨0.4%，医疗保健板块涨3.1%，金融板块涨2.6%，电信板块涨2%，能源板块跌0.1%，科技板块跌1.2%。 纳斯达克100指数初步收跌0.4%，成分股中，博通初步收跌12.4%，美光跌7%，Arm控股跌5%，闪迪跌4%，Diamondback Energy跌3.6%，西部数据跌2.7%，谷歌A涨3.8%，迈威尔科技涨5%，Axon涨6.8%。 联合健康初步收涨5.2%，领跑道指成分股，高盛涨5%，Merck涨4.6%，美国运通、摩根大通、波音、思科至少涨2.8%，雪佛龙跌0.7%，Salesforce跌0.9%，霍尼韦尔跌2.3%，VZ跌3.8%。 半导体指数跌2%。",
           "url": "https://wallstreetcn.com/livenews/3114609",
           "source": "华尔街见闻-快讯",
@@ -221,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "非农就业远超预期，美元指数DXY短线走高15点，现报99.36。",
+          "url": "https://flash.jin10.com/detail/20260605203046176800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "史上最大IPO！SpaceX发行价135美元，6月12日上市，估值1.77万亿美元",
@@ -248,6 +304,40 @@
           "time_info": "[01时48分 ~ 08时07分]"
         },
         {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 20时37分]"
+        },
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 20时37分]"
+        },
+        {
+          "title": "母亲把黄金藏水壶被女儿当废品卖了",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E6%8A%8A%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 20时37分]"
+        },
+        {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
           "source": "澎湃新闻",
@@ -272,17 +362,6 @@
           "time_info": "[08时07分 ~ 13时16分]"
         },
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
-        },
-        {
           "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
           "url": "https://www.cls.cn/detail/2391265",
           "source": "财联社热门",
@@ -293,28 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时07分 ~ 13时16分]"
-        },
-        {
-          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
-          "url": "https://wallstreetcn.com/articles/3773916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
-        },
-        {
-          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
-          "url": "https://wallstreetcn.com/articles/3773884",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
         },
         {
           "title": "特朗普开会睡觉视频曝光",
@@ -340,17 +397,6 @@
           "time_info": "[01时48分 ~ 08时07分]"
         },
         {
-          "title": "母亲把黄金藏水壶被女儿当废品卖了",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E6%8A%8A%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
-        },
-        {
           "title": "据福克斯新闻：特朗普政府计划发布一项政策声明，告知各银行在提供抵押贷款和信用卡时，可能会将客户的移民身份作为评估其偿还能力的因素之一。",
           "url": "https://flash.jin10.com/detail/20260605053303350800",
           "source": "金十数据",
@@ -360,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "美国总统特朗普：将动用《国防生产法》来保留13座煤电厂。",
@@ -527,6 +584,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国总统特朗普：将建设2座新煤电厂并出口煤炭。",
           "url": "https://flash.jin10.com/detail/20260605033201797800",
           "source": "金十数据",
@@ -692,6 +760,28 @@
           "time_info": "08时07分"
         },
         {
+          "title": "印度央行：截至5月29日，印度黄金储备规模为1126亿美元，低于前一周的1147.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "母亲60g黄金藏水壶被女儿当废品卖了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B260g%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "曝特朗普将现场观看NBA总决赛G3",
           "url": "https://www.toutiao.com/trending/7647682623816338954/",
           "source": "今日头条",
@@ -769,6 +859,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "摩根士丹利：预计SpaceX到2028年营收将接近1600亿美元。 预计SpaceX到2040年营收将达到3.4万亿美元。 预计SpaceX调整后EBITDA到2040年将超过2.7万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国总统特朗普就煤炭问题发表声明。",
           "url": "https://flash.jin10.com/detail/20260605032432338800",
           "source": "金十数据",
@@ -819,7 +920,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
