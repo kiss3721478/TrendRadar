@@ -1,437 +1,143 @@
 {
-  "generated_at": "2026-06-05T23:54:12.852897+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-06-06T01:54:37.237537+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 115,
+      "match_count": 27,
       "titles": [
         {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时48分 ~ 08时07分]"
-        },
-        {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：将在十月会议上将降息决定交给美联储主席沃什处理。",
+          "url": "https://flash.jin10.com/detail/20260606014709995800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时21分]"
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
-          "source": "凤凰网",
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时07分 ~ 17时48分]"
-        },
-        {
-          "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
-          "url": "https://wallstreetcn.com/articles/3773813",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时21分]"
-        },
-        {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时48分 ~ 13时16分]"
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
           "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
           "url": "https://www.zhihu.com/question/2045932866278895886",
           "source": "知乎",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 23时54分]"
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：希望看到更低的利率。",
+          "url": "https://flash.jin10.com/detail/20260606014440176800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时47分 ~ 23时54分]"
-        },
-        {
-          "title": "最灿烂不一定要许多钻石黄金",
-          "url": "https://www.douyin.com/hot/2523543",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 23时54分]"
-        },
-        {
-          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
-          "url": "https://www.cls.cn/detail/2391243",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 13时16分]"
-        },
-        {
-          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
-          "url": "https://www.cls.cn/detail/2391272",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 13时16分]"
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
           "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
-        },
-        {
-          "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
-          "url": "https://flash.jin10.com/detail/20260605055248462800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
-          "url": "https://wallstreetcn.com/livenews/3114570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国总统特朗普：赞赏代理国家情报总监、兼联邦住房金融局(FHFA)局长Bill Pulte在房利美与房地美（两房）的工作。 两房的价值可能有1万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3114612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://wallstreetcn.com/livenews/3114655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "消息人士：SpaceX告知投资银行，其IPO价格定为每股135美元，且不会变动。",
-          "url": "https://flash.jin10.com/detail/20260605054543841800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "日本5月外汇储备 13059亿美元，前值13830亿美元。",
-          "url": "https://flash.jin10.com/detail/20260605075002662800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "Quantinuum Inc.（QNT）美国IPO首日开盘报68美元，此前给出的IPO发行价为每股60美元。 这家获得霍尼韦尔（投资）支持的量子计算公司通过IPO募资16.8亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3114568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "母亲把黄金藏水壶被女儿当废品卖了",
-          "url": "https://www.toutiao.com/trending/7647722605785612351/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 23时54分]"
-        },
-        {
-          "title": "美国总统特朗普：将在林肯纪念堂修建步道。",
-          "url": "https://flash.jin10.com/detail/20260605034812419800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "01时54分"
         },
         {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://flash.jin10.com/detail/20260605054401786800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "现货黄金短线下挫近20美元，现报4447.73美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260605203116255800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "标普500指数初步收涨0.4%，医疗保健板块涨3.1%，金融板块涨2.6%，电信板块涨2%，能源板块跌0.1%，科技板块跌1.2%。 纳斯达克100指数初步收跌0.4%，成分股中，博通初步收跌12.4%，美光跌7%，Arm控股跌5%，闪迪跌4%，Diamondback Energy跌3.6%，西部数据跌2.7%，谷歌A涨3.8%，迈威尔科技涨5%，Axon涨6.8%。 联合健康初步收涨5.2%，领跑道指成分股，高盛涨5%，Merck涨4.6%，美国运通、摩根大通、波音、思科至少涨2.8%，雪佛龙跌0.7%，Salesforce跌0.9%，霍尼韦尔跌2.3%，VZ跌3.8%。 半导体指数跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3114609",
+          "title": "美国总统特朗普：将让美联储主席沃什决定利率。 如果我是降息，我并不会介意。",
+          "url": "https://wallstreetcn.com/livenews/3115282",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "01时54分"
         },
         {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 23时54分]"
-        },
-        {
-          "title": "特朗普最新支持率曝光，压力骤增",
-          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "非农就业远超预期，美元指数DXY短线走高15点，现报99.36。",
-          "url": "https://flash.jin10.com/detail/20260605203046176800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "史上最大IPO！SpaceX发行价135美元，6月12日上市，估值1.77万亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33305986",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时48分 ~ 08时07分]"
-        },
-        {
-          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
-          "url": "https://wallstreetcn.com/articles/3773916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 20时37分]"
-        },
-        {
-          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
-          "url": "https://wallstreetcn.com/articles/3773884",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 20时37分]"
-        },
-        {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 23时54分]"
-        },
-        {
-          "title": "母亲把黄金藏水壶被女儿当废品卖了",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E6%8A%8A%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86",
+          "title": "男子偷走百万黄金 留下半瓶可乐",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91+%E7%95%99%E4%B8%8B%E5%8D%8A%E7%93%B6%E5%8F%AF%E4%B9%90",
           "source": "百度热搜",
           "ranks": [
-            28,
-            14
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 20时37分]"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 04时06分]"
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
           "url": "https://wallstreetcn.com/articles/3773946",
           "source": "华尔街见闻",
           "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美媒：特朗普称已敦促普尔特对国家情报局进行裁员",
+          "url": "https://flash.jin10.com/detail/20260606013829444800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
-          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
-          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
-          "source": "凤凰网",
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 13时16分]"
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
-          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2391265",
-          "source": "财联社热门",
+          "title": "周五（6月5日），美联储隔夜逆回购协议（RRP）使用规模为7.61亿美元（交易对手5家），上个交易日报11.22亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115276",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 13时16分]"
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
           "title": "美国如何一次性解决 36 万亿美债问题？",
@@ -441,856 +147,162 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
-        },
-        {
-          "title": "特朗普开会睡觉视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
           "url": "https://www.zhihu.com/question/2045446455956091852",
           "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
-        },
-        {
-          "title": "女子7万购黄金镶钻手镯5天掉了5颗钻",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%907%E4%B8%87%E8%B4%AD%E9%BB%84%E9%87%91%E9%95%B6%E9%92%BB%E6%89%8B%E9%95%AF5%E5%A4%A9%E6%8E%89%E4%BA%865%E9%A2%97%E9%92%BB",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 08时07分]"
-        },
-        {
-          "title": "据福克斯新闻：特朗普政府计划发布一项政策声明，告知各银行在提供抵押贷款和信用卡时，可能会将客户的移民身份作为评估其偿还能力的因素之一。",
-          "url": "https://flash.jin10.com/detail/20260605053303350800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：将动用《国防生产法》来保留13座煤电厂。",
-          "url": "https://flash.jin10.com/detail/20260605033536358800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "现货黄金日内大跌3%，现报4341.31美元/盎司，为3月24日以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20260605233907507800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
-          "url": "https://wallstreetcn.com/livenews/3114648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
-          "url": "https://news.ifeng.com/c/8thTYMLvvqY",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "美国总统特朗普：与通用汽车和福特的高管进行了很好的会晤。",
-          "url": "https://flash.jin10.com/detail/20260605033413210800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
-          "url": "https://wallstreetcn.com/livenews/3114563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "特朗普称汽车行业企图限制“自主维修权”",
-          "url": "https://wallstreetcn.com/livenews/3114604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "周四（6月4日），美联储隔夜逆回购协议（RRP）使用规模为11.22亿美元（交易对手18家），上个交易日报20.62亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3114561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "周四（6月4日）纽约尾盘，ICE美元指数跌0.10%，报99.432点，全天处于下跌状态，北京时间16:00之前持稳于99.450点附近，之后呈现出V形走势、20:00刷新日低至99.179点。 彭博美元指数跌0.06%，报1204.71点，欧股盘初曾短线转涨、15:41刷新日高至1205.94点，随后出现V型行情、20:00也刷新日低至1202.49点。 美元兑日元跌0.03%，报160.02日元，在一波短线跳水行情中、12:34刷新日低至159.61日元。",
-          "url": "https://wallstreetcn.com/livenews/3114603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
-          "url": "https://www.zhihu.com/question/2045914979002315116",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "穆迪评级表示，Alphabet公司840亿美元的股权融资对信用评级是正面因素。",
-          "url": "https://flash.jin10.com/detail/20260605033309479800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
-          "url": "https://wallstreetcn.com/livenews/3114560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
-          "url": "https://flash.jin10.com/detail/20260605045725566800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：风能表现不佳。",
-          "url": "https://flash.jin10.com/detail/20260605033206043800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "美国总统特朗普宣称：对众多煤炭工厂投资7亿美元。 正采取历史性行动来降低能源价格。",
-          "url": "https://wallstreetcn.com/livenews/3114600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "周四（6月4日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7769元，较周三纽约尾盘涨34点，日内整体交投于6.7803-6.7701元区间。",
-          "url": "https://wallstreetcn.com/livenews/3114641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：将建设2座新煤电厂并出口煤炭。",
-          "url": "https://flash.jin10.com/detail/20260605033201797800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "01时54分"
         },
         {
-          "title": "纽约银日内跌幅达7.0%，报68.74美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3115238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "美国总统特朗普：将向煤炭行业投资7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260605033129969800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
-          "url": "https://flash.jin10.com/detail/20260605044910796800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "领益智造计划下周启动香港上市推介，筹资规模约10亿美元。（IFR国际金融评论）",
-          "url": "https://wallstreetcn.com/livenews/3114807",
+          "title": "LME期铜收跌412美元，报13520美元/吨。 LME期铝收跌74美元，报3592美元/吨。 LME期锌收跌58美元，报3530美元/吨。 LME期铅收跌12美元，报2005美元/吨。 LME期镍收跌108美元，报18581美元/吨。 LME期锡收跌2809美元，报52935美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3115270",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "01时54分"
         },
         {
-          "title": "市场消息：谷歌(GOOG.O)宣布将在得克萨斯州投资建设新数据中心并加大能源投入。",
-          "url": "https://flash.jin10.com/detail/20260605012551838800",
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606011824365800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "01时54分"
         },
         {
-          "title": "美国总统特朗普：承诺将采取历史性行动以降低能源价格。",
-          "url": "https://flash.jin10.com/detail/20260605033055518800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
-          "url": "https://flash.jin10.com/detail/20260605071426390800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "印度央行行长：印度原油价格在过去两个月平均为每桶110美元。",
-          "url": "https://flash.jin10.com/detail/20260605124348754800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "特朗普为大倒影池翻修工程辩护 称使用寿命可达百年",
-          "url": "https://flash.jin10.com/detail/20260605233310430800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "数字货币市场普跌，比特币在亚太早盘下探6.1万美元",
-          "url": "https://wallstreetcn.com/livenews/3114555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "现货黄金涨0.9%，白银涨1.6%",
-          "url": "https://wallstreetcn.com/livenews/3114638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：我们将采取行动，利用煤炭的力量来降低能源价格。",
-          "url": "https://flash.jin10.com/detail/20260605033009382800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：截至6月3日的一周内，货币市场基金总资产增加了1092.5亿美元，达到7.89万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260605044825280800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "LME期铜收涨107美元，报13932美元/吨。 LME期铝收跌38美元，报3666美元/吨。 LME期锌收跌22美元，报3588美元/吨。 LME期铅收跌6美元，报2017美元/吨。 LME期镍收跌182美元，报18689美元/吨。 LME期锡收跌1664美元，报55744美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3114554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "纳指跌幅扩大至2%，“无视”特朗普隔空喊涨的态度",
-          "url": "https://wallstreetcn.com/livenews/3115234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
-          "url": "https://flash.jin10.com/detail/20260605044557857800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
-          "url": "https://wallstreetcn.com/livenews/3114670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "印度央行：截至5月29日，印度黄金储备规模为1126亿美元，低于前一周的1147.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "母亲60g黄金藏水壶被女儿当废品卖了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B260g%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "曝特朗普将现场观看NBA总决赛G3",
-          "url": "https://www.toutiao.com/trending/7647682623816338954/",
+          "title": "母亲把黄金藏水壶被女儿当废品卖了",
+          "url": "https://www.toutiao.com/trending/7647722605785612351/",
           "source": "今日头条",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "01时54分"
         },
         {
-          "title": "美国总统特朗普：将很快提名美国代理司法部长布兰奇担任司法部长，相关文件正在准备中。",
-          "url": "https://flash.jin10.com/detail/20260605044520253800",
-          "source": "金十数据",
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "01时54分"
         },
         {
-          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：6月3日当周，美国杠杆贷款基金获得7.555亿美元资金流入，为连续第九周出现资金流入。",
-          "url": "https://wallstreetcn.com/livenews/3114592",
+          "title": "比特币跌穿6万美元整数位心理关口，为2024年10月份以来首次",
+          "url": "https://wallstreetcn.com/livenews/3115261",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "俄罗斯总统普京：特朗普在阿拉斯加曾要求俄罗斯作出一定妥协，俄方对此已准备就绪。",
-          "url": "https://flash.jin10.com/detail/20260605012011254800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "韩国4月未季调经常帐 282.9亿美元，前值373.271亿美元。",
-          "url": "https://flash.jin10.com/detail/20260605070002259800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7742元，较周三夜盘收盘涨51点。成交量507.88亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3114591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
-          "url": "https://wallstreetcn.com/livenews/3114633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "摩根士丹利：预计SpaceX到2028年营收将接近1600亿美元。 预计SpaceX到2040年营收将达到3.4万亿美元。 预计SpaceX调整后EBITDA到2040年将超过2.7万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "美国总统特朗普就煤炭问题发表声明。",
-          "url": "https://flash.jin10.com/detail/20260605032432338800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "01时54分"
         },
         {
-          "title": "美国总统特朗普：古巴正面临粮食短缺，并且缺乏能源和石油。",
-          "url": "https://flash.jin10.com/detail/20260605043740083800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
-          "url": "https://wallstreetcn.com/livenews/3114631",
+          "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局，否认最高领袖与特朗普的会晤",
+          "url": "https://wallstreetcn.com/livenews/3115260",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "01时54分"
         },
         {
-          "title": "特朗普称黎以和平谈判取得一定进展",
-          "url": "https://flash.jin10.com/detail/20260605043607203800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美、布两油短线走低近1美元，现分别报93.59美元/桶和93.36美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260605171420722800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3114548",
+          "title": "美国总统特朗普：我要求情报主管Bill Pulte解雇该部门的员工。 美国最大的情报办公室“太庞大了”。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3115259",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "01时54分"
         },
         {
-          "title": "特朗普称黎以和平谈判取得一定进展",
-          "url": "https://wallstreetcn.com/livenews/3114630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：我们将处理好古巴问题。",
-          "url": "https://flash.jin10.com/detail/20260605043346752800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
-          "url": "https://flash.jin10.com/detail/20260605064523592800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "WTI 7月原油期货收跌2.98美元，跌幅3.10%，报93.04美元/桶。 布伦特8月原油期货收跌2.78美元，跌幅2.84报95.03美元/桶。 NYMEX 7月天然气期货收报3.3360美元/百万英热单位。 NYMEX 7月汽油期货收报3.0383美元/加仑，NYMEX 7月取暖油期货收报3.6738美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3114585",
+          "title": "英镑/美元日内跌幅达0.5%，报1.3352。",
+          "url": "https://wallstreetcn.com/livenews/3115258",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "01时54分"
         },
         {
-          "title": "美国总统特朗普宣称：先解决伊朗，再处理古巴。",
-          "url": "https://wallstreetcn.com/livenews/3114629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：我们对古巴有一些非常好的计划。",
-          "url": "https://flash.jin10.com/detail/20260605043321294800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "报道：数据中心零部件生产商Xnrgy考虑按100亿美元出售",
-          "url": "https://wallstreetcn.com/livenews/3114546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国总统特朗普宣称：制裁古巴并不是要加速其崩溃。",
-          "url": "https://wallstreetcn.com/livenews/3114628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "1.6T光模块量产 测试设备迎黄金时代",
-          "url": "https://www.toutiao.com/trending/7647497038082346523/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国总统特朗普：在处理完伊朗后，我们会处理古巴。",
-          "url": "https://flash.jin10.com/detail/20260605043312889800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "秘鲁总统大选前夕，秘鲁索尔兑美元汇率下跌逾1%，秘鲁主要股指跌逾4%。",
-          "url": "https://flash.jin10.com/detail/20260605232139690800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "特朗普：Pulte不会成为正式的国家情报总监",
-          "url": "https://wallstreetcn.com/livenews/3114627",
+          "title": "商品货币澳元兑美元跌1%，刷新日低至0.7061。 纽元兑美元日内跌幅达1.0%，报0.5807。",
+          "url": "https://wallstreetcn.com/livenews/3115255",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "01时54分"
         },
         {
-          "title": "美国参议院Jim Banks发函财长贝森特、战争部长海格塞斯、以及特朗普政府的其他官员。 Banks要求对AI的监管跟上新模型的（发布）节奏。",
-          "url": "https://wallstreetcn.com/livenews/3115225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "李大霄谈美股风险释放",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：（关于古巴）我们只希望他们能成为一个管理良好的国家。",
-          "url": "https://flash.jin10.com/detail/20260605043128993800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
-          "url": "https://wallstreetcn.com/livenews/3114582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "美国总统特朗普：我们会得到伊朗的核尘埃。 没有在考虑秘密行动夺取伊朗铀。 没有理由去获取伊朗的核尘埃，它已经被掩埋。 现在可以获取伊朗的核尘埃，但没理由这么做。",
-          "url": "https://wallstreetcn.com/livenews/3114626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "欧元/美元日内跌幅达0.5%，报1.155。",
-          "url": "https://wallstreetcn.com/livenews/3115224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "阿根廷经济部长Luis Caputo：阿根廷批准RIGI投资方案中的两个项目，价值大约15.1亿美元。 San Matias天然气管道涉及13亿美元投资，将从Neuquen向Rio Negro输送2700万立方米/日的天然气。 Posco在Sal de Oro Lithium项目的第二阶段涉及0.2亿美元投资。",
-          "url": "https://wallstreetcn.com/livenews/3114581",
+          "title": "LME期铜跌3%，报13514美元。",
+          "url": "https://wallstreetcn.com/livenews/3115253",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时06分"
+          "time_info": "01时54分"
         },
         {
-          "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3114625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "纽约金日内跌幅达3.0%，报4369.8美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3115223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "银行ETF、医疗业ETF收涨超3%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3114624",
+          "title": "机构：GLP-1减重与糖尿病药物市场规模将在2030年达到1500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3115252",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "01时54分"
         },
         {
-          "title": "Ciena第二财季营收15.7亿美元，同比增长40%。 第二财季调整后每股收益（EPS）为1.64美元，同比增长290%。 上调全年营收预期至63亿美元+/-1亿美元，同比增幅指引区间的中位数为32%。 预计第三财季营收为16.25亿美元+/-0.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3114676",
+          "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3115251",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "01时54分"
+        },
+        {
+          "title": "最灿烂不一定要许多钻石黄金",
+          "url": "https://www.douyin.com/hot/2523543",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
         }
       ]
     }
