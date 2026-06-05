@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-05T06:21:32.901826+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-06-05T08:07:26.346193+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 70,
+      "match_count": 82,
       "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 08时07分]"
+        },
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
           "url": "https://wallstreetcn.com/articles/3773742",
@@ -30,15 +42,17 @@
           "time_info": "[01时48分 ~ 06时21分]"
         },
         {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            7,
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 08时07分]"
         },
         {
           "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
@@ -47,7 +61,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -61,6 +75,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
+          "url": "https://www.cls.cn/detail/2391243",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普：赞赏代理国家情报总监、兼联邦住房金融局(FHFA)局长Bill Pulte在房利美与房地美（两房）的工作。 两房的价值可能有1万亿美元。",
@@ -80,7 +116,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -102,9 +138,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "日本5月外汇储备 13059亿美元，前值13830亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605075002662800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "Quantinuum Inc.（QNT）美国IPO首日开盘报68美元，此前给出的IPO发行价为每股60美元。 这家获得霍尼韦尔（投资）支持的量子计算公司通过IPO募资16.8亿美元。",
@@ -116,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普：将在林肯纪念堂修建步道。",
@@ -135,7 +193,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -151,18 +209,6 @@
           "time_info": "04时06分"
         },
         {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时21分]"
-        },
-        {
           "title": "史上最大IPO！SpaceX发行价135美元，6月12日上市，估值1.77万亿美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33305986",
           "source": "澎湃新闻",
@@ -172,8 +218,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 08时07分]"
         },
         {
           "title": "最灿烂不一定要许多钻石黄金",
@@ -184,8 +230,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 08时07分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -200,13 +246,36 @@
           "time_info": "[01时48分 ~ 04时06分]"
         },
         {
+          "title": "女子7万购黄金镶钻手镯5天掉了5颗钻",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%907%E4%B8%87%E8%B4%AD%E9%BB%84%E9%87%91%E9%95%B6%E9%92%BB%E6%89%8B%E9%95%AF5%E5%A4%A9%E6%8E%89%E4%BA%865%E9%A2%97%E9%92%BB",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 08时07分]"
+        },
+        {
+          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
+          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "据福克斯新闻：特朗普政府计划发布一项政策声明，告知各银行在提供抵押贷款和信用卡时，可能会将客户的移民身份作为评估其偿还能力的因素之一。",
           "url": "https://flash.jin10.com/detail/20260605053303350800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -228,7 +297,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -316,9 +385,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普：风能表现不佳。",
@@ -349,7 +429,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -382,7 +462,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -409,6 +489,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
+          "url": "https://flash.jin10.com/detail/20260605071426390800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "数字货币市场普跌，比特币在亚太早盘下探6.1万美元",
           "url": "https://wallstreetcn.com/livenews/3114555",
           "source": "华尔街见闻-快讯",
@@ -426,7 +517,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -448,7 +539,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -470,9 +561,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
+          "url": "https://wallstreetcn.com/livenews/3114670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "曝特朗普将现场观看NBA总决赛G3",
+          "url": "https://www.toutiao.com/trending/7647682623816338954/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普：将很快提名美国代理司法部长布兰奇担任司法部长，相关文件正在准备中。",
@@ -481,7 +594,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -508,6 +621,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "韩国4月未季调经常帐 282.9亿美元，前值373.271亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605070002259800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7742元，较周三夜盘收盘涨51点。成交量507.88亿美元。",
           "url": "https://wallstreetcn.com/livenews/3114591",
           "source": "华尔街见闻-快讯",
@@ -525,7 +649,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -547,7 +671,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -558,7 +682,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -569,7 +693,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -591,20 +715,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "女子7万购黄金镶钻手镯5天掉了5颗钻",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%907%E4%B8%87%E8%B4%AD%E9%BB%84%E9%87%91%E9%95%B6%E9%92%BB%E6%89%8B%E9%95%AF5%E5%A4%A9%E6%8E%89%E4%BA%865%E9%A2%97%E9%92%BB",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：我们将处理好古巴问题。",
@@ -613,9 +726,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
+          "url": "https://flash.jin10.com/detail/20260605064523592800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "WTI 7月原油期货收跌2.98美元，跌幅3.10%，报93.04美元/桶。 布伦特8月原油期货收跌2.78美元，跌幅2.84报95.03美元/桶。 NYMEX 7月天然气期货收报3.3360美元/百万英热单位。 NYMEX 7月汽油期货收报3.0383美元/加仑，NYMEX 7月取暖油期货收报3.6738美元/加仑。",
@@ -635,7 +759,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -646,7 +770,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -668,7 +792,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -690,7 +814,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -701,7 +825,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -712,7 +836,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -723,7 +847,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -745,7 +869,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -767,7 +891,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -778,9 +902,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "Ciena第二财季营收15.7亿美元，同比增长40%。 第二财季调整后每股收益（EPS）为1.64美元，同比增长290%。 上调全年营收预期至63亿美元+/-1亿美元，同比增幅指引区间的中位数为32%。 预计第三财季营收为16.25亿美元+/-0.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     }
