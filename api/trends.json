@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-06-06T01:54:37.237537+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-06T03:54:16.900874+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 27,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时54分]"
+        },
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时54分]"
+        },
+        {
+          "title": "在这件事上，特朗普宣布要花7亿美元",
+          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时54分]"
+        },
+        {
+          "title": "男子偷走百万黄金 留下半瓶可乐",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91+%E7%95%99%E4%B8%8B%E5%8D%8A%E7%93%B6%E5%8F%AF%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时54分]"
+        },
         {
           "title": "美国总统特朗普：将在十月会议上将降息决定交给美联储主席沃什处理。",
           "url": "https://flash.jin10.com/detail/20260606014709995800",
@@ -19,26 +64,15 @@
           "time_info": "01时54分"
         },
         {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "纽约期银跌破68美元/盎司，日内跌8.08%。",
+          "url": "https://flash.jin10.com/detail/20260606034210786800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
-          "url": "https://www.zhihu.com/question/2045932866278895886",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时54分"
         },
         {
           "title": "美国总统特朗普：希望看到更低的利率。",
@@ -52,15 +86,15 @@
           "time_info": "01时54分"
         },
         {
-          "title": "在这件事上，特朗普宣布要花7亿美元",
-          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
-          "source": "凤凰网",
+          "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持COMEX黄金净多头头寸增加14,410手合约，至111,341手合约，创18周新高。 所持COMEX白银净多头头寸降低至10,433手合约。 所持COMEX铜净多头头寸增至77,131手合约，创逾五年新高。 所持NYMEX铂金净多头头寸减少至11,974手合约，创10周新低。 所持NYMEX钯金净空头头寸降低至3,476手合约。",
+          "url": "https://wallstreetcn.com/livenews/3115316",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时54分"
         },
         {
           "title": "美国总统特朗普：将让美联储主席沃什决定利率。 如果我是降息，我并不会介意。",
@@ -68,17 +102,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "男子偷走百万黄金 留下半瓶可乐",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91+%E7%95%99%E4%B8%8B%E5%8D%8A%E7%93%B6%E5%8F%AF%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,6 +119,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
           "title": "美媒：特朗普称已敦促普尔特对国家情报局进行裁员",
           "url": "https://flash.jin10.com/detail/20260606013829444800",
           "source": "金十数据",
@@ -107,6 +141,18 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时54分]"
+        },
+        {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
           "url": "https://wallstreetcn.com/articles/3773949",
           "source": "华尔街见闻",
@@ -114,8 +160,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时54分]"
         },
         {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
@@ -125,8 +171,77 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时54分]"
+        },
+        {
+          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时54分]"
+        },
+        {
+          "title": "母亲把黄金藏水壶被女儿当废品卖了",
+          "url": "https://www.toutiao.com/trending/7647722605785612351/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时54分]"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 03时54分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗局势似乎进行得相当不错。",
+          "url": "https://wallstreetcn.com/livenews/3115313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至6月2日当周，COMEX黄金期货投机性净多头头寸增加 14,409手至111,341手。",
+          "url": "https://flash.jin10.com/detail/20260606033734075800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普重申非农就业数据不错。",
+          "url": "https://wallstreetcn.com/livenews/3115312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "周五（6月5日），美联储隔夜逆回购协议（RRP）使用规模为7.61亿美元（交易对手5家），上个交易日报11.22亿美元。",
@@ -140,26 +255,70 @@
           "time_info": "01时54分"
         },
         {
-          "title": "美国如何一次性解决 36 万亿美债问题？",
-          "url": "https://www.zhihu.com/question/6607165102",
-          "source": "知乎",
+          "title": "美国总统特朗普对伊朗局势“进展良好”未提供更多细节。",
+          "url": "https://flash.jin10.com/detail/20260606032504676800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时54分"
         },
         {
-          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
-          "url": "https://www.zhihu.com/question/2045446455956091852",
-          "source": "知乎",
+          "title": "现货白银日内跌幅达8.0%，报67.93美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3115310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗局势似乎进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260606032502925800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
+          "url": "https://wallstreetcn.com/livenews/3115309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国总统特朗普：今天的就业数据非常出色。",
+          "url": "https://flash.jin10.com/detail/20260606032500669800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7878元，较周四夜盘收盘跌136点。成交量421.10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115304",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时54分"
         },
         {
           "title": "LME期铜收跌412美元，报13520美元/吨。 LME期铝收跌74美元，报3592美元/吨。 LME期锌收跌58美元，报3530美元/吨。 LME期铅收跌12美元，报2005美元/吨。 LME期镍收跌108美元，报18581美元/吨。 LME期锡收跌2809美元，报52935美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -184,26 +343,81 @@
           "time_info": "01时54分"
         },
         {
-          "title": "母亲把黄金藏水壶被女儿当废品卖了",
-          "url": "https://www.toutiao.com/trending/7647722605785612351/",
-          "source": "今日头条",
+          "title": "据Politico：特朗普最早将于下周与人工智能公司会面，商讨政府利润分成计划。",
+          "url": "https://flash.jin10.com/detail/20260606031919745800",
+          "source": "金十数据",
           "ranks": [
-            16
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时54分"
         },
         {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
+          "title": "美国4月消费信贷变动 207.33亿美元，预期 180亿美元，前值 248.55亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "现货钯金日内大跌6.00%，现报1229.41美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260606031855460800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "03时54分"
+        },
+        {
+          "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
+          "url": "https://wallstreetcn.com/livenews/3115302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "WTI 7月原油期货收跌2.50美元，跌幅2.69%，报90.54美元/桶。 布伦特8月原油期货收跌1.94美元，跌幅2.04%，报93.09美元/桶。 中东Abu Dhabi Murban原油期货跌2.49%，报91.17美元/桶，本周冲高回落累涨1.24%。 NYMEX 7月天然气期货收报3.2290美元/百万英热单位。 NYMEX 7月汽油期货收报3.0459美元/加仑，NYMEX 7月取暖油期货收报3.5874美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3115301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
+          "url": "https://flash.jin10.com/detail/20260606031454932800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "消息人士：特朗普在铀浓缩处理时间及冻结资金问题上与伊朗存在分歧",
+          "url": "https://flash.jin10.com/detail/20260606030808995800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "比特币跌穿6万美元整数位心理关口，为2024年10月份以来首次",
@@ -215,6 +429,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国特使Witkoff和特朗普女婿库什纳在田纳西州召集核专家。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3115298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "据福布斯：人工智能编程初创公司Lovable正在洽谈融资，目标估值约120亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606030632331800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局，否认最高领袖与特朗普的会晤",
@@ -239,6 +475,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国总统特朗普的阿拉斯加石油租赁许可拍卖仅仅招揽到两个竞标人。",
+          "url": "https://wallstreetcn.com/livenews/3115296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
           "title": "英镑/美元日内跌幅达0.5%，报1.3352。",
           "url": "https://wallstreetcn.com/livenews/3115258",
           "source": "华尔街见闻-快讯",
@@ -250,6 +497,39 @@
           "time_info": "01时54分"
         },
         {
+          "title": "据英国金融时报，Meta Platforms考虑股权融资，通过发行新股筹集数百亿美元。 Meta跌幅扩大还至6%。",
+          "url": "https://wallstreetcn.com/livenews/3115295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "费城半导体指数在美股午后盘中下跌近9%。",
+          "url": "https://flash.jin10.com/detail/20260606030109177800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国4月消费信贷 207.3亿美元，预期180亿美元，前值由248.55亿美元修正为222.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606030021423800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
           "title": "商品货币澳元兑美元跌1%，刷新日低至0.7061。 纽元兑美元日内跌幅达1.0%，报0.5807。",
           "url": "https://wallstreetcn.com/livenews/3115255",
           "source": "华尔街见闻-快讯",
@@ -259,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3115292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "LME期铜跌3%，报13514美元。",
@@ -283,6 +574,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国总统特朗普：房利美和房地美IPO并非不可能，但也不着急。",
+          "url": "https://wallstreetcn.com/livenews/3115290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
           "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3115251",
           "source": "华尔街见闻-快讯",
@@ -292,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "美国总统特朗普：所有大型AI公司都将前来白宫，也许就在下周。 将讨论民众如何从AI获利。",
+          "url": "https://wallstreetcn.com/livenews/3115289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "最灿烂不一定要许多钻石黄金",
