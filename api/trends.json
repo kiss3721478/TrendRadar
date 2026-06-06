@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-06T14:53:45.288998+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-06-06T17:26:18.167981+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 125,
+      "match_count": 129,
       "titles": [
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 17时26分]"
+        },
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时08分 ~ 17时26分]"
+        },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
           "url": "https://wallstreetcn.com/articles/3773949",
@@ -56,30 +80,6 @@
           "time_info": "[01时54分 ~ 07时09分]"
         },
         {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 14时53分]"
-        },
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 14时53分]"
-        },
-        {
           "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
           "url": "https://www.zhihu.com/question/2045932866278895886",
           "source": "知乎",
@@ -106,6 +106,29 @@
           "time_info": "[01时54分 ~ 07时09分]"
         },
         {
+          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046360260902909588",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 17时26分]"
+        },
+        {
+          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
+          "url": "https://www.cls.cn/detail/2392569",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 17时26分]"
+        },
+        {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
           "url": "https://wallstreetcn.com/articles/3773946",
           "source": "华尔街见闻",
@@ -116,6 +139,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时54分 ~ 05时26分]"
+        },
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -154,17 +188,6 @@
           "time_info": "[11时23分 ~ 14时53分]"
         },
         {
-          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2046360260902909588",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时53分]"
-        },
-        {
           "title": "母亲把黄金藏水壶被女儿当废品卖了",
           "url": "https://www.toutiao.com/trending/7647722605785612351/",
           "source": "今日头条",
@@ -195,7 +218,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -220,6 +243,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3773996",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 17时26分]"
         },
         {
           "title": "美国总统特朗普：希望看到更低的利率。",
@@ -253,17 +289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
-        },
-        {
-          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
-          "url": "https://www.cls.cn/detail/2392569",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
         },
         {
           "title": "美国总统特朗普：在迄今为止的冲突中，我们已经彻底摧毁了他们的军队，不过伊朗仍然拥有一些导弹和无人机。",
@@ -344,6 +369,18 @@
           "time_info": "[01时54分 ~ 07时09分]"
         },
         {
+          "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
+          "url": "https://www.cls.cn/detail/2392464",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 17时26分]"
+        },
+        {
           "title": "纽约期银跌破68美元/盎司，日内跌8.08%。",
           "url": "https://flash.jin10.com/detail/20260606034210786800",
           "source": "金十数据",
@@ -392,6 +429,19 @@
           "time_info": "[05时26分 ~ 07时09分]"
         },
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 17时26分]"
+        },
+        {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
           "source": "澎湃新闻",
@@ -404,28 +454,16 @@
           "time_info": "[01时54分 ~ 05时26分]"
         },
         {
-          "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
-          "url": "https://www.cls.cn/detail/2392464",
-          "source": "财联社热门",
+          "title": "废品站称没见60g黄金母亲疑其撒谎",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%9F%E5%93%81%E7%AB%99%E7%A7%B0%E6%B2%A1%E8%A7%8160g%E9%BB%84%E9%87%91%E6%AF%8D%E4%BA%B2%E7%96%91%E5%85%B6%E6%92%92%E8%B0%8E%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            7
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时53分]"
-        },
-        {
-          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3773996",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 17时26分]"
         },
         {
           "title": "周五（6月5日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7907元，较周四纽约尾盘跌138点，日内整体交投于6.7648-6.7920元区间。",
@@ -464,6 +502,17 @@
           "time_info": "[05时26分 ~ 07时09分]"
         },
         {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
+        },
+        {
           "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
           "url": "https://www.cls.cn/detail/2392502",
           "source": "财联社热门",
@@ -474,6 +523,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 14时53分]"
+        },
+        {
+          "title": "美股一夜蒸发超万亿美元市值",
+          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
@@ -488,16 +548,16 @@
           "time_info": "[11时23分 ~ 14时53分]"
         },
         {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11
+            14,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时53分]"
+          "time_info": "[14时53分 ~ 17时26分]"
         },
         {
           "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
@@ -682,7 +742,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -797,6 +857,17 @@
           "time_info": "07时09分"
         },
         {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：根据Rystad Energy公司数据，美国石油和天然气公司今年可能获得超过600亿美元的额外利润。",
+          "url": "https://flash.jin10.com/detail/20260606162715130800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7878元，较周四夜盘收盘跌136点。成交量421.10亿美元。",
           "url": "https://wallstreetcn.com/livenews/3115304",
           "source": "华尔街见闻-快讯",
@@ -861,17 +932,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
-        },
-        {
-          "title": "特朗普赦免因内幕交易获罪前议员",
-          "url": "https://wallstreetcn.com/livenews/3115419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.61亿美元。",
@@ -1023,7 +1083,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -1400,17 +1460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
-        },
-        {
-          "title": "废品站称没见60g黄金母亲疑其撒谎",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%9F%E5%93%81%E7%AB%99%E7%A7%B0%E6%B2%A1%E8%A7%8160g%E9%BB%84%E9%87%91%E6%AF%8D%E4%BA%B2%E7%96%91%E5%85%B6%E6%92%92%E8%B0%8E%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
         }
       ]
     }
