@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T02:04:40.528624+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-06-08T04:11:55.375963+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -35,11 +35,45 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时11分]"
+        },
+        {
+          "title": "美元兑日元大致持稳，周一悉尼盘初报价160.30日元，此前低开至160.04日元。",
+          "url": "https://wallstreetcn.com/livenews/3115611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "MarketVectorTM数字资产100小盘指数跌幅扩大至3.33%，跌穿2400点关口。 MarketVectorTM数字资产100中盘指数跌2.4%，逼近2520点。 MarketVector数字资产100指数跌约1.5%，至12130点。 比特币短线从61207.27美元上扬至61440.77美元，涨幅重新扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3115609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "伊朗向以色列发射第三波导弹，特朗普已听取局势升级的简报",
+          "url": "https://wallstreetcn.com/livenews/3115608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -49,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
@@ -60,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
@@ -72,8 +106,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -81,11 +115,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -96,8 +131,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时11分]"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
@@ -108,8 +143,43 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时11分]"
+        },
+        {
+          "title": "如何看待美股黑色星期五？如何影响A股？",
+          "url": "https://www.cls.cn/detail/2392886",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 04时11分]"
+        },
+        {
+          "title": "伊朗议员：伊朗从通过霍尔木兹海峡的每艘船获得150万-200万美元通行费。（伊朗国家电视台IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3115595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "time_info": "[02时04分 ~ 04时11分]"
+        },
+        {
+          "title": "据英国每日电讯报：美国总统特朗普考虑收购Chagos Islands。 美国官员们已经制定方案，并附加诸多选项。 美国正与英国讨论迪戈加西亚岛（Diego Garcia）的未来。",
+          "url": "https://wallstreetcn.com/livenews/3115592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 04时11分]"
         },
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -124,15 +194,16 @@
           "time_info": "[00时15分 ~ 02时04分]"
         },
         {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
+          "title": "学者：特朗普外交抑制了两极化阵营化",
+          "url": "https://www.toutiao.com/trending/7647971110792757299/",
+          "source": "今日头条",
           "ranks": [
-            13
+            27,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时04分]"
+          "time_info": "[02时04分 ~ 04时11分]"
         },
         {
           "title": "据Axios援引美国官员及两名知情人士：以色列在对贝鲁特南郊发动空袭前已通报特朗普政府。",
@@ -144,17 +215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "伊朗议员：伊朗从通过霍尔木兹海峡的每艘船获得150万-200万美元通行费。（伊朗国家电视台IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3115595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
         },
         {
           "title": "特朗普称美伊达成协议前不会解冻伊朗资产",
@@ -174,7 +234,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -190,15 +250,15 @@
           "time_info": "00时15分"
         },
         {
-          "title": "据英国每日电讯报：美国总统特朗普考虑收购Chagos Islands。 美国官员们已经制定方案，并附加诸多选项。 美国正与英国讨论迪戈加西亚岛（Diego Garcia）的未来。",
-          "url": "https://wallstreetcn.com/livenews/3115592",
-          "source": "华尔街见闻-快讯",
+          "title": "据AXIOS网站：美国总统特朗普已听取关于以伊局势升级的简报。",
+          "url": "https://flash.jin10.com/detail/20260608032901741800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "04时11分"
         },
         {
           "title": "英媒：特朗普考虑购买查戈斯群岛 拟绕过英国直接与毛里求斯交易",
@@ -207,7 +267,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -278,24 +338,13 @@
           "time_info": "00时15分"
         },
         {
-          "title": "学者：特朗普外交抑制了两极化阵营化",
-          "url": "https://www.toutiao.com/trending/7647971110792757299/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
           "title": "沃什首秀在即，特朗普称美联储加息将是错误之举",
           "url": "https://wallstreetcn.com/livenews/3115564",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
