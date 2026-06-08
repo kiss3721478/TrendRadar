@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T18:52:57.805703+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-06-08T22:48:48.181410+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 62,
+      "match_count": 77,
       "titles": [
         {
           "title": "中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司",
@@ -126,6 +126,18 @@
           "time_info": "[00时15分 ~ 13时50分]"
         },
         {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 22时48分]"
+        },
+        {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
@@ -150,15 +162,15 @@
           "time_info": "[00时15分 ~ 08时07分]"
         },
         {
-          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
-          "url": "https://wallstreetcn.com/articles/3774049",
+          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
+          "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 18时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "美元兑日元大致持稳，周一悉尼盘初报价160.30日元，此前低开至160.04日元。",
@@ -178,7 +190,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -189,7 +201,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -222,9 +234,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "金价下跌后郑州金店被挤爆",
+          "url": "https://www.toutiao.com/trending/7648415475306889252/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "非农夜大跌只是小插曲？华尔街研判美股牛市未改",
+          "url": "https://flash.jin10.com/detail/20260608221401837800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "伊朗向以色列发射第三波导弹，特朗普已听取局势升级的简报",
@@ -244,7 +278,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -257,8 +291,32 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 22时48分]"
+        },
+        {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 22时48分]"
+        },
+        {
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时50分 ~ 18时52分]"
+          "time_info": "[18时52分 ~ 22时48分]"
         },
         {
           "title": "伊朗议员：伊朗从通过霍尔木兹海峡的每艘船获得150万-200万美元通行费。（伊朗国家电视台IRIB）",
@@ -273,6 +331,18 @@
           "time_info": "[02时04分 ~ 04时11分]"
         },
         {
+          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
+          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 22时48分]"
+        },
+        {
           "title": "据英国每日电讯报：美国总统特朗普考虑收购Chagos Islands。 美国官员们已经制定方案，并附加诸多选项。 美国正与英国讨论迪戈加西亚岛（Diego Garcia）的未来。",
           "url": "https://wallstreetcn.com/livenews/3115592",
           "source": "华尔街见闻-快讯",
@@ -283,18 +353,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 04时11分]"
-        },
-        {
-          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 18时52分]"
         },
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -333,17 +391,6 @@
           "time_info": "[02时04分 ~ 04时11分]"
         },
         {
-          "title": "特朗普：伊朗最高领袖伤得很重",
-          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
           "title": "据Axios援引美国官员及两名知情人士：以色列在对贝鲁特南郊发动空袭前已通报特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260607231852307800",
           "source": "金十数据",
@@ -372,7 +419,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -386,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
-        },
-        {
-          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
-          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         },
         {
           "title": "特朗普称美伊达成协议前不会解冻伊朗资产",
@@ -432,6 +468,28 @@
           "time_info": "06时04分"
         },
         {
+          "title": "美股上市的秘鲁企业股价下跌，秘鲁保守派候选人在激烈的总统选举中领先。Buenaventura跌2.4%, Intercorp Financial跌2.6%，Credicorp跌5.1%。",
+          "url": "https://flash.jin10.com/detail/20260608221021255800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "特朗普称18亿美元“反武器化基金”是好主意 尽管遭遇共和党反弹",
           "url": "https://flash.jin10.com/detail/20260607231507080800",
           "source": "金十数据",
@@ -460,7 +518,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -476,6 +534,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "现货钯金跌破1200美元/盎司，为去年10月以来首次，日内跌1.34%。",
+          "url": "https://flash.jin10.com/detail/20260608220611998800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "韩元兑美元涨幅扩大至1.3%，创一个月来最大涨幅。",
           "url": "https://wallstreetcn.com/livenews/3115875",
           "source": "华尔街见闻-快讯",
@@ -485,6 +554,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "全球股市黄金无差别暴跌原因是啥",
+          "url": "https://www.toutiao.com/trending/7648993811242159635/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "英媒：特朗普考虑购买查戈斯群岛 拟绕过英国直接与毛里求斯交易",
@@ -507,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普：希望看到更低的利率。 没有理由加息。我们实际上应该降低利率。 （谈及沃什）不想对他产生太大影响。（NBC）",
@@ -553,6 +655,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美国钢铁公司计划向其蒙瓦利工厂投资高达25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260608220133185800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "特朗普：已知晓以伊最新局势，美军处于戒备状态",
           "url": "https://wallstreetcn.com/livenews/3115629",
           "source": "华尔街见闻-快讯",
@@ -562,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国10年期国债收益率转涨，重新逼近4.54%，亚太尾盘刷新日高至4.5801%之后持续走低，美股盘初曾刷新日低至4.5145%。",
+          "url": "https://wallstreetcn.com/livenews/3116223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普：如果美国和伊朗达成协议，“我们将一起行动”。 如果没有达成协议，将以严厉的军事手段打击伊朗。 美国在伊朗问题上将等待军事行动。 不排除向国会山袭击案中被指控者支付赔偿。 暂时没有计划撤出美军。 哈梅内伊比其前任更理性。 与伊朗协议“还差几个要点”，“非常接近”（达成）。 希望以色列对真主党进行更多“外科手术式”打击。 在伊朗行动中维持驻军成本极低。 希望“在军事上更进一步”。（NBC）",
@@ -581,7 +705,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -603,7 +727,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -614,7 +738,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -650,6 +774,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "贵金属专家：不要盲目抛售黄金",
+          "url": "https://www.toutiao.com/trending/7648476625018257471/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260608214939969800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "金价跌回2025年，有金店每克跌近400元",
@@ -696,6 +842,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "WTI原油回吐此前涨幅，跌破91美元/桶，报90.96美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3116213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "沃什首秀在即，特朗普称美联储加息将是错误之举",
           "url": "https://wallstreetcn.com/livenews/3115564",
           "source": "华尔街见闻-快讯",
@@ -705,6 +862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "美股三大股指集体高开，英特尔大涨超11%",
+          "url": "https://wallstreetcn.com/livenews/3116209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普建议伊朗发射了导弹就够了",
