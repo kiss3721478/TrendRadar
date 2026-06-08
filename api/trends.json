@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T06:04:15.979728+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-06-08T08:07:09.799094+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时07分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时07分]"
         },
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -40,8 +40,108 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时07分]"
+        },
+        {
+          "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时07分]"
+        },
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时07分]"
+        },
+        {
+          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
+          "url": "https://www.cls.cn/detail/2392569",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时07分]"
+        },
+        {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时07分]"
+        },
+        {
+          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
+          "url": "https://wallstreetcn.com/articles/3774038",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时07分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时07分]"
+        },
+        {
+          "title": "如何看待美股黑色星期五？如何影响A股？",
+          "url": "https://www.cls.cn/detail/2392886",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 08时07分]"
+        },
+        {
+          "title": "特朗普：我说了算，以色列总理别无选择",
+          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
           "title": "美元兑日元大致持稳，周一悉尼盘初报价160.30日元，此前低开至160.04日元。",
@@ -55,35 +155,13 @@
           "time_info": "04时11分"
         },
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时04分]"
-        },
-        {
-          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
-          "url": "https://www.cls.cn/detail/2392569",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时04分]"
-        },
-        {
           "title": "据阿拉伯卫星电视台：内塔尼亚胡与特朗普的通话持续了20分钟。",
           "url": "https://flash.jin10.com/detail/20260608054713959800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -108,67 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
-        },
-        {
-          "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时04分]"
-        },
-        {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时04分]"
-        },
-        {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时04分]"
-        },
-        {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时04分]"
-        },
-        {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 06时04分]"
         },
         {
           "title": "伊朗议员：伊朗从通过霍尔木兹海峡的每艘船获得150万-200万美元通行费。（伊朗国家电视台IRIB）",
@@ -258,7 +275,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -291,7 +308,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -335,7 +352,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -368,7 +385,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -379,7 +396,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -401,7 +418,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -423,7 +440,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -445,7 +462,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         }
