@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-06-11T00:58:57.149709+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-11T03:37:28.551731+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 36,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时37分]"
+        },
+        {
+          "title": "据NBC新闻：美国总统特朗普本周料将会见国防工业主管，敦促防务企业提高产量。",
+          "url": "https://flash.jin10.com/detail/20260611030404550800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
         {
           "title": "LME期铜收跌100美元，报13516美元/吨。 LME期铝收跌82美元，报3466美元/吨。 LME期锌收跌64美元，报3491美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3117633",
@@ -17,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美元在美国CPI通胀数据发布日大致持平",
+          "url": "https://wallstreetcn.com/livenews/3117675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "伊朗总统：将反对（美国总统特朗普发出的）任何威胁。",
@@ -30,15 +63,26 @@
           "time_info": "00时58分"
         },
         {
-          "title": "美贸易法院：特朗普，快退钱！",
-          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
-          "source": "凤凰网",
+          "title": "美国总统特朗普本周料将会见国防工业的主管们。 特朗普将村粗防务企业提高产量。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3117673",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时58分"
+          "time_info": "03时37分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7738元，较周二夜盘收盘跌4点。成交量363.03亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3117672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "伊朗总统回应特朗普威胁",
@@ -70,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时37分]"
         },
         {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
@@ -81,8 +125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时37分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -92,8 +136,65 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时37分]"
+        },
+        {
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时37分]"
+        },
+        {
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时37分]"
+        },
+        {
+          "title": "跌跌不休!印度抛黄金救卢比",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时37分]"
+        },
+        {
+          "title": "现货黄金跌破4100美元 创去年11月以来新低",
+          "url": "https://flash.jin10.com/detail/20260611025115801800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时58分"
+          "time_info": "03时37分"
+        },
+        {
+          "title": "现货黄金失守4100美元/盎司，创2025年11月以来新低，日内跌3.77%。",
+          "url": "https://wallstreetcn.com/livenews/3117668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普：我爱通胀",
@@ -116,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普称将“非常猛烈”打击伊朗",
@@ -162,22 +274,33 @@
           "time_info": "00时58分"
         },
         {
+          "title": "WTI 7月原油期货收涨1.83美元，涨幅2.07%，报90.03美元/桶。 布伦特8月原油期货收涨1.65美元，涨幅1.80%，报93.10美元/桶。 中东Abu Dhabi Murban原油期货涨1.04%，报89.16美元/桶。 NYMEX 7月天然气期货收报3.1850美元/百万英热单位。 NYMEX 7月汽油期货收报3.1099美元/加仑，NYMEX 7月取暖油期货收报3.6126美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3117663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "特朗普政府声明称，甲骨文(ORCL.N)获得了美国政府合同，将为政府提供人力资源软件。",
+          "url": "https://flash.jin10.com/detail/20260611023557060800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
           "title": "报道：特朗普重返白宫后四处动武，在全球发动打击已逾万次",
           "url": "https://wallstreetcn.com/livenews/3117620",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -204,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美联储加息预期飙升，ING称黄金、比特币与瑞郎惨遭通胀定价清算",
+          "url": "https://wallstreetcn.com/livenews/3117660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普签署了一项规模700亿美元的法案，为美国移民与海关执法局（ICE）及边境巡逻队提供资金。",
@@ -237,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "数据硬件和软件供应商DDN的首席执行官亚历克斯·布扎里表示，公司计划在今年年底前进行新一轮融资。DDN的合作伙伴包括英伟达，客户则包括谷歌和Salesforce。",
+          "url": "https://flash.jin10.com/detail/20260611023411479800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "美国总统特朗普：没考虑翻新美国墨西哥加拿大贸易协议（USMCA）。 我不知道自己是不是要翻新USMCA。",
@@ -283,6 +428,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 6月10日（周三）晚盘收盘下跌2.19%报896.69元/克；<br/>上海黄金交易所白银T+D 6月10日（周三）晚盘收盘上涨0.17%报15564.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260611023106293800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
           "title": "特朗普宣称将“猛烈”袭击伊朗，油价涨幅扩大",
           "url": "https://wallstreetcn.com/livenews/3117614",
           "source": "华尔街见闻-快讯",
@@ -292,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "美国总统特朗普的司法部询问大型银行是否不当地关闭了客户的银行账户。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3117656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "美国总统特朗普：我们击沉了22艘伊朗船只。",
@@ -305,6 +472,28 @@
           "time_info": "00时58分"
         },
         {
+          "title": "美国5月政府预算 -2926.48亿美元，预期 -2820亿美元，前值 2150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3117655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "现货黄金失守 4200 美元，创近 3 个月新低，黄金的逻辑变了吗？",
+          "url": "https://www.zhihu.com/question/2047977736623186480",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
           "title": "美国总统特朗普：（关于世界杯和签证）我们正在努力确保合适的人能够入境。",
           "url": "https://flash.jin10.com/detail/20260611000320342800",
           "source": "金十数据",
@@ -314,6 +503,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Apache Spark托管服务的Lightning Engine现已同时支持无服务器和托管集群两种部署模式。",
+          "url": "https://flash.jin10.com/detail/20260611022100658800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "特朗普：超过1亿桶石油通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3117654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "特朗普重申房利美和房地美的估值可能达到1万亿美元。",
@@ -327,6 +538,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "谷歌(GOOG.O)：面向Apache Spark托管服务的Lightning Engine已正式全面开放。",
+          "url": "https://flash.jin10.com/detail/20260611022037644800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
           "title": "报道：Altman预计OpenAI将于未来一年内IPO",
           "url": "https://wallstreetcn.com/livenews/3117610",
           "source": "华尔街见闻-快讯",
@@ -336,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
+          "url": "https://wallstreetcn.com/livenews/3117653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "美国总统特朗普：（关于国家情报总监提名）我们正在面试五位候选人。",
@@ -360,22 +593,33 @@
           "time_info": "00时58分"
         },
         {
+          "title": "周三（6月10日），韩元兑美元最终涨0.64%，报1521.10韩元，全天持续高位震荡，亚太早盘短线拉升、北京时间08:19刷新日高至1514.88韩元。",
+          "url": "https://wallstreetcn.com/livenews/3117650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "以色列消息人士称内塔尼亚胡与特朗普保持密切沟通",
+          "url": "https://wallstreetcn.com/livenews/3117647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
           "title": "特朗普提名的劳工统计局局长候选人承诺维护机构独立性",
           "url": "https://wallstreetcn.com/livenews/3117604",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -393,15 +637,15 @@
           "time_info": "00时58分"
         },
         {
-          "title": "跌跌不休!印度抛黄金救卢比",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
-          "source": "贴吧",
+          "title": "周三（6月10日），美联储隔夜逆回购协议（RRP）使用规模为3.87亿美元（交易对手4家），上个交易日报5.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3117645",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时58分"
+          "time_info": "03时37分"
         }
       ]
     }
