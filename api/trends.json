@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T16:25:56.149678+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-06-12T20:19:27.945164+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 116,
+      "match_count": 126,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时12分 ~ 16时25分]"
+          "appearance_count": 8,
+          "time_info": "[02时12分 ~ 20时19分]"
         },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -55,6 +55,29 @@
           "time_info": "[02时12分 ~ 05时20分]"
         },
         {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 20时19分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 20时19分]"
+        },
+        {
           "title": "四年来首次入熊，黄金背刺了所有相信它的人",
           "url": "https://wallstreetcn.com/articles/3774419",
           "source": "华尔街见闻",
@@ -66,29 +89,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时12分 ~ 16时25分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 16时25分]"
-        },
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 16时25分]"
         },
         {
           "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
@@ -113,6 +113,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 16时25分]"
+        },
+        {
+          "title": "每天花100万美元够花2700年！今夜，人类历史上首位万亿富豪将诞生？",
+          "url": "https://www.cls.cn/detail/2398034",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 20时19分]"
         },
         {
           "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
@@ -266,9 +278,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "黄金强势反弹，空头趋势已经衰竭？反弹不是反转！金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260612200708461800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "周四（6月11日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7635元，较周三纽约尾盘涨187点，日内整体交投于6.7846-6.7621元区间，01:27开启加速上涨行情。",
@@ -288,7 +311,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -305,17 +328,6 @@
           "time_info": "[02时12分 ~ 07时21分]"
         },
         {
-          "title": "30年前被扣押2859克黄金事件双方和解",
-          "url": "https://www.toutiao.com/trending/7650343017169043492/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
@@ -325,17 +337,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "每天花100万美元够花2700年！今夜，人类历史上首位万亿富豪将诞生？",
-          "url": "https://www.cls.cn/detail/2398034",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         },
         {
           "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
@@ -404,6 +405,30 @@
           "time_info": "05时20分"
         },
         {
+          "title": "30年前被扣押2859克黄金事件双方和解",
+          "url": "https://www.toutiao.com/trending/7650343017169043492/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 20时19分]"
+        },
+        {
+          "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33364376",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 20时19分]"
+        },
+        {
           "title": "特朗普称取消打击伊朗行动",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -449,6 +474,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 02时13分]"
+        },
+        {
+          "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
+          "url": "https://wallstreetcn.com/articles/3774485",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 20时19分]"
         },
         {
           "title": "黄金进入熊市",
@@ -501,7 +538,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -523,7 +560,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -534,7 +571,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -578,7 +615,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -592,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "国内最大黄金盗窃案告破：被盗27公斤黄金全追回，两主犯均为研究生毕业",
+          "url": "https://www.cls.cn/detail/2398176",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "现货黄金小幅拉升10美元，最新报4226美元/盎司。",
@@ -627,37 +675,26 @@
           "time_info": "11时53分"
         },
         {
-          "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
-          "url": "https://wallstreetcn.com/articles/3774485",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33364376",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "特朗普第38次声称和平协议即将达成？好消息是：华尔街又信了……",
           "url": "https://www.cls.cn/detail/2397839",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "金十提示：美国总统特朗普将此前取消打击伊朗的帖子置顶。",
@@ -704,6 +741,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "内塔尼亚胡：特朗普没提前告诉我",
+          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美股三大股指集体拉升，均涨超1%。",
           "url": "https://flash.jin10.com/detail/20260612013247042800",
           "source": "金十数据",
@@ -746,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月12日（周五）晚盘盘初上涨0.72%报914.94元/克；<br/>上海黄金交易所白银T+D 6月12日（周五）晚盘盘初上涨1.11%报16030.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260612200431450800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "美国总统特朗普：协议签署的时间和地点将很快公布。",
@@ -809,7 +868,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -823,6 +882,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "知名投行将SpaceX目标价定为190美元",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E6%8A%95%E8%A1%8C%E5%B0%86SpaceX%E7%9B%AE%E6%A0%87%E4%BB%B7%E5%AE%9A%E4%B8%BA190%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "美国总统特朗普：我已取消今晚对伊朗计划中的打击和轰炸。",
@@ -875,7 +956,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -941,7 +1022,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -1010,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "SpaceX发行价135美元/股",
+          "url": "https://www.baidu.com/s?wd=SpaceX%E5%8F%91%E8%A1%8C%E4%BB%B7135%E7%BE%8E%E5%85%83%2F%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "以色列：特朗普承诺伊朗将限制导弹生产及停止地区支持",
@@ -1139,7 +1231,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -1172,9 +1264,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金区间震荡 国际现货白银下方多单密集",
+          "url": "https://flash.jin10.com/detail/20260612195726241800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "SpaceX IPO定价为每股135美元，创史上最大规模IPO",
@@ -1232,6 +1335,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "美国财经媒体Semafor：OpenAI创始人奥尔特曼原定于本周末访问阿布扎比，但已取消行程。",
+          "url": "https://flash.jin10.com/detail/20260612195519793800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "上诉法院：美国总统特朗普目前可执行第122条关税。",
           "url": "https://wallstreetcn.com/livenews/3118378",
           "source": "华尔街见闻-快讯",
@@ -1249,7 +1363,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
