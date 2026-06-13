@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T20:25:40.712290+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-06-13T23:02:29.132127+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 96,
+      "match_count": 109,
       "titles": [
         {
           "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
@@ -16,8 +16,35 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 20时25分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 23时02分]"
+        },
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 23时02分]"
+        },
+        {
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 23时02分]"
         },
         {
           "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
@@ -32,30 +59,43 @@
           "time_info": "[00时17分 ~ 11时38分]"
         },
         {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
           "source": "财联社热门",
           "ranks": [
-            9,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 20时25分]"
-        },
-        {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
             5,
-            2,
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 20时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时37分 ~ 23时02分]"
+        },
+        {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 23时02分]"
+        },
+        {
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时44分 ~ 23时02分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -69,42 +109,30 @@
           "time_info": "[00时17分 ~ 07时16分]"
         },
         {
-          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
-          "url": "https://www.cls.cn/detail/2398924",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时37分 ~ 20时25分]"
-        },
-        {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 20时25分]"
-        },
-        {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
           "source": "财联社热门",
           "ranks": [
             13,
-            10,
-            7,
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[05时44分 ~ 20时25分]"
+          "time_info": "[11时37分 ~ 23时02分]"
+        },
+        {
+          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
+          "url": "https://wallstreetcn.com/articles/3774553",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时46分 ~ 23时02分]"
         },
         {
           "title": "美国银行存款从上周的19.338万亿美元降至19.296万亿美元。",
@@ -177,18 +205,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 11时38分]"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时37分 ~ 20时25分]"
         },
         {
           "title": "2万亿航天巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
@@ -269,6 +285,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国高级政府官员：美国总统特朗普还计划与法国、埃及和印度领导人举行双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260613222721867800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "SpaceX(SPCX.O)股价涨至160美元，日内涨约18%。",
           "url": "https://flash.jin10.com/detail/20260612235059734800",
           "source": "金十数据",
@@ -289,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "美国高级政府官员：美国总统特朗普将于下周三在凡尔赛与法国总统马克龙共进晚餐。",
+          "url": "https://flash.jin10.com/detail/20260613222707086800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
@@ -313,19 +351,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 11时38分]"
-        },
-        {
-          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
-          "url": "https://wallstreetcn.com/articles/3774553",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 20时25分]"
         },
         {
           "title": "周五（6月12日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7636元，较周四纽约尾盘跌1点，日内整体交投于6.7592-6.7692元区间。 本周，离岸人民币累计上涨大约270点，涨幅0.40%。",
@@ -377,6 +402,17 @@
           "time_info": "[00时17分 ~ 07时16分]"
         },
         {
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
           "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
           "source": "凤凰网",
@@ -387,6 +423,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时46分 ~ 18时28分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
@@ -434,6 +481,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 15时47分]"
+        },
+        {
+          "title": "又一家万亿美元级别IPO！SK海力士计划8月在纳斯达克上市，募资高达140亿美元",
+          "url": "https://wallstreetcn.com/articles/3774573",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）热门中概股行情一览（美股收盘）",
@@ -589,6 +647,17 @@
           "time_info": "[15时46分 ~ 15时47分]"
         },
         {
+          "title": "SpaceX亏损达413亿美元",
+          "url": "https://www.baidu.com/s?wd=SpaceX%E4%BA%8F%E6%8D%9F%E8%BE%BE413%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
           "title": "黄金上涨原因",
           "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%B8%8A%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -633,6 +702,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国高级政府官员：美国总统特朗普将在七国集团峰会上与阿联酋、卡塔尔及其他中东领导人会晤。",
+          "url": "https://flash.jin10.com/detail/20260613222620601800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "人类历史上最大规模IPO来了：SpaceX美国IPO首日开盘上涨11%，报150美元，此前给出的IPO发行价为每股135美元。 据报道，此次IPO融资规模750亿美元，吸引逾3500亿美元认购需求，近三分之一机构未获配。",
           "url": "https://wallstreetcn.com/livenews/3118987",
           "source": "华尔街见闻-快讯",
@@ -644,15 +724,26 @@
           "time_info": "00时17分"
         },
         {
-          "title": "特朗普姓名被从肯尼迪中心外墙移除",
-          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
-          "source": "凤凰网",
+          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3119171",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "23时02分"
+        },
+        {
+          "title": "美国高级政府官员：美国总统特朗普将与乌克兰总统泽连斯基会面。",
+          "url": "https://flash.jin10.com/detail/20260613222529263800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国宣布向波兰提供40亿美元军事贷款",
@@ -664,6 +755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "美国高级政府官员：美国总统特朗普将寻求重塑七国集团会议的对话方向，重点聚焦投资伙伴关系、关键供应链以及移民问题。",
+          "url": "https://flash.jin10.com/detail/20260613222514438800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "周五（6月12日），韩元兑美元最终涨0.96%，报1517.22韩元。 本周，韩元累涨2.63%，6月8日显著上扬，9-12日持续高位窄幅震荡、9日北京时间14:00达到1509.58韩元。",
@@ -754,6 +856,17 @@
           "time_info": "11时38分"
         },
         {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "CME补上周末交易，黄金以后更容易V反？",
           "url": "https://flash.jin10.com/detail/20260612233021430800",
           "source": "金十数据",
@@ -765,6 +878,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "特朗普转发巴基斯坦总理有关美伊协议的表态",
+          "url": "https://flash.jin10.com/detail/20260613215815322800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "现货白银日内涨幅达1.0%，报67.98美元/盎司。 现货黄金日内涨幅达0.5%，报4233.91美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3118977",
           "source": "华尔街见闻-快讯",
@@ -774,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "据路透：两名消息人士称，阿联酋已同意释放总计100亿美元资金，其中超过30亿美元已完成交付。",
@@ -859,7 +994,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -870,7 +1005,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1073,6 +1208,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "SpaceX亏损达413亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23SpaceX%E4%BA%8F%E6%8D%9F%E8%BE%BE413%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "数字货币市场最近七天至少涨超2%，比特币在周五美股开盘后一度突破6340美元",
           "url": "https://wallstreetcn.com/livenews/3119009",
           "source": "华尔街见闻-快讯",
@@ -1090,7 +1236,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
