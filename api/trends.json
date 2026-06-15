@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T02:25:41.366973+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-16T05:42:50.749920+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 31,
+      "match_count": 44,
       "titles": [
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们与美国总统特朗普是平等伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260616021905027800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 05时42分]"
         },
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
@@ -37,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 05时42分]"
         },
         {
           "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
@@ -46,6 +35,40 @@
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 05时42分]"
+        },
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 05时42分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们与美国总统特朗普是平等伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260616021905027800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,28 +86,6 @@
           "time_info": "02时25分"
         },
         {
-          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
-          "url": "https://www.cls.cn/detail/2400213",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "打脸马克龙？特朗普就数字服务税发难",
-          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
           "title": "特朗普：普京和泽连斯基愿就解决乌克兰危机“采取行动”",
           "url": "https://wallstreetcn.com/livenews/3119829",
           "source": "华尔街见闻-快讯",
@@ -96,22 +97,58 @@
           "time_info": "02时25分"
         },
         {
-          "title": "英伟达五年来首次发行投资级债券，认购额高达850亿美元",
-          "url": "https://wallstreetcn.com/livenews/3119827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
           "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
           "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
           "source": "澎湃新闻",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 05时42分]"
+        },
+        {
+          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
+          "url": "https://wallstreetcn.com/articles/3774700",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 05时42分]"
+        },
+        {
+          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2400410",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 05时42分]"
+        },
+        {
+          "title": "伊方披露谅解备忘录草案内容，包括美豁免石油制裁、提供 3000 亿美元助伊朗重建等，怎样解读这一草案？",
+          "url": "https://www.zhihu.com/question/2049795490623874487",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 05时42分]"
+        },
+        {
+          "title": "英伟达五年来首次发行投资级债券，认购额高达850亿美元",
+          "url": "https://wallstreetcn.com/livenews/3119827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -140,20 +177,20 @@
           "time_info": "02时25分"
         },
         {
+          "title": "美伊协议落地，拉美股汇走势分化",
+          "url": "https://wallstreetcn.com/livenews/3119879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "谁为特朗普白宫格斗赛买单",
           "url": "https://www.toutiao.com/trending/7651632627425742386/",
           "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
-          "url": "https://wallstreetcn.com/articles/3774700",
-          "source": "华尔街见闻",
           "ranks": [
             9
           ],
@@ -184,6 +221,17 @@
           "time_info": "02时25分"
         },
         {
+          "title": "周一（6月15日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7593元，较上周五纽约尾盘涨43点，日内整体交投于6.7637-6.7556元区间。",
+          "url": "https://wallstreetcn.com/livenews/3119878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "今年医药反腐查什么",
           "url": "https://www.toutiao.com/trending/7651599288945872403/",
           "source": "今日头条",
@@ -195,15 +243,15 @@
           "time_info": "02时25分"
         },
         {
-          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2400410",
-          "source": "财联社热门",
+          "title": "现货黄金涨超2%，重拾4300美元关口，美国和伊朗达成协议以恢复霍尔木兹海峡通行",
+          "url": "https://wallstreetcn.com/livenews/3119877",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "05时42分"
         },
         {
           "title": "周一（6月15日），美联储隔夜逆回购协议（RRP）使用规模为5.81亿美元（交易对手8家），上个交易日报4.54亿美元。",
@@ -211,17 +259,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "伊方披露谅解备忘录草案内容，包括美豁免石油制裁、提供 3000 亿美元助伊朗重建等，怎样解读这一草案？",
-          "url": "https://www.zhihu.com/question/2049795490623874487",
-          "source": "知乎",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -239,6 +276,39 @@
           "time_info": "02时25分"
         },
         {
+          "title": "周一（6月15日），美股降息赢家指数涨0.34%，报95.17点，跳空高开之后，美股盘初刷新日高至97.88点，随后持续回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3119873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3119872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美加州州长称特朗普指示司法部对其展开调查",
+          "url": "https://wallstreetcn.com/livenews/3119871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "谷歌加强在美国阿拉巴马州的存在，2026-27年将投资15亿美元。 这笔资金将完全用于自家数据中心的电力与基础设施成本。",
           "url": "https://wallstreetcn.com/livenews/3119817",
           "source": "华尔街见闻-快讯",
@@ -248,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（6月15日），美国科技股七巨头（Magnificent 7）指数涨2.74%，报216.22点。 “超大”市值科技股指数涨3.48%，报448.96点。",
+          "url": "https://wallstreetcn.com/livenews/3119870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们对伊朗经济造成了巨大损失，有人估计高达一万亿美元。",
@@ -283,6 +364,28 @@
           "time_info": "02时25分"
         },
         {
+          "title": "新兴市场ETF收涨将近3.3%，领跑美股大类资产类ETF，布油基金跌3.7%",
+          "url": "https://wallstreetcn.com/livenews/3119867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "美加州州长称特朗普指示司法部对其展开调查",
+          "url": "https://flash.jin10.com/detail/20260616042216487800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "美国总统特朗普谈伊朗核协议：不解除制裁。",
           "url": "https://wallstreetcn.com/livenews/3119812",
           "source": "华尔街见闻-快讯",
@@ -305,6 +408,17 @@
           "time_info": "02时25分"
         },
         {
+          "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
+          "url": "https://wallstreetcn.com/livenews/3119863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "美国总统特朗普声称：我认为“很快”就会披露谅解备忘录（MoU）。 MoU的文本将于周五之后公布。 霍尔木兹海峡免费通行。",
           "url": "https://wallstreetcn.com/livenews/3119810",
           "source": "华尔街见闻-快讯",
@@ -314,6 +428,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "周一（6月15日），美股存储芯片与硬件供应链指数涨8.54%，报253.05点，再次创收盘历史新高，最近三个交易日累计上涨25%。 成分股西部数据涨16.10%，创1月份以来最佳单日表现，报653.53美元，创收盘历史新高，美光科技涨涨10.8%，希捷科技涨9.4%，泰瑞达涨7.2%，闪迪涨超6.4%，拉姆研究涨6%，应用材料涨3.3%，Rambus跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3119862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "SpaceX美股IPO第二天收涨19.60%，报192.50美元，市值增长4120亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "美国总统特朗普：油价正在下跌。",
@@ -347,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "两年期美债收益率跌幅收窄至2.5个基点",
+          "url": "https://wallstreetcn.com/livenews/3119855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     }
