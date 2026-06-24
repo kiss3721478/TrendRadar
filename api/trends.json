@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T18:50:30.183955+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-06-24T21:22:35.461417+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 145,
+      "match_count": 173,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 18时50分]"
+          "appearance_count": 6,
+          "time_info": "[07时56分 ~ 21时22分]"
         },
         {
           "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
@@ -112,6 +112,18 @@
           "time_info": "[06时12分 ~ 06时13分]"
         },
         {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时22分]"
+        },
+        {
           "title": "美部长拍特朗普马屁，当场被打脸",
           "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
           "source": "凤凰网",
@@ -161,6 +173,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "谷歌(GOOG.O)：谷歌钱包使美国运输安全管理局的无接触身份验证惠及更多旅客。",
+          "url": "https://flash.jin10.com/detail/20260624211149557800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "SpaceX有望从美国高评级债券市场募集250亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3123597",
           "source": "华尔街见闻-快讯",
@@ -205,6 +228,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "贝森特：伊朗解冻资金将采购美国产品，石油销售需重新以美元计价",
+          "url": "https://flash.jin10.com/detail/20260624211051118800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "周二（6月23日）纽约尾盘，美元兑日元大致持平，报161.56日元，日内交投区间为161.74-161.28日元，北京时间15:00、16:01显著跳水，一度逼近6月22日顶部161.93日元（逼近2024年7月3日顶部161.95日元）。 欧元兑日元跌0.42%，连续两个交易日下挫，报183.88日元；英镑兑日元跌0.42%，报213.190日元。",
           "url": "https://wallstreetcn.com/livenews/3123619",
           "source": "华尔街见闻-快讯",
@@ -214,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "静待美光财报，美股盘前半导体股上扬、美光涨4%，现货白银失守60美元，布油跌超2%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美元指数涨超0.3%，一度创去年5月以来新高",
@@ -249,15 +294,15 @@
           "time_info": "07时57分"
         },
         {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
+          "title": "SpaceX美股盘前跌幅扩大至2.7%，至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3124063",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "21时22分"
         },
         {
           "title": "路透社/益普索民调显示，美国总统特朗普支持率跌至34%，与他第二个任期内的最低水平持平。",
@@ -304,13 +349,24 @@
           "time_info": "06时13分"
         },
         {
+          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
+          "url": "https://wallstreetcn.com/livenews/3124062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
           "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -346,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
@@ -409,6 +476,20 @@
           "time_info": "[01时54分 ~ 06时13分]"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 21时22分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -434,17 +515,17 @@
           "time_info": "[01时54分 ~ 06时13分]"
         },
         {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            16,
-            11
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时37分 ~ 18时50分]"
+          "time_info": "[11时37分 ~ 21时22分]"
         },
         {
           "title": "SpaceX 股价连续三个交易日下跌，市值蒸发逾 6000 亿美元，为何会持续下跌？其未来前景如何？",
@@ -518,18 +599,6 @@
           "time_info": "[11时37分 ~ 15时40分]"
         },
         {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 18时50分]"
-        },
-        {
           "title": "特朗普最新支持率公布",
           "url": "https://news.ifeng.com/c/8uD1v25JY2x",
           "source": "凤凰网",
@@ -551,6 +620,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 04时03分]"
+        },
+        {
+          "title": "黄金“大势已去”？专家反驳：恰是绝佳入场时机，“结构性支撑”牢固！",
+          "url": "https://www.cls.cn/detail/2407797",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时22分]"
         },
         {
           "title": "美股芯片股全线重挫",
@@ -608,6 +688,28 @@
           "time_info": "11时37分"
         },
         {
+          "title": "分析师：急涨急跌，美股市场走势令人担忧",
+          "url": "https://flash.jin10.com/detail/20260624210900671800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "现货黄金跌破4000美元/盎司关口，加息忧虑升温",
+          "url": "https://wallstreetcn.com/livenews/3124058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "专家：金价仍在下跌通道",
           "url": "https://www.toutiao.com/trending/7654738155483958838/",
           "source": "今日头条",
@@ -625,7 +727,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -696,6 +798,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "Meta与微软领跑 带动数据中心租赁承诺突破8500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3124056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "特朗普谈伊朗协议：任何批评这笔交易的人都必须接受教育，即使是我的朋友。",
           "url": "https://flash.jin10.com/detail/20260624012804033800",
           "source": "金十数据",
@@ -751,6 +864,17 @@
           "time_info": "11时37分"
         },
         {
+          "title": "博通和OpenAI表示，早期测试显示，Jalapeño的每瓦性能将显著优于当前的最先进水平。",
+          "url": "https://flash.jin10.com/detail/20260624210650083800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "WTI 7月原油期货收跌0.65美元，跌幅0.88%，报73.21美元/桶，逼近3月5日收盘价71.46美元、3月4日收盘价69.24美元，200日均线已经上移至69.98美元。 布伦特7月原油期货收跌0.82美元，跌幅1.05%，报77.08美元/桶。 中东Abu Dhabi Murban原油期货跌1.91%，报69.44美元/桶，逼近2月17日彭博报价66.89美元。 NYMEX 7月天然气期货收报3.1470美元/百万英热单位。 NYMEX 7月汽油期货收报2.9590美元/加仑，NYMEX 7月取暖油期货收报3.1546美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3123610",
           "source": "华尔街见闻-快讯",
@@ -771,6 +895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3124055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
@@ -839,15 +974,15 @@
           "time_info": "04时03分"
         },
         {
-          "title": "黄金“大势已去”？专家反驳：恰是绝佳入场时机，“结构性支撑”牢固！",
-          "url": "https://www.cls.cn/detail/2407797",
-          "source": "财联社热门",
+          "title": "现货白银日内跌幅达4.5%，报58.74美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3124052",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时50分"
+          "time_info": "21时22分"
         },
         {
           "title": "市场消息：SpaceX拟通过高等级债券发行筹资250亿美元。",
@@ -878,7 +1013,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -947,6 +1082,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "美国一季度经常帐 -2268亿美元，预期 -2106亿美元，前值 -1907亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国总统特朗普：伊朗面临饥饿、食品、药品及通胀问题。",
@@ -1037,6 +1183,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "油价持续下跌 此前特朗普称伊朗未在海峡收取通行费",
+          "url": "https://flash.jin10.com/detail/20260624210524478800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美国总统特朗普：在军事力量和能力遭受重创之后，伊朗已不具备有利的谈判地位。",
           "url": "https://flash.jin10.com/detail/20260624012030463800",
           "source": "金十数据",
@@ -1092,6 +1249,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "布伦特原油日内跌幅达3.0%，报74.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3124043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗想找麻烦，那就去寻求核武器。",
           "url": "https://flash.jin10.com/detail/20260624011947877800",
           "source": "金十数据",
@@ -1120,9 +1288,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "WTI原油回落至71美元/桶下方，日内跌3.62%；布伦特原油向下触及74美元/桶，日内跌3.57%。",
+          "url": "https://flash.jin10.com/detail/20260624210409842800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "耐克美股盘后涨2%，该公司任命辉瑞制药高管David M. Denton为首席财务官（CFO），8月17日生效。",
@@ -1178,6 +1357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "博通与OpenAI联合推出Jalapeño，这是OpenAI首款智能处理器。",
+          "url": "https://flash.jin10.com/detail/20260624210354905800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "德银上调对短期美债收益率的预测",
@@ -1257,13 +1447,24 @@
           "time_info": "06时13分"
         },
         {
+          "title": "特朗普对福克斯表示：视察人员将获准前往伊朗的铀所在地。 不急于派遣视察人员进入伊朗设施。 伊朗初期将获5亿美元，用于购买美国商品。",
+          "url": "https://wallstreetcn.com/livenews/3124039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美联储加息3次金价或跌至3800",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF3%E6%AC%A1%E9%87%91%E4%BB%B7%E6%88%96%E8%B7%8C%E8%87%B33800%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -1307,9 +1508,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
+          "url": "https://www.zhihu.com/question/2052784601471493284",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的64.84亿美元。",
@@ -1343,6 +1555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "博通(AVGO.O)预计将比预期更快地部署OpenAI芯片。",
+          "url": "https://flash.jin10.com/detail/20260624210245809800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "SpaceX有望从美国高评级债券市场募集250亿美元，认购需求显示市场心态谨慎",
@@ -1398,6 +1621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "博通(AVGO.O)CEO：OpenAI的新芯片可节省50%的成本。",
+          "url": "https://flash.jin10.com/detail/20260624210227845800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "SpaceX高评级债券发行获得890亿美元认购。",
@@ -1466,6 +1700,17 @@
           "time_info": "11时37分"
         },
         {
+          "title": "OpenAI与博通(AVGO.O)联合发布针对大型语言模型（LLM）优化的智能处理器。",
+          "url": "https://flash.jin10.com/detail/20260624210204398800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "SpaceX为250亿美元债券定价。",
           "url": "https://wallstreetcn.com/livenews/3123644",
           "source": "华尔街见闻-快讯",
@@ -1486,6 +1731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "纽约银日内跌幅达4.0%，报60.01美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3124033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "WTI原油日内跌幅达1.00%，现报72.92美元/桶。",
@@ -1543,6 +1799,39 @@
           "time_info": "11时37分"
         },
         {
+          "title": "OpenAI与博通(AVGO.O)联合发布人工智能芯片，旨在更快、更经济地运行模型。",
+          "url": "https://flash.jin10.com/detail/20260624210130831800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美国财长贝森特：不确定今年能否在赤字问题上取得进展。 到特朗普任期结束时，赤字/GDP比率可以降至4%以下。",
+          "url": "https://wallstreetcn.com/livenews/3124031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "纽约期金跌破4000美元",
+          "url": "https://flash.jin10.com/detail/20260624210034856800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
           "url": "https://wallstreetcn.com/livenews/3123570",
           "source": "华尔街见闻-快讯",
@@ -1593,7 +1882,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -1607,6 +1896,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "美国财长贝森特：降息阶段，美元仍然可以表现坚挺。 我们热衷于采取行动让美元坚挺。 预计今年剩余时间经济将加速增长，同时不会推高通胀。 我赞赏沃什取消前瞻指引。 认为实际工资增长将恢复到4月之前的节奏。 2月时曾认为通胀到夏中会接近2%。 过去曾（在交易中）与美联储点阵图反向操作。 不认为任何人应该做美联储点阵图预测。 可以实现高GDP增长而不伴随传统意义上的通胀。 很有可能重现上世纪90年代经济持续扩张的态势。 沃什在谈及通胀问题时“态度强硬”。 特朗普公开和私下都表示他对沃什有信心。 认为今年可以实现3%或更高的增长。",
+          "url": "https://wallstreetcn.com/livenews/3124026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "布伦特原油失守75美元/桶，内跌幅达2.5%，报74.88美元/桶，为伊朗冲突爆发以来的首次。",
+          "url": "https://wallstreetcn.com/livenews/3124023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "全球科技股出现抛售潮，韩股一度遭遇“黑色星期二”；压力蔓延至贵金属，黄金跌破4100美元，市场紧盯4000大关……当前金银卖出信号高企，美油多头占优，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
