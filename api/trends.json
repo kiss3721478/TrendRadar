@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-25T06:17:50.825173+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-06-25T08:12:38.538801+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 111,
+      "match_count": 120,
       "titles": [
+        {
+          "title": "GTA6开预购,80美元买空气",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355624&amp;topic_name=GTA6%E5%BC%80%E9%A2%84%E8%B4%AD%2C80%E7%BE%8E%E5%85%83%E4%B9%B0%E7%A9%BA%E6%B0%94",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 08时12分]"
+        },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
@@ -19,26 +30,17 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
           "ranks": [
-            3
+            6,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时17分]"
-        },
-        {
-          "title": "GTA6开预购,80美元买空气",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355624&amp;topic_name=GTA6%E5%BC%80%E9%A2%84%E8%B4%AD%2C80%E7%BE%8E%E5%85%83%E4%B9%B0%E7%A9%BA%E6%B0%94",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 08时12分]"
         },
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -52,17 +54,16 @@
           "time_info": "[00时21分 ~ 04时49分]"
         },
         {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            4,
-            2
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 08时12分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
@@ -70,11 +71,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 08时12分]"
         },
         {
           "title": "黄金跌破4000美元关口 美元走强与加息预期重创贵金属市场",
@@ -85,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时51分 ~ 06时17分]"
+          "appearance_count": 6,
+          "time_info": "[02时51分 ~ 08时12分]"
         },
         {
           "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
@@ -95,11 +97,24 @@
           "ranks": [
             7,
             11,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 08时12分]"
+        },
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 08时12分]"
         },
         {
           "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
@@ -108,7 +123,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -152,7 +167,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -180,6 +195,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "特朗普与共和党参议员爆发激烈争吵，伊朗战争分歧点燃党内火药桶",
+          "url": "https://flash.jin10.com/detail/20260625073705480800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
           "url": "https://wallstreetcn.com/livenews/3124193",
           "source": "华尔街见闻-快讯",
@@ -189,17 +215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "AI驱动债务狂潮创纪录 6月美国高评级债券发行飙至1750亿美元",
-          "url": "https://flash.jin10.com/detail/20260625060708840800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         },
         {
           "title": "美国总统特朗普：北约秘书长吕特做得不错。 对德国、法国、西班牙感到失望。",
@@ -247,15 +262,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "08时12分"
         },
         {
           "title": "受美元走强及加息预期影响，金价收于4000美元下方",
@@ -286,9 +301,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "AI驱动债务狂潮创纪录 6月美国高评级债券发行飙至1750亿美元",
+          "url": "https://flash.jin10.com/detail/20260625060708840800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 08时12分]"
         },
         {
           "title": "拉美外汇触及两周低点，美元走强与大宗商品施压股市",
@@ -307,11 +334,12 @@
           "url": "https://www.cls.cn/detail/2408290",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[04时48分 ~ 08时12分]"
         },
         {
           "title": "现货黄金跌破4000美元/盎司关口",
@@ -336,6 +364,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时17分]"
+        },
+        {
+          "title": "如何看待 Shams 报道，奥斯汀 - 里夫斯预计 4 年 1.85 亿美元顶薪续约湖人?",
+          "url": "https://www.zhihu.com/question/2053263895956042298",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 08时12分]"
         },
         {
           "title": "纽约银日内跌幅达10.0%，报56.26美元/盎司；现货白银日内跌幅达9.5%，报55.6美元/盎司。",
@@ -388,9 +428,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "里夫斯4年1.85亿美元顶薪续约湖人",
+          "url": "https://www.toutiao.com/trending/7655086867867504171/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
@@ -426,6 +477,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
+          "url": "https://wallstreetcn.com/articles/3775429",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
           "url": "https://flash.jin10.com/detail/20260625022804523800",
           "source": "金十数据",
@@ -454,7 +516,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -468,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "花旗集团将季度股息提高12%，至每股0.67美元。 花旗将继续推进300亿美元的股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/3124292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "市场消息：美国总统特朗普在与共和党议员进行午宴时，“90%”的时间都在抨击丽莎·穆尔科斯基、比尔·卡西迪和米奇·麦康奈尔这些“名义上的共和党人”（RINO）。",
@@ -498,7 +571,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -520,7 +593,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -575,7 +648,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -589,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "比特币跌向5.9万美元，散户大军撤退，暴露市场新脆弱性",
@@ -608,20 +692,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
         {
-          "title": "如何看待 Shams 报道，奥斯汀 - 里夫斯预计 4 年 1.85 亿美元顶薪续约湖人?",
-          "url": "https://www.zhihu.com/question/2053263895956042298",
-          "source": "知乎",
+          "title": "黄金白银原油集体暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8E%9F%E6%B2%B9%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "08时12分"
         },
         {
           "title": "美国总统特朗普：与立法者进行了很好的会晤。",
@@ -652,7 +736,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -696,7 +780,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -729,7 +813,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -762,7 +846,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -773,7 +857,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -795,7 +879,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -817,7 +901,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -861,7 +945,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -883,7 +967,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -905,7 +989,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -938,7 +1022,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -971,7 +1055,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -1004,7 +1088,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -1031,6 +1115,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.282吨，当前持仓量为1013.355吨。",
+          "url": "https://flash.jin10.com/detail/20260625062158762800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8092元，较周二夜盘收盘跌154点。成交量714.35亿美元。",
           "url": "https://wallstreetcn.com/livenews/3124205",
           "source": "华尔街见闻-快讯",
@@ -1048,7 +1143,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -1081,7 +1176,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -1114,7 +1209,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -1136,7 +1231,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -1158,7 +1253,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -1169,7 +1264,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -1207,6 +1302,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "科特迪瓦从国际货币基金组织（IMF）解锁8.328亿美元资金支持，此前IMF完成了对该国的（财政健康状况）评估。",
+          "url": "https://wallstreetcn.com/livenews/3124271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3124199",
           "source": "华尔街见闻-快讯",
@@ -1235,7 +1341,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         }
