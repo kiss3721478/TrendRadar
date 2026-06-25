@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T13:05:35.891569+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-06-25T17:20:28.321859+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 142,
+      "match_count": 158,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -19,6 +19,19 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
+          "title": "GTA6开预购,80美元买空气",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355624&amp;topic_name=GTA6%E5%BC%80%E9%A2%84%E8%B4%AD%2C80%E7%BE%8E%E5%85%83%E4%B9%B0%E7%A9%BA%E6%B0%94",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 17时20分]"
+        },
+        {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
           "url": "https://www.zhihu.com/question/2052869201178652833",
           "source": "知乎",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 08时12分]"
-        },
-        {
-          "title": "GTA6开预购,80美元买空气",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355624&amp;topic_name=GTA6%E5%BC%80%E9%A2%84%E8%B4%AD%2C80%E7%BE%8E%E5%85%83%E4%B9%B0%E7%A9%BA%E6%B0%94",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 13时05分]"
         },
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -120,6 +121,18 @@
           "time_info": "[00时21分 ~ 08时12分]"
         },
         {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 17时20分]"
+        },
+        {
           "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
           "url": "https://www.cls.cn/detail/2408547",
           "source": "财联社热门",
@@ -141,17 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
         },
         {
           "title": "美国总统特朗普：（关于包括运输费用在内的伊朗协议）将是不可接受的。",
@@ -249,9 +251,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国总统特朗普：北约秘书长吕特做得不错。 对德国、法国、西班牙感到失望。",
@@ -271,9 +284,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "怎么看待《GTA6》标准版售价 79.99 美元，终极版售价 99.99 美元，价格高了还是低了?",
+          "url": "https://www.zhihu.com/question/2053231216510374205",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -286,6 +310,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时52分]"
+        },
+        {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国总统特朗普：（关于英国首相潜在继任者伯纳姆）我听说他非常自由派，非常。因此，这意味着他可能不会开放北海。",
@@ -308,6 +343,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
+          "url": "https://wallstreetcn.com/articles/3775429",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 17时20分]"
         },
         {
           "title": "受美元走强及加息预期影响，金价收于4000美元下方",
@@ -338,7 +385,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -379,18 +426,6 @@
           "time_info": "[06时17分 ~ 08时12分]"
         },
         {
-          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
-          "url": "https://wallstreetcn.com/articles/3775429",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 13时05分]"
-        },
-        {
           "title": "拉美外汇触及两周低点，美元走强与大宗商品施压股市",
           "url": "https://wallstreetcn.com/livenews/3124228",
           "source": "华尔街见闻-快讯",
@@ -413,6 +448,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时52分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 17时20分]"
         },
         {
           "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
@@ -451,13 +497,37 @@
           "time_info": "[06时17分 ~ 08时12分]"
         },
         {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 17时20分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 17时20分]"
+        },
+        {
           "title": "海纳国际：将高通(QCOM.O)目标价从160美元上调至190美元。",
           "url": "https://flash.jin10.com/detail/20260625123704794800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -479,18 +549,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -523,7 +582,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -600,9 +659,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
@@ -644,7 +714,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -677,7 +747,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -688,7 +758,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -732,7 +802,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -759,6 +829,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7995，较上一交易日官方收盘价涨57点，较上日夜盘收盘涨97点。",
+          "url": "https://wallstreetcn.com/livenews/3124548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "美国总统特朗普：伊朗正同意我想要的一切，而且他们别无选择。",
           "url": "https://flash.jin10.com/detail/20260625022323219800",
           "source": "金十数据",
@@ -781,15 +862,37 @@
           "time_info": "04时49分"
         },
         {
+          "title": "金十图示：2026年06月25日（周四）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260625170029507800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "特朗普：委内瑞拉地震后，美国已准备好提供帮助。已指示各机构做好准备，迅速采取行动。",
           "url": "https://wallstreetcn.com/livenews/3124431",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "马斯克财富跌破万亿美元大关 而SpaceX卖空押注还在进一步增加",
+          "url": "https://www.cls.cn/detail/2408702",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国总统特朗普：我不喜欢其中的几个议员，但我想你们知道他们是谁。",
@@ -823,6 +926,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "大摩：上调美光目标价至1200美元，维持“增持”评级",
+          "url": "https://flash.jin10.com/detail/20260625165944192800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "现货白银跌7.00%，报57.23美元/盎司。现货钯金跌6.00%，报1154.40美元/盎司。",
@@ -864,7 +978,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -957,13 +1071,24 @@
           "time_info": "06时17分"
         },
         {
+          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3124540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "民调：特朗普支持率再次跌至34%",
           "url": "https://www.toutiao.com/trending/7653743693962477606/",
           "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -1045,15 +1170,15 @@
           "time_info": "06时17分"
         },
         {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
+          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
+          "url": "https://www.zhihu.com/question/2053415711725151834",
+          "source": "知乎",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时20分"
         },
         {
           "title": "页岩油高管称特朗普关于伊朗的言论引发能源市场混乱",
@@ -1076,6 +1201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "亚马逊拟于2030年前在印度新增130亿美元投资 用于AI领域",
+          "url": "https://wallstreetcn.com/livenews/3124535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美光科技(MU.O)：截至目前已签署的战略客户协议下，公司预计将获得约220亿美元的现金存款及相关金融承诺。",
@@ -1144,15 +1280,15 @@
           "time_info": "06时17分"
         },
         {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "17时20分"
         },
         {
           "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
@@ -1197,6 +1333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "礼邦医药通过在香港的首次公开募股(IPO)筹集了13亿港元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3124533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "消息人士：特朗普政府计划继续向土耳其出售价值数亿美元的喷气发动机。",
@@ -1298,6 +1445,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "欧盟在特朗普设定的最后期限前最终批准与美国的贸易协议",
+          "url": "https://wallstreetcn.com/livenews/3124531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "现货白银跌破56美元/盎司，为去年11月以来首次，日内跌约9%。",
           "url": "https://flash.jin10.com/detail/20260625020302889800",
           "source": "金十数据",
@@ -1351,6 +1509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "美股盘前：存储板块大涨，美光科技涨约18%",
+          "url": "https://wallstreetcn.com/livenews/3124530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "现货白银创去年11月以来新低，现报56.17美元/盎司，日内跌超8%。",
@@ -1430,6 +1599,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "美国国务卿鲁比奥：希望与伊朗的谈判能取得积极成果。 我们并不想不惜一切代价与伊朗达成协议。 霍尔木兹海峡不属于任何国家。 霍尔木兹海峡是国际水道。 对霍尔木兹海峡通行收费将开创不可接受的先例。 特朗普在通行收费问题上的立场一贯明确无误。",
+          "url": "https://wallstreetcn.com/livenews/3124528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "高通(QCOM.O)：公司目标是在2029财年实现物联网（IoT）收入超过140亿美元。",
           "url": "https://flash.jin10.com/detail/20260625044917220800",
           "source": "金十数据",
@@ -1447,7 +1627,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -1513,7 +1693,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -1557,7 +1737,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         },
@@ -1590,7 +1770,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
         }
