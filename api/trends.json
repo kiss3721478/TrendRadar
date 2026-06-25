@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T20:21:21.549041+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-06-25T23:40:32.773199+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 173,
+      "match_count": 185,
       "titles": [
         {
           "title": "GTA6开预购,80美元买空气",
@@ -18,8 +18,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 20时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 23时40分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -69,6 +69,18 @@
           "time_info": "[00时21分 ~ 08时12分]"
         },
         {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 23时40分]"
+        },
+        {
           "title": "黄金跌破4000美元关口 美元走强与加息预期重创贵金属市场",
           "url": "https://www.cls.cn/detail/2408371",
           "source": "财联社热门",
@@ -95,16 +107,15 @@
           "time_info": "[00时21分 ~ 08时12分]"
         },
         {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时05分 ~ 20时21分]"
+          "time_info": "[17时20分 ~ 23时40分]"
         },
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -118,6 +129,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时17分 ~ 13时05分]"
+        },
+        {
+          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
+          "url": "https://wallstreetcn.com/articles/3775429",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时12分 ~ 23时40分]"
         },
         {
           "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
@@ -134,19 +159,6 @@
           "time_info": "[00时21分 ~ 08时12分]"
         },
         {
-          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
-          "url": "https://wallstreetcn.com/articles/3775429",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时12分 ~ 20时21分]"
-        },
-        {
           "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
           "url": "https://www.cls.cn/detail/2408547",
           "source": "财联社热门",
@@ -157,17 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 13时05分]"
-        },
-        {
-          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
-          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 20时21分]"
         },
         {
           "title": "怎么看待《GTA6》标准版售价 79.99 美元，终极版售价 99.99 美元，价格高了还是低了?",
@@ -277,7 +278,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -304,6 +305,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国总统特朗普：北约秘书长吕特做得不错。 对德国、法国、西班牙感到失望。",
           "url": "https://wallstreetcn.com/livenews/3124229",
           "source": "华尔街见闻-快讯",
@@ -324,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3124758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -399,7 +422,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -433,11 +456,24 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 20时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 23时40分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 23时40分]"
         },
         {
           "title": "AI驱动债务狂潮创纪录 6月美国高评级债券发行飙至1750亿美元",
@@ -450,6 +486,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 08时12分]"
+        },
+        {
+          "title": "黄金跌破4000后，会加速跌向下个心理位吗？",
+          "url": "https://flash.jin10.com/detail/20260625123042416800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 23时40分]"
         },
         {
           "title": "拉美外汇触及两周低点，美元走强与大宗商品施压股市",
@@ -476,29 +524,18 @@
           "time_info": "[17时20分 ~ 20时21分]"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 20时21分]"
-        },
-        {
           "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
           "url": "https://www.zhihu.com/question/2053130730595791572",
           "source": "知乎",
           "ranks": [
             19,
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 20时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时05分 ~ 23时40分]"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -512,6 +549,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时05分 ~ 20时21分]"
+        },
+        {
+          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
+          "url": "https://www.zhihu.com/question/2053415711725151834",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 23时40分]"
         },
         {
           "title": "现货黄金跌破4000美元/盎司关口",
@@ -550,6 +599,18 @@
           "time_info": "[08时12分 ~ 13时05分]"
         },
         {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 23时40分]"
+        },
+        {
           "title": "如何看待 Shams 报道，奥斯汀 - 里夫斯预计 4 年 1.85 亿美元顶薪续约湖人?",
           "url": "https://www.zhihu.com/question/2053263895956042298",
           "source": "知乎",
@@ -560,17 +621,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 08时12分]"
-        },
-        {
-          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
-          "url": "https://www.zhihu.com/question/2053415711725151834",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 20时21分]"
         },
         {
           "title": "海纳国际：将高通(QCOM.O)目标价从160美元上调至190美元。",
@@ -590,7 +640,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -678,7 +728,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -859,17 +909,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "黄金跌破4000后，会加速跌向下个心理位吗？",
-          "url": "https://flash.jin10.com/detail/20260625123042416800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
           "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
           "url": "https://wallstreetcn.com/livenews/3124222",
           "source": "华尔街见闻-快讯",
@@ -901,6 +940,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "台积电预计，全球半导体市场将在今年突破1万亿美元，并在2030年达到1.5万亿美元。业内人士认为，台积电本次闭门会再度坚定了业界的AI信仰，其晶圆制造和先进封装扩产，具有产业发展趋势风向标意义。随着晶圆厂和封装厂次第加入到扩产序列，半导体设备和材料商，将率先受益于AI带来的本轮扩产大潮。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3124752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
+          "url": "https://www.cls.cn/detail/2409516",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国总统特朗普：伊朗正同意我想要的一切，而且他们别无选择。",
@@ -953,9 +1014,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "报道：伊朗预计每年将从霍尔木兹海峡获得400亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3124750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "马斯克财富跌破万亿美元大关 而SpaceX卖空押注还在进一步增加",
@@ -1030,7 +1102,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1041,7 +1113,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1123,6 +1195,28 @@
           "time_info": "06时17分"
         },
         {
+          "title": "现货黄金短线上扬约30美元，一度突破4040美元/盎司，日内涨0.98%。",
+          "url": "https://flash.jin10.com/detail/20260625232322604800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美光科技盘后大涨近14%，带飞美股芯片股",
           "url": "https://flash.jin10.com/detail/20260625042822342800",
           "source": "金十数据",
@@ -1132,6 +1226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "纽约期金站上4050美元/盎司，日内涨1.03%。",
+          "url": "https://flash.jin10.com/detail/20260625232242165800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美联储货币紧缩预期升温，黄金ETF或面临新一轮资金流出",
@@ -1184,18 +1289,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1294,7 +1388,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1305,7 +1399,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1316,7 +1410,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1374,6 +1468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "布伦特原油站上75美元/桶，日内涨2.16%。",
+          "url": "https://flash.jin10.com/detail/20260625230807953800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "WTI原油期货重新跌穿70美元关口，目前跌幅大约4.6%。",
@@ -1451,6 +1556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://flash.jin10.com/detail/20260625230803866800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
@@ -1541,6 +1657,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "美国最高法院表示，下周一将是下一个意见征询日。 据彭博报道，最高法院完成审议后，下周可能会对特朗普政府起诉美联储理事库克一案作出裁决。",
+          "url": "https://wallstreetcn.com/livenews/3124740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "高通(QCOM.O)：汽车业务订单总估值（Design-win Pipeline）已扩展至650亿美元规模。",
           "url": "https://flash.jin10.com/detail/20260625045233891800",
           "source": "金十数据",
@@ -1602,9 +1729,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "黄金回到“8”字头 实探金店",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%9B%9E%E5%88%B0%E2%80%9C8%E2%80%9D%E5%AD%97%E5%A4%B4+%E5%AE%9E%E6%8E%A2%E9%87%91%E5%BA%97",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "现货白银跌破56美元/盎司，为去年11月以来首次，日内跌约9%。",
@@ -1646,7 +1784,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1712,7 +1850,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
