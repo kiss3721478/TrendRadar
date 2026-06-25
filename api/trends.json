@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-25T17:20:28.321859+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-06-25T20:21:21.549041+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 158,
+      "match_count": 173,
       "titles": [
+        {
+          "title": "GTA6开预购,80美元买空气",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355624&amp;topic_name=GTA6%E5%BC%80%E9%A2%84%E8%B4%AD%2C80%E7%BE%8E%E5%85%83%E4%B9%B0%E7%A9%BA%E6%B0%94",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 20时21分]"
+        },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 06时17分]"
-        },
-        {
-          "title": "GTA6开预购,80美元买空气",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355624&amp;topic_name=GTA6%E5%BC%80%E9%A2%84%E8%B4%AD%2C80%E7%BE%8E%E5%85%83%E4%B9%B0%E7%A9%BA%E6%B0%94",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 17时20分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -94,6 +95,18 @@
           "time_info": "[00时21分 ~ 08时12分]"
         },
         {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 20时21分]"
+        },
+        {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
           "url": "https://www.cls.cn/detail/2408510",
           "source": "财联社热门",
@@ -121,16 +134,17 @@
           "time_info": "[00时21分 ~ 08时12分]"
         },
         {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
+          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
+          "url": "https://wallstreetcn.com/articles/3775429",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            9,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[08时12分 ~ 20时21分]"
         },
         {
           "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
@@ -143,6 +157,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 13时05分]"
+        },
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时21分]"
+        },
+        {
+          "title": "怎么看待《GTA6》标准版售价 79.99 美元，终极版售价 99.99 美元，价格高了还是低了?",
+          "url": "https://www.zhihu.com/question/2053231216510374205",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时21分]"
         },
         {
           "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
@@ -234,6 +271,17 @@
           "time_info": "08时12分"
         },
         {
+          "title": "技术刘Pro：黄金初现筹码沉淀，PCE数据能否成为反弹修复的“发令枪”？",
+          "url": "https://flash.jin10.com/detail/20260625200348410800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
           "url": "https://wallstreetcn.com/livenews/3124193",
           "source": "华尔街见闻-快讯",
@@ -254,17 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
-        },
-        {
-          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
-          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "美国总统特朗普：北约秘书长吕特做得不错。 对德国、法国、西班牙感到失望。",
@@ -289,17 +326,6 @@
           "time_info": "13时05分"
         },
         {
-          "title": "怎么看待《GTA6》标准版售价 79.99 美元，终极版售价 99.99 美元，价格高了还是低了?",
-          "url": "https://www.zhihu.com/question/2053231216510374205",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "现货黄金价格跌破4000美元大关",
           "url": "https://www.douyin.com/hot/2546511",
           "source": "抖音",
@@ -310,17 +336,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时52分]"
-        },
-        {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "美国总统特朗普：（关于英国首相潜在继任者伯纳姆）我听说他非常自由派，非常。因此，这意味着他可能不会开放北海。",
@@ -343,18 +358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
-          "url": "https://wallstreetcn.com/articles/3775429",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 17时20分]"
         },
         {
           "title": "受美元走强及加息预期影响，金价收于4000美元下方",
@@ -390,6 +393,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "挂单报告：国际现货黄金关注空单区域 日元逼近近40年低点",
+          "url": "https://flash.jin10.com/detail/20260625200052946800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "北约秘书长吕特：与美国总统特朗普的会谈情况不错。 特朗普致力于北约联盟，希望盟友们增加（军费）开支。",
           "url": "https://wallstreetcn.com/livenews/3124252",
           "source": "华尔街见闻-快讯",
@@ -412,6 +426,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时48分 ~ 13时05分]"
+        },
+        {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时21分]"
         },
         {
           "title": "AI驱动债务狂潮创纪录 6月美国高评级债券发行飙至1750亿美元",
@@ -438,6 +464,56 @@
           "time_info": "[04时49分 ~ 06时17分]"
         },
         {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 20时21分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 20时21分]"
+        },
+        {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 20时21分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 20时21分]"
+        },
+        {
           "title": "现货黄金跌破4000美元/盎司关口",
           "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%2F%E7%9B%8E%E5%8F%B8%E5%85%B3%E5%8F%A3",
           "source": "百度热搜",
@@ -448,17 +524,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时52分]"
-        },
-        {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 17时20分]"
         },
         {
           "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
@@ -497,28 +562,15 @@
           "time_info": "[06时17分 ~ 08时12分]"
         },
         {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
+          "url": "https://www.zhihu.com/question/2053415711725151834",
           "source": "知乎",
           "ranks": [
-            19,
-            14
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时05分 ~ 17时20分]"
-        },
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 17时20分]"
+          "time_info": "[17时20分 ~ 20时21分]"
         },
         {
           "title": "海纳国际：将高通(QCOM.O)目标价从160美元上调至190美元。",
@@ -530,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月25日（周四）晚盘盘初下跌2.22%报872.86元/克；<br/>上海黄金交易所白银T+D 6月25日（周四）晚盘盘初下跌0.74%报13820.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260625200045031800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "纽约银日内跌幅达10.0%，报56.26美元/盎司；现货白银日内跌幅达9.5%，报55.6美元/盎司。",
@@ -609,6 +672,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美国国务卿鲁比奥：特朗普对一些盟友“非常不满”",
+          "url": "https://wallstreetcn.com/livenews/3124658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "里夫斯4年1.85亿美元顶薪续约湖人",
           "url": "https://www.toutiao.com/trending/7655086867867504171/",
           "source": "今日头条",
@@ -662,17 +736,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
-        },
-        {
-          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
@@ -835,7 +898,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -868,7 +931,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -884,13 +947,24 @@
           "time_info": "13时05分"
         },
         {
+          "title": "美国国务卿鲁比奥：伊拉克领导人已与特朗普交谈，正看到积极信号。 不清楚重建基金将如何安排。 我们可以在乌克兰冲突中发挥任何建设性作用。",
+          "url": "https://wallstreetcn.com/livenews/3124651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "马斯克财富跌破万亿美元大关 而SpaceX卖空押注还在进一步增加",
           "url": "https://www.cls.cn/detail/2408702",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -934,7 +1008,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -948,6 +1022,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "黄金跌破4000美元逻辑是什么",
+          "url": "https://www.toutiao.com/trending/7655249738798730778/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "黄金失守4000大关，横盘走势是否止跌？今晚能否收复失地？金十VIP正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260625195015295800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "比特币跌向5.9万美元，散户大军撤退，暴露市场新脆弱性",
@@ -1077,9 +1173,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：对委内瑞拉采取的是全政府层面的应对措施。 与海湾国家进行了非常好的会晤。 海湾国家对霍尔木兹海峡通行收费的支持度为零。 我们不会做任何损害海湾伙伴利益的事情。 （就伊朗支持代理人的问题作出回应）伊朗谅解备忘录涉及不干涉他国内政的问题。 我们关注的是行动，而非伊朗的言辞。 “费用”和“通行费”是一回事。霍尔木兹海峡的收费体系根本不可行。 委内瑞拉首先需要的是搜救援助。 不知晓卡塔尔持有的伊朗资金被转移一事。 海合会（GCC）会议上未讨论3000亿美元基金事宜。",
+          "url": "https://wallstreetcn.com/livenews/3124643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "民调：特朗普支持率再次跌至34%",
@@ -1170,15 +1288,37 @@
           "time_info": "06时17分"
         },
         {
-          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
-          "url": "https://www.zhihu.com/question/2053415711725151834",
-          "source": "知乎",
+          "title": "商务部：截至6月推出重点外资项目500多个 总投资额超3000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3124638",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "20时21分"
+        },
+        {
+          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "现货钯金日内涨幅扩大至2.00%，现报1190.57美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260625194740302800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "页岩油高管称特朗普关于伊朗的言论引发能源市场混乱",
@@ -1209,7 +1349,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1286,7 +1426,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1341,7 +1481,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1451,9 +1591,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "黑莓第一财季营收1.529亿美元，预估1.368亿美元。 第一财季经调整基本每股收益0.040美元，预估0.03美元。 第一财季经调整毛利率78.6％，预估76.9％。 黑莓预计全年营收5.94亿美元至6.21亿美元，市场预估6.019亿美元。 黑莓预计全年调整后EBITDA 1.19亿美元至1.39亿美元。 黑莓预计全年经调整基本每股收益0.16美元至0.20美元，市场预估0.18美元。 黑莓美股盘前涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3124628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "现货白银跌破56美元/盎司，为去年11月以来首次，日内跌约9%。",
@@ -1489,6 +1640,17 @@
           "time_info": "08时12分"
         },
         {
+          "title": "美国国务卿鲁比奥：伊拉克领导人已与特朗普通话，看到积极信号。",
+          "url": "https://flash.jin10.com/detail/20260625194159010800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8092元，较周二夜盘收盘跌154点。成交量714.35亿美元。",
           "url": "https://wallstreetcn.com/livenews/3124205",
           "source": "华尔街见闻-快讯",
@@ -1517,7 +1679,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -1542,6 +1704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊拉克新任总理即将访问华盛顿，与特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260625194142448800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "高通预计将在数据中心领域抢占超过5%的市场份额。 预计2029财年IoT营收将为140亿美元。",
@@ -1605,7 +1778,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
