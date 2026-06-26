@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T13:08:39.884198+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-06-26T17:24:49.392220+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 96,
+      "match_count": 107,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时10分 ~ 08时09分]"
+        },
+        {
+          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 17时24分]"
         },
         {
           "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
@@ -31,17 +42,6 @@
           "time_info": "[02时10分 ~ 06时21分]"
         },
         {
-          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
-          "url": "https://wallstreetcn.com/articles/3775470",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 13时08分]"
-        },
-        {
           "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
           "url": "https://www.cls.cn/detail/2409516",
           "source": "财联社热门",
@@ -53,6 +53,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时10分 ~ 13时08分]"
+        },
+        {
+          "title": "你如何看待钟南山院士在广州医科大学毕业典礼上，叮嘱学生要抓住老年慢性病和二甲医院提质扩容的黄金窗口期？",
+          "url": "https://www.zhihu.com/question/2053077287700883043",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时24分]"
         },
         {
           "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
@@ -124,6 +136,31 @@
           "time_info": "04时56分"
         },
         {
+          "title": "中国一季度经常帐终值 1843亿美元，初值 1841亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3125178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "GTA6开预购,80美元买空气",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355624&amp;topic_name=GTA6%E5%BC%80%E9%A2%84%E8%B4%AD%2C80%E7%BE%8E%E5%85%83%E4%B9%B0%E7%A9%BA%E6%B0%94",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时10分 ~ 17时24分]"
+        },
+        {
           "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
           "url": "https://flash.jin10.com/detail/20260626052048013800",
           "source": "金十数据",
@@ -157,28 +194,15 @@
           "time_info": "06时21分"
         },
         {
-          "title": "你如何看待钟南山院士在广州医科大学毕业典礼上，叮嘱学生要抓住老年慢性病和二甲医院提质扩容的黄金窗口期？",
-          "url": "https://www.zhihu.com/question/2053077287700883043",
-          "source": "知乎",
+          "title": "欧元兑美元涨幅扩大至0.3%，触及日内高点1.1408。",
+          "url": "https://wallstreetcn.com/livenews/3125175",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "GTA6开预购,80美元买空气",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355624&amp;topic_name=GTA6%E5%BC%80%E9%A2%84%E8%B4%AD%2C80%E7%BE%8E%E5%85%83%E4%B9%B0%E7%A9%BA%E6%B0%94",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时10分 ~ 13时08分]"
+          "time_info": "17时24分"
         },
         {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
@@ -229,6 +253,18 @@
           "time_info": "[06时21分 ~ 08时09分]"
         },
         {
+          "title": "中金：黄金牛市结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3775561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时24分]"
+        },
+        {
           "title": "美最高法院裁决支持特朗普强硬移民政策",
           "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
           "source": "凤凰网",
@@ -239,6 +275,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时09分 ~ 13时08分]"
+        },
+        {
+          "title": "加息会杀死黄金吗？机构：当前更像1978年——黄金新一轮大涨前夜",
+          "url": "https://wallstreetcn.com/articles/3775510",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时21分 ~ 17时24分]"
         },
         {
           "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
@@ -342,17 +392,16 @@
           "time_info": "[02时10分 ~ 06时21分]"
         },
         {
-          "title": "加息会杀死黄金吗？机构：当前更像1978年——黄金新一轮大涨前夜",
-          "url": "https://wallstreetcn.com/articles/3775510",
-          "source": "华尔街见闻",
+          "title": "黄金跌到不敢买了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E5%88%B0%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8,
-            7
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时21分 ~ 13时08分]"
+          "time_info": "[08时09分 ~ 17时24分]"
         },
         {
           "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
@@ -365,6 +414,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时21分]"
+        },
+        {
+          "title": "“美元升万物落”不会长久？前IIF首席断言：美联储不会加息",
+          "url": "https://www.cls.cn/detail/2409937",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时24分]"
         },
         {
           "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
@@ -436,17 +497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时21分]"
-        },
-        {
-          "title": "黄金跌到不敢买了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E5%88%B0%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 13时08分]"
         },
         {
           "title": "市场消息：特朗普拟任命电信法律专家亚当·坎德布（Adam Candeub）担任司法部反垄断局局长。",
@@ -556,6 +606,29 @@
           "time_info": "[04时56分 ~ 06时21分]"
         },
         {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时24分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时24分]"
+        },
+        {
           "title": "据The Information：根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。",
           "url": "https://flash.jin10.com/detail/20260626040241840800",
           "source": "金十数据",
@@ -580,6 +653,17 @@
           "time_info": "[04时56分 ~ 06时21分]"
         },
         {
+          "title": "金价跌回3字头半年回撤30%",
+          "url": "https://www.toutiao.com/trending/7655352007544278564/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时24分]"
+        },
+        {
           "title": "黄金回到“8”字头 实探金店",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%9B%9E%E5%88%B0%E2%80%9C8%E2%80%9D%E5%AD%97%E5%A4%B4+%E5%AE%9E%E6%8E%A2%E9%87%91%E5%BA%97",
           "source": "百度热搜",
@@ -597,7 +681,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -635,6 +719,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "双成药业：签订SC-C141美国独家许可协议，最高许可费1000万美元",
+          "url": "https://flash.jin10.com/detail/20260626171741948800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "特朗普称，霍尔木兹海峡开放了。",
           "url": "https://wallstreetcn.com/livenews/3124893",
           "source": "华尔街见闻-快讯",
@@ -646,15 +741,15 @@
           "time_info": "08时09分"
         },
         {
-          "title": "中金：黄金牛市结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3775561",
+          "title": "苹果涨价引爆芯片股崩盘，美股盘前半导体股普跌，韩股收跌5.8%，黄金持稳于4000美元附近",
+          "url": "https://wallstreetcn.com/articles/3775571",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "17时24分"
         },
         {
           "title": "逢低买盘推动铜价反弹，美元走软及风险偏好增强也提供支撑",
@@ -701,6 +796,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "黄金回收商家称现在别卖黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E5%95%86%E5%AE%B6%E7%A7%B0%E7%8E%B0%E5%9C%A8%E5%88%AB%E5%8D%96%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "微软：在全球范围内更新Xbox价格，8月1日生效。 512 GB的Xbox游戏手柄将涨价100美元，1 TB游戏手柄将涨价150美元。",
           "url": "https://wallstreetcn.com/livenews/3124792",
           "source": "华尔街见闻-快讯",
@@ -740,9 +846,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "被SpaceX大跌吓退了？OpenAI据传考虑推迟IPO计划 力争万亿美元估值",
+          "url": "https://www.cls.cn/detail/2409706",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
@@ -751,7 +868,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -773,7 +890,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -795,20 +912,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
         {
-          "title": "“美元升万物落”不会长久？前IIF首席断言：美联储不会加息",
-          "url": "https://www.cls.cn/detail/2409937",
-          "source": "财联社热门",
+          "title": "【WTI原油日内跌幅达4.0%，伊朗：霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理】WTI原油日内跌幅达4.0%，报69.04美元/桶；布伦特原油跌近4%。伊朗表示，霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理。",
+          "url": "https://wallstreetcn.com/livenews/3125164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "17时24分"
         },
         {
           "title": "加拿大矿商Titan Mining多伦多股价收涨4.36%，报3.11加元，在一波短线冲高回落行情中，北京时间03:23一度达到3.42加元。 美国REalloys则收跌14.52%，报14.25美元，全天低位震荡。 美国陆军选择这两家公司修建关键矿物处理设施。",
@@ -828,7 +945,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -850,7 +967,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -888,6 +1005,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "WTI原油日内跌幅达3.0%，报69.76美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3125156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
           "url": "https://wallstreetcn.com/livenews/3124781",
           "source": "华尔街见闻-快讯",
@@ -921,28 +1049,6 @@
           "time_info": "08时09分"
         },
         {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2547979",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 苹果跌超6%",
           "url": "https://flash.jin10.com/detail/20260626040107087800",
           "source": "金十数据",
@@ -965,15 +1071,15 @@
           "time_info": "08时09分"
         },
         {
-          "title": "金价跌回3字头半年回撤30%",
-          "url": "https://www.toutiao.com/trending/7655352007544278564/",
-          "source": "今日头条",
+          "title": "央行等两部门：以个人携带、寄递合理自用数量为限进出境的免予办理黄金进出口准许证",
+          "url": "https://flash.jin10.com/detail/20260626170133407800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "17时24分"
         },
         {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
@@ -1026,7 +1132,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -1040,6 +1146,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "强烈反弹！“美元风暴”将成下半年市场主旋律？",
+          "url": "https://flash.jin10.com/detail/20260626170038173800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "美股盘前，半导体股普跌，美光科技跌约4%，AMD跌约2%，英特尔跌约3%，希捷科技跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3125141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "市场消息：三星集团将在未来10年内在韩国投资1000万亿韩元（约合6500亿美元）。",
@@ -1059,7 +1187,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
