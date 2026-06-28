@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T04:13:37.500449+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-06-29T06:02:26.750578+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "强势美元回归 暴风雨要来了吗",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -73,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -85,8 +85,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
@@ -98,8 +98,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
@@ -110,8 +110,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -121,8 +121,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
@@ -133,8 +133,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时02分]"
+        },
+        {
+          "title": "黄金大跌带崩“黄金爱马仕”老铺黄金",
+          "url": "https://www.toutiao.com/trending/7656438161974758922/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时02分]"
         },
         {
           "title": "韩国黄金一代为何耻辱出局",
@@ -177,7 +189,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -188,7 +200,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -199,18 +211,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "黄金大跌带崩“黄金爱马仕”老铺黄金",
-          "url": "https://www.toutiao.com/trending/7656438161974758922/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
