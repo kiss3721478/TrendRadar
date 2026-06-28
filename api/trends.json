@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-29T00:10:26.553112+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-29T02:05:36.945159+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
       "match_count": 15,
       "titles": [
-        {
-          "title": "强势美元回归 暴风雨要来了吗",
-          "url": "https://www.toutiao.com/trending/7656406731290840586/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
           "url": "https://wallstreetcn.com/articles/3775683",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
         },
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -37,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
         },
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
@@ -48,8 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
+        },
+        {
+          "title": "强势美元回归 暴风雨要来了吗",
+          "url": "https://www.toutiao.com/trending/7656406731290840586/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -59,19 +60,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
         },
         {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
           "url": "https://www.zhihu.com/question/2054471851032539301",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -81,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -92,19 +94,43 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3125689",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
+        },
+        {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
+        },
+        {
+          "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
+          "url": "https://wallstreetcn.com/livenews/3125682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 02时05分]"
         },
         {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
@@ -123,28 +149,6 @@
           "source": "金十数据",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
-          "url": "https://wallstreetcn.com/livenews/3125682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
