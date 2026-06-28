@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T02:05:36.945159+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-06-29T04:13:37.500449+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
           "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "强势美元回归 暴风雨要来了吗",
@@ -46,11 +47,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            25
+            25,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -60,20 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
-        },
-        {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -83,19 +73,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
+        },
+        {
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
@@ -106,8 +110,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -117,8 +121,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
@@ -129,8 +133,20 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 04时13分]"
+        },
+        {
+          "title": "韩国黄金一代为何耻辱出局",
+          "url": "https://www.toutiao.com/trending/7655636603664580659/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时10分 ~ 02时05分]"
+          "time_info": "[00时10分 ~ 04时13分]"
         },
         {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
@@ -155,15 +171,48 @@
           "time_info": "00时10分"
         },
         {
-          "title": "韩国黄金一代为何耻辱出局",
-          "url": "https://www.toutiao.com/trending/7655636603664580659/",
+          "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
+          "url": "https://flash.jin10.com/detail/20260629024615359800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美国总统特朗普称，林肯纪念堂倒影池在遭受严重损坏后现已全面投入使用。",
+          "url": "https://flash.jin10.com/detail/20260629024517840800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "据The Information：百度芯片部门昆仑芯计划以500亿美元的估值赴港上市，IPO投资者必须承诺购买相当于其认购额3至7倍的芯片。",
+          "url": "https://flash.jin10.com/detail/20260629022704553800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "黄金大跌带崩“黄金爱马仕”老铺黄金",
+          "url": "https://www.toutiao.com/trending/7656438161974758922/",
           "source": "今日头条",
           "ranks": [
-            19
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "04时13分"
         },
         {
           "title": "油价重回70美元，下一轮行情怎么看？",
