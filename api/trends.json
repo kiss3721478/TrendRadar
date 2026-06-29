@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T13:50:45.528052+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-06-29T18:57:46.547990+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 31,
+      "match_count": 44,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -87,7 +87,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -173,8 +173,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[08时09分 ~ 18时57分]"
         },
         {
           "title": "韩国黄金一代为何耻辱出局",
@@ -195,7 +195,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -206,9 +206,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "威瑞森：预计第二季度将亏损约7亿至8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3126084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "Verizon(VZ.N)预计将确认2亿至3亿美元的资产优化相关费用。",
+          "url": "https://flash.jin10.com/detail/20260629182847439800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "现货白银向下触及58美元/盎司，日内跌1.35%。",
@@ -217,9 +239,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "Verizon(VZ.N)预计将确认约3.5亿美元的裁员费用，预计将在第二季度录得约7亿至8亿美元的亏损。",
+          "url": "https://flash.jin10.com/detail/20260629182801828800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "如何看待最近盛行的定型文「假如你是一个韩国人…」「韩国黄金时代」?",
@@ -244,6 +299,28 @@
           "time_info": "00时10分"
         },
         {
+          "title": "康卡斯特(CMCSA.O)美股盘前继续上涨，现涨超25%，公司计划将NBC环球和天空电视台拆分为两家独立的上市公司。",
+          "url": "https://flash.jin10.com/detail/20260629182419631800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "巨浪来袭！美国养老金即将被动调仓 300亿美元卖盘已在路上",
+          "url": "https://www.cls.cn/detail/2411472",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
           "url": "https://flash.jin10.com/detail/20260628213314042800",
           "source": "金十数据",
@@ -253,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33474481",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
@@ -283,7 +371,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -332,6 +420,39 @@
           "time_info": "08时09分"
         },
         {
+          "title": "谷歌云将提供用于科学研究的专业AI模型",
+          "url": "https://flash.jin10.com/detail/20260629181622032800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "花旗：将康卡斯特(CMCSA.O)目标价从35.50美元下调至32美元。",
+          "url": "https://flash.jin10.com/detail/20260629181404303800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "曝 PS6 物料成本逼近 1000 美元，你还会考虑购买吗？",
+          "url": "https://www.zhihu.com/question/2054512729973696049",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "油价重回70美元，下一轮行情怎么看？",
           "url": "https://flash.jin10.com/detail/20260628210454561800",
           "source": "金十数据",
@@ -354,15 +475,37 @@
           "time_info": "08时09分"
         },
         {
+          "title": "特朗普两大核心赌注将迎高院裁决",
+          "url": "https://www.toutiao.com/trending/7656377393184489514/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "内马尔世界杯期间豪购百万美元腕表",
           "url": "https://www.baidu.com/s?wd=%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E8%B1%AA%E8%B4%AD%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E8%85%95%E8%A1%A8",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "Melius Research：首次覆盖西部数据(WDC.O)，给予“买入”评级，目标价105美元。",
+          "url": "https://flash.jin10.com/detail/20260629180923820800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     }
