@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T05:26:59.835531+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-06-30T06:57:32.407059+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 52,
+      "match_count": 66,
       "titles": [
         {
           "title": "还吹吗?韩国黄金时代光速崩塌",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 06时57分]"
         },
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
@@ -31,26 +31,15 @@
           "time_info": "[01时36分 ~ 05时26分]"
         },
         {
-          "title": "市场消息：白宫正临时启用多名特朗普长期顾问，以加强沟通与选举筹备，应对共和党在2026年中期选举中可能失去国会控制权的风险。",
-          "url": "https://flash.jin10.com/detail/20260630050643766800",
-          "source": "金十数据",
+          "title": "科技股领涨，美股全线收涨，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美元走强与地缘政治谨慎情绪压制拉美市场",
-          "url": "https://wallstreetcn.com/livenews/3126314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "06时57分"
         },
         {
           "title": "国际货币基金组织：完成对洪都拉斯扩展基金便利和扩展信贷便利安排的审核，并批准拨付约2.42亿美元资金给洪都拉斯。",
@@ -59,20 +48,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
         {
-          "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
-          "url": "https://wallstreetcn.com/livenews/3126312",
+          "title": "美国总统特朗普：提名Keith E. Sonderling为劳工部长。",
+          "url": "https://wallstreetcn.com/livenews/3126345",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "06时57分"
         },
         {
           "title": "美国总统特朗普：华盛顿倒影池已恢复运行并重现美观，将在7月4日后修复防水层等损坏并尽快恢复原状，同时加强对纪念碑等设施的安保，任何破坏行为将面临最高10年监禁。",
@@ -81,7 +70,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -103,9 +92,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "报道：美国要求SpaceX将股票捐赠给“特朗普账户”",
+          "url": "https://wallstreetcn.com/livenews/3126344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "医药暴涨5.91%背后",
@@ -141,17 +141,6 @@
           "time_info": "03时56分"
         },
         {
-          "title": "周一（6月29日），彭博电动汽车价格回报指数涨2.73%，报3522.70点，亚太时段显著走高，北京时间14:00以来持稳于3500点附近，美股开盘后涨幅略微有所扩大。",
-          "url": "https://wallstreetcn.com/livenews/3126310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
           "title": "美国内政部：宣布与杜克能源达成能源协议，降低北卡罗来纳州能源成本。杜克能源将自愿终止其价值1.29亿美元的卡罗来纳长湾海上风电租赁合同。",
           "url": "https://flash.jin10.com/detail/20260630004229358800",
           "source": "金十数据",
@@ -174,6 +163,28 @@
           "time_info": "03时56分"
         },
         {
+          "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
+          "url": "https://wallstreetcn.com/livenews/3126341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 06时57分]"
+        },
+        {
           "title": "特朗普：住房法案尚未提交给我，等法案送到后，我会决定如何处理。",
           "url": "https://flash.jin10.com/detail/20260630033741841800",
           "source": "金十数据",
@@ -184,6 +195,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 05时26分]"
+        },
+        {
+          "title": "市场消息：白宫正临时启用多名特朗普长期顾问，以加强沟通与选举筹备，应对共和党在2026年中期选举中可能失去国会控制权的风险。",
+          "url": "https://flash.jin10.com/detail/20260630050643766800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时57分]"
+        },
+        {
+          "title": "美元走强与地缘政治谨慎情绪压制拉美市场",
+          "url": "https://wallstreetcn.com/livenews/3126314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时57分]"
         },
         {
           "title": "美国总统特朗普：不太可能将《保障美国选民资格法案》纳入其中。",
@@ -222,6 +257,18 @@
           "time_info": "[03时56分 ~ 05时26分]"
         },
         {
+          "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
+          "url": "https://wallstreetcn.com/livenews/3126312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时57分]"
+        },
+        {
           "title": "美国总统特朗普：（住房法案）我目前还不知道对此有什么计划。",
           "url": "https://flash.jin10.com/detail/20260630033555569800",
           "source": "金十数据",
@@ -246,6 +293,18 @@
           "time_info": "[01时36分 ~ 03时56分]"
         },
         {
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 06时57分]"
+        },
+        {
           "title": "美股费城半导体指数涨幅扩大至3.2%。",
           "url": "https://wallstreetcn.com/livenews/3126274",
           "source": "华尔街见闻-快讯",
@@ -258,26 +317,16 @@
           "time_info": "[01时36分 ~ 03时56分]"
         },
         {
-          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
-          "url": "https://www.cls.cn/detail/2411631",
-          "source": "财联社热门",
+          "title": "周一（6月29日），彭博电动汽车价格回报指数涨2.73%，报3522.70点，亚太时段显著走高，北京时间14:00以来持稳于3500点附近，美股开盘后涨幅略微有所扩大。",
+          "url": "https://wallstreetcn.com/livenews/3126310",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2412084",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时26分]"
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时57分]"
         },
         {
           "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
@@ -288,8 +337,33 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时36分 ~ 06时57分]"
+        },
+        {
+          "title": "87克大金链到老庙黄金维修少了11克",
+          "url": "https://www.toutiao.com/trending/7656661944648957988/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            29,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时26分]"
+          "time_info": "[01时36分 ~ 06时57分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 06时57分]"
         },
         {
           "title": "周一（6月29日），美联储隔夜逆回购协议（RRP）使用规模为35.46亿美元（交易对手4家），上个交易日报64.26亿美元。",
@@ -316,18 +390,6 @@
           "time_info": "[03时56分 ~ 05时26分]"
         },
         {
-          "title": "87克大金链到老庙黄金维修少了11克",
-          "url": "https://www.toutiao.com/trending/7656661944648957988/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 05时26分]"
-        },
-        {
           "title": "美国总统特朗普：油价已大幅下跌。",
           "url": "https://flash.jin10.com/detail/20260630032956729800",
           "source": "金十数据",
@@ -350,13 +412,24 @@
           "time_info": "03时56分"
         },
         {
+          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
+          "url": "https://www.cls.cn/detail/2412265",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
           "title": "周一（6月29日）纽约尾盘，美国10年期国债收益率跌0.20个基点，报4.3666%，日内整体窄幅震荡于4.3646%-4.3882%区间。 两年期美债收益率涨0.62个基点，报4.0983%；30年期美债收益率跌1.28个基点，报4.8513%。 2/10年期美债收益率利差跌0.813个基点，报+26.829个基点。 10年期通胀保值国债（TIPS）收益率跌1.93个基点，至2.1369%；两年期TIPS收益率跌2.12个基点，至2.0932%；30年期TIPS收益率跌1.92个基点，至2.6808%。",
           "url": "https://wallstreetcn.com/livenews/3126304",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -372,26 +445,26 @@
           "time_info": "03时56分"
         },
         {
+          "title": "现货黄金周二小幅高开，向上触及4020美元/盎司，日内涨0.10%。",
+          "url": "https://flash.jin10.com/detail/20260630060233206800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
           "title": "美国总统特朗普：（最高法院）裁决后预计不会有更多解职。",
           "url": "https://wallstreetcn.com/livenews/3126299",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时36分"
+          "time_info": "05时26分"
         },
         {
           "title": "周一（6月29日）纽约尾盘，美元兑日元涨0.12%，报161.94日元，日内交投区间为161.61-16.98日元，整体持续上行。 欧元兑日元涨0.48%，报185.02日元；英镑兑日元涨0.59%，报214.724日元。",
@@ -400,7 +473,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -411,7 +484,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -422,7 +495,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -433,7 +506,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -444,9 +517,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
+          "url": "https://flash.jin10.com/detail/20260630055543411800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
@@ -455,9 +539,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "国际货币基金组织：已就埃及扩展基金便利（EFF）第七次审查及弹性与可持续性工具（RSF）第二次审查达成工作人员层面协议，审查完成后将向埃及发放约15亿美元EFF资金及1.36亿美元RSF资金。",
+          "url": "https://flash.jin10.com/detail/20260630055211210800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "美股收盘：纳指涨2%，西部数据大涨11%",
@@ -466,7 +561,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -488,9 +583,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美股大类资产类ETF周一多数收涨，纳指100 ETF涨2.49%，标普500 ETF、巴克莱美国可转债ETF、美国布伦特油价基金至多涨1.65%，道指ETF涨0.76%，新兴市场ETF、欧元做多、美国国债20+年ETF至多涨0.36%。 日元做多、罗素2000指数ETF、做多美元指数则至多收跌0.53%，农产品基金跌1.08%，大豆基金跌1.14%，黄金ETF跌1.35%。",
+          "url": "https://wallstreetcn.com/livenews/3126325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "摩根士丹利(MS.N)直接贷款基金定价发行3.5亿美元6.10%票据，期限至2031年。公司表示，发行所得净资金将用于偿还现有有担保债务。",
@@ -499,7 +605,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
         },
@@ -510,9 +616,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "周一（6月29日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8006元，较上周五纽约尾盘涨43点，日内整体交投于6.8074-6.7933元区间。",
+          "url": "https://wallstreetcn.com/livenews/3126317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "美国总统特朗普：与《保障美国选民资格法案》相比，其他事情都显得无足轻重。",
@@ -521,9 +638,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "现货黄金跌约1.8%，美股早盘一度逼近4000点整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3126316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "美国总统特朗普：我正在将药价降低200%、300%，甚至400%，但几乎没人谈论这件事。民主党反对这一举措，如果他们上台执政，药价将上涨300%、400%，甚至500%。",
@@ -532,9 +660,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美元指数29日下跌",
+          "url": "https://flash.jin10.com/detail/20260630053044155800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         },
         {
           "title": "特朗普：将确保美联储理事库克不会做出关键决定",
@@ -570,6 +709,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "Digital Realty 拟以35亿美元收购黑石在三座数据中心持有的股权",
+          "url": "https://wallstreetcn.com/livenews/3126311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
           "title": "SpaceX推动美国股票发行规模创下2510亿美元的半年最高纪录",
           "url": "https://wallstreetcn.com/livenews/3126250",
           "source": "华尔街见闻-快讯",
@@ -590,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "Axon Enterprise Inc.（AXON）收涨9.85%，报510.60美元，跳空高开后持续高位震荡，逼近6月4日收盘位513.20美元、3月11日收盘位517.57美元。 据媒体报道，在移民执法局（ICE）向该公司采购一批武器之前，美国总统特朗普买入该公司股票。",
+          "url": "https://wallstreetcn.com/livenews/3126328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         }
       ]
     }
