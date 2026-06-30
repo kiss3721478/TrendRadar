@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T05:28:38.818207+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-07-01T07:12:23.710176+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 55,
+      "match_count": 67,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时12分]"
         },
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时12分]"
         },
         {
           "title": "美国常驻北约代表：美国通过援乌，已“变现”60亿美元",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时12分]"
         },
         {
           "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
@@ -47,11 +48,37 @@
           "ranks": [
             2,
             8,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时12分]"
+        },
+        {
+          "title": "87 克大金链到老庙黄金维修少 11 克，金店买家都已报警，过程中存在哪些疑点？作案者会受到哪些处罚？",
+          "url": "https://www.zhihu.com/question/2054916487022731271",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时12分]"
+        },
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "OMFIF调查：央行首次计划净减持美元 转向黄金",
@@ -71,20 +98,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
         {
-          "title": "周二（6月30日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7918元，较周一纽约尾盘涨88点，日内整体交投于6.8026-6.7864元区间。 6月份，离岸人民币累计下跌大约0.4%，二季度累涨超1.4%，上半年持续走高、从6.9959元涨至6.7539元。",
-          "url": "https://wallstreetcn.com/livenews/3126992",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "07时12分"
         },
         {
           "title": "WTI原油日内跌超1.00%，现报69.55美元/桶。",
@@ -115,9 +142,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "特朗普927页财报曝光：三度加仓苹果、微软、英伟达，金条持仓同步现身",
+          "url": "https://flash.jin10.com/detail/20260701065240508800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "耐克美股盘后跌幅扩大至6.6%。",
@@ -126,7 +164,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -137,20 +175,55 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
         {
-          "title": "周二（6月30日）纽约尾盘，现货黄金跌0.18%，报4008.98美元/盎司，6月份累跌10.65%，二季度累跌14.31%，上半年冲高回落，1月29日涨至5595.47美元创历史最高，随后逐步回撤，6月30日一度跌至3943.29美元。 现货白银涨0.62%，报58.6190美元/盎司，6月份累跌21.71%，二季度累跌19.74%，1月29日达到121.6540美元，之后逐步回撤，6月24日曾跌至55.6125美元。",
-          "url": "https://wallstreetcn.com/livenews/3126990",
-          "source": "华尔街见闻-快讯",
+          "title": "“黄金一代”倒在小组赛！“荒唐”背后的韩国足球“密室行政”与财阀控局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33479214",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时12分]"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时12分]"
+        },
+        {
+          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2413394",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时12分]"
+        },
+        {
+          "title": "还吹吗?韩国黄金时代光速崩塌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355743&amp;topic_name=%E8%BF%98%E5%90%B9%E5%90%97%3F%E9%9F%A9%E5%9B%BD%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E5%85%89%E9%80%9F%E5%B4%A9%E5%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时12分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -188,6 +261,18 @@
           "time_info": "[01时53分 ~ 03时56分]"
         },
         {
+          "title": "周二（6月30日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7918元，较周一纽约尾盘涨88点，日内整体交投于6.8026-6.7864元区间。 6月份，离岸人民币累计下跌大约0.4%，二季度累涨超1.4%，上半年持续走高、从6.9959元涨至6.7539元。",
+          "url": "https://wallstreetcn.com/livenews/3126992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时12分]"
+        },
+        {
           "title": "美元指数在6月份涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3126960",
           "source": "华尔街见闻-快讯",
@@ -200,62 +285,16 @@
           "time_info": "[03时56分 ~ 05时28分]"
         },
         {
-          "title": "87 克大金链到老庙黄金维修少 11 克，金店买家都已报警，过程中存在哪些疑点？作案者会受到哪些处罚？",
-          "url": "https://www.zhihu.com/question/2054916487022731271",
-          "source": "知乎",
+          "title": "周二（6月30日）纽约尾盘，现货黄金跌0.18%，报4008.98美元/盎司，6月份累跌10.65%，二季度累跌14.31%，上半年冲高回落，1月29日涨至5595.47美元创历史最高，随后逐步回撤，6月30日一度跌至3943.29美元。 现货白银涨0.62%，报58.6190美元/盎司，6月份累跌21.71%，二季度累跌19.74%，1月29日达到121.6540美元，之后逐步回撤，6月24日曾跌至55.6125美元。",
+          "url": "https://wallstreetcn.com/livenews/3126990",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时28分]"
-        },
-        {
-          "title": "“黄金一代”倒在小组赛！“荒唐”背后的韩国足球“密室行政”与财阀控局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33479214",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时28分]"
-        },
-        {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时28分]"
-        },
-        {
-          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2413394",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时28分]"
-        },
-        {
-          "title": "还吹吗?韩国黄金时代光速崩塌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355743&amp;topic_name=%E8%BF%98%E5%90%B9%E5%90%97%3F%E9%9F%A9%E5%9B%BD%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E5%85%89%E9%80%9F%E5%B4%A9%E5%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            20,
+            5,
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时28分]"
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时12分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -281,6 +320,77 @@
           "time_info": "[01时53分 ~ 03时56分]"
         },
         {
+          "title": "美公布6亿美元月球任务计划，推进月球基地建设",
+          "url": "https://wallstreetcn.com/livenews/3126989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时12分]"
+        },
+        {
+          "title": "美光、英特尔和AMD二季度合计市值增加2万亿美元，得益于创纪录的芯片热潮",
+          "url": "https://wallstreetcn.com/livenews/3126987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时12分]"
+        },
+        {
+          "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
+          "url": "https://wallstreetcn.com/livenews/3126986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时12分]"
+        },
+        {
+          "title": "高盛警告：三星+SK海力士权重再升1%，外资将撤出20亿美元",
+          "url": "https://wallstreetcn.com/articles/3775840",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时12分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
+          "url": "https://wallstreetcn.com/livenews/3126980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时12分]"
+        },
+        {
+          "title": "耐克第四财季营收109.7亿美元，同比下滑1.1%。 第四财季总体耐克品牌营收107.2亿美元，同比下滑0.4%。 第四财季大中华区EBIT为2.43亿美元，同比下降20%。 第四财季毛利润率49.2%，上年同期40.3%。 第四财季每股收益（EPS）为0.72美元，上年同期0.14美元。 耐克美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3126979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时12分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的269亿美元。",
           "url": "https://flash.jin10.com/detail/20260701011622723800",
           "source": "金十数据",
@@ -298,18 +408,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美公布6亿美元月球任务计划，推进月球基地建设",
-          "url": "https://wallstreetcn.com/livenews/3126989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -331,20 +430,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
         {
-          "title": "美光、英特尔和AMD二季度合计市值增加2万亿美元，得益于创纪录的芯片热潮",
-          "url": "https://wallstreetcn.com/livenews/3126987",
-          "source": "华尔街见闻-快讯",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日维持不变，当前持仓量为1005.077吨。",
+          "url": "https://flash.jin10.com/detail/20260701064835040800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "07时12分"
         },
         {
           "title": "美国副总统万斯：美国总统特朗普愿意使用军事打击手段，但前提是必须服务于明确的战略目标。",
@@ -358,24 +457,13 @@
           "time_info": "03时56分"
         },
         {
-          "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
-          "url": "https://wallstreetcn.com/livenews/3126986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
           "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
           "url": "https://flash.jin10.com/detail/20260701044849105800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -391,24 +479,13 @@
           "time_info": "03时56分"
         },
         {
-          "title": "高盛警告：三星+SK海力士权重再升1%，外资将撤出20亿美元",
-          "url": "https://wallstreetcn.com/articles/3775840",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
           "title": "芝商所：将于7月27日推出覆盖50多只美股的单股期货产品。",
           "url": "https://flash.jin10.com/detail/20260701044747249800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -424,15 +501,15 @@
           "time_info": "01时53分"
         },
         {
-          "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
-          "url": "https://wallstreetcn.com/livenews/3126980",
+          "title": "美国总统特朗普：Pierre Yared辞去经济顾问委员会的代理主席。 其将重返哥伦比亚大学研究生院。",
+          "url": "https://wallstreetcn.com/livenews/3127002",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "07时12分"
         },
         {
           "title": "WTI 7月原油期货收跌1.25美元，跌幅1.77%，报69.50美元/桶，6月份累计下跌超18.52%，二季度累跌将近14.86%。 布伦特8月原油期货收跌0.23美元，跌幅0.31%，报72.92美元/桶，6月份累跌超19.97%，二季度累跌19.13%。 中东Abu Dhabi Murban原油期货涨1.21%，报70.00美元/桶，6月份累计上涨0.84%，二季度累跌23.10%。 NYMEX 7月天然气期货收报3.2750美元/百万英热单位。 NYMEX 7月汽油期货收报3.0144美元/加仑，NYMEX 7月取暖油期货收报3.3168美元/加仑。",
@@ -446,15 +523,15 @@
           "time_info": "03时56分"
         },
         {
-          "title": "耐克第四财季营收109.7亿美元，同比下滑1.1%。 第四财季总体耐克品牌营收107.2亿美元，同比下滑0.4%。 第四财季大中华区EBIT为2.43亿美元，同比下降20%。 第四财季毛利润率49.2%，上年同期40.3%。 第四财季每股收益（EPS）为0.72美元，上年同期0.14美元。 耐克美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3126979",
+          "title": "周二（6月30日），美股存储芯片与硬件供应链指数收涨3.83%，报268.03点，6月份累涨27.26%，二季度累涨159.01%，上半年持续上扬——从69.59点涨至277.74点。 二季度，成分股闪迪累涨257.88%，美光科技涨241.67%，希捷科技涨146.55%，西部数据涨136.19%，应用材料涨111.78%，拉姆研究涨103.01%，泰瑞达涨63.28%，Rambus反弹54.30%。",
+          "url": "https://wallstreetcn.com/livenews/3127000",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "07时12分"
         },
         {
           "title": "苹果(AAPL.O)：Apple Creator Studio更新即日起向现有订阅用户免费提供；新订阅用户价格为每月12.99美元或每年129美元。",
@@ -474,7 +551,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -488,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "受美联储风险及美元走强拖累，拉美股市终结季度连涨势头",
+          "url": "https://wallstreetcn.com/livenews/3126998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美国总统特朗普回应“最高法院推翻特朗普限制‘出生公民权’行政令”，称：最高法院的裁决对美国来说太糟糕了。 国会山应该着手废除出生公民权。",
@@ -523,13 +611,35 @@
           "time_info": "03时56分"
         },
         {
+          "title": "South32 Ltd.（S32.AU）将出售铝资产给美国铝业，交易价值高达56亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3126996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：皮埃尔·亚雷德（Pierre Yared）将离开经济顾问委员会。",
+          "url": "https://flash.jin10.com/detail/20260701061209980800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "周二（6月30日），美股行业ETF多数收涨，半导体ETF涨3.78%，全球科技股指数ETF、科技行业ETF至少涨2.76%，医疗业ETF、日常消费品ETF、公用事业ETF、日常消费品ETF跌1.29%-1.54%。 上半年，半导体ETF累计上涨82.13%，全球科技股指数ETF、科技行业ETF至少涨32.66%，能源业ETF、工业ETF至少涨20.04%，金融业ETF、可选消费ETF、网络股指数ETF则至多累跌1.66%。",
           "url": "https://wallstreetcn.com/livenews/3126976",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -540,9 +650,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
+          "url": "https://wallstreetcn.com/livenews/3126991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美国总统特朗普：共和党在美国最高法院得到了非常公平的对待。",
@@ -562,7 +683,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -576,6 +697,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
+          "url": "https://flash.jin10.com/detail/20260701054713686800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
+          "url": "https://flash.jin10.com/detail/20260701054226191800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美国准备向某些肉类包装公司提供救助。 美国打算向中小规模肉类加工企业提供至多5亿美元资金支持。 泰森食品、JBS、嘉吉（Cargill）将被美国农业部（USDA）排除在外。 National Beef也将被USDA排斥在牛肉工厂资金支持方案之外。（华尔街日报）",
