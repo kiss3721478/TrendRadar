@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-02T05:28:08.542975+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-07-02T07:15:02.592014+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
-        {
-          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 05时28分]"
-        },
         {
           "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
           "url": "https://www.cls.cn/detail/2414658",
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 07时15分]"
+        },
+        {
+          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -39,6 +39,70 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时55分 ~ 05时28分]"
+        },
+        {
+          "title": "美欧英加央行掌门同台亮相 黄金、白银盘前异动拉升 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2414541",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 07时15分]"
+        },
+        {
+          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
+          "url": "https://www.zhihu.com/question/2053257491765581754",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 07时15分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            21,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 07时15分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            23,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 07时15分]"
+        },
+        {
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 07时15分]"
         },
         {
           "title": "【伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为】伊朗外交部副部长、伊方技术谈判代表团团长加里巴巴迪表示，在当天于多哈举行的伊朗、卡塔尔、巴基斯坦三方会谈中，伊朗代表团提出并审查了美国违反美伊谅解备忘录第一条关于结束黎巴嫩战事的承诺，并讨论了有关美国加强地区军事装备和兵力部署的报道和美国官员发表的一些具有威胁性及干涉主义的言论。伊朗代表团在会谈中强调，美伊谅解备忘录中的各项承诺是一个整体，不能单独割裂看待。 加里巴巴迪宣布，将组建监督小组并通过直接沟通渠道通报和审查涉及美伊谅解备忘录的违规行为。他指出，伊朗代表在与卡塔尔央行等官员的会谈中已决定将部分解冻的60亿美元资金用于根据伊朗需求采购必要物资。他同时澄清称“伊朗与美国代表团没有在多哈举行会晤”。（央视）",
@@ -63,17 +127,6 @@
           "time_info": "03时54分"
         },
         {
-          "title": "必和必拓(BHP.N)：已提交环境许可申请，计划投资15亿美元重新启用智利塞罗科罗拉多铜矿。",
-          "url": "https://flash.jin10.com/detail/20260702051010821800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
           "title": "美国总统特朗普：我们正轻松赢得一场战争。 我们在伊朗问题上进展顺利，就像在委内瑞拉那样。",
           "url": "https://wallstreetcn.com/livenews/3127591",
           "source": "华尔街见闻-快讯",
@@ -83,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
-        },
-        {
-          "title": "周三（7月1日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7948元，较周二纽约尾盘跌30点，日内整体交投于6.7902-6.8026元区间。",
-          "url": "https://wallstreetcn.com/livenews/3127624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         },
         {
           "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
@@ -129,65 +171,40 @@
           "time_info": "03时54分"
         },
         {
+          "title": "必和必拓(BHP.N)：已提交环境许可申请，计划投资15亿美元重新启用智利塞罗科罗拉多铜矿。",
+          "url": "https://flash.jin10.com/detail/20260702051010821800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时15分]"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7948元，较周二纽约尾盘跌30点，日内整体交投于6.7902-6.8026元区间。",
+          "url": "https://wallstreetcn.com/livenews/3127624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时15分]"
+        },
+        {
           "title": "必和必拓：已经围绕15亿美元重启智利Cerro Colorado铜矿递交环境许可申请。",
           "url": "https://wallstreetcn.com/livenews/3127622",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美欧英加央行掌门同台亮相 黄金、白银盘前异动拉升 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2414541",
-          "source": "财联社热门",
-          "ranks": [
-            10
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 05时28分]"
-        },
-        {
-          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
-          "url": "https://www.zhihu.com/question/2053257491765581754",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 05时28分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            21,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 05时28分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 05时28分]"
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时15分]"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -217,22 +234,60 @@
           "url": "https://wallstreetcn.com/livenews/3127621",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时15分]"
         },
         {
           "title": "美财政部公布“特朗普账户”投资组合标的 主投宽基标普500指数ETF",
           "url": "https://flash.jin10.com/detail/20260702044234084800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时15分]"
+        },
+        {
+          "title": "美元走强与中东风险施压，拉美外汇与股市普遍走低",
+          "url": "https://wallstreetcn.com/livenews/3127616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时15分]"
+        },
+        {
+          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
+          "url": "https://wallstreetcn.com/livenews/3127615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时15分]"
+        },
+        {
+          "title": "美国总统特朗普：油价正在下跌。 船只正离开霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3127614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 07时15分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7880元，较周二夜盘收盘持平。成交量486.3亿美元。",
@@ -263,9 +318,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.285吨，当前持仓量为1005.362吨。",
+          "url": "https://flash.jin10.com/detail/20260702062621972800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "美国总统特朗普：油价在下跌。",
@@ -274,7 +340,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -290,35 +356,13 @@
           "time_info": "01时55分"
         },
         {
-          "title": "美元走强与中东风险施压，拉美外汇与股市普遍走低",
-          "url": "https://wallstreetcn.com/livenews/3127616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
           "title": "美国总统特朗普：船只正从霍尔木兹海峡驶出。",
           "url": "https://flash.jin10.com/detail/20260702042850197800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
-          "url": "https://wallstreetcn.com/livenews/3127615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -329,7 +373,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -345,24 +389,13 @@
           "time_info": "03时54分"
         },
         {
-          "title": "美国总统特朗普：油价正在下跌。 船只正离开霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3127614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
           "title": "美元指数1日上涨",
           "url": "https://flash.jin10.com/detail/20260702042100107800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -373,7 +406,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -395,7 +428,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -406,7 +439,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -439,7 +472,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -472,7 +505,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -494,7 +527,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -505,7 +538,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -527,7 +560,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -560,7 +593,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -571,7 +604,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -593,7 +626,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -604,7 +637,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -626,7 +659,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -637,7 +670,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -659,7 +692,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         },
@@ -670,7 +703,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         }
