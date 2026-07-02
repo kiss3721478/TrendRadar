@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T15:32:45.219023+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-07-02T18:39:16.236181+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 80,
+      "match_count": 86,
       "titles": [
         {
           "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
@@ -68,6 +68,18 @@
           "time_info": "[01时55分 ~ 11时29分]"
         },
         {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时39分]"
+        },
+        {
           "title": "【早报】美联储放鹰；存储、半导体板块大跌，中概股逆势大涨；油价下跌，黄金收涨；英格兰、比利时晋级世界杯16强",
           "url": "https://www.cls.cn/detail/2414804",
           "source": "财联社热门",
@@ -126,7 +138,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -140,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "富国银行：将Meta Platforms(META.O)目标价从765美元上调至767美元。将亚马逊(AMZN.O)目标价从312美元上调至313美元。将Alphabet(GOOGL.O)目标价从435美元下调至416美元。",
+          "url": "https://flash.jin10.com/detail/20260702183445393800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
@@ -164,17 +187,6 @@
           "time_info": "03时54分"
         },
         {
-          "title": "伊拉克女议员家中被缴获27公斤黄金",
-          "url": "https://www.toutiao.com/trending/7657157272518344714/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
           "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
           "url": "https://flash.jin10.com/detail/20260702030012797800",
           "source": "金十数据",
@@ -197,6 +209,18 @@
           "time_info": "11时29分"
         },
         {
+          "title": "伊拉克女议员家中被缴获27公斤黄金",
+          "url": "https://www.toutiao.com/trending/7657157272518344714/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时39分]"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶71.57美元，下跌1.38美元，跌幅1.89%。",
           "url": "https://flash.jin10.com/detail/20260702025314399800",
           "source": "金十数据",
@@ -217,17 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
         },
         {
           "title": "必和必拓(BHP.N)：已提交环境许可申请，计划投资15亿美元重新启用智利塞罗科罗拉多铜矿。",
@@ -301,6 +314,17 @@
           "time_info": "[05时28分 ~ 07时15分]"
         },
         {
+          "title": "芯片股抛售拖累全球股市，美光盘前跌近3%，韩股收跌7%，日元走强，黄金稳于4000上方",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
           "title": "美财政部公布“特朗普账户”投资组合标的 主投宽基标普500指数ETF",
           "url": "https://flash.jin10.com/detail/20260702044234084800",
           "source": "金十数据",
@@ -359,6 +383,17 @@
           "time_info": "[05时28分 ~ 07时15分]"
         },
         {
+          "title": "又来施压美联储？特朗普经济顾问：加息应对通胀是错误之举！",
+          "url": "https://www.cls.cn/detail/2414901",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
           "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
           "url": "https://wallstreetcn.com/livenews/3127615",
           "source": "华尔街见闻-快讯",
@@ -383,6 +418,17 @@
           "time_info": "[05时28分 ~ 07时15分]"
         },
         {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7880元，较周二夜盘收盘持平。成交量486.3亿美元。",
           "url": "https://wallstreetcn.com/livenews/3127584",
           "source": "华尔街见闻-快讯",
@@ -392,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "联合治疗公司以1.4亿美元现金收购生物技术公司Thymmune Therapeutics。",
+          "url": "https://flash.jin10.com/detail/20260702183107802800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "巴西央行数据显示，上周巴西资金净流出总额为10.27亿美元。截至6月26日当月，巴西资金净流入总额为71.68亿美元。",
@@ -444,7 +501,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -488,7 +545,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -521,7 +578,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -719,7 +776,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -898,6 +955,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美元兑日元一度跌破161关口，报160.98，日内跌约1%。",
+          "url": "https://wallstreetcn.com/livenews/3127930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "周三（7月1日）纽约尾盘，欧元兑美元跌0.36%，英镑兑美元涨0.20%，美元兑瑞郎涨0.09%。 商品货币对中，澳元兑美元跌0.30%，纽元兑美元跌0.08%，美元兑加元涨0.13%。",
