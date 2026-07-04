@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T03:11:31.147588+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-07-05T04:57:12.088415+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时57分]"
         },
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时57分]"
         },
         {
           "title": "黄金如今又看美联储的脸色了",
@@ -37,20 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时11分]"
-        },
-        {
-          "title": "ON豪言走黄金路,实力遭质疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时57分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -60,8 +48,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时57分]"
+        },
+        {
+          "title": "ON豪言走黄金路,实力遭质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时57分]"
         },
         {
           "title": "内塔尼亚胡或将访白宫 特朗普称内塔尼亚胡“知道谁才是老大”",
@@ -75,17 +76,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "特朗普：华盛顿庆典人潮空前 美国比以往任何时候都更强大",
-          "url": "https://flash.jin10.com/detail/20260705025635485800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
           "title": "特朗普与内塔尼亚胡或最早于下周举行会晤。",
           "url": "https://flash.jin10.com/detail/20260705004719450800",
           "source": "金十数据",
@@ -97,17 +87,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "美国财长贝森特：在特朗普总统的领导下，我们正迈向史无前例的经济增长、美元的持久主导地位以及财政的稳健与强劲。",
-          "url": "https://flash.jin10.com/detail/20260705024018579800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
           "title": "美国250周年庆典变特朗普私人派对？",
           "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
           "source": "凤凰网",
@@ -115,8 +94,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时57分]"
+        },
+        {
+          "title": "特朗普：华盛顿庆典人潮空前 美国比以往任何时候都更强大",
+          "url": "https://flash.jin10.com/detail/20260705025635485800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时11分]"
+          "time_info": "[03时11分 ~ 04时57分]"
         },
         {
           "title": "黄金结束四周连跌！但分析师认为，持续复苏仍需三个条件",
@@ -126,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时57分]"
         },
         {
           "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
@@ -137,8 +128,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时57分]"
         },
         {
           "title": "佛得角收获1100万美元赛事奖金",
@@ -146,11 +137,24 @@
           "source": "今日头条",
           "ranks": [
             13,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时57分]"
+        },
+        {
+          "title": "美国财长贝森特：在特朗普总统的领导下，我们正迈向史无前例的经济增长、美元的持久主导地位以及财政的稳健与强劲。",
+          "url": "https://flash.jin10.com/detail/20260705024018579800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时11分]"
+          "time_info": "[03时11分 ~ 04时57分]"
         },
         {
           "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
@@ -160,19 +164,53 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时57分]"
         },
         {
           "title": "内塔尼亚胡近期将访美与特朗普会晤",
           "url": "https://flash.jin10.com/detail/20260705023446585800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时11分 ~ 04时57分]"
+        },
+        {
+          "title": "霉霉夫妇婚礼捐赠2600万美元",
+          "url": "https://www.douyin.com/hot/2557935",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 04时57分]"
+        },
+        {
+          "title": "泽连斯基：我已与特朗普讨论了乌克兰前线局势",
+          "url": "https://flash.jin10.com/detail/20260705034001314800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时11分"
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美国Axios记者称，若内塔尼亚胡造访白宫，这将是他自二月份在情况室与美国总统特朗普的戏剧性会晤以来的首次会面，当时，内塔尼亚胡提交了一份对伊朗开战的方案。",
+          "url": "https://flash.jin10.com/detail/20260705032036905800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "美国财政部正式推出“特朗普账户”应用程序",
@@ -186,6 +224,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "据Axios：一位以色列高级官员表示，会议的最终日期尚未确定，由于特朗普访问土耳其，下周访问可能为时过早。该官员称：“访问可能会在随后一周进行。”",
+          "url": "https://flash.jin10.com/detail/20260705031908205800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
           "url": "https://flash.jin10.com/detail/20260705000623395800",
           "source": "金十数据",
@@ -197,13 +246,35 @@
           "time_info": "01时04分"
         },
         {
+          "title": "据知情人士透露，乌克兰总统泽连斯基周六与美国总统特朗普通话，并就美国建国250周年向其表示祝贺。",
+          "url": "https://flash.jin10.com/detail/20260705030248819800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美国总统特朗普：欧洲正在领悟一个道理——一旦接纳了来自第三世界的罪犯，自己也就变成了第三世界国家。这种转变发生得极快，往往就在转瞬之间。我当选得正是时候！！！",
+          "url": "https://flash.jin10.com/detail/20260705030120617800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
           "url": "https://flash.jin10.com/detail/20260705015152155800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -214,7 +285,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -225,7 +296,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -236,7 +307,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         },
@@ -247,7 +318,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
         }
