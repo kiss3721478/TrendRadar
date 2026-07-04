@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T07:03:27.736480+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-07-04T10:48:49.323257+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -30,15 +30,28 @@
           "time_info": "[01时25分 ~ 05时05分]"
         },
         {
-          "title": "美元料创4月以来最大单周跌幅 降息预期升温打压走势",
-          "url": "https://flash.jin10.com/detail/20260704035726761800",
-          "source": "金十数据",
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 10时48分]"
+        },
+        {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时25分 ~ 10时48分]"
         },
         {
           "title": "摩根大通：预计黄金短期内将维持区间震荡，随后回升，2026年第三季度均价为4,300美元/盎司，第四季度均价为4,500美元/盎司。",
@@ -52,38 +65,27 @@
           "time_info": "01时25分"
         },
         {
-          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
-          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 07时03分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时25分 ~ 07时03分]"
-        },
-        {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美元料创4月以来最大单周跌幅 降息预期升温打压走势",
+          "url": "https://flash.jin10.com/detail/20260704035726761800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 10时48分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -372,15 +374,48 @@
           "time_info": "01时25分"
         },
         {
+          "title": "特朗普：美国经济正强劲腾飞！",
+          "url": "https://flash.jin10.com/detail/20260704093740277800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "周五（7月3日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7853元，较周四纽约尾盘涨35点，日内整体交投于6.7901-6.7811元区间。 本周，离岸人民币累计上涨大约190点，涨幅0.29%。",
           "url": "https://wallstreetcn.com/livenews/3128840",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "押注霍尔木兹航运恢复，机构预测布油年底最低或跌至60美元",
+          "url": "https://www.cls.cn/detail/2416992",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -394,6 +429,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "特朗普：将接受以公开交易股票形式进行的慈善捐款。",
+          "url": "https://wallstreetcn.com/livenews/3128858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "摩根大通：黄金短期承压 2026下半年或冲4500美元",
           "url": "https://flash.jin10.com/detail/20260704014528189800",
           "source": "金十数据",
@@ -403,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "特朗普：财政部接受股票捐赠 以资助“特朗普账户”",
+          "url": "https://flash.jin10.com/detail/20260704081757313800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "SQM合资企业寻求智利30亿美元锂项目获批",
@@ -416,6 +473,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "截至7月3日，全球最大的黄金ETF SPDR Gold Trust持仓量为1001.366吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260704081200323800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
           "url": "https://flash.jin10.com/detail/20260704012107426800",
           "source": "金十数据",
@@ -425,6 +493,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国年轻人对特朗普只有一句话",
+          "url": "https://www.toutiao.com/trending/7658466555507867689/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "金价银价上涨原因",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     }
