@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T14:19:28.250265+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-07-04T17:22:45.771452+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -43,6 +43,18 @@
           "time_info": "[01时25分 ~ 10时48分]"
         },
         {
+          "title": "佛得角收获1100万美元奖金",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时22分]"
+        },
+        {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
           "url": "https://news.ifeng.com/c/8uSuVg66mIs",
           "source": "凤凰网",
@@ -52,6 +64,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时25分 ~ 10时48分]"
+        },
+        {
+          "title": "佛得角收获1100万美元赛事奖金",
+          "url": "https://www.toutiao.com/trending/7658547175105777162/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "摩根大通：预计黄金短期内将维持区间震荡，随后回升，2026年第三季度均价为4,300美元/盎司，第四季度均价为4,500美元/盎司。",
@@ -65,15 +88,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "佛得角收获1100万美元奖金",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91",
-          "source": "百度热搜",
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "17时22分"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -97,6 +120,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时05分 ~ 10时48分]"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 17时22分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -136,16 +182,16 @@
           "time_info": "[03时21分 ~ 07时03分]"
         },
         {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
+          "title": "佛得角队收获1100万美元奖金",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            4
+            14,
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时48分 ~ 14时19分]"
+          "time_info": "[14时19分 ~ 17时22分]"
         },
         {
           "title": "金价本周涨超2%",
@@ -363,6 +409,18 @@
           "time_info": "[03时21分 ~ 05时05分]"
         },
         {
+          "title": "霉霉夫妇婚礼捐赠2600万美元",
+          "url": "https://www.douyin.com/hot/2557935",
+          "source": "抖音",
+          "ranks": [
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时22分]"
+        },
+        {
           "title": "推动金价上涨的“神秘央行”存在吗",
           "url": "https://www.toutiao.com/trending/7658284084967247369/",
           "source": "今日头条",
@@ -403,7 +461,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -425,9 +483,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "黄金结束四周连跌！但分析师认为，持续复苏仍需三个条件",
+          "url": "https://wallstreetcn.com/articles/3776180",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "金十图示：2026年07月04日（周六）黄金ETF持仓报告",
@@ -436,7 +505,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -452,13 +521,24 @@
           "time_info": "07时03分"
         },
         {
+          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
+          "url": "https://wallstreetcn.com/articles/3776162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
           "url": "https://flash.jin10.com/detail/20260704113342386800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -472,17 +552,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
-        },
-        {
-          "title": "佛得角队收获1100万美元奖金",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E6%94%B6%E8%8E%B71100%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -502,7 +571,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -513,7 +582,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -562,15 +631,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "霉霉夫妇婚礼捐赠2600万美元",
-          "url": "https://www.douyin.com/hot/2557935",
-          "source": "抖音",
+          "title": "金价抬头 顾客冲进金店“秒下单”",
+          "url": "https://www.toutiao.com/trending/7657606346723835940/",
+          "source": "今日头条",
           "ranks": [
-            21
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "17时22分"
         },
         {
           "title": "截至7月3日，全球最大的黄金ETF SPDR Gold Trust持仓量为1001.366吨，较前一个交易日维持不变。",
