@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T21:29:25.587380+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-07-05T23:13:16.570654+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -33,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 21时29分]"
+          "appearance_count": 9,
+          "time_info": "[10时58分 ~ 23时13分]"
         },
         {
           "title": "特朗普称内塔尼亚胡知道“谁是老大”",
@@ -46,26 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 21时29分]"
-        },
-        {
-          "title": "ON豪言走黄金路,实力遭质疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            9,
-            14,
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时04分 ~ 21时29分]"
+          "appearance_count": 9,
+          "time_info": "[10时58分 ~ 23时13分]"
         },
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -79,8 +61,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 21时29分]"
+          "appearance_count": 9,
+          "time_info": "[10时58分 ~ 23时13分]"
+        },
+        {
+          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
+          "url": "https://wallstreetcn.com/articles/3776207",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时58分 ~ 23时13分]"
+        },
+        {
+          "title": "ON豪言走黄金路,实力遭质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            6,
+            9,
+            14,
+            17,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时04分 ~ 23时13分]"
         },
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -92,6 +107,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时04分]"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 23时13分]"
         },
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
@@ -117,18 +145,16 @@
           "time_info": "[01时04分 ~ 07时04分]"
         },
         {
-          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
-          "url": "https://wallstreetcn.com/articles/3776207",
-          "source": "华尔街见闻",
+          "title": "特朗普又把自己加上了“总统山”",
+          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            5,
-            4,
+            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 23时13分]"
         },
         {
           "title": "佛得角收获1100万美元赛事奖金",
@@ -146,17 +172,32 @@
           "time_info": "[01时04分 ~ 10时59分]"
         },
         {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
+          "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
+          "url": "https://www.cls.cn/detail/2417195",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3,
-            2
+            13,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 21时29分]"
+          "appearance_count": 9,
+          "time_info": "[10时58分 ~ 23时13分]"
+        },
+        {
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时58分 ~ 23时13分]"
         },
         {
           "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
@@ -170,16 +211,16 @@
           "time_info": "[14时46分 ~ 19时32分]"
         },
         {
-          "title": "特朗普又把自己加上了“总统山”",
-          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 23时13分]"
         },
         {
           "title": "MiniMax高盛电话会：对今年10亿美元ARR充满信心，模型优势在“组织敏捷性”，与国产芯片高度集成",
@@ -194,33 +235,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时59分 ~ 17时42分]"
-        },
-        {
-          "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
-          "url": "https://www.cls.cn/detail/2417195",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 21时29分]"
-        },
-        {
-          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 21时29分]"
         },
         {
           "title": "美国250周年庆典变特朗普私人派对？",
@@ -271,16 +285,19 @@
           "time_info": "[10时59分 ~ 21时29分]"
         },
         {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            2
+            1,
+            11,
+            16,
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[14时46分 ~ 23时13分]"
         },
         {
           "title": "特朗普与内塔尼亚胡或最早于下周举行会晤。",
@@ -294,18 +311,16 @@
           "time_info": "01时04分"
         },
         {
-          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
-          "url": "https://wallstreetcn.com/livenews/3128968",
-          "source": "华尔街见闻-快讯",
+          "title": "HBM竞赛升级！美光日本90亿美元扩建项目开工，预计2028年出货",
+          "url": "https://wallstreetcn.com/articles/3776210",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            11,
-            16,
-            23
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 23时13分]"
         },
         {
           "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
@@ -468,15 +483,15 @@
           "time_info": "[04时56分 ~ 07时04分]"
         },
         {
-          "title": "HBM竞赛升级！美光日本90亿美元扩建项目开工，预计2028年出货",
-          "url": "https://wallstreetcn.com/articles/3776210",
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时31分 ~ 21时29分]"
+          "time_info": "[21时29分 ~ 23时13分]"
         },
         {
           "title": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
@@ -657,6 +672,17 @@
           "time_info": "[14时46分 ~ 17时42分]"
         },
         {
+          "title": "40天加长三伏天 减脂黄金期来了",
+          "url": "https://www.baidu.com/s?wd=40%E5%A4%A9%E5%8A%A0%E9%95%BF%E4%B8%89%E4%BC%8F%E5%A4%A9+%E5%87%8F%E8%84%82%E9%BB%84%E9%87%91%E6%9C%9F%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
           "title": "黄金投资者周报上新！",
           "url": "https://flash.jin10.com/detail/20260705125628294800",
           "source": "金十数据",
@@ -666,17 +692,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
-        },
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
         },
         {
           "title": "泽连斯基：我已与特朗普讨论了乌克兰前线局势",
@@ -795,7 +810,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
