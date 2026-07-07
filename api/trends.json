@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T18:26:07.199408+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-07-07T21:21:32.687533+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 99,
+      "match_count": 126,
       "titles": [
         {
           "title": "SK海力士ADR发行规模缩减至280亿美元，获大幅超额认购",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时42分 ~ 18时26分]"
+        },
+        {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 21时21分]"
         },
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
@@ -44,17 +55,6 @@
           "time_info": "[01时42分 ~ 07时06分]"
         },
         {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 18时26分]"
-        },
-        {
           "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
           "url": "https://www.cls.cn/detail/2418780",
           "source": "财联社热门",
@@ -65,6 +65,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时52分 ~ 18时26分]"
+        },
+        {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 21时21分]"
         },
         {
           "title": "【早报】道指创新高，存储、半导体板块爆发；黄金、白银大涨，油价下跌；C罗告别世界杯",
@@ -112,16 +124,15 @@
           "time_info": "[14时52分 ~ 18时26分]"
         },
         {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：美国将解除对土耳其的CAATSA制裁。",
+          "url": "https://flash.jin10.com/detail/20260707211148896800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 18时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "特朗普：就红牌与国际足联主席通话",
@@ -159,6 +170,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "美国总统特朗普：欧洲现在的情况大不相同了。",
+          "url": "https://flash.jin10.com/detail/20260707211108750800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者所持COMEX黄金净多头头寸增加3,808手合约，至116,817手合约。",
           "url": "https://wallstreetcn.com/livenews/3129537",
           "source": "华尔街见闻-快讯",
@@ -168,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "特朗普：与普京总统进行了非常好的谈话。",
+          "url": "https://wallstreetcn.com/livenews/3130016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "据Axios：内塔尼亚胡在北约峰会前请求特朗普约束埃尔多安。",
@@ -190,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "黄金实时行情分析中",
+          "url": "https://flash.jin10.com/detail/20260707211030993800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "美国总统特朗普：沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。",
@@ -234,6 +278,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "美国总统特朗普：（谈到格陵兰岛）我们可以把所有驻军从欧洲撤出。",
+          "url": "https://flash.jin10.com/detail/20260707211029645800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "特朗普：土耳其从美国购买了飞机。 土耳其曾协助试图结束我们与伊朗的战争。",
+          "url": "https://wallstreetcn.com/livenews/3130013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
@@ -281,15 +347,50 @@
           "time_info": "14时53分"
         },
         {
+          "title": "美国总统特朗普批评欧洲的移民和能源政策。",
+          "url": "https://flash.jin10.com/detail/20260707211004824800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "汇丰集团行政总裁艾桥智：汇丰计划扩大在香港的黄金储存能力 预计在未来几个月内提升至200吨",
           "url": "https://wallstreetcn.com/livenews/3129891",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "特朗普称赞美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3130012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 21时21分]"
         },
         {
           "title": "特朗普插手世界杯红牌",
@@ -425,18 +526,6 @@
           "time_info": "[14时52分 ~ 18时26分]"
         },
         {
-          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 18时26分]"
-        },
-        {
           "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
           "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
           "source": "凤凰网",
@@ -446,6 +535,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时52分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 21时21分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.01%，暂报2257.60点，北京时间20:00以来呈现出V形反转走势。 MarketVectorTM数字资产100中盘指数涨1.70%，报2633.91点。 MarketVector数字资产100指数涨1.36，报12739.11点。 目前，Solana涨1.30%，狗狗币跌0.65%，XRP涨1.43%。 比特币涨1.50%，暂报63675.80美元；以太坊涨0.65%，暂报1791.66美元。",
@@ -540,17 +641,6 @@
           "time_info": "[18时25分 ~ 18时26分]"
         },
         {
-          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
           "title": "特朗普称不知道红牌还要禁赛",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
           "source": "bilibili 热搜",
@@ -582,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "特朗普称不理解红牌还要禁赛",
@@ -623,7 +724,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -650,6 +751,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "特朗普：今天将和土耳其谈贸易、军事事宜。 土耳其比其他国家更忠诚。 （谈F-35和土耳其）将就此作出决定。 我们已对北约进行了投资，盟友应该愿意提供帮助。 我们对伊朗采取行动的时候，我是在考验盟友。 法国、德国和其他国家当时都拒绝了我们。 对与土耳其的关系没有任何担忧。 美国-土耳其关系可能比以往任何时候都好。",
+          "url": "https://wallstreetcn.com/livenews/3130010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "美国总统特朗普：沃尔玛将降低价格。",
           "url": "https://flash.jin10.com/detail/20260707044646086800",
           "source": "金十数据",
@@ -661,6 +773,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛应由美国控制。",
+          "url": "https://flash.jin10.com/detail/20260707210931406800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
           "url": "https://wallstreetcn.com/livenews/3129560",
           "source": "华尔街见闻-快讯",
@@ -670,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美国总统特朗普：（关于格陵兰岛）这对丹麦没有帮助。格陵兰岛对美国至关重要。",
+          "url": "https://flash.jin10.com/detail/20260707210927993800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7924元，较上周五夜盘收盘跌144点。成交量432.03亿美元。",
@@ -694,6 +828,17 @@
           "time_info": "14时53分"
         },
         {
+          "title": "特朗普称赞土耳其总统埃尔多安。",
+          "url": "https://wallstreetcn.com/livenews/3130007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "大豆基金收涨将近3.3%，与农产品ETF、新兴市场ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3129555",
           "source": "华尔街见闻-快讯",
@@ -714,6 +859,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "美国总统特朗普：意大利总理梅洛尼在伊朗问题上没有支持我们，导致关系恶化。",
+          "url": "https://flash.jin10.com/detail/20260707210848056800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "WTI 8月原油期货收跌0.14美元，跌幅0.20报68.55美元/桶。 布伦特9月原油期货收跌0.13美元，跌幅0.18%，报71.99美元/桶。 中东Abu Dhabi Murban原油期货跌0.63%，报66.06美元/桶。 NYMEX 8月天然气期货收报3.2450美元/百万英热单位。 NYMEX 8月汽油期货收报3.0033美元/加仑，NYMEX 8月取暖油期货收报3.2984美元/加仑。",
@@ -766,7 +922,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -780,6 +936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们将解除制裁。我们与新任叙利亚领导人关系良好。我们不想制裁朋友。",
+          "url": "https://flash.jin10.com/detail/20260707210552914800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "周一（7月6日），韩元兑美元最终跌0.02%，报1529.98韩元，最近三个交易日累计涨幅收窄至1.30%。",
@@ -802,6 +969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "葡萄牙主帅马丁内斯辞职，连续带崩葡萄牙 + 比利时，他算「黄金一代」杀手吗？",
+          "url": "https://www.zhihu.com/question/2057801400864569325",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "特朗普：我可以“不到一下午”摧毁伊朗所有电厂",
@@ -837,6 +1015,28 @@
           "time_info": "05时29分"
         },
         {
+          "title": "美国总统特朗普：昨天与普京进行了长时间的交谈，之后又与泽连斯基进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260707210359563800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "美国总统特朗普：（关于乌克兰战争）希望尽快解决。",
+          "url": "https://flash.jin10.com/detail/20260707210328376800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
           "url": "https://wallstreetcn.com/livenews/3129494",
           "source": "华尔街见闻-快讯",
@@ -870,6 +1070,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "美国总统特朗普：（关于乌克兰战争）我认为俄乌双方都想达成协议。我认为我们将会达成协议。",
+          "url": "https://flash.jin10.com/detail/20260707210323061800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "周一（7月6日）纽约尾盘，美元兑日元涨0.46%，报162.08日元，日内交投区间为161.20-162.43日元，悉尼盘初微幅低开、随后持续上扬，北京时间14:00以来高位震荡——持续交投于162.20日元附近、20:58刷新日高，22:00以来略微回吐涨幅。 欧元兑日元涨0.48%，报185.42日元；英镑兑日元涨0.80%，报217.042日元。",
           "url": "https://wallstreetcn.com/livenews/3129544",
           "source": "华尔街见闻-快讯",
@@ -887,9 +1098,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美国5月贸易帐 -776亿美元，预期 -788亿美元，前值 -559亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3129996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-07）",
@@ -898,9 +1120,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美国总统特朗普：土耳其已帮助我们努力结束与伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20260707210144326800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "报道：Millennium Management两个交易团队在6月份盈利约37亿美元",
@@ -942,9 +1175,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美国总统特朗普：丰田正在从墨西哥迁往美国德克萨斯州。",
+          "url": "https://wallstreetcn.com/livenews/3129994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "印度卢比兑美元收涨0.45%，报94.9675，创自6月12日以来最佳单日涨幅。",
@@ -953,7 +1197,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -978,6 +1222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美国总统特朗普：土耳其从美国购买了飞机。",
+          "url": "https://flash.jin10.com/detail/20260707210006155800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”餐会上宣称：黑石集团、贝莱德集团、高盛都来了。",
@@ -1008,9 +1263,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "黄金单边牛市没那么快回来？预测市场只敢押注企稳修复",
+          "url": "https://flash.jin10.com/detail/20260707205958013800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
@@ -1112,6 +1378,28 @@
           "time_info": "07时06分"
         },
         {
+          "title": "特朗普一通电话毁了美国队",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "交通银行首批参与香港黄金交易",
+          "url": "https://wallstreetcn.com/livenews/3129984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
           "url": "https://wallstreetcn.com/livenews/3129565",
           "source": "华尔街见闻-快讯",
@@ -1121,6 +1409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "亚马逊计划通过美元债券发行筹集至少250亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3129979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     }
