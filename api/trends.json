@@ -1,254 +1,33 @@
 {
-  "generated_at": "2026-07-08T23:21:49.039733+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2026-07-09T01:28:53.489049+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 134,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 12时14分]"
-        },
-        {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 12时14分]"
-        },
-        {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 07时01分]"
-        },
-        {
-          "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531419",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 08时08分]"
-        },
-        {
-          "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
-          "url": "https://www.cls.cn/detail/2419496",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 08时08分]"
-        },
-        {
-          "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
-          "url": "https://news.ifeng.com/c/8uZavoCll5c",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 12时14分]"
-        },
-        {
-          "title": "特朗普：对北约非常失望",
-          "url": "https://news.ifeng.com/c/8uZl0nkCE3Q",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 08时08分]"
-        },
-        {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 15时29分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            29,
-            27,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 08时08分]"
-        },
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
           "url": "https://wallstreetcn.com/articles/3776459",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
-          "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
-          "url": "https://news.ifeng.com/c/8ub1oqRPQxp",
-          "source": "凤凰网",
+          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2420785",
+          "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 23时21分]"
-        },
-        {
-          "title": "特朗普称美伊谅解备忘录已经终结",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 20时21分]"
-        },
-        {
-          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 08时08分]"
-        },
-        {
-          "title": "消息人士：由于需求疲软，俄罗斯乌拉尔原油在印度市场相对布伦特原油的贴水已扩大至每桶10美元以上。",
-          "url": "https://flash.jin10.com/detail/20260708001158025800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "谷歌发布会定档8月12日，将发布Pixel 11系列手机",
-          "url": "https://flash.jin10.com/detail/20260708120738647800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期",
-          "url": "https://wallstreetcn.com/livenews/3130093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "WTI 8月原油期货收涨1.89美元，涨幅2.76%，报70.44美元/桶。 中东Abu Dhabi Murban原油期货涨3.34%，报68.91美元/桶。 NYMEX 8月天然气期货收报3.2650美元/百万英热单位。 NYMEX 8月汽油期货收报2.9539美元/加仑，NYMEX 8月取暖油期货收报3.3017美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3130137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普批准了对伊朗的打击计划，特朗普在土耳其期间下令打击伊朗。（AXIOS）",
-          "url": "https://wallstreetcn.com/livenews/3130232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
-          "url": "https://wallstreetcn.com/livenews/3130368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "跌个不停！美股半导体连跌第四天",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "time_info": "01时28分"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -257,726 +36,218 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时28分"
         },
         {
-          "title": "据美国证交会（SEC）文件显示，亚马逊(AMZN.O)定价242.5亿美元多期限债券发行，利率介于4.6%至6.25%。",
-          "url": "https://flash.jin10.com/detail/20260708051404780800",
+          "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
+          "url": "https://flash.jin10.com/detail/20260709010430451800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "01时28分"
         },
         {
-          "title": "据Axios：一名美国官员表示，特朗普在土耳其参加北约峰会期间批准了针对伊朗的打击计划，并于今日下令实施。目前尚不清楚打击行动将持续多久。",
-          "url": "https://flash.jin10.com/detail/20260708074240544800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "“霍尔木兹之火”再起？油价急涨再压金价",
-          "url": "https://flash.jin10.com/detail/20260708120640968800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "美特朗普再次扰乱市场！美伊停火协议已经终结？黄金应声暴跌！金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260708201007546800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "现货黄金跌破4050美元/盎司，日内下跌1.47%。",
-          "url": "https://wallstreetcn.com/livenews/3130585",
+          "title": "LME期铜收跌200美元，报13166美元/吨。 LME期铝收跌6美元，报3132美元/吨。 LME期锌收跌53美元，报3519美元/吨。 LME期铅收涨7美元，报1892美元/吨。 LME期镍收跌10美元，报16338美元/吨。 LME期锡收跌1255美元，报52095美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3130830",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 15时29分]"
-        },
-        {
-          "title": "亚马逊发行250亿美元债券，获得620亿美元认购需求。",
-          "url": "https://wallstreetcn.com/livenews/3130135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2420785",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "特朗普发布“美军打击伊朗”视频",
-          "url": "https://wallstreetcn.com/livenews/3130364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "据知情人士透露，贝佐斯旗下蓝色起源（Blue Origin）寻求按1300亿美元估值实施首次额外融资，计划募集100亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3130785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "中东战火再燃，美股低开，存储股延续跌势，阿里涨9%，油价大涨5%，金银走低",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "特朗普撕掉备忘录，油价又要变天了？",
-          "url": "https://flash.jin10.com/detail/20260708200613108800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "特朗普称将取消对土耳其制裁",
-          "url": "https://wallstreetcn.com/livenews/3130089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "周二（7月7日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8035元，较周一纽约尾盘跌93点，日内整体交投于6.7892-6.8050元区间。",
-          "url": "https://wallstreetcn.com/livenews/3130177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 07时01分]"
-        },
-        {
-          "title": "现货黄金跌约1.5%，白银跌超3%",
-          "url": "https://wallstreetcn.com/livenews/3130176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 07时01分]"
-        },
-        {
-          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
-          "url": "https://www.cls.cn/detail/2419821",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 15时29分]"
-        },
-        {
-          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
-          "url": "https://www.cls.cn/detail/2420443",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 23时21分]"
-        },
-        {
-          "title": "一觉醒来黄金又跌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 15时29分]"
-        },
-        {
-          "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
-          "url": "https://www.cls.cn/detail/2420505",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 23时21分]"
-        },
-        {
-          "title": "美国队惨败，比利时首相：我不会刺激特朗普",
-          "url": "https://news.ifeng.com/c/8uanN9kF7R0",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 23时21分]"
-        },
-        {
-          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
-          "url": "https://wallstreetcn.com/livenews/3130197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时08分]"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 23时21分]"
-        },
-        {
-          "title": "41家机构参与，香港黄金中央清算系统试运营",
-          "url": "https://wallstreetcn.com/livenews/3130196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时08分]"
-        },
-        {
-          "title": "特朗普一通电话毁了美国队",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "特朗普要求切断与西班牙贸易往来",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E5%88%87%E6%96%AD%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B4%B8%E6%98%93%E5%BE%80%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "现货黄金震荡下行，失守4050美元/盎司，日内跌幅1.39%。",
-          "url": "https://flash.jin10.com/detail/20260708174341379800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "Stellantis将在美国以13,995美元起售菲亚特Topolino微型电动车",
-          "url": "https://wallstreetcn.com/livenews/3130225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "消息人士称，特朗普在北约领导人峰会期间未再重复对西班牙的批评，未再重复终止与伊朗临时协议的说法，未提及格陵兰。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3130675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://www.toutiao.com/trending/7660070986934390335/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
-          "url": "https://flash.jin10.com/detail/20260708044045752800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.285吨，当前持仓量为1002.508吨。",
-          "url": "https://flash.jin10.com/detail/20260708062410319800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "苹果斥资300亿美元采购美产博通芯片，给白宫递上“投名状”",
-          "url": "https://flash.jin10.com/detail/20260708200156548800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "埃克森美孚：与第一季度相比，液体价格变动预计将使第二季度上游业务业绩增加35亿至39亿美元。 根据美国证券交易委员会（SEC）文件，与第一季度相比，天然气价格变动预计将使第二季度上游业务业绩减少2亿美元至增加2亿美元。 与第一季度相比，利润率变动预计将使第二季度化工品业务盈利减少10亿至12亿美元。 与第一季度相比，利润率变动预计将使第二季度能源产品业务盈利减少20亿至24亿美元。 预计受中东事件影响，第二季度产量中断将导致上游业务减少6亿至8亿美元，能源产品业务减少2亿至4亿美元。 与第一季度相比，利润率变动预计将使第二季度特种产品业务盈利减少3亿至5亿美元。 预计第二季度中东其他事件对上游业务的影响在减少1亿美元至增加1亿美元之间。 预计第二季度中东其他事件对能源产品业务的影响在减少1亿至3亿美元之间。",
-          "url": "https://wallstreetcn.com/livenews/3130170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
-          "url": "https://wallstreetcn.com/articles/3776446",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2058225620715418670",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于本周四公开发布。",
-          "url": "https://flash.jin10.com/detail/20260708120128059800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "据纽约时报：贝索斯将向蓝色起源本轮融资注资20亿美元。",
-          "url": "https://flash.jin10.com/detail/20260708200144460800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "特朗普：对北约在美对伊军事行动中表现感到“失望”",
-          "url": "https://wallstreetcn.com/livenews/3130086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普称空袭伊朗导致的油价上涨可以接受",
-          "url": "https://wallstreetcn.com/livenews/3130780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "中东战火再燃，美股期指跌超1%，韩股入熊，油价大涨6%，金银跳水",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "特朗普：“今夜可能再打伊朗”，可能会恢复对伊朗的海上封锁；伊朗：将对冒险行为做出“立即回应”",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 7月7日（周二）晚盘收盘上涨0.24%报905.0元/克；<br/>上海黄金交易所白银T+D 7月7日（周二）晚盘收盘下跌0.09%报14850.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260708023206477800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "01时28分"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
           "url": "https://www.cls.cn/detail/2420856",
           "source": "财联社热门",
           "ranks": [
-            10
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时28分"
         },
         {
-          "title": "上海黄金交易所黄金T+D 7月8日（周三）晚盘盘初下跌0.25%报900.6元/克；<br/>上海黄金交易所白银T+D 7月8日（周三）晚盘盘初下跌2.4%报14400.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260708200051444800",
+          "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
+          "url": "https://www.cls.cn/detail/2420505",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "OpenAI：今天开始向全球ChatGPT用户推出两个版本的GPT-Live。GPT-Live-1和GPT-Live-1 Mini。",
+          "url": "https://flash.jin10.com/detail/20260709010344704800",
           "source": "金十数据",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "01时28分"
         },
         {
-          "title": "新兴市场ETF收跌超2.7%，与纳指ETF领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3130167",
+          "title": "美国总统特朗普：我们现在石油过剩，油价将下跌。 石油（供应）将变得非常充裕，获取非常容易，且见效极快。",
+          "url": "https://wallstreetcn.com/livenews/3130828",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "01时28分"
         },
         {
-          "title": "布伦特原油突破79美元/桶，报79.03美元/桶，日内涨约6.5%。",
-          "url": "https://wallstreetcn.com/livenews/3130568",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
+          "url": "https://www.cls.cn/detail/2420443",
+          "source": "财联社热门",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "01时28分"
         },
         {
-          "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF，标普能源板块涨3%",
-          "url": "https://wallstreetcn.com/livenews/3130166",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
+          "url": "https://news.ifeng.com/c/8ub1oqRPQxp",
+          "source": "凤凰网",
           "ranks": [
-            11
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "01时28分"
         },
         {
-          "title": "美国总统特朗普被问及在伊朗部署地面部队，称：我为啥要那样做呢？ 除了美国，没有人能够获得伊朗的浓缩铀。",
-          "url": "https://wallstreetcn.com/livenews/3130777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E2%80%9C%E4%BB%8A%E5%A4%9C%E5%8F%AF%E8%83%BD%E5%86%8D%E6%89%93%E4%BC%8A%E6%9C%97%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "金十图示：2026年07月08日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260708115743013800",
+          "title": "OpenAI：推出GPT-LIVE。",
+          "url": "https://flash.jin10.com/detail/20260709010325337800",
           "source": "金十数据",
           "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "01时28分"
         },
         {
-          "title": "特朗普：打击伊朗小幅推高油价 涨幅将限于2美元",
-          "url": "https://flash.jin10.com/detail/20260708225102945800",
-          "source": "金十数据",
+          "title": "特朗普：“今夜可能再打伊朗”，可能会恢复对伊朗的海上封锁；伊朗：将对冒险行为做出“立即回应”",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E2%80%9C%E5%B7%B2%E7%BB%88%E7%BB%93%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "01时28分"
+        },
+        {
+          "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2058225620715418670",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "特朗普：不认为会再次爆发伊朗战争",
+          "url": "https://wallstreetcn.com/livenews/3130824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
+          "url": "https://wallstreetcn.com/articles/3776446",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
           "url": "https://www.cls.cn/detail/2420472",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "据华尔街日报：美国农业部将沃尔玛(WMT.N)的降价计划告知白宫。特朗普周一发文称这是政府施压取得的成果。几分钟后，沃尔玛发布新闻稿称，将下调数千种商品价格，以帮助消费者。",
-          "url": "https://flash.jin10.com/detail/20260708072520020800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "01时28分"
         },
         {
-          "title": "据纽约时报：蓝色起源以1300亿美元估值融资100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260708200018641800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "WTI原油日内涨幅达3.0%，报70.61美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3130124",
+          "title": "伦敦发力，意图扩大在1400亿美元保险挂钩证券市场的影响力",
+          "url": "https://wallstreetcn.com/livenews/3130821",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "01时28分"
         },
         {
-          "title": "英镑兑美元下跌0.2%至1.3328，触及7月2日以来低点。",
-          "url": "https://wallstreetcn.com/livenews/3130563",
-          "source": "华尔街见闻-快讯",
+          "title": "美国队惨败，比利时首相：我不会刺激特朗普",
+          "url": "https://news.ifeng.com/c/8uanN9kF7R0",
+          "source": "凤凰网",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "01时28分"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
           "url": "https://www.zhihu.com/question/2058166406420460573",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "现货黄金盘初回落至4100美元/盎司下方，日内跌0.28%。",
-          "url": "https://flash.jin10.com/detail/20260708060115322800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "01时28分"
         },
         {
-          "title": "特朗普发布“美军打击伊朗”视频",
-          "url": "https://flash.jin10.com/detail/20260708115548998800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "港交所文件显示：贝莱德对山东黄金(01787.HK)的持仓比例于7月7日从5.38%增至6.49%。",
-          "url": "https://flash.jin10.com/detail/20260708173920165800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
-          "url": "https://wallstreetcn.com/livenews/3130079",
+          "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
+          "url": "https://wallstreetcn.com/livenews/3130817",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "周二（7月7日），美联储隔夜逆回购协议（RRP）使用规模为44.84亿美元（交易对手14家），上个交易日报27.19亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3130120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "商务部指导广西药品流通企业全力开展医药防汛保供",
-          "url": "https://wallstreetcn.com/livenews/3130351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "01时28分"
         },
         {
           "title": "FBI追查阿根廷足协3亿美元大案",
@@ -985,537 +256,64 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "01时28分"
         },
         {
-          "title": "美国7月EIA当年布伦特原油均价预期 81.91美元/桶，前值95.39美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260708000253291800",
+          "title": "特朗普：石油供应过剩，油价将会下跌",
+          "url": "https://flash.jin10.com/detail/20260709005643664800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时28分"
         },
         {
-          "title": "现货黄金向下触及4040美元/盎司，日内跌1.65%。纽约期金向下触及4050美元/盎司，日内跌2.59%。",
-          "url": "https://flash.jin10.com/detail/20260708224537334800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
-          "url": "https://wallstreetcn.com/livenews/3130160",
+          "title": "美国总统特朗普：将关注能否维持油价下跌。",
+          "url": "https://wallstreetcn.com/livenews/3130816",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "01时28分"
         },
         {
-          "title": "在特朗普发表言论后，交易员预计欧洲央行今年将进一步收紧货币政策36个基点，高于周二的25个基点。",
-          "url": "https://wallstreetcn.com/livenews/3130560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美国7月EIA当年WTI原油均价预期 76.26美元/桶，前值88.32美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260708000243314800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "知情人士：特朗普在安卡拉峰会期间告诉北约盟友，他希望美国留在北约中。",
-          "url": "https://flash.jin10.com/detail/20260708195640233800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "恒天然：7月7日全球乳品贸易（GDT）拍卖价格指数下降4.9%，奶粉各合同期FAS拍卖均价3,793美元/吨。 批发奶粉价格指数下降4.4%，报3,425美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3130077",
+          "title": "美国总统特朗普赞赏北约秘书长吕特。",
+          "url": "https://wallstreetcn.com/livenews/3130815",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
-          "url": "https://wallstreetcn.com/livenews/3130159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "01时28分"
         },
         {
           "title": "特朗普要求切断美国与西班牙贸易往来",
           "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "老凤祥周生生周大福金价集体下调",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%87%A4%E7%A5%A5%E5%91%A8%E7%94%9F%E7%94%9F%E5%91%A8%E5%A4%A7%E7%A6%8F%E9%87%91%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B0%83%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "美股三大股指期货周三小幅低开。",
-          "url": "https://flash.jin10.com/detail/20260708060036398800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "法院记录显示，美国俄勒冈州正寻求获取有关派拉蒙游说特朗普政府支持该并购交易的相关文件。",
-          "url": "https://flash.jin10.com/detail/20260708071441781800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "美伊停火协议裂痕扩大 特朗普难以收场",
-          "url": "https://flash.jin10.com/detail/20260708150256432800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "美国总统特朗普：除了美国，无人能获取伊朗的铀。",
-          "url": "https://flash.jin10.com/detail/20260708224219115800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "美国（国会山）民主党成员们发函Kalshi、Polymarket、以及特朗普媒体。",
-          "url": "https://wallstreetcn.com/livenews/3130076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普认为美伊谅解备忘录已终结",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E4%B8%BA%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E5%B7%B2%E7%BB%88%E7%BB%93%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "01时28分"
         },
         {
-          "title": "美国总统特朗普：（被问及向伊朗派遣地面部队一事时）我为什么要那样做？不过我们已确定伊朗核材料埋藏于山下的具体位置，并拥有将其提取出来的设备。",
-          "url": "https://flash.jin10.com/detail/20260708224203383800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "Peabody股价快速转涨，该公司在稀土、关键矿物问题上获得美国能源部拨款，意味着其位于怀俄明州Powder River盆地的项目获得特朗普政府的支持。",
-          "url": "https://wallstreetcn.com/livenews/3130075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：没有人像我一样帮助以色列。",
-          "url": "https://flash.jin10.com/detail/20260708224118171800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "Prosus于6月29日-7月3日按均价37.9771欧元回购股票221.8033万股，合计超过0.842亿欧元（折合超0.962亿美元）。 Naspers同期按均价821.0825南非兰特回购89.8420万股，合计约7.377亿兰特（折合0.451亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3130074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "LME期铜收跌38美元，报13366美元/吨。 LME期铝收涨22美元，报3138美元/吨。 LME期锌收跌19美元，报3572美元/吨。 LME期铅收涨4美元，报1884美元/吨。 LME期镍收跌74美元，报16348美元/吨。 LME期锡收涨286美元，报53350美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3130111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美国总统特朗普“赞赏”叙利亚总统。 特朗普认为，自己将把叙利亚移出“恐怖主义制裁清单”。 特朗普称，叙利亚可能会帮助（黎巴嫩）真主党，美国和以色列会发现证据。 特朗普宣称，以色列内塔尼亚胡是一位“伟大的战时总理”。",
-          "url": "https://wallstreetcn.com/livenews/3130768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://www.douyin.com/hot/2563445",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美国总统特朗普：埃尔多安和内塔尼亚胡无法达成共识。",
-          "url": "https://flash.jin10.com/detail/20260708224113953800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.61%，暂报2240.35点。 MarketVectorTM数字资产100中盘指数跌0.61%，报2611.74点。 MarketVector数字资产100指数涨0.40%，报12789.36点。 目前，Solana涨0.31%，狗狗币跌1.96%，XRP跌1.45%。 比特币涨0.40%，暂报64014美元；以太坊涨0.56%，暂报1804.34美元。",
-          "url": "https://wallstreetcn.com/livenews/3130110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普政府解除对OpenAI的GPT 5.6的限制，美国商务部已批准OpenAI广泛推出其先进的GPT 5.6模型。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3130342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "美股三大指数集体收跌 英特尔跌超9%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B7%8C%E8%B6%859%25",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "美国总统特朗普：黎巴嫩和以色列在努力签署协议一事中做的“棒极了”。",
-          "url": "https://flash.jin10.com/detail/20260708223955156800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "周二（7月7日）纽约尾盘，ICE美元指数涨0.20%，报101.056点，日内交投区间为100.803-101.126点，北京时间02:49出现一波加速上涨行情。 彭博美元指数涨0.17%，报1220.95点，日内交投区间为1218.04-1221.68点。 美元兑日元跌0.01%，报162.08日元，日内交投区间为161.67-162.18日元。 欧元兑日元跌0.24%，报185.01日元；英镑兑日元跌0.24%，报216.523日元。",
-          "url": "https://wallstreetcn.com/livenews/3130150",
+          "title": "淡马锡投资组合价值突破4000亿美元，对AI的押注提升回报率",
+          "url": "https://wallstreetcn.com/livenews/3130810",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "特朗普说中国威胁论纯属危言耸听",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E7%BA%AF%E5%B1%9E%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "特朗普频频“放狠话”，但行动上未必跟进",
-          "url": "https://flash.jin10.com/detail/20260708195125693800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "美债收益率普遍涨超6个基点，投资者紧盯波斯湾局势对油价的影响",
-          "url": "https://wallstreetcn.com/livenews/3130149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：美国中央司令部正在打击特朗普四个月前声称已经摧毁的目标，因此他们当中有一方在撒谎。",
-          "url": "https://flash.jin10.com/detail/20260708070319563800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "知情人士：特朗普峰会期间未再提及终止伊朗协议",
-          "url": "https://flash.jin10.com/detail/20260708195059294800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "gemini为了偷懒不择手段",
-          "url": "https://s.weibo.com/weibo?q=gemini%E4%B8%BA%E4%BA%86%E5%81%B7%E6%87%92%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "特朗普搅动中东与北约，欧洲两线承压",
-          "url": "https://flash.jin10.com/detail/20260708173307658800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
-          "url": "https://wallstreetcn.com/livenews/3130107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "智谱配售约40亿美元的H股",
-          "url": "https://wallstreetcn.com/livenews/3130647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "布伦特原油日内涨幅扩大至5%，现报79.60美元/桶。WTI原油现涨4.75%。伊媒报道称，伊朗若遭遇任何新的攻击，将关闭霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260708223728177800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "韩国5月未季调经常帐 386.1亿美元，前值由282.923亿美元修正为282.9亿美元。",
-          "url": "https://flash.jin10.com/detail/20260708070002227800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
-          "url": "https://wallstreetcn.com/livenews/3130112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "英国政府：英国将主导一项欧洲倡议，以增加对深度精确打击能力的资金支持。新倡议下，盟国将在未来10年内投资500亿美元，开发深度精确打击能力。",
-          "url": "https://flash.jin10.com/detail/20260708053432751800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "据CNBC：奈飞(NFLX.O)、迪士尼(DIS.N)和YouTube有意竞购世界杯美国转播权，相关版权套餐价值可能高达20亿美元。预计国际足联与潜在媒体合作伙伴的谈判将在未来三个月内启动。",
-          "url": "https://flash.jin10.com/detail/20260708053128848800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "挂单报告：国际现货黄金下方多单密集 美日上方空单密集区较远",
-          "url": "https://flash.jin10.com/detail/20260708145606153800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3130102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普发表讲话后，日经指数期货跌幅扩大至1.3%。 法国CAC指数跌幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3130541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "特朗普称与梅洛尼关系“变糟”：她人不错但犯了个错误，她拒绝在伊朗问题上帮助美国",
-          "url": "https://wallstreetcn.com/livenews/3130330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "美股费城半导体指数跌幅扩大至7%，英特尔跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3130061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时28分"
         }
       ]
     }
