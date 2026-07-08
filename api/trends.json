@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T08:08:31.969243+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-07-08T12:14:54.515023+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 61,
+      "match_count": 74,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -16,8 +16,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 08时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 12时14分]"
+        },
+        {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -29,20 +44,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 07时01分]"
-        },
-        {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 08时08分]"
         },
         {
           "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
@@ -71,6 +72,19 @@
           "time_info": "[00时31分 ~ 08时08分]"
         },
         {
+          "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
+          "url": "https://news.ifeng.com/c/8uZavoCll5c",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 12时14分]"
+        },
+        {
           "title": "特朗普：对北约非常失望",
           "url": "https://news.ifeng.com/c/8uZl0nkCE3Q",
           "source": "凤凰网",
@@ -82,19 +96,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时01分 ~ 08时08分]"
-        },
-        {
-          "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
-          "url": "https://news.ifeng.com/c/8uZavoCll5c",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 08时08分]"
         },
         {
           "title": "美股",
@@ -125,6 +126,18 @@
           "time_info": "[00时31分 ~ 08时08分]"
         },
         {
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 12时14分]"
+        },
+        {
           "title": "消息人士：由于需求疲软，俄罗斯乌拉尔原油在印度市场相对布伦特原油的贴水已扩大至每桶10美元以上。",
           "url": "https://flash.jin10.com/detail/20260708001158025800",
           "source": "金十数据",
@@ -134,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "谷歌发布会定档8月12日，将发布Pixel 11系列手机",
+          "url": "https://flash.jin10.com/detail/20260708120738647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期",
@@ -164,9 +188,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
+          "url": "https://wallstreetcn.com/livenews/3130368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "跌个不停！美股半导体连跌第四天",
@@ -197,20 +232,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
         {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
-          "source": "财联社热门",
+          "title": "“霍尔木兹之火”再起？油价急涨再压金价",
+          "url": "https://flash.jin10.com/detail/20260708120640968800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "12时14分"
         },
         {
           "title": "亚马逊发行250亿美元债券，获得620亿美元认购需求。",
@@ -222,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普发布“美军打击伊朗”视频",
+          "url": "https://wallstreetcn.com/livenews/3130364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "特朗普称将取消对土耳其制裁",
@@ -257,6 +303,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 07时01分]"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 12时14分]"
         },
         {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
@@ -300,7 +358,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -338,6 +396,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于本周四公开发布。",
+          "url": "https://flash.jin10.com/detail/20260708120128059800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "特朗普：对北约在美对伊军事行动中表现感到“失望”",
           "url": "https://wallstreetcn.com/livenews/3130086",
           "source": "华尔街见闻-快讯",
@@ -349,15 +418,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "12时14分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月7日（周二）晚盘收盘上涨0.24%报905.0元/克；<br/>上海黄金交易所白银T+D 7月7日（周二）晚盘收盘下跌0.09%报14850.0元/千克。",
@@ -393,13 +462,24 @@
           "time_info": "05时24分"
         },
         {
+          "title": "金十图示：2026年07月08日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260708115743013800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "据华尔街日报：美国农业部将沃尔玛(WMT.N)的降价计划告知白宫。特朗普周一发文称这是政府施压取得的成果。几分钟后，沃尔玛发布新闻稿称，将下调数千种商品价格，以帮助消费者。",
           "url": "https://flash.jin10.com/detail/20260708072520020800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -426,6 +506,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "特朗普发布“美军打击伊朗”视频",
+          "url": "https://flash.jin10.com/detail/20260708115548998800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
           "url": "https://wallstreetcn.com/livenews/3130079",
           "source": "华尔街见闻-快讯",
@@ -446,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "商务部指导广西药品流通企业全力开展医药防汛保供",
+          "url": "https://wallstreetcn.com/livenews/3130351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "美国7月EIA当年布伦特原油均价预期 81.91美元/桶，前值95.39美元/桶。",
@@ -520,7 +622,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -580,13 +682,24 @@
           "time_info": "03时02分"
         },
         {
+          "title": "特朗普政府解除对OpenAI的GPT 5.6的限制，美国商务部已批准OpenAI广泛推出其先进的GPT 5.6模型。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3130342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "美股三大指数集体收跌 英特尔跌超9%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B7%8C%E8%B6%859%25",
           "source": "百度热搜",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -600,6 +713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普说中国威胁论纯属危言耸听",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E7%BA%AF%E5%B1%9E%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "美债收益率普遍涨超6个基点，投资者紧盯波斯湾局势对油价的影响",
@@ -619,7 +743,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -641,7 +765,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -688,6 +812,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普称与梅洛尼关系“变糟”：她人不错但犯了个错误，她拒绝在伊朗问题上帮助美国",
+          "url": "https://wallstreetcn.com/livenews/3130330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "一觉醒来黄金又跌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至7%，英特尔跌超10%。",
