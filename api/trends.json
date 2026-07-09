@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T14:45:08.666498+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-07-09T18:25:01.176155+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 105,
+      "match_count": 114,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -32,6 +32,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 10时53分]"
+        },
+        {
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时07分 ~ 18时25分]"
         },
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -84,6 +97,33 @@
           "time_info": "[01时28分 ~ 14时45分]"
         },
         {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时23分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普要求切断美国与西班牙贸易往来",
           "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
           "source": "澎湃新闻",
@@ -92,29 +132,18 @@
             19,
             20,
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 14时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时28分 ~ 18时25分]"
         },
         {
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
           "url": "https://www.cls.cn/detail/2421032",
           "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时07分 ~ 14时45分]"
-        },
-        {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
             2
           ],
           "is_new": false,
@@ -134,17 +163,6 @@
           "time_info": "[01时28分 ~ 07时07分]"
         },
         {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时45分]"
-        },
-        {
           "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
           "url": "https://www.cls.cn/detail/2421042",
           "source": "财联社热门",
@@ -154,20 +172,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时53分 ~ 14时45分]"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时23分 ~ 14时45分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -185,11 +189,12 @@
           "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 18时25分]"
         },
         {
           "title": "SemiAnalysis：Anthropic三季度利润将突破10亿美元",
@@ -256,7 +261,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -278,7 +283,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -379,7 +384,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -501,6 +506,17 @@
           "time_info": "[10时53分 ~ 14时45分]"
         },
         {
+          "title": "投资100亿美元！Meta拟建其美国以外最大数据中心 “算力过剩”又被证伪了？",
+          "url": "https://www.cls.cn/detail/2421144",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普：不认为会再次爆发伊朗战争",
           "url": "https://wallstreetcn.com/livenews/3130824",
           "source": "华尔街见闻-快讯",
@@ -513,6 +529,28 @@
           "time_info": "[01时28分 ~ 03时24分]"
         },
         {
+          "title": "万亿美元市值蒸发后，英伟达成\"价值洼地\"，市盈率比标普500还低",
+          "url": "https://wallstreetcn.com/articles/3776480",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
+          "title": "霉霉婚礼一袋空气被卖5万美元",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E4%B8%80%E8%A2%8B%E7%A9%BA%E6%B0%94%E8%A2%AB%E5%8D%965%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普突然换飞机",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E6%8D%A2%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -522,6 +560,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "RedVelvet海报疑似Gemini生成",
@@ -574,7 +623,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -656,6 +705,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "百事公司第二季度核心每股收益2.20美元，上年同期2.12美元，市场预估2.19美元。 第二季度每股收益2.18美元，上年同期0.92美元。 第二季度营业利润40.2亿美元，市场预估40.6亿美元。 第二季度净营收241.8亿美元，同比增长6.4%，市场预估239.5亿美元。 仍然预测全年内生性收入增长2％至4％，市场预估增长2.76％。",
+          "url": "https://wallstreetcn.com/livenews/3131281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶78.02美元，上涨3.86美元，涨幅5.2%。",
           "url": "https://flash.jin10.com/detail/20260709025432972800",
           "source": "金十数据",
@@ -728,7 +788,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -827,7 +887,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -970,9 +1030,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "福建泉州晋江市一鞋厂火灾致伤亡，应急管理部已派出联合工作组赶赴现场指导",
+          "url": "https://wallstreetcn.com/livenews/3131257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国原油期货结算价为每桶73.52美元，上涨3.08美元，涨幅4.37%。",
@@ -1063,13 +1134,24 @@
           "time_info": "07时07分"
         },
         {
+          "title": "紫金黄金国际：预计2026年上半年母公司拥有人应占溢利约14亿美元，同比增加约169%",
+          "url": "https://wallstreetcn.com/livenews/3131254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "纪要偏鹰叠加油价急涨，金价能否抗住重压？",
           "url": "https://flash.jin10.com/detail/20260709140817393800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -1094,6 +1176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "土耳其家电厂商Vestel据称已开始着手进行美元债券重组工作。",
+          "url": "https://wallstreetcn.com/livenews/3131250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美国总统特朗普抵达英国。",
@@ -1157,9 +1250,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "花旗：将奈飞(NFLX.O)目标价从115美元下调至100美元。",
+          "url": "https://flash.jin10.com/detail/20260709175314819800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "伊拉克同意，停止向支持伊朗的那些武装人员提供美元资金。（华尔街日报）",
