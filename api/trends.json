@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T19:51:47.429392+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-07-10T22:24:21.384756+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 102,
+      "match_count": 127,
       "titles": [
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 19时51分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 22时24分]"
         },
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -56,16 +56,30 @@
           "time_info": "[08时04分 ~ 16时23分]"
         },
         {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 22时24分]"
+        },
+        {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
           "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
           "ranks": [
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 22时24分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
@@ -85,22 +99,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
         {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
+          "title": "白宫官员：特朗普将允许住房法案成为法律。",
+          "url": "https://flash.jin10.com/detail/20260710215324506800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            6,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 19时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "谷歌(GOOG.O)：向所有谷歌云客户推出AlphaEvolve人工智能代码优化代理。",
@@ -114,6 +126,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "SK海力士美国存托凭证预示开盘价或为180美元，发行价为149美元。",
+          "url": "https://flash.jin10.com/detail/20260710215204806800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "WTI 8月原油期货收跌1.44美元，跌幅1.96%，报72.08美元/桶。 中东Abu Dhabi Murban原油期货跌3.13%，报71.27美元/桶。 NYMEX 8月天然气期货收报3.0120美元/百万英热单位。 NYMEX 8月汽油期货收报3.0387美元/加仑，NYMEX 8月取暖油期货收报3.5716美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3131511",
           "source": "华尔街见闻-快讯",
@@ -123,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 22时24分]"
         },
         {
           "title": "金十图示：2026年07月10日（周五）上海黄金交易所市场行情",
@@ -187,7 +221,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -224,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "Meta涨7.3%，刷新日高至677.86美元，逼近4月17日顶部690.88美元。",
+          "url": "https://wallstreetcn.com/livenews/3132130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
@@ -292,17 +337,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时04分 ~ 16时23分]"
-        },
-        {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 19时51分]"
         },
         {
           "title": "美国至7月3日当周外国央行持有美国国债 -286.05亿美元，前值-110.64亿美元。",
@@ -493,6 +527,28 @@
           "time_info": "[12时51分 ~ 12时52分]"
         },
         {
+          "title": "静待SK海力士IPO，美股指开盘涨跌互现，存储股走低，Meta涨5%，布油企稳",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "特朗普政府被曝拒绝以色列介入局势，卡塔尔代表飞往伊朗斡旋",
+          "url": "https://flash.jin10.com/detail/20260710214522106800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "WTI原油日内跌幅达2.0%，报72.03美元/桶；布伦特原油日内跌幅达2.0%，报76.36美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3131467",
           "source": "华尔街见闻-快讯",
@@ -515,6 +571,28 @@
           "time_info": "16时23分"
         },
         {
+          "title": "白宫官员：美国总统特朗普将允许住房法案生效。",
+          "url": "https://wallstreetcn.com/livenews/3132129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
+          "url": "https://news.ifeng.com/c/8uec7dkVT5P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "OpenAI高管Fidji Simo将卸任",
           "url": "https://flash.jin10.com/detail/20260710070918440800",
           "source": "金十数据",
@@ -535,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国原油期货结算价为每桶72.08美元，下跌1.44美元，跌幅1.96%。",
@@ -581,6 +670,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "美国天然气期货日内跌幅达3.00%，现报2.921美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260710214203255800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "报道：高盛二季度股票交易业务营收将突破50亿美元，再创行业纪录",
           "url": "https://wallstreetcn.com/livenews/3131505",
           "source": "华尔街见闻-快讯",
@@ -603,13 +703,24 @@
           "time_info": "08时04分"
         },
         {
+          "title": "SK海力士美国存托凭证预示开盘价或为175美元，发行价为149美元。",
+          "url": "https://wallstreetcn.com/livenews/3132124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -636,6 +747,28 @@
           "time_info": "08时04分"
         },
         {
+          "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260710214134614800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "白宫官员：特朗普将允许住房法案成为法律。",
+          "url": "https://wallstreetcn.com/livenews/3132122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国总统特朗普：（谈及伊朗）我们已经赢了，尤其是在军事领域。",
           "url": "https://flash.jin10.com/detail/20260709234420605800",
           "source": "金十数据",
@@ -656,6 +789,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "SK海力士美国存托凭证预示开盘价或为180美元（涨幅约21%），发行价为149美元。",
+          "url": "https://wallstreetcn.com/livenews/3132121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
@@ -790,6 +945,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "美股开盘，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。美光科技(MU.O)跌3%，高通(QCOM.O)跌2%，闪迪(SNDK.O)跌4%，西部数据(WDC.O)跌1.9%，Meta Platforms(META.O)涨4.9%。",
+          "url": "https://flash.jin10.com/detail/20260710213029119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
           "url": "https://www.zhihu.com/question/2058849029027632241",
           "source": "知乎",
@@ -867,6 +1033,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "美股三大股指开盘涨跌不一，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。闪迪跌超4%，美光科技跌超3%；Meta涨4.9%；加密货币概念股Circle涨超11%，公司已获美国货币监理署（OCC）批准，可设立国家信托银行。沃达丰大涨12%，尼尔溢价收购阿联酋电信股权。",
+          "url": "https://wallstreetcn.com/livenews/3132112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 芯片股走强",
           "url": "https://flash.jin10.com/detail/20260710040126846800",
           "source": "金十数据",
@@ -876,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "现货黄金跌破4090美元/盎司，日内跌0.82%。纽约期金向下触及4100美元/盎司，日内跌0.79%。",
+          "url": "https://flash.jin10.com/detail/20260710212811599800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "条款显示：SK海力士美国IPO认购需求接近2000亿美元。 ADR发行获得超500个账户认购。（彭博）",
@@ -900,6 +1088,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "杰富瑞：将雪佛龙公司目标价从236美元下调至216美元。",
+          "url": "https://flash.jin10.com/detail/20260710212754606800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通话，商定保持两国政策协调",
           "url": "https://wallstreetcn.com/livenews/3131529",
           "source": "华尔街见闻-快讯",
@@ -920,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普：我不会签署住房法案。",
+          "url": "https://wallstreetcn.com/livenews/3132108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美元指数9日下跌",
@@ -994,7 +1204,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1054,6 +1264,17 @@
           "time_info": "12时52分"
         },
         {
+          "title": "特朗普：我不会签署住房法案",
+          "url": "https://flash.jin10.com/detail/20260710211741637800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "黄金41XX看涨减持百手或限制上行，突破此处将提振上行预期",
           "url": "https://flash.jin10.com/detail/20260710155246331800",
           "source": "金十数据",
@@ -1063,6 +1284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-10）",
+          "url": "https://flash.jin10.com/detail/20260710211707060800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "周四（7月9日）纽约尾盘，ICE美元指数跌0.07%，报100.916点，日内交投区间为101.039-100.786点。 彭博美元指数跌0.02%，报1220.05点，日内交投区间为1221.24-1218.64点。 美元兑日元跌0.13%，报162.39日元，日内交投区间为162.62-162.25日元。 欧元兑日元跌0.03%，报185.59日元；英镑兑日元涨0.03%，报217.737日元。",
@@ -1087,6 +1319,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3132101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "世界杯八强已锁定至少1900万美元奖金",
           "url": "https://www.toutiao.com/trending/7659818832618012713/",
           "source": "今日头条",
@@ -1098,6 +1341,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "英镑兑美元GBP/USD一年期隐含波动率降至6.9275%，为2020年2月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260710211012380800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.953万亿美元，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3131520",
           "source": "华尔街见闻-快讯",
@@ -1107,6 +1361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "黄金4105支撑告急？空头能否更进一步？多头依旧顽强抵抗？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260710211010533800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "LME期铜收涨324美元，报13490美元/吨。 LME期铝收涨68美元，报3200美元/吨。 LME期锌收涨108美元，报3626美元/吨。 LME期铅收平，报1892美元/吨。 LME期镍收涨249美元，报16587美元/吨。 LME期锡收涨1552美元，报53647美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -1126,7 +1391,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1151,6 +1416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "宏观对冲基金Deem从阿布扎比投资委员会（ADIC）筹集了10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3132096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     }
