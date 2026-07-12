@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T21:42:03.754463+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-07-12T22:56:14.029124+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -96,6 +96,17 @@
           "time_info": "[00时57分 ~ 19时59分]"
         },
         {
+          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
+          "url": "https://news.ifeng.com/c/8uheASr3DB8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时59分 ~ 22时56分]"
+        },
+        {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
           "source": "华尔街见闻",
@@ -105,6 +116,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 04时45分]"
+        },
+        {
+          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
+          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 22时56分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -131,15 +154,16 @@
           "time_info": "[05时48分 ~ 07时55分]"
         },
         {
-          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
-          "url": "https://news.ifeng.com/c/8uheASr3DB8",
-          "source": "凤凰网",
+          "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
+          "url": "https://wallstreetcn.com/livenews/3132432",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 21时42分]"
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时56分]"
         },
         {
           "title": "两党住房法案未经特朗普签署自动生效",
@@ -153,16 +177,17 @@
           "time_info": "[06时46分 ~ 07时55分]"
         },
         {
-          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
-          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
-          "source": "凤凰网",
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
+            9,
+            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时42分]"
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 22时56分]"
         },
         {
           "title": "曝光特朗普临时换专机，美媒吃传票了",
@@ -189,28 +214,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 05时48分]"
-        },
-        {
-          "title": "据NBC新闻：美国总统特朗普表示，霍尔木兹海峡是开放的。",
-          "url": "https://flash.jin10.com/detail/20260712211503582800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
-          "url": "https://wallstreetcn.com/livenews/3132432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
@@ -240,6 +243,21 @@
           "time_info": "[03时02分 ~ 07时55分]"
         },
         {
+          "title": "西部黄金：控股股东拟与新疆地矿投资（集团）有限责任公司整体合并",
+          "url": "https://wallstreetcn.com/livenews/3132403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            14,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 22时56分]"
+        },
+        {
           "title": "特朗普在北约峰会说了什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -267,31 +285,39 @@
           "time_info": "[04时45分 ~ 07时55分]"
         },
         {
-          "title": "西部黄金：控股股东拟与新疆地矿投资（集团）有限责任公司整体合并",
-          "url": "https://wallstreetcn.com/livenews/3132403",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：伊朗昨天已同意“完美协议”，但转头就开了火",
+          "url": "https://flash.jin10.com/detail/20260712220334979800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            8,
-            14,
-            23
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 21时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
+          "title": "据NBC新闻：美国总统特朗普表示，霍尔木兹海峡是开放的。",
+          "url": "https://flash.jin10.com/detail/20260712211503582800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时56分]"
+        },
+        {
+          "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
+          "url": "https://wallstreetcn.com/articles/3776726",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时42分]"
+          "time_info": "[21时41分 ~ 22时56分]"
         },
         {
           "title": "1个月上涨25%后，美国生物医药板块周五重挫",
@@ -306,27 +332,17 @@
           "time_info": "[10时38分 ~ 13时57分]"
         },
         {
-          "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
-          "url": "https://wallstreetcn.com/articles/3776726",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
-        },
-        {
           "title": "黄金投资者周报上新！",
           "url": "https://flash.jin10.com/detail/20260711213942594800",
           "source": "金十数据",
           "ranks": [
             26,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 21时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 22时56分]"
         },
         {
           "title": "BLG黄金之路中断",
@@ -340,6 +356,28 @@
           "time_info": "[21时41分 ~ 21时42分]"
         },
         {
+          "title": "金价震荡科技回调 资金寻找新均衡",
+          "url": "https://www.toutiao.com/trending/7661411388552085513/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
+        },
+        {
+          "title": "特朗普透露格雷厄姆去世前晚曾通话，当时“除了有点累一切正常”",
+          "url": "https://flash.jin10.com/detail/20260712214956192800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "西部黄金：控股股东拟与新疆地矿投资集团整体合并",
           "url": "https://flash.jin10.com/detail/20260712153808589800",
           "source": "金十数据",
@@ -349,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "特朗普：昨晚对伊朗实施猛烈打击",
+          "url": "https://flash.jin10.com/detail/20260712214512016800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-12）",
