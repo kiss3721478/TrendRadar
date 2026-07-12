@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T01:10:02.357112+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-13T03:04:40.296643+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时04分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -25,20 +25,43 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时04分]"
+        },
+        {
+          "title": "西班牙批准80亿美元住房计划 未来四年公共住房投资将提高三倍",
+          "url": "https://flash.jin10.com/detail/20260713025812018800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "03时04分"
+        },
+        {
+          "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
+          "url": "https://flash.jin10.com/detail/20260713021538403800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         },
         {
           "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
           "url": "https://wallstreetcn.com/articles/3776726",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时04分]"
         },
         {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
@@ -48,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时04分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -59,19 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
-        },
-        {
-          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
-          "url": "https://flash.jin10.com/detail/20260712224922649800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时04分]"
         },
         {
           "title": "西部黄金：控股股东拟与新疆地矿投资（集团）有限责任公司整体合并",
@@ -80,7 +92,18 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时04分]"
+        },
+        {
+          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
+          "url": "https://flash.jin10.com/detail/20260712224922649800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         }
