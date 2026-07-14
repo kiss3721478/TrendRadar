@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T13:29:49.733230+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-07-14T16:03:33.221293+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 110,
+      "match_count": 119,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 13时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 16时03分]"
         },
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -27,41 +27,6 @@
           "ranks": [
             5,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时54分]"
-        },
-        {
-          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时14分]"
-        },
-        {
-          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 13时29分]"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -77,8 +42,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时56分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[06时56分 ~ 16时03分]"
+        },
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时14分]"
         },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -88,8 +64,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 16时03分]"
+        },
+        {
+          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 16时03分]"
         },
         {
           "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
@@ -100,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 16时03分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -113,8 +102,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 16时03分]"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时54分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -270,9 +270,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，SK海力士涨约7%，闪迪涨约3%，希捷科技涨约2%，西部数据涨约2%，美光科技涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3133439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "WTI原油向上触及79美元/桶，日内涨1.60%。",
@@ -292,7 +303,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -306,6 +317,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 16时03分]"
         },
         {
           "title": "SK海力士ADR跌幅一度扩大至9.9%，刷新日低至151.30美元。",
@@ -342,6 +367,18 @@
           "time_info": "[07时54分 ~ 10时28分]"
         },
         {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 16时03分]"
+        },
+        {
           "title": "【美军连续第三晚空袭伊朗】当地时间7月13日，美国中央司令部表示，在美国总统特朗普指示下，美军于美国东部时间当天下午4时45分开始对伊朗发动连续第三晚空袭。美中央司令部称，行动将继续使伊朗武装力量付出沉重代价，并削弱其袭击霍尔木兹海峡无辜平民和商业航运的能力。（央视）",
           "url": "https://wallstreetcn.com/livenews/3133102",
           "source": "华尔街见闻-快讯",
@@ -352,19 +389,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时57分]"
-        },
-        {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 13时29分]"
         },
         {
           "title": "特朗普称仍可能与伊朗达成协议",
@@ -439,6 +463,18 @@
           "time_info": "[06时56分 ~ 07时54分]"
         },
         {
+          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
+          "url": "https://www.zhihu.com/question/2060208521594017084",
+          "source": "知乎",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 16时03分]"
+        },
+        {
           "title": "WTI原油日内涨幅达9.0%，报77.86美元/桶。 布伦特原油日内涨幅达9.0%，报82.92美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3133038",
           "source": "华尔街见闻-快讯",
@@ -461,6 +497,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时54分]"
+        },
+        {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 16时03分]"
         },
         {
           "title": "白宫：特朗普签署一项公告，涉及对某些固定污染源给予监管救济。",
@@ -533,6 +581,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时54分]"
+        },
+        {
+          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
+          "url": "https://www.cls.cn/detail/2425302",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 16时03分]"
         },
         {
           "title": "周一（7月13日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7851元，较上周五纽约尾盘跌31点，日内整体交投于6.7780-6.7896元区间。",
@@ -639,6 +699,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "美国6月政府预算 -1200亿美元，预期-1283亿美元，前值-2926.48亿美元。",
           "url": "https://flash.jin10.com/detail/20260714020002307800",
           "source": "金十数据",
@@ -656,7 +727,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -670,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "韩股深V反弹，一度跌超5%后转涨，中东局势持续升温、原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "沪指翻红，指数重回3900点上方；深证成指涨幅扩大至0.71%，创业板指涨1.2%；转基因、PCB、医药电商概念股涨幅居前。",
@@ -705,15 +787,15 @@
           "time_info": "10时28分"
         },
         {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时29分"
+          "time_info": "16时03分"
         },
         {
           "title": "特朗普通知国会伊朗战事重新爆发",
@@ -738,35 +820,13 @@
           "time_info": "06时57分"
         },
         {
-          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
-          "url": "https://www.cls.cn/detail/2425302",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
           "title": "A股创新药概念股异动拉升，迪哲医药20cm涨停，甘李药业、艾迪药业、贝达药业、欧林生物涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3133334",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -854,7 +914,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -887,9 +947,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月14日（周二）收盘下跌0.97%报879.6元/克；<br/>上海黄金交易所白银T+D 7月14日（周二）收盘下跌0.25%报14180.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260714153708163800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "纽约银日内跌幅达4.0%，报57.74美元/盎司。",
@@ -936,17 +1007,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
-          "url": "https://www.zhihu.com/question/2060208521594017084",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
           "title": "特朗普将于周五早上9点发表全国讲话",
           "url": "https://flash.jin10.com/detail/20260714024650282800",
           "source": "金十数据",
@@ -989,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "高盛：盈利增长仍是美股驱动力，但美联储加息将从三方面造成影响",
@@ -1112,6 +1183,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "英伟达合作伙伴GMI Cloud寻求6.35亿美元贷款 由GPU使用合同提供支持",
+          "url": "https://wallstreetcn.com/livenews/3133407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "美国原油期货结算价为每桶78.14美元，上涨6.73美元，涨幅9.42%。",
           "url": "https://flash.jin10.com/detail/20260714023113680800",
           "source": "金十数据",
@@ -1143,6 +1225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "布伦特原油日内涨3.00%，现报85.31美元/桶。WTI原油日内涨3.00%，现报80.14美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260714153330484800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "布伦特原油日内涨幅达10.0%，特朗普在美股收盘后称美国今晚和明天将“重击”伊朗。",
@@ -1200,6 +1293,17 @@
           "time_info": "05时56分"
         },
         {
+          "title": "韩元上涨 报道称SK海力士在当地汇市抛售美元",
+          "url": "https://wallstreetcn.com/livenews/3133404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "周一（7月13日），美联储隔夜逆回购协议（RRP）使用规模为7.95亿美元（交易对手2家），上个交易日报5.45亿美元。",
           "url": "https://wallstreetcn.com/livenews/3133021",
           "source": "华尔街见闻-快讯",
@@ -1239,7 +1343,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
