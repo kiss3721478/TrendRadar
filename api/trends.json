@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T13:32:11.544659+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-07-15T16:07:56.058002+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 102,
+      "match_count": 112,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时11分 ~ 13时32分]"
+          "appearance_count": 10,
+          "time_info": "[04时11分 ~ 16时07分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -45,6 +45,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时57分 ~ 13时32分]"
+        },
+        {
+          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时11分 ~ 16时07分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时56分 ~ 16时07分]"
         },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -83,17 +111,15 @@
           "time_info": "[05时56分 ~ 06时58分]"
         },
         {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
-          "source": "澎湃新闻",
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            15,
-            17
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时11分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 16时07分]"
         },
         {
           "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
@@ -108,20 +134,6 @@
           "time_info": "[07时54分 ~ 13时32分]"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时56分 ~ 13时32分]"
-        },
-        {
           "title": "如何看特朗普在霍尔木兹收费",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
           "source": "bilibili 热搜",
@@ -134,17 +146,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 07时54分]"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时22分 ~ 13时32分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -199,6 +200,33 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时02分 ~ 07时54分]"
+        },
+        {
+          "title": "不到24小时，特朗普态度大转弯",
+          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 16时07分]"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时57分 ~ 16时07分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，海力士ADR飙升27%，IBM暴跌25%，油金齐涨",
@@ -269,31 +297,6 @@
           "time_info": "[02时02分 ~ 06时58分]"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时57分 ~ 13时32分]"
-        },
-        {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时22分 ~ 13时32分]"
-        },
-        {
           "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
           "url": "https://flash.jin10.com/detail/20260715070627062800",
           "source": "金十数据",
@@ -349,6 +352,19 @@
           "time_info": "04时11分"
         },
         {
+          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
+          "url": "https://www.cls.cn/detail/2426616",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 16时07分]"
+        },
+        {
           "title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。",
           "url": "https://flash.jin10.com/detail/20260715064945051800",
           "source": "金十数据",
@@ -398,28 +414,29 @@
           "time_info": "[07时54分 ~ 13时32分]"
         },
         {
-          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
-          "url": "https://www.cls.cn/detail/2426616",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时22分 ~ 13时32分]"
-        },
-        {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
           "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 16时07分]"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时22分 ~ 13时32分]"
+          "time_info": "[13时31分 ~ 16时07分]"
         },
         {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
@@ -553,17 +570,6 @@
           "time_info": "[00时14分 ~ 02时02分]"
         },
         {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
           "title": "美国总统特朗普：美国敦促伊朗达成协议。",
           "url": "https://flash.jin10.com/detail/20260715061639787800",
           "source": "金十数据",
@@ -622,6 +628,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时54分]"
+        },
+        {
+          "title": "现货黄金跌破4020美元/盎司，日内跌0.81%。",
+          "url": "https://flash.jin10.com/detail/20260715153816180800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
@@ -718,7 +735,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -732,6 +749,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "日本散户交易员上月美元空头头寸增至2008年以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3134188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7730元，较周一夜盘收盘涨80点。成交量511.25亿美元。",
@@ -756,6 +795,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "【午报】三大指数冲高回落全线翻绿，医药板块全线爆发，半导体产业链持续调整",
+          "url": "https://www.cls.cn/detail/2426933",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的2.78亿美元。",
           "url": "https://flash.jin10.com/detail/20260715011634557800",
           "source": "金十数据",
@@ -773,9 +823,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "CPI回落未激起黄金多头狂热，期权资金仍缺明确方向",
+          "url": "https://flash.jin10.com/detail/20260715153515699800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "投行Jefferies把美国银行目标股价从70美元上调至75美元。",
@@ -784,7 +845,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -817,7 +878,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -894,7 +955,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -916,7 +977,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -938,9 +999,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "特朗普性侵案败诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A7%E4%BE%B5%E6%A1%88%E8%B4%A5%E8%AF%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "OpenAI计划推出家用智能音箱",
@@ -974,6 +1046,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月15日（周三）收盘上涨0.04%报877.6元/克；<br/>上海黄金交易所白银T+D 7月15日（周三）收盘上涨0.79%报14172.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260715153223478800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "ChatGPT出现故障",
@@ -1015,7 +1098,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1150,6 +1233,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "现货白银失守58美元/盎司，日内跌幅1.19%。",
+          "url": "https://flash.jin10.com/detail/20260715152752011800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "A股收盘：科创50指数跌4.25%，医药、消费股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3134167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "国际金急需新催化剂！美元长期更容易走强？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260715152707453800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与新兴市场ETF、黄金ETF领跑",
