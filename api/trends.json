@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-16T20:25:31.662693+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2026-07-16T23:02:34.799567+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 153,
+      "match_count": 163,
       "titles": [
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 23时02分]"
+        },
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
           "url": "https://wallstreetcn.com/articles/3776989",
@@ -20,18 +33,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 13时40分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 20时25分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -54,6 +55,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 23时02分]"
         },
         {
           "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
@@ -84,6 +100,20 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时06分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普为何频频感谢中俄？",
           "url": "https://news.ifeng.com/c/8umXJBl3ies",
           "source": "凤凰网",
@@ -109,34 +139,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 16时11分]"
-        },
-        {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时06分 ~ 20时25分]"
-        },
-        {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 20时25分]"
         },
         {
           "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
@@ -213,6 +215,19 @@
           "time_info": "[00时21分 ~ 04时08分]"
         },
         {
+          "title": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
+          "url": "https://wallstreetcn.com/articles/3777047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 23时02分]"
+        },
+        {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
           "url": "https://wallstreetcn.com/articles/3776932",
           "source": "华尔街见闻",
@@ -236,19 +251,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
-          "title": "破发！SpaceX股价首次跌穿135美元IPO发行价，公司债一路下跌，收益率高达7.5%堪比垃圾债",
-          "url": "https://wallstreetcn.com/articles/3777047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 20时25分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -352,6 +354,17 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
+          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
           "url": "https://flash.jin10.com/detail/20260716034751447800",
           "source": "金十数据",
@@ -372,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "汇丰：将IBM(IBM.N)目标价从191美元下调至175美元。",
+          "url": "https://flash.jin10.com/detail/20260716223737085800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收2.9%。 热门中概股里，名创优品初步收涨9.2%，美团涨6.2%，再鼎医药涨5.8%，腾讯涨5%，阿里涨4.8%，亚朵涨4.5%，万国数据涨4%，阿特斯、华住、金山云涨超3%。 ETF中，KWEB涨3.2%，CQQQ跌0.3%。",
@@ -418,6 +442,18 @@
           "time_info": "00时21分"
         },
         {
+          "title": "【每日收评】沪指跌近2%失守3900点，医药、影视股逆势活跃，芯片产业链持续调整",
+          "url": "https://www.cls.cn/detail/2428465",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普倾向扩大对伊军事行动，美军评估夺取哈尔克岛、轰炸核隧道等“最危险选项”",
           "url": "https://flash.jin10.com/detail/20260716064035933800",
           "source": "金十数据",
@@ -427,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
+          "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美元兑加元USD/CAD下跌0.18%，跌至四周低点1.4035。",
@@ -555,17 +602,6 @@
           "time_info": "[06时00分 ~ 07时06分]"
         },
         {
-          "title": "【每日收评】沪指跌近2%失守3900点，医药、影视股逆势活跃，芯片产业链持续调整",
-          "url": "https://www.cls.cn/detail/2428465",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 20时25分]"
-        },
-        {
           "title": "美男网红注射黄金求超能力",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356240&amp;topic_name=%E7%BE%8E%E7%94%B7%E7%BD%91%E7%BA%A2%E6%B3%A8%E5%B0%84%E9%BB%84%E9%87%91%E6%B1%82%E8%B6%85%E8%83%BD%E5%8A%9B",
           "source": "贴吧",
@@ -573,8 +609,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 20时25分]"
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 23时02分]"
         },
         {
           "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
@@ -585,8 +621,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 20时25分]"
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 23时02分]"
         },
         {
           "title": "美国国务院批准向沙特阿拉伯出售先进精确打击武器系统及相关设备，预计交易金额为19.6亿美元。",
@@ -623,6 +659,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时00分 ~ 07时06分]"
+        },
+        {
+          "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
+          "url": "https://wallstreetcn.com/articles/3777077",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 23时02分]"
         },
         {
           "title": "美媒曝对伊战事真实花费高达千亿美元",
@@ -735,7 +782,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -757,9 +804,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
+        },
+        {
+          "title": "世界杯冠军奖金5000万美元",
+          "url": "https://www.toutiao.com/trending/7662510119124877348/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2428765",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们将看看是否能与他们达成协议。",
@@ -861,15 +930,15 @@
           "time_info": "07时06分"
         },
         {
-          "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
-          "url": "https://wallstreetcn.com/articles/3777077",
-          "source": "华尔街见闻",
+          "title": "甲骨文创始人因与特朗普的“腐败”华纳兄弟交易遭起诉",
+          "url": "https://wallstreetcn.com/livenews/3135144",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "23时02分"
         },
         {
           "title": "据华尔街日报：特朗普正考虑扩大对伊朗的军事行动，包括加强空袭、派地面部队控制霍尔木兹海峡附近岛屿及打击核相关设施，但尚未作出最终决定。",
@@ -933,7 +1002,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1026,6 +1095,17 @@
           "time_info": "18时59分"
         },
         {
+          "title": "前纽约联储首席：今年大概率不会加息，美政策正推高主权黄金需求！",
+          "url": "https://www.cls.cn/detail/2428377",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "纽约银日内涨幅达1.0%，报58.17美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3134628",
           "source": "华尔街见闻-快讯",
@@ -1035,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "世界杯冠军奖金5000万美元 历史最高",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：伊朗想要会面。",
@@ -1076,7 +1167,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1145,6 +1236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
+          "url": "https://www.zhihu.com/question/2061111911014470002",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美元指数15日下跌",
@@ -1351,7 +1453,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1365,6 +1467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "黄金为何进退两难？震荡边界在哪里？​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260716221521692800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普兜售来自摩根大通与Kratos的投资。",
@@ -1439,7 +1552,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1472,7 +1585,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1538,7 +1651,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1593,7 +1706,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1648,7 +1761,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1670,7 +1783,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
