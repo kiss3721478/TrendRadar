@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T04:03:43.013964+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-07-17T06:04:24.744769+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 59,
+      "match_count": 71,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
         },
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
         },
         {
           "title": "【每日收评】沪指跌近2%失守3900点，医药、影视股逆势活跃，芯片产业链持续调整",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -59,8 +59,34 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
+        },
+        {
+          "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
+          "url": "https://www.zhihu.com/question/2061111911014470002",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
+        },
+        {
+          "title": "世界杯冠军奖金5000万美元",
+          "url": "https://www.toutiao.com/trending/7662510119124877348/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -107,6 +133,28 @@
           "time_info": "02时07分"
         },
         {
+          "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
+          "url": "https://wallstreetcn.com/livenews/3135298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
+          "url": "https://wallstreetcn.com/articles/3777098",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
           "url": "https://flash.jin10.com/detail/20260717001020905800",
           "source": "金十数据",
@@ -118,17 +166,15 @@
           "time_info": "00时26分"
         },
         {
-          "title": "世界杯冠军奖金5000万美元",
-          "url": "https://www.toutiao.com/trending/7662510119124877348/",
-          "source": "今日头条",
+          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2428765",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
         },
         {
           "title": "谷歌(GOOG.O)推出Gemini Omni，并更新Google Vids个人数字形象功能。",
@@ -148,7 +194,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -164,26 +210,54 @@
           "time_info": "02时07分"
         },
         {
-          "title": "台积电法说会：全年营收增速上调至40%，资本支出加码至640亿美元，“很嫉妒”存储厂商86%的毛利率",
-          "url": "https://wallstreetcn.com/articles/3777098",
+          "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
+          "url": "https://wallstreetcn.com/articles/3777077",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
         },
         {
-          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2428765",
-          "source": "财联社热门",
+          "title": "美男网红注射黄金求超能力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356240&amp;topic_name=%E7%BE%8E%E7%94%B7%E7%BD%91%E7%BA%A2%E6%B3%A8%E5%B0%84%E9%BB%84%E9%87%91%E6%B1%82%E8%B6%85%E8%83%BD%E5%8A%9B",
+          "source": "贴吧",
           "ranks": [
-            7
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
+        },
+        {
+          "title": "世界杯冠军奖金5000万美元 历史最高",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
+        },
+        {
+          "title": "台积电法说会实录：今年资本支出加码至640亿美元 高端芯片紧缺还将延续几年",
+          "url": "https://www.cls.cn/detail/2428477",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时04分]"
         },
         {
           "title": "英镑兑美元日内跌幅达0.5%，报1.3471。",
@@ -204,65 +278,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
-        },
-        {
-          "title": "美男网红注射黄金求超能力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356240&amp;topic_name=%E7%BE%8E%E7%94%B7%E7%BD%91%E7%BA%A2%E6%B3%A8%E5%B0%84%E9%BB%84%E9%87%91%E6%B1%82%E8%B6%85%E8%83%BD%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
-        },
-        {
-          "title": "世界杯冠军奖金5000万美元 历史最高",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
-        },
-        {
-          "title": "SpaceX 上市仅一个月跌破 135 美元发行价，市值缩水三分之一，星舰第 13 次试飞将至，能否挽救股价？",
-          "url": "https://www.zhihu.com/question/2061111911014470002",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
-        },
-        {
-          "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
-          "url": "https://wallstreetcn.com/articles/3777077",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 04时03分]"
-        },
-        {
-          "title": "台积电法说会实录：今年资本支出加码至640亿美元 高端芯片紧缺还将延续几年",
-          "url": "https://www.cls.cn/detail/2428477",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -308,7 +323,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -374,7 +389,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -407,7 +422,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -440,7 +455,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -467,6 +482,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "SpaceX AI：Grok 4.5定价为每百万输入Token收费2美元，每百万输出Token收费6美元。",
+          "url": "https://flash.jin10.com/detail/20260717050306861800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "WTI原油日内跌幅达1.0%，报78.31美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3135207",
           "source": "华尔街见闻-快讯",
@@ -489,15 +515,37 @@
           "time_info": "02时07分"
         },
         {
+          "title": "周四（7月16日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7732元，较周三纽约尾盘跌45点，日内整体交投于6.7649-6.7755元区间。",
+          "url": "https://wallstreetcn.com/livenews/3135282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7711元，较周三夜盘收盘跌14点。成交量452.20亿美元。",
           "url": "https://wallstreetcn.com/livenews/3135240",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "现货黄金跌超2%，一度逼近3940美元，白银跌约4%，钯金跌超5%",
+          "url": "https://wallstreetcn.com/livenews/3135281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "布伦特原油期货结算价为每桶84.23美元，下跌72美分，跌幅0.85%。",
@@ -506,7 +554,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -528,7 +576,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -539,7 +587,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -555,13 +603,24 @@
           "time_info": "02时07分"
         },
         {
+          "title": "美元指数16日上涨",
+          "url": "https://flash.jin10.com/detail/20260717045050743800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模降至7.89万亿美元。",
           "url": "https://flash.jin10.com/detail/20260717023346129800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -583,9 +642,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "美股存储芯片指数收跌超8%",
+          "url": "https://wallstreetcn.com/livenews/3135275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "美国原油期货结算价为每桶78.95美元，下跌65美分，跌幅0.82%。",
@@ -594,7 +664,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -605,9 +675,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普准备在（今天稍早的）演讲中谈论委内瑞拉大选。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3135274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
@@ -616,9 +697,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "美国至7月10日当周外国央行持有美国国债 6.39亿美元，前值-286.05亿美元。",
+          "url": "https://flash.jin10.com/detail/20260717043052458800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
@@ -627,7 +719,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         },
@@ -638,9 +730,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "数据中心公司Csquare Inc.（CSQR）美国IPO首日收跌1.57%，报20.67美元。",
+          "url": "https://wallstreetcn.com/livenews/3135271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "英伟达投资企业Fireworks估值达1750亿美元",
@@ -654,15 +757,48 @@
           "time_info": "02时07分"
         },
         {
+          "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
+          "url": "https://wallstreetcn.com/livenews/3135268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "周四（7月16日），美股行业ETF多数收涨，区域银行ETF涨2.82%，日常消费品ETF、银行业ETF至少涨2.44%。 网络股指数ETF则收跌1.54%，科技行业ETF跌2.24%，全球科技股指数ETF跌2.47%，半导体ETF跌3.70%。",
+          "url": "https://wallstreetcn.com/livenews/3135267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "达索系统洽谈按大约20亿美元收购ArisGlobal。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3135224",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "美国铝业二季度销售39.7亿美元，分析师预期40.2亿美元。 维持全年铝产量预期在240万-260万吨不变。 维持全年铝发货量预期在260万-280万吨不变。 预计全年氧化铝产量为950万-960万公吨，此前预期为970万-990万公吨。 预计本财年氧化铝发货量为1150万-1160万公吨。",
+          "url": "https://wallstreetcn.com/livenews/3135266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     }
