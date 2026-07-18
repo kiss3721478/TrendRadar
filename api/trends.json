@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:03:03.823319+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-07-18T21:12:36.167290+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 82,
+      "match_count": 88,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时49分 ~ 19时03分]"
+          "appearance_count": 11,
+          "time_info": "[06时49分 ~ 21时12分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -96,6 +96,18 @@
           "time_info": "[01时10分 ~ 07时53分]"
         },
         {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 21时12分]"
+        },
+        {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
@@ -108,18 +120,6 @@
           "time_info": "[01时10分 ~ 06时49分]"
         },
         {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 19时03分]"
-        },
-        {
           "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
           "url": "https://www.cls.cn/detail/2430073",
           "source": "财联社热门",
@@ -130,8 +130,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时52分 ~ 19时03分]"
+          "appearance_count": 10,
+          "time_info": "[07时52分 ~ 21时12分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -153,19 +153,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 19时03分]"
-        },
-        {
-          "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260718003258061800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 21时12分]"
         },
         {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
@@ -177,8 +166,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 19时03分]"
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 21时12分]"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260718003258061800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "WTI 8月原油期货收涨3.54美元，涨幅4.48%，报82.49美元/桶，本周累计上涨超过15.51%，周一显著上涨，周二至周四持稳于80美元整数位心理关口附近，周五亚太尾盘再次开始持续扩大涨幅。 中东Abu Dhabi Murban原油期货涨4.64%，报81.34美元/桶，本周累涨14.61%，周一、周二显著走高，随后高位震荡。 NYMEX 8月天然气期货收报2.9110美元/百万英热单位。 NYMEX 8月汽油期货收报3.3927美元/加仑，NYMEX 8月取暖油期货收报4.0646美元/加仑。",
@@ -209,7 +209,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -687,6 +687,28 @@
           "time_info": "13时25分"
         },
         {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "美媒：一项允许沙特进行铀浓缩的核协议悬而未决，尚待特朗普政府批准",
+          "url": "https://flash.jin10.com/detail/20260718202124153800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美债收益率刷新日高，投资者关注美国与伊朗的紧张局势。 WTI原油5分钟内上涨0.6美元/桶，报81.32美元/桶；布伦特原油5分钟内上涨0.51美元/桶，报87.31美元/桶。 据Axios报道，美国向以色列增派更多（超过20架）加油机。",
           "url": "https://wallstreetcn.com/livenews/3135836",
           "source": "华尔街见闻-快讯",
@@ -753,6 +775,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "现货白银日内涨幅达1.0%，报56.06美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3135831",
           "source": "华尔街见闻-快讯",
@@ -784,6 +817,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "委内瑞拉从IMF提取3.46亿美元用于震后重建",
+          "url": "https://wallstreetcn.com/livenews/3136017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "资深财富管理人士：美股或回调40%",
@@ -927,6 +982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "乌克兰国防部：2026年上半年，乌克兰军方签署的无人机合同总额约为75亿美元，是去年总量的两倍。其中，FPV无人机所占份额最大。",
+          "url": "https://flash.jin10.com/detail/20260718190003064800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
