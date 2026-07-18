@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:53:07.598356+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-07-18T10:23:31.058247+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 59,
+      "match_count": 66,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 07时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 10时23分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -60,11 +60,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 07时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 10时23分]"
         },
         {
           "title": "别错过一天中的排便黄金时间",
@@ -94,6 +95,19 @@
           "time_info": "[01时10分 ~ 06时49分]"
         },
         {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时49分 ~ 10时23分]"
+        },
+        {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
@@ -103,18 +117,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 03时06分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时49分 ~ 07时53分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
@@ -208,6 +210,20 @@
           "time_info": "03时06分"
         },
         {
+          "title": "周五（7月17日）纽约尾盘，美国10年期基准国债收益率跌0.59个基点，报4.5474%，本周累计下跌1.38个基点，整体交投于4.6338%-4.5094%区间。 两年期美债收益率涨3.58个基点，报4.1767%，本周累跌3.13个基点，交投于4.2963%-4.1091%区间。",
+          "url": "https://wallstreetcn.com/livenews/3135922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时54分 ~ 10时23分]"
+        },
+        {
           "title": "美元指数17日微涨",
           "url": "https://flash.jin10.com/detail/20260718050516466800",
           "source": "金十数据",
@@ -226,24 +242,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时53分]"
-        },
-        {
-          "title": "周五（7月17日）纽约尾盘，美国10年期基准国债收益率跌0.59个基点，报4.5474%，本周累计下跌1.38个基点，整体交投于4.6338%-4.5094%区间。 两年期美债收益率涨3.58个基点，报4.1767%，本周累跌3.13个基点，交投于4.2963%-4.1091%区间。",
-          "url": "https://wallstreetcn.com/livenews/3135922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            15
+            7,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时54分 ~ 07时53分]"
+          "time_info": "[06时49分 ~ 10时23分]"
         },
         {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
@@ -353,6 +357,18 @@
           "time_info": "[05时54分 ~ 07时53分]"
         },
         {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 10时23分]"
+        },
+        {
           "title": "周五（7月17日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7774元，较周四纽约尾盘跌42点，日内整体交投于6.7721-6.7815元区间。",
           "url": "https://wallstreetcn.com/livenews/3135914",
           "source": "华尔街见闻-快讯",
@@ -379,6 +395,30 @@
           "time_info": "[05时54分 ~ 07时53分]"
         },
         {
+          "title": "阿根廷总统：标语事件顶多罚款3万美元",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%A0%87%E8%AF%AD%E4%BA%8B%E4%BB%B6%E9%A1%B6%E5%A4%9A%E7%BD%9A%E6%AC%BE3%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 10时23分]"
+        },
+        {
+          "title": "曝特朗普买股票后在社媒发有利信息",
+          "url": "https://www.toutiao.com/trending/7662654350632255514/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 10时23分]"
+        },
+        {
           "title": "美银警告：黄金恐跌向3315美元",
           "url": "https://www.douyin.com/hot/2574420",
           "source": "抖音",
@@ -389,17 +429,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 03时06分]"
-        },
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX市值较峰值时期蒸发超1万亿美元。",
@@ -414,28 +443,6 @@
           "time_info": "[04时54分 ~ 05时54分]"
         },
         {
-          "title": "阿根廷总统：标语事件顶多罚款3万美元",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%A0%87%E8%AF%AD%E4%BA%8B%E4%BB%B6%E9%A1%B6%E5%A4%9A%E7%BD%9A%E6%AC%BE3%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
-        },
-        {
-          "title": "曝特朗普买股票后在社媒发有利信息",
-          "url": "https://www.toutiao.com/trending/7662654350632255514/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
-        },
-        {
           "title": "美股收盘：三大股指低收，芯片股涨跌不一",
           "url": "https://flash.jin10.com/detail/20260718040114530800",
           "source": "金十数据",
@@ -446,6 +453,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时54分 ~ 05时54分]"
+        },
+        {
+          "title": "美股三大指数全线下挫",
+          "url": "https://www.douyin.com/hot/2575548",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "WTI原油日内涨3.00%，现报81.85美元/桶。",
@@ -481,6 +499,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
+          "url": "https://flash.jin10.com/detail/20260718092759635800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
           "url": "https://wallstreetcn.com/livenews/3135838",
           "source": "华尔街见闻-快讯",
@@ -514,6 +543,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美股半导体指数跌入熊市",
+          "url": "https://www.toutiao.com/trending/7663631586239188521/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "周五（7月17日），美联储隔夜逆回购协议（RRP）使用规模为1亿美元（交易对手1家），上个交易日报1.25亿美元。",
           "url": "https://wallstreetcn.com/livenews/3135858",
           "source": "华尔街见闻-快讯",
@@ -545,6 +585,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "美股半导体指数跌入熊市",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E8%B7%8C%E5%85%A5%E7%86%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "资深财富管理人士：美股或回调40%",
+          "url": "https://www.toutiao.com/trending/7662685956433330227/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，现报56.08美元/盎司。纽约期银日内涨幅扩大至1.00%，现报56.33美元/盎司。",
@@ -646,6 +708,17 @@
           "time_info": "04时54分"
         },
         {
+          "title": "A股黄金买点来了吗",
+          "url": "https://www.toutiao.com/trending/7663493429787102762/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
           "title": "加拿大野火殃及美国空气，特朗普称将以关税追偿损失",
           "url": "https://wallstreetcn.com/livenews/3135887",
           "source": "华尔街见闻-快讯",
@@ -655,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.854吨，当前持仓量为999.024吨。",
+          "url": "https://flash.jin10.com/detail/20260718081611249800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
