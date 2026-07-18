@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T15:48:07.245287+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-07-18T17:24:45.997208+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -43,17 +43,6 @@
           "time_info": "[01时10分 ~ 06时49分]"
         },
         {
-          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 05时54分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
@@ -63,8 +52,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时49分 ~ 17时24分]"
+        },
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[06时49分 ~ 15时48分]"
+          "time_info": "[01时10分 ~ 05时54分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -108,6 +108,18 @@
           "time_info": "[01时10分 ~ 06时49分]"
         },
         {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 17时24分]"
+        },
+        {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
@@ -119,15 +131,18 @@
           "time_info": "[01时10分 ~ 03时06分]"
         },
         {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
-          "source": "凤凰网",
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
           "ranks": [
-            4
+            13,
+            10,
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
+          "appearance_count": 7,
+          "time_info": "[07时52分 ~ 17时24分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
@@ -139,19 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时52分 ~ 15时48分]"
         },
         {
           "title": "WTI 8月原油期货收涨3.54美元，涨幅4.48%，报82.49美元/桶，本周累计上涨超过15.51%，周一显著上涨，周二至周四持稳于80美元整数位心理关口附近，周五亚太尾盘再次开始持续扩大涨幅。 中东Abu Dhabi Murban原油期货涨4.64%，报81.34美元/桶，本周累涨14.61%，周一、周二显著走高，随后高位震荡。 NYMEX 8月天然气期货收报2.9110美元/百万英热单位。 NYMEX 8月汽油期货收报3.3927美元/加仑，NYMEX 8月取暖油期货收报4.0646美元/加仑。",
@@ -210,6 +212,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时54分 ~ 07时53分]"
+        },
+        {
+          "title": "如何甄别美股的漂亮话",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%84%E5%88%AB%E7%BE%8E%E8%82%A1%E7%9A%84%E6%BC%82%E4%BA%AE%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月17日（周五）晚盘收盘上涨0.61%报876.0元/克；<br/>上海黄金交易所白银T+D 7月17日（周五）晚盘收盘上涨1.16%报13636.0元/千克。",
@@ -274,6 +287,17 @@
           "time_info": "[06时49分 ~ 10时23分]"
         },
         {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 17时24分]"
+        },
+        {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3135845",
           "source": "华尔街见闻-快讯",
@@ -284,6 +308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 03时06分]"
+        },
+        {
+          "title": "特朗普再谈巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 17时24分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -354,6 +389,19 @@
           "time_info": "[04时54分 ~ 07时53分]"
         },
         {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 17时24分]"
+        },
+        {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260718040519016800",
           "source": "金十数据",
@@ -368,26 +416,16 @@
           "time_info": "[04时54分 ~ 07时53分]"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
+          "title": "迪士尼《海洋奇缘：启航》票房惨败，首周全球 9500 万美元远低预期，恐净亏损 1 亿美元，原因何在？",
+          "url": "https://www.zhihu.com/question/2059974558191285469",
+          "source": "知乎",
           "ranks": [
-            7
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时48分]"
-        },
-        {
-          "title": "特朗普再谈巴洛贡红牌事件",
-          "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 17时24分]"
         },
         {
           "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
@@ -428,6 +466,18 @@
           "time_info": "[05时54分 ~ 07时53分]"
         },
         {
+          "title": "特朗普：因凡蒂诺建议中美合办世界杯",
+          "url": "https://www.douyin.com/hot/2575839",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 17时24分]"
+        },
+        {
           "title": "现货黄金涨1%收复4000美元整数位心理关口，本周跌2.5%，白银本周跌6.6%",
           "url": "https://wallstreetcn.com/livenews/3135913",
           "source": "华尔街见闻-快讯",
@@ -451,30 +501,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时52分 ~ 10时23分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时48分]"
-        },
-        {
-          "title": "迪士尼《海洋奇缘：启航》票房惨败，首周全球 9500 万美元远低预期，恐净亏损 1 亿美元，原因何在？",
-          "url": "https://www.zhihu.com/question/2059974558191285469",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时48分]"
         },
         {
           "title": "曝特朗普买股票后在社媒发有利信息",
@@ -511,17 +537,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普：因凡蒂诺建议中美合办世界杯",
-          "url": "https://www.douyin.com/hot/2575839",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
         },
         {
           "title": "黄仁勋皮衣96万美元成交！超最高估价16倍",
@@ -665,9 +680,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
+        },
+        {
+          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
+          "url": "https://wallstreetcn.com/livenews/3135984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "美股半导体指数跌入熊市",
