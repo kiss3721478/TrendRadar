@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T06:52:01.112924+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-07-20T07:56:32.940390+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -16,24 +16,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时52分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时52分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时56分]"
         },
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
           "url": "https://news.ifeng.com/c/8utCDuus6XE",
           "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时56分]"
+        },
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
@@ -53,8 +53,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时52分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时56分]"
         },
         {
           "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
@@ -68,8 +68,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时52分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时56分]"
         },
         {
           "title": "大罗把大力神杯递给特朗普",
@@ -90,20 +90,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
         {
-          "title": "周一亚市盘初，布油、WTI原油期货高开2%，美国和伊朗在中东地区冲突加剧。 布油期货突破90美元/桶，为6月11日以来首次。",
-          "url": "https://wallstreetcn.com/livenews/3136359",
+          "title": "台积电首席财务官黄仁昭表示，计划于2027年向外国投资者以美元派发股息。",
+          "url": "https://wallstreetcn.com/livenews/3136389",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时56分"
+        },
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         },
         {
           "title": "特朗普现身世界杯决赛看台",
@@ -132,6 +143,31 @@
           "time_info": "[04时07分 ~ 06时52分]"
         },
         {
+          "title": "特朗普摸大力神杯",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时51分 ~ 07时56分]"
+        },
+        {
+          "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
+          "url": "https://wallstreetcn.com/livenews/3136355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时56分]"
+        },
+        {
           "title": "以媒：特朗普倾向进一步升级对伊行动",
           "url": "https://flash.jin10.com/detail/20260720014155367800",
           "source": "金十数据",
@@ -144,28 +180,16 @@
           "time_info": "[02时03分 ~ 04时07分]"
         },
         {
-          "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
-          "url": "https://wallstreetcn.com/livenews/3136355",
+          "title": "周一亚市盘初，布油、WTI原油期货高开2%，美国和伊朗在中东地区冲突加剧。 布油期货突破90美元/桶，为6月11日以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3136359",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时52分]"
-        },
-        {
-          "title": "特朗普摸大力神杯",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时51分 ~ 06时52分]"
+          "time_info": "[06时52分 ~ 07时56分]"
         },
         {
           "title": "多队球衣已打折 国足球衣仍105美元",
@@ -264,6 +288,28 @@
           "time_info": "[05时52分 ~ 06时52分]"
         },
         {
+          "title": "美伊互袭持续 布伦特油价突破每桶90美元",
+          "url": "https://flash.jin10.com/detail/20260720070913960800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "特朗普摸大力神杯",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
           "title": "周一悉尼盘初，美元兑日元报价大致持平，窄幅震荡于162.38-162.43日元。 欧元兑美元跌0.06%，至1.1431；英镑兑美元持平于1.3453。 商品货币对中，澳元兑美元跌0.2%，至0.6970下方；纽元兑美元跌0.13%，至0.5835下方；美元兑加元跌0.06%，至1.4013下方。",
           "url": "https://wallstreetcn.com/livenews/3136319",
           "source": "华尔街见闻-快讯",
@@ -281,7 +327,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -292,7 +338,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -303,7 +349,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -314,7 +360,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -325,9 +371,53 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
+          "url": "https://flash.jin10.com/detail/20260720065512528800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "金十图示：2026年07月20日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260720065029004800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "特朗普为西班牙颁奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "美国总统特朗普将大力神杯颁给西班牙队。",
+          "url": "https://flash.jin10.com/detail/20260720064454811800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     }
