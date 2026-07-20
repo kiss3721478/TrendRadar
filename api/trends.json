@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T07:56:32.940390+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-07-20T10:50:47.548312+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时50分]"
         },
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -84,6 +84,18 @@
           "time_info": "[05时51分 ~ 06时52分]"
         },
         {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 10时50分]"
+        },
+        {
           "title": "WTI原油向上触及85美元/桶，日内涨3.24%。",
           "url": "https://flash.jin10.com/detail/20260720062956628800",
           "source": "金十数据",
@@ -101,20 +113,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
         {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
+          "title": "现货白银站上57美元/盎司，日内涨1.95%。",
+          "url": "https://flash.jin10.com/detail/20260720104313201800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "10时50分"
         },
         {
           "title": "特朗普现身世界杯决赛看台",
@@ -288,13 +300,24 @@
           "time_info": "[05时52分 ~ 06时52分]"
         },
         {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "美伊互袭持续 布伦特油价突破每桶90美元",
           "url": "https://flash.jin10.com/detail/20260720070913960800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -305,7 +328,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -376,13 +399,35 @@
           "time_info": "06时52分"
         },
         {
+          "title": "美国对伊打击进入第九晚，平息迹象迟迟难现，布油趁势重回90美元，WTI原油多头仍主导市场，现货黄金多头坚守4000美元一线，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260720103628620800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "【图解牛熊股】医药板块涨幅居前，CPO、半导体概念股回调明显",
+          "url": "https://www.cls.cn/detail/2430533",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
           "url": "https://flash.jin10.com/detail/20260720065512528800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -393,7 +438,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -404,9 +449,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "香港恒生指数日内涨幅扩大至2%，恒生生物医药指数涨3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3136465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "西班牙冠军奖金5000万美元",
+          "url": "https://www.baidu.com/s?wd=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
@@ -415,7 +482,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
