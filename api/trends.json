@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T07:06:36.602481+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-07-21T10:34:50.717500+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 62,
+      "match_count": 81,
       "titles": [
         {
           "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
@@ -53,6 +53,28 @@
           "time_info": "[02时02分 ~ 04时20分]"
         },
         {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "美股收盘：三大股指收跌 阿里巴巴涨4.6%",
           "url": "https://flash.jin10.com/detail/20260721040127333800",
           "source": "金十数据",
@@ -70,9 +92,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 10时34分]"
         },
         {
           "title": "纽约银日内跌幅达1.0%，报56.47美元/盎司。",
@@ -81,9 +116,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "白宫：特朗普签署公告，授权商务部长制定激励计划，鼓励企业投资铝冶炼厂。",
@@ -108,16 +154,52 @@
           "time_info": "05时59分"
         },
         {
-          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2431734",
-          "source": "财联社热门",
+          "title": "金十图示：2026年07月21日（周二）上海金早盘价为876.78元/克，较国际金价(875.51元/克)，高1.27元/克",
+          "url": "https://flash.jin10.com/detail/20260721101750427800",
+          "source": "金十数据",
           "ranks": [
-            6,
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33623026",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 07时06分]"
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 10时34分]"
+        },
+        {
+          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
+          "url": "https://www.zhihu.com/question/2062557149230903440",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 10时34分]"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 10时34分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -168,19 +250,6 @@
           "time_info": "[02时02分 ~ 07时06分]"
         },
         {
-          "title": "霍尔木兹海峡几近瘫痪，国际油价盘中突破90美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33623026",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 07时06分]"
-        },
-        {
           "title": "美股存储芯片反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
@@ -192,15 +261,16 @@
           "time_info": "[02时02分 ~ 07时06分]"
         },
         {
-          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
-          "url": "https://www.zhihu.com/question/2062557149230903440",
-          "source": "知乎",
+          "title": "存储大跌是“假摔”？大摩：所谓利空都是旧的“明牌”，黄金坑逢低买！",
+          "url": "https://wallstreetcn.com/articles/3777451",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 07时06分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 10时34分]"
         },
         {
           "title": "美加墨世界杯落下帷幕 FIFA预估狂揽90亿美元收入",
@@ -262,17 +332,6 @@
           "time_info": "[05时59分 ~ 07时06分]"
         },
         {
-          "title": "存储大跌是“假摔”？大摩：所谓利空都是旧的“明牌”，黄金坑逢低买！",
-          "url": "https://wallstreetcn.com/articles/3777451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时06分]"
-        },
-        {
           "title": "机构：受选后局势升级风险影响，美元在中期选举前将保持坚挺",
           "url": "https://wallstreetcn.com/livenews/3137093",
           "source": "华尔街见闻-快讯",
@@ -297,15 +356,26 @@
           "time_info": "[05时59分 ~ 07时06分]"
         },
         {
-          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
-          "url": "https://www.cls.cn/detail/2431934",
+          "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
+          "url": "https://www.cls.cn/detail/2431976",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "10时34分"
+        },
+        {
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "白宫：特朗普采取进一步措施，调整美国铝进口政策。",
@@ -319,6 +389,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "特朗普行政令规定，若国防承包商未能替换存在风险的外国供应商，可能面临失去合同的后果。该行政令要求承包商优先用尽采购国内产品的选择，并绘制武器系统关键矿产及零部件供应链图谱。",
           "url": "https://flash.jin10.com/detail/20260721034306028800",
           "source": "金十数据",
@@ -328,6 +409,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "黄金ETF单日增持创7月之最，4000美元关口僵局能否打破？",
+          "url": "https://flash.jin10.com/detail/20260721101535608800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "在约翰·希利被任命为英国新任财政大臣后，英镑兑美元GBP/USD略微收窄跌幅，现跌0.18%，报1.3429。",
@@ -358,7 +461,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -391,9 +494,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "【数读IPO】今日1只医药概念股上市",
+          "url": "https://www.cls.cn/detail/2431957",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美元指数20日上涨",
@@ -424,9 +549,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "高盛：中东局势再度升级的风险意味着其对2026年第四季度布伦特、WTI原油每桶80、75美元的预测存在上行风险。 若霍尔木兹海峡持续受阻，布伦特原油价格在2026年第四季度可能冲破每桶120美元。",
+          "url": "https://wallstreetcn.com/livenews/3137222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "以色列称伊朗将数千台离心机转移至“镐山”，特朗普盯上目标",
+          "url": "https://flash.jin10.com/detail/20260721101244168800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股三大指数均跌超1%，油气、医药医疗、电力、光纤等方向跌幅居前，沪深京三市下跌个股超4500只。",
+          "url": "https://wallstreetcn.com/livenews/3137220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
@@ -490,9 +648,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，油气、医药医疗、电力、光纤等方向跌幅居前，沪深京三市下跌个股超4000只。",
+          "url": "https://wallstreetcn.com/livenews/3137210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
@@ -501,7 +670,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -512,7 +681,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -556,7 +725,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -581,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "A股创新药概念股震荡调整、美诺华、灵康药业、亚泰集团、塞力医疗跌停，万邦医药跌超10%，普蕊斯、泓博医药、南华生物、联环药业跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3137199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
@@ -649,6 +829,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "高盛：如果霍尔木兹海峡持续动荡，布伦特原油价格可能在2026年第四季度突破120美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260721100454634800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "特朗普：伊朗每杀死一名美国士兵都将付出“数倍”代价",
           "url": "https://wallstreetcn.com/livenews/3137026",
           "source": "华尔街见闻-快讯",
@@ -671,6 +862,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "高盛：中东局势再度升级的风险意味着，对2026年第四季度布伦特原油和WTI原油价格的预测（分别为80美元/桶和75美元/桶）面临上行风险。",
+          "url": "https://flash.jin10.com/detail/20260721100433610800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "DoubleLine：美债收益率上升将有助于美联储维持利率不变",
           "url": "https://wallstreetcn.com/livenews/3137053",
           "source": "华尔街见闻-快讯",
@@ -691,6 +893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "黄金跌油价涨 市场到底在交易什么",
+          "url": "https://www.toutiao.com/trending/7664766392964484662/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
