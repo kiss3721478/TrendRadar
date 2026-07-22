@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T21:51:57.845215+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-07-22T23:42:03.717289+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 160,
+      "match_count": 170,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -17,8 +17,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时56分 ~ 21时51分]"
+          "appearance_count": 8,
+          "time_info": "[07时56分 ~ 23时42分]"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 23时42分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -69,6 +82,18 @@
           "time_info": "[01时18分 ~ 07时56分]"
         },
         {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 23时42分]"
+        },
+        {
           "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
           "url": "https://www.cls.cn/detail/2433220",
           "source": "财联社热门",
@@ -94,19 +119,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时18分 ~ 13时49分]"
-        },
-        {
-          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
-          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 21时51分]"
         },
         {
           "title": "香港高院再次驳回宗馥莉上诉许可申请，维持18亿美元资产冻结令",
@@ -144,6 +156,17 @@
           "time_info": "[06时55分 ~ 06时56分]"
         },
         {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -167,16 +190,15 @@
           "time_info": "[07时56分 ~ 10时32分]"
         },
         {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
           "ranks": [
-            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 21时51分]"
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
@@ -220,7 +242,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -334,7 +356,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -368,9 +390,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
+        },
+        {
+          "title": "分析师：金价扩大涨幅，受美元走软和技术性买盘提振",
+          "url": "https://flash.jin10.com/detail/20260722231417259800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普宣布两年后对仿制药征收100%关税",
@@ -426,7 +459,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -437,7 +470,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -481,6 +514,19 @@
           "time_info": "[13时49分 ~ 21时51分]"
         },
         {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 23时42分]"
+        },
+        {
           "title": "LME期铜收涨263美元，报13885美元/吨。 LME期铝收涨18美元，报3158美元/吨。 LME期锌收涨32美元，报3552美元/吨。 LME期铅收跌10美元，报1869美元/吨。 LME期镍收涨156美元，报17085美元/吨。 LME期锡收涨1007美元，报53885美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3137696",
           "source": "华尔街见闻-快讯",
@@ -515,6 +561,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时20分]"
+        },
+        {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 23时42分]"
         },
         {
           "title": "特朗普称很快重击伊朗镐山核设施",
@@ -552,6 +610,30 @@
           "time_info": "[01时18分 ~ 05时08分]"
         },
         {
+          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时42分]"
+        },
+        {
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时42分]"
+        },
+        {
           "title": "日元跌破 1 美元兑 163 日元关口，创下近 40 年来新低，日本央行已加息至 1%，政府最新政策有何意义？",
           "url": "https://www.zhihu.com/question/2063034932763669204",
           "source": "知乎",
@@ -576,16 +658,15 @@
           "time_info": "[05时08分 ~ 06时56分]"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时09分 ~ 21时51分]"
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
@@ -621,18 +702,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时32分 ~ 13时49分]"
-        },
-        {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 21时51分]"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -754,6 +823,17 @@
           "time_info": "[07时56分 ~ 10时32分]"
         },
         {
+          "title": "OpenAI遭遇史上首次评测失控事故",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "周二（7月21日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7689元，较周一纽约尾盘涨3点，日内整体交投于6.7699-6.7635元区间。",
           "url": "https://wallstreetcn.com/livenews/3137760",
           "source": "华尔街见闻-快讯",
@@ -828,7 +908,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -894,7 +974,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -949,7 +1029,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -963,17 +1043,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
-        },
-        {
-          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时51分"
         },
         {
           "title": "特朗普：如果也门胡塞武装封锁红海，美国将采取行动",
@@ -1042,6 +1111,17 @@
           "time_info": "16时27分"
         },
         {
+          "title": "特朗普对伊态度转鹰，OpenAI智能体测试中突破隔离| Plus日报",
+          "url": "https://flash.jin10.com/detail/20260722230716718800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "SpaceX的宏大解禁即将来临，逾千亿美元股票将可上市交易",
           "url": "https://wallstreetcn.com/livenews/3137686",
           "source": "华尔街见闻-快讯",
@@ -1059,7 +1139,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1130,17 +1210,6 @@
           "time_info": "19时09分"
         },
         {
-          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
-          "url": "https://www.cls.cn/detail/2434152",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
           "title": "谷歌(GOOG.O)：Gemini 3.6 Flash具备快速理解上下文能力，可帮助用户打造专属创意工具。",
           "url": "https://flash.jin10.com/detail/20260722000525610800",
           "source": "金十数据",
@@ -1158,7 +1227,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1202,7 +1271,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1356,7 +1425,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1378,7 +1447,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1436,6 +1505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "超微电脑涨幅扩大至25%，创2024年以来最佳盘中表现，初步业绩显示，该公司积压订单超过600亿美元——创新高。",
+          "url": "https://wallstreetcn.com/livenews/3138291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普承认伊朗在约旦“钻了空子”",
@@ -1502,6 +1582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
+          "url": "https://wallstreetcn.com/livenews/3138289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
@@ -1603,6 +1694,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "美国贸易代表格里尔：昨日与加拿大贸易官员对话。 加拿大并没有提前知晓特朗普政府要对其加征50%的关税。",
+          "url": "https://wallstreetcn.com/livenews/3138287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普再设关税阶梯：仿制药税率两年后升至100%，随后翻倍至200%",
           "url": "https://flash.jin10.com/detail/20260722095638576800",
           "source": "金十数据",
@@ -1631,7 +1733,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1708,7 +1810,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1752,7 +1854,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1766,6 +1868,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "科威特发行三部分到期时间的债券，拟融资至少50亿美元，已经获得超过178亿美元认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美股全线高开 闪迪、西部数据均涨超8%",
