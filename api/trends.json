@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T21:56:48.871871+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-07-23T23:55:47.961805+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 150,
+      "match_count": 165,
       "titles": [
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
@@ -32,6 +32,31 @@
           "time_info": "[01时18分 ~ 10时37分]"
         },
         {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 23时55分]"
+        },
+        {
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 23时55分]"
+        },
+        {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
           "url": "https://wallstreetcn.com/articles/3777680",
           "source": "华尔街见闻",
@@ -45,16 +70,16 @@
           "time_info": "[01时18分 ~ 16时28分]"
         },
         {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时02分 ~ 21时56分]"
+          "time_info": "[10时37分 ~ 23时55分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -90,16 +115,16 @@
           "time_info": "[01时18分 ~ 05时06分]"
         },
         {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
           "ranks": [
             2,
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时37分 ~ 21时56分]"
+          "time_info": "[13时53分 ~ 23时55分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -111,30 +136,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 05时06分]"
-        },
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时37分 ~ 21时56分]"
-        },
-        {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 21时56分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -220,6 +221,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 07时02分]"
+        },
+        {
+          "title": "沙特确认油轮遭袭 布油触及100美元关口 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2435498",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 23时55分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 23时55分]"
         },
         {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
@@ -362,7 +387,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -373,7 +398,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -422,15 +447,15 @@
           "time_info": "05时06分"
         },
         {
-          "title": "沙特确认油轮遭袭 布油触及100美元关口 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2435498",
-          "source": "财联社热门",
+          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
+          "url": "https://wallstreetcn.com/livenews/3138980",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "23时55分"
         },
         {
           "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
@@ -450,9 +475,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "特朗普：伊朗尚未准备好达成协议",
+          "url": "https://flash.jin10.com/detail/20260723234018735800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "WTI 9月原油期货收涨2.49美元，涨幅超过2.95%，报86.83美元/桶，亚太盘初以来持续上扬，北京时间17:52涨至88.61美元，逼近6月3日顶部89.90美元、5月18日顶部95.30美元。 布伦特9月原油期货收涨3.06美元，涨幅超过3.36%，报94.07美元/桶，逼近6月3日顶部96.22美元、5月18日顶部103.26美元。 中东Abu Dhabi Murban原油期货涨4.31%，报89.47美元/桶，16:29曾涨至91.30美元。 NYMEX 8月天然气期货收报2.9250美元/百万英热单位。 NYMEX 8月汽油期货收报3.4147美元/加仑，NYMEX 8月取暖油期货收报4.1488美元/加仑。",
@@ -464,19 +500,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时37分 ~ 21时56分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -594,8 +617,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 23时55分]"
+        },
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时09分 ~ 21时56分]"
+          "time_info": "[21时56分 ~ 23时55分]"
         },
         {
           "title": "碳纤维的下半场：从“产业荒漠”到国家级集群 国产“黑黄金”如何跨越长周期？|活力中国调研行",
@@ -678,6 +713,17 @@
           "time_info": "16时28分"
         },
         {
+          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
+          "url": "https://wallstreetcn.com/livenews/3138978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国能源部：协议为一项持续数十年、规模达数十亿美元的合作伙伴关系奠定基础，将推动包括核不扩散在内的多项优先经济和战略目标。",
           "url": "https://flash.jin10.com/detail/20260723043638458800",
           "source": "金十数据",
@@ -717,7 +763,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -731,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
+          "url": "https://wallstreetcn.com/livenews/3138976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "Alphabet二季度资本支出翻倍至449亿美元",
@@ -766,6 +823,17 @@
           "time_info": "19时09分"
         },
         {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普尚未就核协议条件与沙特领导人进行交谈。",
+          "url": "https://flash.jin10.com/detail/20260723233557382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "特斯拉二季度营收282.4亿美元，分析师预期263.2亿美元。 二季度汽车营收205.2亿美元，分析师预期186.8亿美元。 二季度服务与其他营收45.8亿美元，分析师预期32.7亿美元。 二季度活跃的FSD（全自动驾驶）订阅用户数148万，分析师预期140万。 二季度发电与储能营收31.4亿美元，分析师预期37.7亿美元。 二季度调整后每股收益（EPS）为0.33美元，分析师预期0.51美元。 二季度毛利润率16.8%，分析师预期19.4%。 二季度运营利润3.98亿美元，分析师预期13.9亿美元。 二季度自由现金流（FCF）为负10.9亿美元（-10.9亿美元），分析师预期-36.4亿美元。 特斯拉美股盘后跌2.41%，暂报365.00美元。",
           "url": "https://wallstreetcn.com/livenews/3138393",
           "source": "华尔街见闻-快讯",
@@ -794,7 +862,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -808,17 +876,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "谷歌再次上调2026年资本支出预期 算力产业链核心或将继续受益",
@@ -953,13 +1010,24 @@
           "time_info": "13时53分"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3138972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美股低开：特斯拉跌超8% 谷歌跌超6%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%858%25+%E8%B0%B7%E6%AD%8C%E8%B7%8C%E8%B6%856%25",
           "source": "百度热搜",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1019,6 +1087,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063569251428819442",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "WTI原油日内涨超2.00%，现报88.64美元/桶。",
           "url": "https://flash.jin10.com/detail/20260723060848550800",
           "source": "金十数据",
@@ -1028,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "WTI原油期货涨幅扩大至7%，至93美元/桶上方。布伦特原油涨超5%，报95.31美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3138970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "IBM(IBM.N)2026年Q2EPS 2.27美元，去年同期2.31美元，市场预期2.44美元。",
@@ -1124,7 +1214,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1146,9 +1236,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "黄金快出中期底部了吗？注意别盯漏它的动向",
+          "url": "https://flash.jin10.com/detail/20260723233240834800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
@@ -1179,9 +1280,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "Alphabet(GOOG.O)：Gemini模型现在每分钟可处理220亿个API词元（TOKENS）。",
@@ -1212,7 +1324,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1267,9 +1379,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
+        },
+        {
+          "title": "特朗普：接近就“大规模打击”伊朗作出决定",
+          "url": "https://flash.jin10.com/detail/20260723233215266800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "周三（7月22日）美股尾盘，美股降息赢家指数大致持平，报95.17点，早盘冲高回落、随后出现一波V形反转行情。 “特朗普关税输家”指数跌0.13%，“特朗普金融指数”跌0.17%。",
@@ -1333,7 +1456,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1415,6 +1538,17 @@
           "time_info": "19时09分"
         },
         {
+          "title": "纳斯达克100指数跌幅扩大至2%，纳指跌超2.3%，标普跌1.3%、恐慌指数VIX涨17%，道指维持大约1%的跌幅。 美股超大规模云服务商（Hyperscalers）指数跌幅扩大至约5%——跳空低开之后持续扩大跌幅，刷新日低至86.24点。 亚马逊股价下跌5%，创2月6日以来最大盘中跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3138960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
           "url": "https://flash.jin10.com/detail/20260723000745259800",
           "source": "金十数据",
@@ -1487,7 +1621,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1509,7 +1643,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1542,7 +1676,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1597,7 +1731,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -1633,6 +1767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        },
+        {
+          "title": "WTI原油日内涨幅达6.0%，报92.04美元/桶。 美元兑日元涨0.5%，报163.97。",
+          "url": "https://wallstreetcn.com/livenews/3138955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "欧盟因谷歌搜索业务对其罚款4.6亿欧元，因Google Play商店业务对其罚款4.3亿欧元。（彭博）",
@@ -1679,6 +1824,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "谷歌未来支出承诺飙升至8110亿美元",
+          "url": "https://wallstreetcn.com/livenews/3138950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "谷歌母公司Alphabet的CFO：收购Wiz对谷歌云利润构成拖累。",
           "url": "https://wallstreetcn.com/livenews/3138425",
           "source": "华尔街见闻-快讯",
@@ -1688,6 +1844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "金价四连涨深圳水贝又挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     }
