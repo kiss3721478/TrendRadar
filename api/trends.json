@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T01:38:10.679440+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-25T03:24:22.879467+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 18,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时24分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时24分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -47,20 +47,55 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7702元，较周四夜盘收盘涨75点。成交量295.88亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
+          "url": "https://www.zhihu.com/question/2064132609781798497",
+          "source": "知乎",
+          "ranks": [
+            20,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时24分]"
+        },
+        {
+          "title": "谷歌公司回应美国总统发出301调查威胁，称：曾努力设法符合欧盟数字市场法案（DMA）的要求。 就近期欧盟委员会（反垄断）决定的影响表达诸多关切。 感谢美国政府的介入。",
+          "url": "https://wallstreetcn.com/livenews/3139614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
           "url": "https://wallstreetcn.com/livenews/3139589",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 03时24分]"
         },
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -70,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时24分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -81,41 +116,43 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时24分]"
         },
         {
           "title": "专访菲尔兹奖得主邓煜：差点成为职业棋手，谈北大“超黄金一代”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33649333",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
-        },
-        {
-          "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
-          "url": "https://www.zhihu.com/question/2064132609781798497",
-          "source": "知乎",
-          "ranks": [
+            19,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时24分]"
         },
         {
           "title": "黄金还能不能买",
           "url": "https://www.toutiao.com/trending/7666083399173410350/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时24分]"
+        },
+        {
+          "title": "沙特阿拉伯公共投资基金与美国进出口银行签署价值最高达150亿美元的谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260725030342885800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "贝莱德启动123亿美元债券发售，为Meta数据中心项目融资",
@@ -124,7 +161,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -135,9 +172,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "谷歌：正设法符合欧盟数字市场法案（DMA）的要求。",
+          "url": "https://flash.jin10.com/detail/20260725030013507800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.63%，暂报2119.90点，上周五结束交易以来（7*24）累计下跌1.56%，整体冲高回落。 MarketVectorTM数字资产100中盘指数跌1.49%，报2393.94点，期内累跌6.63%，7月21日北京时间16:01拉升至2669.08点，随后持续下挫。 MarketVector数字资产100指数跌1.42%，报12649.38点，期内累涨0.08%，整体冲高回落。 最近七天迄今，Solana累跌1.81%，狗狗币累跌5.52%，XRP累跌0.26%。 比特币跌0.30%，暂报63878.70美元；以太坊涨0.69%，暂报1854.812美元。",
@@ -146,9 +194,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "谷歌：对近期欧盟委员会相关决定的影响表示担忧；对美国政府的参与表达感谢。",
+          "url": "https://flash.jin10.com/detail/20260725025810940800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "LME期铜收涨50美元，报13645美元/吨。 LME期铝收跌28美元，报3160美元/吨。 LME期锌收涨6美元，报3592美元/吨。 LME期铅收跌6美元，报1887美元/吨。 LME期镍收涨146美元，报17379美元/吨。 LME期锡收涨455美元，报53781美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -157,9 +216,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "美国总统特朗普周五围绕伊朗问题会见多个顶级顾问。 本次会议讨论是否加大对伊朗的袭击力度。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3139606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
+          "url": "https://wallstreetcn.com/livenews/3139604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶96.78美元，下跌3.91美元，跌幅3.88%。",
+          "url": "https://flash.jin10.com/detail/20260725024554682800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "美国总统特朗普声称：加拿大没有邀请美方参加大桥开通仪式。 美方修改了关于跨境大桥的协议，美国获得（通行）收入的50%。",
@@ -168,7 +260,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -179,9 +271,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普政府因新一轮全球关税而被推上被告席，多家小微企业挑战美国总统特朗普的301关税。 标普500指数目前涨0.36%道指涨0.53%，纳指跌0.13%，半导体指数跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3139598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普会晤高级顾问 评估是否加大对伊朗军事行动力度",
+          "url": "https://flash.jin10.com/detail/20260725023621281800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
@@ -190,9 +315,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月24日（周五）晚盘收盘上涨0.62%报886.61元/克；<br/>上海黄金交易所白银T+D 7月24日（周五）晚盘收盘上涨1.45%报14268.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260725023523325800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
@@ -201,9 +337,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
+          "url": "https://wallstreetcn.com/livenews/3139592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "周五（7月24日），美联储隔夜逆回购协议（RRP）使用规模为6.75亿美元（交易对手2家），上个交易日报9.04亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     }
