@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T21:24:07.397635+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-07-25T23:02:42.377050+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 93,
+      "match_count": 98,
       "titles": [
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -16,8 +16,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时12分 ~ 21时24分]"
+          "appearance_count": 9,
+          "time_info": "[08时12分 ~ 23时02分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时12分 ~ 23时02分]"
         },
         {
           "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
@@ -35,19 +48,6 @@
           "time_info": "[01时37分 ~ 15时14分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时12分 ~ 21时24分]"
-        },
-        {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
           "url": "https://wallstreetcn.com/articles/3777828",
           "source": "华尔街见闻",
@@ -58,6 +58,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时37分 ~ 08时12分]"
+        },
+        {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9,
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时12分 ~ 23时02分]"
         },
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -82,22 +98,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时37分 ~ 05时02分]"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时12分 ~ 21时24分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -193,6 +193,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时02分]"
+        },
+        {
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "谷歌公司回应美国总统发出301调查威胁，称：曾努力设法符合欧盟数字市场法案（DMA）的要求。 就近期欧盟委员会（反垄断）决定的影响表达诸多关切。 感谢美国政府的介入。",
@@ -370,6 +393,30 @@
           "time_info": "[15时14分 ~ 19时09分]"
         },
         {
+          "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
+          "url": "https://www.zhihu.com/question/2064281439982576241",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普再打关税战 这次有何不同",
+          "url": "https://www.toutiao.com/trending/7666438148708109865/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普称詹姆斯是种族主义者",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -394,15 +441,16 @@
           "time_info": "[08时12分 ~ 12时10分]"
         },
         {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
+          "title": "韩国存储双雄9500亿美元大单",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AD%98%E5%82%A8%E5%8F%8C%E9%9B%849500%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E5%8D%95%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 23时02分]"
         },
         {
           "title": "特朗普称美国与伊朗仍在对话",
@@ -488,17 +536,6 @@
           "time_info": "[12时10分 ~ 15时14分]"
         },
         {
-          "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
-          "url": "https://www.zhihu.com/question/2064281439982576241",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
-        },
-        {
           "title": "黄金此处有大量看跌期权防守，但向上突破仍需闯过这一关",
           "url": "https://flash.jin10.com/detail/20260725155203462800",
           "source": "金十数据",
@@ -509,17 +546,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时46分 ~ 19时09分]"
-        },
-        {
-          "title": "特朗普再打关税战 这次有何不同",
-          "url": "https://www.toutiao.com/trending/7666438148708109865/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "周五（7月24日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7718元，较周四纽约尾盘涨57点，日内整体交投于6.7789-6.7698元区间。 本周，离岸人民币终稿回落，7月21日亚太尾盘曾达到6.7635元。",
@@ -592,15 +618,15 @@
           "time_info": "[17时46分 ~ 19时09分]"
         },
         {
-          "title": "韩国存储双雄9500亿美元大单",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AD%98%E5%82%A8%E5%8F%8C%E9%9B%849500%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E5%8D%95%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://news.ifeng.com/c/8v378W8XMdI",
+          "source": "凤凰网",
           "ranks": [
-            29
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 19时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "沙特阿拉伯公共投资基金与美国进出口银行签署价值最高达150亿美元的谅解备忘录。",
@@ -623,6 +649,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
+          "url": "https://flash.jin10.com/detail/20260725222304302800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "据白宫官员透露，乌克兰总统泽连斯基将于下周初与美国总统特朗普会面。",
@@ -920,6 +968,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "韩总统带财阀赴美签近万亿美元大单",
+          "url": "https://www.toutiao.com/trending/7666454874833292819/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
