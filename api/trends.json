@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-27T07:04:32.437414+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-07-27T10:49:13.902518+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 30,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 10时49分]"
+        },
         {
           "title": "特朗普下令暂停空袭伊朗",
           "url": "https://wallstreetcn.com/articles/3777934",
@@ -19,16 +31,16 @@
           "time_info": "[00时59分 ~ 07时04分]"
         },
         {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
+          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437150",
           "source": "财联社热门",
           "ranks": [
-            4,
+            6,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 07时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 10时49分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -53,6 +65,18 @@
           "time_info": "[00时59分 ~ 07时04分]"
         },
         {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 10时49分]"
+        },
+        {
           "title": "特朗普下令暂停空袭伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
           "source": "澎湃新闻",
@@ -64,15 +88,26 @@
           "time_info": "[00时59分 ~ 02时06分]"
         },
         {
-          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437150",
+          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
+          "url": "https://www.cls.cn/detail/2437313",
           "source": "财联社热门",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 07时04分]"
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
         },
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -100,17 +135,6 @@
           "time_info": "[00时59分 ~ 07时04分]"
         },
         {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 07时04分]"
-        },
-        {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
           "url": "https://www.zhihu.com/question/2063915578427963194",
           "source": "知乎",
@@ -122,6 +146,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 07时04分]"
+        },
+        {
+          "title": "黄金“猴市”要延续多久？空头对4000的进攻或再衰三竭",
+          "url": "https://flash.jin10.com/detail/20260727102250644800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "The Exploration Company GmbH洽谈从欧盟Scaleup Europe Fund融资至少3亿美元，使得公司估值超过20亿美元。（英国金融时报）",
@@ -244,6 +279,17 @@
           "time_info": "[01时00分 ~ 05时59分]"
         },
         {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
           "title": "英国国防大臣：欧洲将感谢特朗普，因为他迫使欧洲实现自立。我们并不总是认同特朗普及其行事方式，但他促使我们避免产生自满情绪。",
           "url": "https://flash.jin10.com/detail/20260727002330493800",
           "source": "金十数据",
@@ -280,6 +326,28 @@
           "time_info": "[05时59分 ~ 07时04分]"
         },
         {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
+          "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
+          "url": "https://www.cls.cn/detail/2437139",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
           "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
           "url": "https://flash.jin10.com/detail/20260727041540869800",
           "source": "金十数据",
@@ -304,6 +372,17 @@
           "time_info": "[05时59分 ~ 07时04分]"
         },
         {
+          "title": "霍尔木兹风险再度升级 油价重返100美元 海湾国家加速重构原油出口网络",
+          "url": "https://www.cls.cn/detail/2437054",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
@@ -316,15 +395,37 @@
           "time_info": "[05时59分 ~ 07时04分]"
         },
         {
+          "title": "调查：多数美国人认为伊朗冲突比特朗普预期更困难",
+          "url": "https://flash.jin10.com/detail/20260727102142849800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
           "title": "WTI原油期货盘初重挫8.00%，现报83.23美元/桶。",
           "url": "https://flash.jin10.com/detail/20260727060246653800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）上海金早盘价为894.47元/克，较国际金价(893.23元/克)，高1.24元/克",
+          "url": "https://flash.jin10.com/detail/20260727101955414800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "现货黄金跳空高开现报4090美元/盎司，日内涨0.94%。",
@@ -333,7 +434,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -344,9 +445,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "A股创新药概念再度活跃，哈三联、海南海药、益佰制药等多股涨停，昭衍新药、万邦医药、泰格医药涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3139953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "印尼盾兑美元在早盘交易中跌至1美元兑17,970印尼盾。",
+          "url": "https://flash.jin10.com/detail/20260727100551421800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.7911，上调28点；上一交易日中间价6.7939，上一交易日官方收盘价6.7744，上日夜盘报收6.7702。",
+          "url": "https://wallstreetcn.com/livenews/3139920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
