@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T20:53:39.164069+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-07-28T23:20:53.802564+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 129,
+      "match_count": 147,
       "titles": [
         {
           "title": "美股",
@@ -46,6 +46,18 @@
           "time_info": "[00时17分 ~ 18时34分]"
         },
         {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 23时20分]"
+        },
+        {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时22分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 20时53分]"
         },
         {
           "title": "美光科技总市值跌破万亿美元",
@@ -209,6 +209,17 @@
           "time_info": "[12时09分 ~ 15时37分]"
         },
         {
+          "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
           "url": "https://wallstreetcn.com/livenews/3140424",
           "source": "华尔街见闻-快讯",
@@ -270,9 +281,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国总统特朗普：我们将迅速结束伊朗的核威胁。",
@@ -286,6 +308,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "以色列总理内塔尼亚胡与美国总统特朗普在白宫椭圆形办公室会晤。",
+          "url": "https://flash.jin10.com/detail/20260728230530898800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国CME全天候黄金期货上线首周末需求强劲，成交将近1.5万份合约，散户为主",
           "url": "https://wallstreetcn.com/livenews/3140526",
           "source": "华尔街见闻-快讯",
@@ -295,6 +328,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 23时20分]"
         },
         {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
@@ -341,6 +388,21 @@
           "time_info": "02时24分"
         },
         {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 23时20分]"
+        },
+        {
           "title": "美银8月市场预测：股市历来不妙，美元和黄金将“迎东风”！",
           "url": "https://www.cls.cn/detail/2437764",
           "source": "财联社热门",
@@ -365,18 +427,18 @@
           "time_info": "[04时22分 ~ 06时07分]"
         },
         {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
           "ranks": [
-            13,
-            17,
-            12,
-            9
+            6,
+            8,
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时09分 ~ 20时53分]"
+          "time_info": "[15时37分 ~ 23时20分]"
         },
         {
           "title": "600名以色列前高官联名致信特朗普，发出警告",
@@ -390,30 +452,17 @@
           "time_info": "[12时09分 ~ 18时34分]"
         },
         {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
+          "title": "“黄金界爱马仕”市值1年蒸发超千亿",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%84%E9%87%91%E7%95%8C%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E5%B8%82%E5%80%BC1%E5%B9%B4%E8%92%B8%E5%8F%91%E8%B6%85%E5%8D%83%E4%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            8,
-            9
+            16,
+            17,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时53分]"
-        },
-        {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            20,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时53分]"
+          "time_info": "[18时34分 ~ 23时20分]"
         },
         {
           "title": "黄金到底部了吗",
@@ -475,6 +524,18 @@
           "time_info": "[18时34分 ~ 20时53分]"
         },
         {
+          "title": "刘亦菲被偶遇在北京SKP买黄金",
+          "url": "https://www.toutiao.com/trending/7667459000623202358/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 23时20分]"
+        },
+        {
           "title": "特朗普连发数十张AI图遭吐槽",
           "url": "https://www.douyin.com/hot/2586656",
           "source": "抖音",
@@ -484,18 +545,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "“黄金界爱马仕”市值1年蒸发超千亿",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%84%E9%87%91%E7%95%8C%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E5%B8%82%E5%80%BC1%E5%B9%B4%E8%92%B8%E5%8F%91%E8%B6%85%E5%8D%83%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 20时53分]"
         },
         {
           "title": "美国总统特朗普：伊朗正在乞求美国解除封锁。",
@@ -518,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "道明证券：若美联储维持利率不变，美元或将下跌",
+          "url": "https://flash.jin10.com/detail/20260728230031645800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国总统特朗普：交通部长Duffy已经要求在美国生产小型车和微型车。",
@@ -548,9 +608,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡抵达白宫与统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260728225729492800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "大摩：美联储决议前夕，投资者增持美元多头头寸",
@@ -586,6 +668,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "德商银行：预计到年底，钯金价格将达到每盎司1500美元（此前预测为1600美元）。",
           "url": "https://flash.jin10.com/detail/20260728182131489800",
           "source": "金十数据",
@@ -595,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "市场消息：乌克兰总统泽连斯基与特朗普的会晤结束，泽连斯基将离开白宫。",
+          "url": "https://flash.jin10.com/detail/20260728225717063800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国总统特朗普宣称：目前，伊朗正与我们洽谈达成协议。 伊朗在说“求求你们，别封锁”。 我们很快就会结束伊朗的核威慑。",
@@ -647,7 +751,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -729,6 +833,17 @@
           "time_info": "18时34分"
         },
         {
+          "title": "市场消息：特朗普将于美国东部时间上午（北京时间晚上）11点迎接以色列总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20260728225242613800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "现货黄金涨0.6%，白银涨0.4%，纽约铜涨约1%",
           "url": "https://wallstreetcn.com/livenews/3140516",
           "source": "华尔街见闻-快讯",
@@ -749,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "马斯克身家近乎高位腰斩，但仍超过7000亿美元",
+          "url": "https://flash.jin10.com/detail/20260728225103345800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.408%（6月24日为4.20%、创2025年1月份以来新高），投标倍数2.28（前次为2.35）",
@@ -773,17 +899,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "刘亦菲被偶遇在北京SKP买黄金",
-          "url": "https://www.toutiao.com/trending/7667459000623202358/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
           "title": "美股跌完韩股跌！美韩科技股联动性飙升，分散投资优势逐步消退",
           "url": "https://www.cls.cn/detail/2438661",
           "source": "财联社热门",
@@ -793,6 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "中东旅游业几近熄火：迪拜向国际游客提供价值逾800美元的奖励套餐",
+          "url": "https://www.cls.cn/detail/2439035",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "刘亦菲给员工送黄金",
@@ -988,9 +1114,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "美股费城半导体指数跌超6%，纳斯达克100指数跌超2%。 英伟达下跌1.41%，台积电中担任下跌3.98%，博通下跌2.46%，SK海力士ADR下跌9.54%，美光科技下跌10.90%，美国超微公司下跌9.41%，英特尔下跌8.39%，阿斯麦下跌5.64%，泛林集团下跌10.88%，arm holdings下跌8.99%，闪迪下跌16.17%，高通下跌3.08%，迈威尔科技下跌10.39%，西部数据下跌14.37%，希捷科技下跌13.20%。",
+          "url": "https://wallstreetcn.com/livenews/3141079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
@@ -1059,6 +1196,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "特朗普关税收入成了美国财政“救命钱”？加图研究所：债市根本不买账",
+          "url": "https://flash.jin10.com/detail/20260728223713254800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国总统特朗普被问及本周美联储货币政策会议，宣称：成本正在迅速下降。 利率应该下降，美国应该拥有全球最低的利率。 美联储主席沃什很棒，但他有理事会。",
           "url": "https://wallstreetcn.com/livenews/3140440",
           "source": "华尔街见闻-快讯",
@@ -1090,6 +1238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "OpenAI的CEO Altman将会见美国政府网络主管Kratsios。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3141075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "长鑫科技上市首日创下多项记录，美股科技股博弈进入杠杆时代 | Plus日报",
@@ -1131,7 +1290,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1147,13 +1306,24 @@
           "time_info": "06时07分"
         },
         {
+          "title": "Anthropic与OpenAI推动审查竞争对手的模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3141072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "ChatGPT反过来跟我倾诉",
           "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%8F%8D%E8%BF%87%E6%9D%A5%E8%B7%9F%E6%88%91%E5%80%BE%E8%AF%89&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1230,7 +1400,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1301,6 +1471,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "美股存储芯片指数一度重挫将近12%，逼近5月19日盘中最低位164.65点，较6月22日所创盘中历史最高位累计回撤39.8%。 成分股闪迪目前跌13.5%，西部数据跌12.7%，希捷科技跌11.8%，美光跌9%。此外，SK海力士ADR跌8.7%。",
+          "url": "https://wallstreetcn.com/livenews/3141069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "金十图示：2026年07月27日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260728010647951800",
           "source": "金十数据",
@@ -1321,6 +1502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "特朗普与泽连斯基在白宫会面",
+          "url": "https://flash.jin10.com/detail/20260728222606971800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "WTI原油期货跌约9.4%，触及82美元/桶。",
@@ -1351,7 +1543,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1384,9 +1576,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "现货白银日内跌超3.00%，现报56.65美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260728222341234800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "特朗普：若外交努力失败就恢复对伊军事行动",
@@ -1417,7 +1620,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
