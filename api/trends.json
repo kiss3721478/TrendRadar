@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T17:37:07.940959+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-07-29T20:02:01.994921+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 111,
+      "match_count": 121,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -34,6 +34,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时26分 ~ 17时37分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时59分 ~ 20时02分]"
         },
         {
           "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -111,18 +124,6 @@
           "time_info": "[07时59分 ~ 14时31分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时59分 ~ 17时37分]"
-        },
-        {
           "title": "中东旅游业几近熄火：迪拜向国际游客提供价值逾800美元的奖励套餐",
           "url": "https://www.cls.cn/detail/2439035",
           "source": "财联社热门",
@@ -144,6 +145,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 06时58分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时00分 ~ 20时02分]"
         },
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -185,7 +197,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -196,7 +208,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -245,6 +257,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "紫金矿业：终止收购联合黄金 拟认购其9.2%股权",
+          "url": "https://flash.jin10.com/detail/20260729194527137800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "对伊朗军事行动以来 特朗普与内塔尼亚胡首次会晤",
           "url": "https://wallstreetcn.com/livenews/3141157",
           "source": "华尔街见闻-快讯",
@@ -289,6 +312,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
+          "url": "https://www.zhihu.com/question/23846763",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 20时02分]"
+        },
+        {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
           "source": "百度热搜",
@@ -327,6 +361,51 @@
           "time_info": "[01时27分 ~ 03时22分]"
         },
         {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时02分]"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时02分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时02分]"
+        },
+        {
+          "title": "1股撬动六千万美元仓位！SK海力士“乌龙指”跨市场传导，加密多头遭强平",
+          "url": "https://www.cls.cn/detail/2439990",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时02分]"
+        },
+        {
           "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
           "url": "https://news.ifeng.com/c/8v99XqcoCB0",
           "source": "凤凰网",
@@ -351,33 +430,11 @@
           "time_info": "[11时14分 ~ 14时31分]"
         },
         {
-          "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
-          "url": "https://www.zhihu.com/question/23846763",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时37分]"
-        },
-        {
           "title": "美联储决议与Meta、微软财报在即，美股期指涨跌互现，存储股盘前续跌，油价涨超3%",
           "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
-        },
-        {
-          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
-          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -407,17 +464,6 @@
           "time_info": "[17时36分 ~ 17时37分]"
         },
         {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
-          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
-        },
-        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.81%，暂报2083.86点，北京时间01:00以来持续下跌、06:00过后加速下跌，07:00以来低位窄幅震荡。 MarketVectorTM数字资产100中盘指数跌1.96%，报2384.07点。 MarketVector数字资产100指数跌1.30%，报12714.11点。 目前，Solana跌1.84%，狗狗币跌1.17%，XRP跌2.45%。 比特币跌1.43%，暂报63979.20美元；以太坊跌1.21%，暂报1924.37美元。",
           "url": "https://wallstreetcn.com/livenews/3141137",
           "source": "华尔街见闻-快讯",
@@ -428,28 +474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 03时22分]"
-        },
-        {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
-        },
-        {
-          "title": "1股撬动六千万美元仓位！SK海力士“乌龙指”跨市场传导，加密多头遭强平",
-          "url": "https://www.cls.cn/detail/2439990",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
         },
         {
           "title": "LME期铜收跌48美元，报13685美元/吨。 LME期铝收跌20美元，报3148美元/吨。 LME期锌收跌34美元，报3577美元/吨。 LME期铅收涨4美元，报1894美元/吨。 LME期镍收跌243美元，报16970美元/吨。 LME期锡收跌758美元，报53583美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -773,7 +797,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -811,6 +835,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "摩根士丹利：将Visa(V.N)目标价上调至416.00美元，此前为415.00美元。",
+          "url": "https://flash.jin10.com/detail/20260729193321204800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "Visa第三财季净营收116亿美元，分析师预期114亿美元。 第三财季调整后每股收益（EPS）为3.32美元，分析师预期3.23美元。",
           "url": "https://wallstreetcn.com/livenews/3141184",
           "source": "华尔街见闻-快讯",
@@ -820,6 +855,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "美国最大的电力公用事业公司NextEra与Brookfield计划在肯塔基州建设价值1000亿美元的数据中心园区。",
+          "url": "https://wallstreetcn.com/livenews/3141663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
@@ -844,6 +890,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "摩根士丹利：将Paypal(PYPL.O)目标价从34.00美元上调至45.00美元。",
+          "url": "https://flash.jin10.com/detail/20260729193304948800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "福特汽车二季度调整后每股收益（EPS）为0.42美元，分析师预期0.36美元。 预计全年调整后EBIT（息税前利润）为100亿-110亿美元，公司原本预计85亿-105亿美元。 F-Series车型的复苏处于正轨之上。",
           "url": "https://wallstreetcn.com/livenews/3141183",
           "source": "华尔街见闻-快讯",
@@ -864,6 +921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "WTI原油日内涨幅达5%，报83.25美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3141662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "美国原油期货结算价为每桶79.26美元，下跌3.35美元，跌幅4.06%。",
@@ -998,6 +1066,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "宝洁第四财季销售净额212.0亿美元，预估213.4亿美元。 第四财季内生性收入增长0％，预估增长1.85％。 第四财季核心每股收益1.43美元，预估1.41美元。 宝洁预计2027年内生性收入增长1％至3％，预估增长2.44％。 宝洁预计2027年核心每股收益6.89美元至7.11美元，市场预估7.02美元。 宝洁美股盘前跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3141659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 7月28日（周二）晚盘收盘下跌0.4%报878.96元/克；<br/>上海黄金交易所白银T+D 7月28日（周二）晚盘收盘下跌0.34%报13962.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260729023026069800",
           "source": "金十数据",
@@ -1075,6 +1154,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "WTI原油日内涨幅达5%，报83.25美元/桶。 布伦特原油涨近5%，报85.88美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3141657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "WTI原油日内跌幅达5.0%，报78.43美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3141124",
           "source": "华尔街见闻-快讯",
@@ -1095,6 +1185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "英美资源集团据悉正洽谈以约10亿美元出售钻石开采与销售公司戴比尔斯。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3141655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "布伦特原油日内跌幅达5.0%，报81.56美元/桶；WTI原油5分钟内下跌0.61美元/桶，报78.59美元/桶。",
@@ -1139,6 +1240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "特朗普将宣布杜勒斯机场翻新计划细节。（美国哥伦比亚广播公司）",
+          "url": "https://wallstreetcn.com/livenews/3141654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
@@ -1257,7 +1369,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
