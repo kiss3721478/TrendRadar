@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T11:15:18.123020+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-07-29T14:31:53.600674+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 93,
+      "match_count": 101,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -32,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时26分 ~ 11时15分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 14时31分]"
         },
         {
           "title": "芯片抛售蔓延全球，纳指100较峰值跌10%，存储股走低，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -52,11 +52,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时26分 ~ 11时15分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 14时31分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -68,6 +69,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时26分 ~ 05时06分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时57分 ~ 14时31分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -84,19 +98,6 @@
           "time_info": "[01时26分 ~ 06时58分]"
         },
         {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时57分 ~ 11时15分]"
-        },
-        {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
@@ -104,8 +105,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时31分]"
         },
         {
           "title": "【早报】美存储股集体跳水；原油大跌、黄金走弱；长鑫科技将被纳入MSCI中国全股票指数",
@@ -116,8 +117,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时15分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时31分]"
         },
         {
           "title": "中东旅游业几近熄火：迪拜向国际游客提供价值逾800美元的奖励套餐",
@@ -163,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "以色列发言人：以色列支持美国总统特朗普选择的任何道路。",
@@ -295,22 +307,24 @@
           "url": "https://news.ifeng.com/c/8v99XqcoCB0",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 14时31分]"
         },
         {
           "title": "美股芯片存储大跌",
           "url": "https://www.douyin.com/hot/2588858",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 14时31分]"
         },
         {
           "title": "美国总统特朗普：伊朗如此气急败坏地想要与我达成一份协议。 我们将让伊朗签署一份协议。 我们将让战争结束。",
@@ -471,7 +485,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -496,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
+          "url": "https://www.zhihu.com/question/23846763",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "美股三大股指期货短线小幅下挫，道指期货跌0.13%，标普500指数期货跌0.08%，纳指期货跌0.02%。",
@@ -639,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "特朗普态度大转弯？美乌重谈军事支持，爱国者导弹与对俄制裁同步推进",
+          "url": "https://flash.jin10.com/detail/20260729141159710800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "光伏逆变器供应商Enphase二季度营收2.919亿美元，分析师预期2.921亿美元。 二季度资本开支1440万美元，分析师预期1410万美元。",
@@ -806,6 +842,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "加拿大皇家银行：将波音(BA.N)目标价从275美元下调至265美元。",
+          "url": "https://flash.jin10.com/detail/20260729140730696800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "思佳讯第三财季营收9.35亿美元，分析师预期9.249亿美元。 第三财季调整后每股收益（EPS）为1.08美元，分析师预期1.03美元。 预计第四财季营收10.1亿-10.6亿美元，分析师预期10.3亿美元。",
           "url": "https://wallstreetcn.com/livenews/3141181",
           "source": "华尔街见闻-快讯",
@@ -911,7 +958,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
@@ -982,6 +1029,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3141455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
           "url": "https://flash.jin10.com/detail/20260729053516327800",
           "source": "金十数据",
@@ -1015,6 +1073,28 @@
           "time_info": "06时58分"
         },
         {
+          "title": "铁粉深陷特朗普“杀猪盘”血本无归",
+          "url": "https://www.toutiao.com/trending/7667792760249781814/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "瑞银第二季度净利润28.0亿美元，同比+17%，预估24.7亿美元。 第二季度总营收137.0亿美元，同比+13%，预估132.6亿美元。 第二季度除税前利润35.9亿美元，同比+64%，预估32.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "苹果市值首次突破5万亿美元",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -1035,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%9C%A8%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86%E8%91%AC%E7%A4%BC%E6%89%93%E7%9E%8C%E7%9D%A1%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "布伦特原油日内跌幅达4.5%，报81.98美元/桶",
