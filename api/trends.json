@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-31T03:24:47.874825+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-07-31T05:09:25.495282+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 40,
+      "match_count": 62,
       "titles": [
+        {
+          "title": "近844克黄金被扣押36年：男子申请返还被驳回，烟台中院组织质证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684311",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 05时09分]"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 05时09分]"
+        },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
           "url": "https://wallstreetcn.com/articles/3778237",
@@ -19,26 +41,17 @@
           "time_info": "[01时26分 ~ 03时24分]"
         },
         {
-          "title": "近844克黄金被扣押36年：男子申请返还被驳回，烟台中院组织质证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684311",
-          "source": "澎湃新闻",
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            6,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
-        },
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 05时09分]"
         },
         {
           "title": "现货铂金涨超3%，报1660.54美元/盎司。",
@@ -47,18 +60,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7528元，较周三夜盘收盘涨102点。成交量391.57亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3142618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -69,7 +71,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -80,7 +82,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -96,15 +98,28 @@
           "time_info": "01时26分"
         },
         {
-          "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
-          "url": "https://wallstreetcn.com/livenews/3142615",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果(AAPL.O)2026财年Q3服务营收为307.4亿美元，低于市场预期的312.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731043546572800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "05时09分"
+        },
+        {
+          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 05时09分]"
         },
         {
           "title": "周四（7月30日），美联储隔夜逆回购协议（RRP）使用规模为10.76亿美元（交易对手3家），上个交易日报25.76亿美元。",
@@ -113,18 +128,6 @@
           "ranks": [
             1,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
-        },
-        {
-          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -143,6 +146,18 @@
           "time_info": "[01时26分 ~ 03时24分]"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7528元，较周三夜盘收盘涨102点。成交量391.57亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3142618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时09分]"
+        },
+        {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
           "url": "https://wallstreetcn.com/livenews/3142590",
           "source": "华尔街见闻-快讯",
@@ -155,16 +170,38 @@
           "time_info": "[01时26分 ~ 03时24分]"
         },
         {
-          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
+          "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
+          "url": "https://wallstreetcn.com/livenews/3142615",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6
+            5,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
+          "time_info": "[03时24分 ~ 05时09分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 05时09分]"
+        },
+        {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 05时09分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
@@ -191,28 +228,6 @@
           "time_info": "[01时26分 ~ 03时24分]"
         },
         {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
-        },
-        {
-          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
-          "url": "https://news.ifeng.com/c/8vBnavmwROe",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时24分]"
-        },
-        {
           "title": "美媒：马斯克计划在中期选举期间投入至少1亿美元，为共和党提供助力",
           "url": "https://flash.jin10.com/detail/20260731011742403800",
           "source": "金十数据",
@@ -230,7 +245,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -241,9 +256,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "苹果公司第三财季营收1094.2亿美元，分析师预期1088.5亿美元。 第三财季大中华区营收188.2亿美元，分析师预期195.8亿美元。 第三财季产品营收786.8亿美元，分析师预期772.5亿美元。 第三财季iPhone营收542.5亿美元，分析师预期536亿美元；iPad营收61.9亿美元（预期68.9亿美元），Mac营收103.5亿美元（预期86.2亿美元），可穿戴设备、居家、周边营收78.8亿美元（预期78.7亿美元）。 第三财季服务营收307.4亿美元，分析师预期313.6亿美元。 第三财季每股收益（EPS）为2.02美元——含0.11美元特朗普关税退税利好效应，分析师预期1.89美元。 第三财季EPS和运营现金流均创历史新高。 派息0.27美元/股。 苹果股价盘后跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3142643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "苹果(AAPL.O)2026财年Q3大中华区营收为188.2亿美元，市场预期为196.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731043243783800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "Meta Platforms(META.O)报告称，已通过长期和短期协议，承诺在未来投入近7000亿美元，用于人工智能数据中心、云计算等领域。",
@@ -252,7 +289,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -263,9 +300,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3142641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美国至7月24日当周外国央行持有美国国债 339.02亿美元，前值248.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731043105408800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "苹果(AAPL.O)2026财年Q3 iPhone销售业务收入为542.5亿美元，市场预期538.57亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731043055960800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "花旗称日元将转弱，建议在日本央行决议前做多美元兑日元",
@@ -279,15 +349,48 @@
           "time_info": "01时26分"
         },
         {
+          "title": "加密货币交易所Coinbase二季度总收入12.2亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3142638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "苹果(AAPL.O)2026财年Q3营收1094.2亿美元，去年同期940.36亿美元，市场预期1085.78亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731043024065800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
           "title": "据知情人士透露，基金公司Situational Awareness的资产管理规模缩水至100亿美元。 该公司已经转让大宗股票给Citadel。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3142604",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "Reddit二季度营收8.049亿美元，分析师预期7.318亿美元。 Reddit美股盘后跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3142637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "据纽约时报：据知情人士透露，马斯克计划在中期选举中至少投入1亿美元，助力共和党在中期选举中获胜。",
@@ -301,6 +404,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "第一太阳能维持全年资本开支预期在8亿-10亿美元不变，分析师预期8.758亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3142636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
           "title": "OpenAI：GPT-5.6 SOL快速模式取代了API中的优先级处理。",
           "url": "https://flash.jin10.com/detail/20260731010243690800",
           "source": "金十数据",
@@ -310,6 +424,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普下令限制关键矿物废料的出口。",
+          "url": "https://flash.jin10.com/detail/20260731042633412800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "微软市值单日增加4500亿美元，创股市之最",
+          "url": "https://wallstreetcn.com/livenews/3142634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "OpenAI：SOL定价、ChatGPT和Codex订阅价格及配额预算保持不变；Terra和Luna的使用消耗的积分更少。",
@@ -340,7 +476,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -362,9 +498,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "金十图示：2026年07月30日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260731041111515800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "OpenAI：LUNA API定价为每百万个输入Token0.20美元，每百万个输出Token1.20美元。",
@@ -384,9 +531,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "金十图示：2026年07月30日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260731041106345800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "现货白银日内涨幅达2.0%，报58.76美元/盎司。",
@@ -422,15 +580,92 @@
           "time_info": "01时26分"
         },
         {
+          "title": "亚马逊(AMZN.O)：过去十二个月的自由现金流降至净流出76亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731040526807800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "意大利家族因460亿美元雷朋财富爆发内斗",
+          "url": "https://wallstreetcn.com/livenews/3142624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "Rivian(RIVN.O)第二季度营收为16.58亿美元，市场预期为15.07亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731040356999800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
           "title": "微软市值飙升4900亿美元，有望创下史上最大单日市值涨幅纪录",
           "url": "https://wallstreetcn.com/livenews/3142608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)预计Q3营收为1,970亿至2,020亿美元，而市场预估为2,040.72亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731040350891800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美元指数跌超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3142622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)2026年Q2AWS云业务收入为422亿美元，市场预期404.81亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731040214168800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)2026年Q2营收2006亿美元，去年同期1677.02亿美元，市场预期1964.22亿美元。",
+          "url": "https://flash.jin10.com/detail/20260731040133726800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "基金公司Situational Awareness对Anthropic持股50亿美元。 高盛、摩根大通参与了Situational Awareness大宗交易的磋商。 Situational Awareness将保持私人投资公司的地位。（英国金融时报）",
@@ -453,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "WTI 9月原油期货收跌0.87美元，跌幅1.03%，报83.59美元/桶。 布伦特9月原油期货收跌1.71美元，跌幅超过1.88%，报89.03美元/桶。 中东Abu Dhabi Murban原油期货跌0.34%，报87.70美元/桶。 NYMEX 8月天然气期货收报2.7580美元/百万英热单位。 NYMEX 8月汽油期货收报3.2847美元/加仑，NYMEX 8月取暖油期货收报4.2094美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3142613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         }
       ]
     }
