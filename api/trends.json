@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T19:20:09.197883+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-08-01T21:18:19.727491+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 84,
+      "match_count": 87,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 19时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时01分 ~ 21时18分]"
         },
         {
           "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 19时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时01分 ~ 21时18分]"
         },
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -67,8 +67,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时20分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[02时20分 ~ 21时18分]"
+        },
+        {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时01分 ~ 21时18分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -115,20 +129,6 @@
           "time_info": "[02时20分 ~ 06时05分]"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 19时20分]"
-        },
-        {
           "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
           "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
           "source": "凤凰网",
@@ -138,6 +138,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时20分 ~ 17时58分]"
+        },
+        {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 21时18分]"
+        },
+        {
+          "title": "新规落地，医药代表站在转型十字路口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684657",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 21时18分]"
         },
         {
           "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
@@ -165,19 +193,6 @@
           "time_info": "[06时05分 ~ 08时02分]"
         },
         {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 19时20分]"
-        },
-        {
           "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
           "url": "https://wallstreetcn.com/articles/3778371",
           "source": "华尔街见闻",
@@ -202,15 +217,29 @@
           "time_info": "[06时05分 ~ 08时02分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-01）",
-          "url": "https://flash.jin10.com/detail/20260801184158588800",
-          "source": "金十数据",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
           "ranks": [
-            2
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 21时18分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 21时18分]"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
@@ -268,30 +297,31 @@
           "time_info": "04时20分"
         },
         {
-          "title": "新规落地，医药代表站在转型十字路口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684657",
-          "source": "澎湃新闻",
+          "title": "美军坠机,1亿美元化成灰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356700&amp;topic_name=%E7%BE%8E%E5%86%9B%E5%9D%A0%E6%9C%BA%2C1%E4%BA%BF%E7%BE%8E%E5%85%83%E5%8C%96%E6%88%90%E7%81%B0",
+          "source": "贴吧",
           "ranks": [
-            13,
-            9,
-            8
+            6,
+            11,
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时20分 ~ 19时20分]"
+          "time_info": "[15时27分 ~ 21时18分]"
         },
         {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            8
+            16,
+            14,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时20分 ~ 19时20分]"
+          "time_info": "[15时27分 ~ 21时18分]"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
@@ -316,6 +346,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 08时02分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-01）",
+          "url": "https://flash.jin10.com/detail/20260801184158588800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 21时18分]"
         },
         {
           "title": "CFTC：美联储7月决议前，交易员美元看涨押注升至2014年以来最高",
@@ -366,19 +408,6 @@
           "time_info": "[06时05分 ~ 08时02分]"
         },
         {
-          "title": "美军坠机,1亿美元化成灰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356700&amp;topic_name=%E7%BE%8E%E5%86%9B%E5%9D%A0%E6%9C%BA%2C1%E4%BA%BF%E7%BE%8E%E5%85%83%E5%8C%96%E6%88%90%E7%81%B0",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 19时20分]"
-        },
-        {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
           "url": "https://www.zhihu.com/question/2066288437683032785",
           "source": "知乎",
@@ -392,27 +421,27 @@
           "time_info": "[02时20分 ~ 06时05分]"
         },
         {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
+          "title": "美财长笔记本写着“买50-100亿美元的日元”，被拍到后日元升值",
+          "url": "https://news.ifeng.com/c/8vEhnJRdyDi",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 19时20分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时58分 ~ 19时20分]"
+          "time_info": "[19时19分 ~ 21时18分]"
+        },
+        {
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时18分]"
         },
         {
           "title": "新规落地，医药代表站在转型十字路口",
@@ -436,6 +465,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 06时05分]"
+        },
+        {
+          "title": "蔡崇信离婚涉及百亿美元资产",
+          "url": "https://www.baidu.com/s?wd=%E8%94%A1%E5%B4%87%E4%BF%A1%E7%A6%BB%E5%A9%9A%E6%B6%89%E5%8F%8A%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时18分]"
         },
         {
           "title": "如何评价OpenAI的数学能力",
@@ -497,17 +537,6 @@
           "time_info": "[15时27分 ~ 17时58分]"
         },
         {
-          "title": "美财长笔记本写着“买50-100亿美元的日元”，被拍到后日元升值",
-          "url": "https://news.ifeng.com/c/8vEhnJRdyDi",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
-        },
-        {
           "title": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元（交易对手4家），上个交易日报10.76亿美元。",
           "url": "https://wallstreetcn.com/livenews/3143412",
           "source": "华尔街见闻-快讯",
@@ -530,17 +559,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 08时02分]"
-        },
-        {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "特朗普最新支持率公布",
@@ -589,17 +607,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 08时02分]"
-        },
-        {
-          "title": "蔡崇信离婚涉及百亿美元资产",
-          "url": "https://www.baidu.com/s?wd=%E8%94%A1%E5%B4%87%E4%BF%A1%E7%A6%BB%E5%A9%9A%E6%B6%89%E5%8F%8A%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "美股三大指数集体高开 苹果跌超8%",
@@ -668,6 +675,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "特朗普威胁参议员通过其司法部长人选",
+          "url": "https://flash.jin10.com/detail/20260801195052778800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
           "url": "https://wallstreetcn.com/livenews/3143503",
           "source": "华尔街见闻-快讯",
@@ -679,6 +697,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "高至2万美元 美签证保证金将涨价并长期化",
+          "url": "https://wallstreetcn.com/livenews/3143606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "因担忧虚假图像，谷歌撤回地球AI工具",
           "url": "https://wallstreetcn.com/livenews/3143502",
           "source": "华尔街见闻-快讯",
@@ -688,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3143604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7525元，较周四夜盘收盘涨3点。成交量382.00亿美元。",
