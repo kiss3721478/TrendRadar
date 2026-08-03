@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T11:27:47.739027+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-08-03T14:59:15.653399+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 51,
+      "match_count": 62,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -93,6 +93,52 @@
           "time_info": "[00时01分 ~ 06时56分]"
         },
         {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 14时59分]"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 14时59分]"
+        },
+        {
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
+        },
+        {
+          "title": "黄金资金布局整体偏向上破，短期回调的“高发区”位于...——增强版同步发布！",
+          "url": "https://flash.jin10.com/detail/20260803144617188800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
@@ -120,17 +166,6 @@
           "time_info": "[04时55分 ~ 07时58分]"
         },
         {
-          "title": "接连反转！特朗普透露三个信息",
-          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
           "title": "报道：阿斯利康与与百时美施贵宝讨论医药交易",
           "url": "https://wallstreetcn.com/livenews/3143727",
           "source": "华尔街见闻-快讯",
@@ -142,18 +177,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时08分 ~ 06时56分]"
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 11时27分]"
         },
         {
           "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
@@ -254,6 +277,18 @@
           "time_info": "[03时08分 ~ 06时56分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 14时59分]"
+        },
+        {
           "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
           "url": "https://flash.jin10.com/detail/20260803015627779800",
           "source": "金十数据",
@@ -278,6 +313,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 05时55分]"
+        },
+        {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
         },
         {
           "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
@@ -388,6 +434,17 @@
           "time_info": "[00时02分 ~ 01时11分]"
         },
         {
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
+        },
+        {
           "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
           "url": "https://flash.jin10.com/detail/20260803013114997800",
           "source": "金十数据",
@@ -398,6 +455,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
+          "title": "60岁爷爷为给孙子挣医药费暴瘦40斤",
+          "url": "https://www.toutiao.com/trending/7669351162897989638/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
+        },
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
+        },
+        {
+          "title": "摩洛哥国王决定以特朗普名字命名公路",
+          "url": "https://www.toutiao.com/trending/7669384893911973894/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时58分 ~ 14时59分]"
         },
         {
           "title": "知名基金经理密集现身定增获配名单，机构称医药有望成为下半年结构性主线之一",
@@ -417,18 +507,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -442,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "铠侠：旗下子公司在涉及ViaSat的诉讼中被判支付2.29亿美元赔偿金，已在第一季度计提了与该诉讼相关的损失拨备。",
+          "url": "https://wallstreetcn.com/livenews/3143945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
@@ -494,7 +584,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -593,9 +683,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "菲律宾比索兑美元升至60.948，为6月24日以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260803140809648800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "特朗普拒绝为美伊达成协议设定最后期限",
@@ -604,9 +705,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "新台币兑美元下跌0.5%至32.454。",
+          "url": "https://wallstreetcn.com/livenews/3143928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "通胀“过山车”难挡美股牛市？小摩押注标普500明年冲击8200点",
+          "url": "https://flash.jin10.com/detail/20260803140546061800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     }
