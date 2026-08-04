@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T18:38:51.274068+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-08-04T21:03:33.083279+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 141,
+      "match_count": 155,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 18时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 21时03分]"
         },
         {
           "title": "穿山跨海的“黄金大外环”要来了",
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 08时10分]"
+        },
+        {
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时09分 ~ 21时03分]"
         },
         {
           "title": "美将 43 家中企拉黑，涵盖食品、医药等民生领域，这是否意味着全面脱钩已深入底层供应链？如何解读美方意图？",
@@ -47,18 +59,6 @@
           "time_info": "[04时27分 ~ 15时39分]"
         },
         {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时09分 ~ 18时38分]"
-        },
-        {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
@@ -67,11 +67,12 @@
             9,
             13,
             17,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 18时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 21时03分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -95,6 +96,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 04时27分]"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 21时03分]"
+        },
+        {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时03分]"
         },
         {
           "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
@@ -166,29 +193,18 @@
           "time_info": "[12时13分 ~ 15时39分]"
         },
         {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
+          "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
+          "url": "https://wallstreetcn.com/articles/3778603",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            7,
             5,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 18时38分]"
-        },
-        {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 21时03分]"
         },
         {
           "title": "地缘风险溢价消退，原油重挫7%破80美元，道指刷新历史新高，亚马逊市值突破三万亿",
@@ -222,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "加拿大连续第四个月录得贸易顺差，黄金出口抵消能源下滑",
+          "url": "https://flash.jin10.com/detail/20260804204310238800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "伊拉克石油市场输出组织（SOMO）负责人：经土耳其运输原油的关税为每桶1.62美元。 关税涵盖土耳其国有能源公司博塔斯（BOTAS）对输油管道的运营与维护。",
@@ -266,19 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
-        },
-        {
-          "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
-          "url": "https://wallstreetcn.com/articles/3778603",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 18时38分]"
         },
         {
           "title": "美25州联手，特朗普关税再遭阻击",
@@ -358,6 +372,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "黄金震荡幅度继续缩小？低波动行情还好持续多久？多空博弈鹿死谁手？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260804204046329800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "特朗普称伊朗领导层口是心非",
           "url": "https://wallstreetcn.com/livenews/3144260",
           "source": "华尔街见闻-快讯",
@@ -378,6 +403,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 21时03分]"
         },
         {
           "title": "特朗普威胁对伊朗采取“斩首”行动",
@@ -425,18 +463,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 06时09分]"
-        },
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 18时38分]"
         },
         {
           "title": "Snap(SNAP.N)2026年Q2营收16亿美元，市场预期为15.41亿美元，上年同期为13.45亿美元。",
@@ -536,6 +562,18 @@
           "time_info": "[12时13分 ~ 15时39分]"
         },
         {
+          "title": "创业板暴涨超5.6%，算力硬件全线反攻、光通信\"满屏涨停\"，医药股爆发、药明康德涨停，半导体强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3778628",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 21时03分]"
+        },
+        {
           "title": "美股半导体指数低开高走闪迪大涨超6%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%E9%97%AA%E8%BF%AA%E5%A4%A7%E6%B6%A8%E8%B6%856%25",
           "source": "百度热搜",
@@ -581,6 +619,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 06时09分]"
+        },
+        {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 21时03分]"
         },
         {
           "title": "金十图示：2026年08月03日（周一）热门中概股行情一览（美股收盘）",
@@ -730,17 +780,6 @@
           "time_info": "06时09分"
         },
         {
-          "title": "创业板暴涨超5.6%，算力硬件全线反攻、光通信\"满屏涨停\"，医药股爆发、药明康德涨停，半导体强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3778628",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "伊拉克国家石油营销组织SOMO负责人：通过土耳其运输原油的关税为每桶1.62美元。",
           "url": "https://flash.jin10.com/detail/20260804000711627800",
           "source": "金十数据",
@@ -802,7 +841,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -851,15 +890,15 @@
           "time_info": "06时09分"
         },
         {
-          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
-          "url": "https://wallstreetcn.com/articles/3778597",
-          "source": "华尔街见闻",
+          "title": "美国6月贸易帐 -733亿美元，预期 -730亿美元，前值 -776亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144754",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时38分"
+          "time_info": "21时03分"
         },
         {
           "title": "美国总统特朗普：希望在对伊朗采取极端措施前给予其最后机会。希望伊朗能够恢复理智。",
@@ -871,6 +910,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "英国石油公司CEO：400亿美元的总负债仍然过高。",
+          "url": "https://flash.jin10.com/detail/20260804203444335800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普：即便要收取海峡通航费，那也该是我们",
@@ -928,6 +978,17 @@
           "time_info": "08时10分"
         },
         {
+          "title": "美国6月石油进口价格为每桶86.06美元，较2025年6月的每桶62.53美元上涨37.6%（5月为每桶87.44美元）。",
+          "url": "https://flash.jin10.com/detail/20260804203322651800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至2%，美国总统特朗普宣称，正在讨论明天开放霍尔木兹海峡的问题。谈判第一阶段是重新开放海峡。霍尔木兹海峡可能最迟明天就会重新开放。",
           "url": "https://wallstreetcn.com/livenews/3144305",
           "source": "华尔街见闻-快讯",
@@ -961,6 +1022,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "美银全球研究：对SK海力士(SKHY.O)启动覆盖研究，给予“买入”评级；目标价250美元。",
+          "url": "https://flash.jin10.com/detail/20260804203155698800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "特朗普：应伊朗的要求与伊朗进行对话的，今明两天就会知晓谈判进展",
           "url": "https://wallstreetcn.com/livenews/3144304",
           "source": "华尔街见闻-快讯",
@@ -992,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "美国6月进口 3880亿美元，前值3953亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804203058628800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普：除非达成协议、或者伊朗彻底投降，否则任何东西都进不了伊朗",
@@ -1038,6 +1121,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "美国6月出口 3147亿美元，前值3177亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804203051274800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "美国总统特朗普宣称：对（美国和以色列）与伊朗冲突的解决方案推进得不错。",
           "url": "https://wallstreetcn.com/livenews/3144302",
           "source": "华尔街见闻-快讯",
@@ -1069,6 +1163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "据报道，预测市场Polymarket寻求以超过200亿美元的估值进行融资。",
+          "url": "https://wallstreetcn.com/livenews/3144749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美股三大指数集体高开",
@@ -1146,6 +1251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "美国6月贸易帐 -733亿美元，预期-730亿美元，前值-776亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804203003248800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "创业板指涨超4%，沪指跌0.04%，深成指涨2.28%，算力硬件、医药医疗、半导体芯片等方向涨幅居前，沪深京三市上涨个股超3600只。",
@@ -1291,6 +1407,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "据报道，Anthropic与人工智能云初创公司达成100亿美元的算力协议。",
+          "url": "https://wallstreetcn.com/livenews/3144743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
           "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
           "source": "百度热搜",
@@ -1352,7 +1479,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1377,6 +1504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "WTI原油日内跌幅达4.0%，报77.02美元/桶；布伦特原油日内跌幅达3.5%，报80.84美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3144740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "特朗普：霍尔木兹海峡可能最迟明天重开",
@@ -1476,6 +1614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "麦当劳预计全年资本支出37亿美元至39亿美元，市场预估37.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3144737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美国总统特朗普：这是伊朗的最后机会。",
@@ -1597,6 +1746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "WTI原油日内跌幅达2.0%，报78.66美元/桶；布伦特原油日内跌幅达1.5%，报82.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3144728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     }
