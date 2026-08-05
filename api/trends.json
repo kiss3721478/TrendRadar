@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-06T02:21:45.516803+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-08-06T04:26:55.156798+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 25,
+      "match_count": 48,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时26分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
+          "url": "https://wallstreetcn.com/livenews/3145597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
@@ -30,15 +42,48 @@
           "time_info": "00时42分"
         },
         {
+          "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260806040522076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "西部数据(WDC.O)2026财年Q4净利润31.95亿美元，上年同期为2.82亿美元。",
+          "url": "https://flash.jin10.com/detail/20260806040509918800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "周三（8月5日），美联储隔夜逆回购协议（RRP）使用规模为16.50亿美元（交易对手2家），上个交易日报22.51亿美元。",
           "url": "https://wallstreetcn.com/livenews/3145534",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "周三（8月5日），美股行业ETF多数下跌，能源业ETF收跌2.07%，半导体ETF跌1.04%，科技行业ETF跌0.53%，生物科技指数ETF涨0.87%，医疗业ETF涨1.27%。",
+          "url": "https://wallstreetcn.com/livenews/3145595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
@@ -47,9 +92,42 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "西部数据(WDC.O)2026财年Q4营收37.5亿美元，市场预期为36.92亿美元，上年同期为26.05亿美元。",
+          "url": "https://flash.jin10.com/detail/20260806040322650800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一，SpaceX跌超13%",
+          "url": "https://flash.jin10.com/detail/20260806040100669800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "闪迪第四财季调整后每股收益（EPS）为39.25美元，分析师预期34.37美元。 第四财季营收89.7亿美元，增幅51%。 2026财年营收202.5亿美元，较上年增长175%。 （公司董事会）批准140亿美元股票回购计划。 预计第一财季营收103亿-108亿美元，分析师预期111.6亿美元。 预计第一财季调整后EPS为44-46美元，分析师预期45.58美元。 闪迪美股盘后跌8%。",
+          "url": "https://wallstreetcn.com/livenews/3145593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "Franklin Templeton洽谈收购900亿美元规模的Alti Global。（CityWire）",
@@ -76,27 +154,41 @@
           "time_info": "[00时42分 ~ 02时21分]"
         },
         {
+          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2446634",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时26分]"
+        },
+        {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
           "url": "https://www.toutiao.com/trending/7670517654829927979/",
           "source": "今日头条",
           "ranks": [
             7,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时26分]"
         },
         {
-          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2446634",
-          "source": "财联社热门",
+          "title": "多国运回存在美国的黄金",
+          "url": "https://www.toutiao.com/trending/7670495093538688550/",
+          "source": "今日头条",
           "ranks": [
+            19,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时26分]"
         },
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -107,8 +199,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时26分]"
         },
         {
           "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
@@ -119,19 +211,43 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 04时26分]"
         },
         {
-          "title": "多国运回存在美国的黄金",
-          "url": "https://www.toutiao.com/trending/7670495093538688550/",
+          "title": "世界黄金协会：短期内首饰市场难回暖",
+          "url": "https://www.toutiao.com/trending/7670553322666855986/",
           "source": "今日头条",
           "ranks": [
+            22,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时42分 ~ 02时21分]"
+          "time_info": "[02时21分 ~ 04时26分]"
+        },
+        {
+          "title": "美国海关已退回约1000亿美元关税",
+          "url": "https://www.toutiao.com/trending/7669677245342056499/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 04时26分]"
+        },
+        {
+          "title": "Axon Enterprise Inc.二季度净销售9.04亿美元，分析师预期8.746亿美元。 上调全年营收增速预期至32%-34%。",
+          "url": "https://wallstreetcn.com/livenews/3145592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "谷歌AI核心人物Jeff Dean离职 创办AI初创公司",
@@ -151,9 +267,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "eBay二季度净营收31.3亿美元，分析师预期30.2亿美元。 二季度活跃买家1.36亿，分析师预期1.359亿。 二季度GMV为224亿美元，分析师预期215.7亿美元。 预计三季度净营收30.7亿-31.2亿美元，分析师预期29.7亿美元。 预计三季度GMV为220亿-224亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3145591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "谷歌(GOOG.O)跌幅扩大至逾3%，公司宣布对DeepMind进行领导层重组，谷歌DeepMind负责人Demis Hassabis将卸任首席执行官职务，出任Alphabet首席科学家兼谷歌DeepMind董事长。谷歌DeepMind首席技术官Koray Kavukcuoglu将出任新部门负责人。",
@@ -167,6 +294,28 @@
           "time_info": "00时42分"
         },
         {
+          "title": "数日前伊朗威胁反击能源设施 海湾国家敦促特朗普放弃袭击计划",
+          "url": "https://flash.jin10.com/detail/20260806035154028800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "Doordash二季度调整后EBITDA为9.14亿美元，分析师预期8.434亿美元。 预计三季度GOV为330亿-340亿美元，分析师预期334.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3145590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "谷歌(GOOG.O)短线下挫，现跌1.4%。",
           "url": "https://flash.jin10.com/detail/20260806000120042800",
           "source": "金十数据",
@@ -176,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "西部数据第四财季净营收37.5亿美元，分析师预期36.8亿美元。 第四财季调整后每股收益（EPS）为3.56美元，分析师预期3.31美元。 预计第一财季营收40亿-42亿美元，分析师预期40.2亿美元。 预计第一财季调整后EPS为3.85-4.15美元，分析师预期3.83美元。",
+          "url": "https://wallstreetcn.com/livenews/3145589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
@@ -206,7 +366,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -217,7 +377,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -233,13 +393,46 @@
           "time_info": "00时42分"
         },
         {
+          "title": "拉美电商MercadoLibre二季度净营收102亿美元，分析师预期97.8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3145587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。",
+          "url": "https://flash.jin10.com/detail/20260806032320074800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "SoundHound二季度营收6190万美元，分析师预期5220万美元。",
+          "url": "https://wallstreetcn.com/livenews/3145586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "美国民主党参议员Mark Warner：如果特朗普和万斯想打击欺诈行为，他们可以从特朗普在担任总统第一年中中饱私囊的22亿美元开始。",
           "url": "https://flash.jin10.com/detail/20260806012850217800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -250,9 +443,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "Block预计三季度调整后运营利润8.75亿美元，分析师预期8.65亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3145585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "Cirrus Logics Inc.（CRUS）美股盘后跌7.1%。 该公司第一财季净销售4.597亿美元，分析师预期4.602亿美元。 预计第二财季净收入5.10亿-5.7亿美元，分析师预期5.566亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3145584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的16.5亿美元。",
@@ -261,31 +476,75 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
         {
-          "title": "世界黄金协会：短期内首饰市场难回暖",
-          "url": "https://www.toutiao.com/trending/7670553322666855986/",
-          "source": "今日头条",
+          "title": "SpaceX收跌14%，市值蒸发2250亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3145582",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时21分"
+          "time_info": "04时26分"
         },
         {
-          "title": "美国海关已退回约1000亿美元关税",
-          "url": "https://www.toutiao.com/trending/7669677245342056499/",
-          "source": "今日头条",
+          "title": "美股存储芯片指数初步收跌2.5%，半导体指数跌1%。 标普500指数初步收跌0.1%，电信板块跌2.4%，能源板块跌2%，科技板块涨0.3%，保健板块涨1.3%，原材料板块涨1.6%。 纳斯达克100指数初步收跌0.6%，成分股中，SpaceX初步收跌13.6%，Astera Labs跌10.7%，汤森路透跌9%，AMD、西部数据至少跌5%，英伟达涨3.7%，万豪国际涨4.4%，Booking涨6.7%，Shopify涨16.6%。",
+          "url": "https://wallstreetcn.com/livenews/3145579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "加纳央行黄金采购计划2025年亏损19亿美元",
+          "url": "https://flash.jin10.com/detail/20260806024406643800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "周三（8月5日）纽约尾盘，ICE美元指数跌0.14%，报99.791点，日内交投区间为99.9-99.628点。 彭博美元指数跌0.18%，报1203.54点，日内交投区间为1205.66-1202.53点。 美元兑日元大致持平，报157.74日元，日内交投区间为157.31-157.88日元，整体呈现出W形走势。 欧元兑日元涨0.16%，报182.16日元；英镑兑日元涨0.09%，报212.376日元。",
+          "url": "https://wallstreetcn.com/livenews/3145571",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时21分"
+          "time_info": "04时26分"
+        },
+        {
+          "title": "周三（8月5日）纽约尾盘，彭博谷物分类指数跌0.24%，报30.9358点。 CBOT玉米期货跌1.02%，CBOT小麦期货涨0.95%。 CBOT大豆期货跌0.11%，报11.7675美元/蒲式耳，豆粕期货跌0.82%，豆油期货跌0.44%。 CBOT瘦肉猪期货跌1.51%，活牛期货涨0.67%，饲牛期货涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3145569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国银行：在美国+日本实施干预之后，下调美元兑日元年底预期至149（之前预计为152）。",
+          "url": "https://wallstreetcn.com/livenews/3145568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     }
