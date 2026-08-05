@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T19:59:50.178907+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-08-05T22:26:25.950008+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 116,
+      "match_count": 130,
       "titles": [
         {
           "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
@@ -227,6 +227,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "美国能源部批准向Pattern Energy旗下子公司Amanecer Puerto Rico提供4.894亿美元贷款。",
+          "url": "https://flash.jin10.com/detail/20260805221022949800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "特朗普：霍尔木兹海峡将很快重新开放。 如果伊朗再次反悔，他们将遭受重创。 我们与伊朗的谈判非常顺利。",
           "url": "https://wallstreetcn.com/livenews/3145117",
           "source": "华尔街见闻-快讯",
@@ -247,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "现货白银日内涨幅达5.0%，报62.5美元/盎司。 纽约金日内涨幅达3.0%，报4279美元/盎司。 据美国财政部，美国撤销了涉伊朗相关制裁。",
+          "url": "https://wallstreetcn.com/livenews/3145448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "WTI原油日内大跌5.00%，现报74.66美元/桶。",
@@ -293,6 +315,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://www.toutiao.com/trending/7670517654829927979/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "美国总统特朗普：霍尔木兹海峡将很快开放，否则伊朗将遭受严重打击。",
           "url": "https://flash.jin10.com/detail/20260805111555175800",
           "source": "金十数据",
@@ -321,7 +354,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -346,6 +379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "布伦特原油向下触及79美元/桶，日内跌4.91%。",
@@ -544,6 +588,18 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "金价重回900元大关",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%87%8D%E5%9B%9E900%E5%85%83%E5%A4%A7%E5%85%B3%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时26分]"
+        },
+        {
           "title": "日元对美元汇率小幅下跌",
           "url": "https://www.douyin.com/hot/2597351",
           "source": "抖音",
@@ -599,6 +655,28 @@
           "time_info": "06时11分"
         },
         {
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E4%B9%98%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%81%AD%E9%81%87%E9%A3%9E%E8%A1%8C%E5%AE%89%E5%85%A8%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "SpaceX(SPCX.O)2026年Q2营收78亿美元，市场预期为69.34亿美元。",
           "url": "https://flash.jin10.com/detail/20260805040253087800",
           "source": "金十数据",
@@ -619,6 +697,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至5%，现报62.51美元/盎司。现货黄金涨约3.5%。",
+          "url": "https://flash.jin10.com/detail/20260805220544217800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2446634",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美股收盘：道指、标普500创新高 海力士涨8%",
@@ -671,7 +771,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -759,7 +859,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -913,9 +1013,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "原油涨幅收窄，布伦特原油价格位于80美元/桶之下。",
+          "url": "https://wallstreetcn.com/livenews/3145433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "油价下跌美元走弱提振黄金 中东局势降温或推动涨势延续",
@@ -968,7 +1079,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1001,7 +1112,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1037,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨超1%，处于连续第九个交易日上涨之中，报103.50美元，逼近6月1日顶部108.03美元和2025年9月顶部117.97美元（历史最高位）。",
+          "url": "https://wallstreetcn.com/livenews/3145429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
@@ -1133,7 +1255,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1166,9 +1288,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "美股三大股指小幅高开 SpaceX盘初大跌市值蒸发2050亿美元",
+          "url": "https://wallstreetcn.com/livenews/3145422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "现货黄金涨约0.6%，白银涨超2.3%，铂族贵金属涨超6%",
@@ -1188,7 +1321,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1292,15 +1425,37 @@
           "time_info": "08时02分"
         },
         {
-          "title": "金价重回900元大关",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%87%8D%E5%9B%9E900%E5%85%83%E5%A4%A7%E5%85%B3%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "爆料：特朗普“亲密盟友”，拖了“一箱证据”前往白宫",
+          "url": "https://wallstreetcn.com/livenews/3145418",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时59分"
+          "time_info": "22时26分"
+        },
+        {
+          "title": "多国运回存在美国的黄金",
+          "url": "https://www.toutiao.com/trending/7670495093538688550/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美国海关已退回约1000亿美元关税",
+          "url": "https://www.toutiao.com/trending/7669677245342056499/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "AI初创公司Listen Labs按15亿美元估值融资1.25亿美元。（The Information）",
