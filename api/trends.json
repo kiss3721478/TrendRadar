@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T17:39:30.982817+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-08-06T20:02:56.885704+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 127,
+      "match_count": 132,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
@@ -16,8 +16,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时12分 ~ 17时39分]"
+          "appearance_count": 8,
+          "time_info": "[06时12分 ~ 20时02分]"
+        },
+        {
+          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
+          "url": "https://wallstreetcn.com/articles/3778759",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时12分 ~ 20时02分]"
         },
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -30,19 +43,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时00分 ~ 17时39分]"
-        },
-        {
-          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
-          "url": "https://wallstreetcn.com/articles/3778759",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时12分 ~ 17时39分]"
         },
         {
           "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
@@ -219,7 +219,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -299,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
@@ -564,6 +575,18 @@
           "time_info": "[04时26分 ~ 06时12分]"
         },
         {
+          "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
+          "url": "https://wallstreetcn.com/articles/3778799",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 20时02分]"
+        },
+        {
           "title": "现货黄金突破4300美元关口",
           "url": "https://www.douyin.com/hot/2599355",
           "source": "抖音",
@@ -573,6 +596,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 14时30分]"
+        },
+        {
+          "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
+          "url": "https://wallstreetcn.com/articles/3778800",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 20时02分]"
         },
         {
           "title": "专家：涉台问题特朗普教训还没吃够",
@@ -725,7 +760,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -791,18 +826,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
-          "url": "https://wallstreetcn.com/articles/3778799",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -860,17 +884,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
-        },
-        {
-          "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
-          "url": "https://wallstreetcn.com/articles/3778800",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         },
         {
           "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
@@ -1165,7 +1178,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -1253,7 +1266,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -1275,9 +1288,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "AppLovin美股盘前跌超16%，公司二季度营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3145991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "法拉第未来(FFIE.O)：计划在四个季度内将截至一季度末的2.3亿美元负债削减至1亿美元以下。",
@@ -1319,7 +1343,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -1333,6 +1357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "恒瑞医药：瑞康曲妥珠单抗第三项适应症获批 成为中国首个获批用于结直肠癌的抗HER2产品",
+          "url": "https://flash.jin10.com/detail/20260806185937150800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "Applovin二季度营收19.24亿美元，同比增长53%；稀释后EPS3.76美元。",
@@ -1357,6 +1392,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "花旗：将闪迪目标价从2500美元下调至2100美元。",
+          "url": "https://wallstreetcn.com/livenews/3145987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "周三（8月5日）纽约尾盘，ICE美元指数跌0.14%，报99.791点，日内交投区间为99.9-99.628点。 彭博美元指数跌0.18%，报1203.54点，日内交投区间为1205.66-1202.53点。 美元兑日元大致持平，报157.74日元，日内交投区间为157.31-157.88日元，整体呈现出W形走势。 欧元兑日元涨0.16%，报182.16日元；英镑兑日元涨0.09%，报212.376日元。",
           "url": "https://wallstreetcn.com/livenews/3145571",
           "source": "华尔街见闻-快讯",
@@ -1368,13 +1414,24 @@
           "time_info": "04时26分"
         },
         {
+          "title": "美退还1000亿美元关税特朗普输了吗",
+          "url": "https://www.toutiao.com/trending/7670860336727068203/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "中金黄金：A股每股现金红利0.458元",
           "url": "https://flash.jin10.com/detail/20260806165126323800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
