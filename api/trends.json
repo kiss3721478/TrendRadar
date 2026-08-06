@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-08-06T14:30:02.860837+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-08-06T17:39:30.982817+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 117,
+      "match_count": 127,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时12分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普污蔑：中国背后捣鬼",
-          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时00分 ~ 14时30分]"
+          "appearance_count": 7,
+          "time_info": "[06时12分 ~ 17时39分]"
         },
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -38,8 +28,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时00分 ~ 14时30分]"
+          "appearance_count": 6,
+          "time_info": "[08时00分 ~ 17时39分]"
+        },
+        {
+          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
+          "url": "https://wallstreetcn.com/articles/3778759",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时12分 ~ 17时39分]"
         },
         {
           "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
@@ -54,6 +57,18 @@
           "time_info": "[08时00分 ~ 14时30分]"
         },
         {
+          "title": "特朗普污蔑：中国背后捣鬼",
+          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时00分 ~ 17时39分]"
+        },
+        {
           "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
           "url": "https://www.cls.cn/detail/2446816",
           "source": "财联社热门",
@@ -62,18 +77,6 @@
             6,
             2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时12分 ~ 14时30分]"
-        },
-        {
-          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
-          "url": "https://wallstreetcn.com/articles/3778759",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -92,6 +95,18 @@
           "time_info": "[00时42分 ~ 04时26分]"
         },
         {
+          "title": "半年来最大涨幅！昨日全球市场“最炸裂资产”：黄金……",
+          "url": "https://www.cls.cn/detail/2446996",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 17时39分]"
+        },
+        {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
           "url": "https://news.ifeng.com/c/8vLi13wh4eq",
           "source": "凤凰网",
@@ -102,6 +117,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时00分 ~ 14时30分]"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 17时39分]"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
@@ -118,26 +144,16 @@
           "time_info": "[00时42分 ~ 11时26分]"
         },
         {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
-        },
-        {
-          "title": "半年来最大涨幅！昨日全球市场“最炸裂资产”：黄金……",
-          "url": "https://www.cls.cn/detail/2446996",
+          "title": "8份长协+140亿美元回购！闪迪交出炸裂财报 却仍未满足市场超高期待？",
+          "url": "https://www.cls.cn/detail/2446874",
           "source": "财联社热门",
           "ranks": [
-            5
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 17时39分]"
         },
         {
           "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
@@ -197,6 +213,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "中汽协：6月汽车商品进出口总额318.2亿美元 同比增长35.5%",
+          "url": "https://flash.jin10.com/detail/20260806170700079800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
           "url": "https://wallstreetcn.com/livenews/3145624",
           "source": "华尔街见闻-快讯",
@@ -236,7 +263,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -269,21 +296,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
-        },
-        {
-          "title": "8份长协+140亿美元回购！闪迪交出炸裂财报 却仍未满足市场超高期待？",
-          "url": "https://www.cls.cn/detail/2446874",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 14时30分]"
         },
         {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
@@ -463,6 +478,19 @@
           "time_info": "[04时26分 ~ 06时12分]"
         },
         {
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 17时39分]"
+        },
+        {
           "title": "美国退回1000亿美元关税",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%80%80%E5%9B%9E1000%E4%BA%BF%E7%BE%8E%E5%85%83%E5%85%B3%E7%A8%8E",
           "source": "百度热搜",
@@ -475,24 +503,24 @@
           "time_info": "[11时26分 ~ 14时30分]"
         },
         {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 17时39分]"
+        },
+        {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
           "url": "https://www.cls.cn/detail/2446838",
           "source": "财联社热门",
           "ranks": [
             9,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -541,17 +569,6 @@
           "source": "抖音",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
-        },
-        {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -702,6 +719,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "中汽协：6月汽车商品进出口总额318.2亿美元，同比增长35.5%",
+          "url": "https://wallstreetcn.com/livenews/3145946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "谷歌(GOOG.O)跌幅扩大至逾3%，公司宣布对DeepMind进行领导层重组，谷歌DeepMind负责人Demis Hassabis将卸任首席执行官职务，出任Alphabet首席科学家兼谷歌DeepMind董事长。谷歌DeepMind首席技术官Koray Kavukcuoglu将出任新部门负责人。",
           "url": "https://flash.jin10.com/detail/20260806000420661800",
           "source": "金十数据",
@@ -755,6 +783,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "LME三个月期铜上涨至14,297美元/吨，创1月29日以来最高水平，现涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3145945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
+          "url": "https://wallstreetcn.com/articles/3778799",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "谷歌(GOOG.O)短线下挫，现跌1.4%。",
@@ -812,6 +862,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
+          "url": "https://wallstreetcn.com/articles/3778800",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
           "url": "https://flash.jin10.com/detail/20260806000026602800",
           "source": "金十数据",
@@ -829,7 +890,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -906,7 +967,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -1093,9 +1154,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "LME铜短线拉升，涨幅扩大至近1%，报14261美元/吨。消息面上，据路透社报道，一份官方法令显示，刚果（金）禁止出口铜精矿和钴精矿。",
+          "url": "https://flash.jin10.com/detail/20260806165609609800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "日本最大电力公司Japex将以3.2亿美元收购美国石油天然气公司Fundare。",
@@ -1104,7 +1176,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -1159,7 +1231,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -1175,6 +1247,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "AppLovin营收不及预期，软件股美股盘前下跌。甲骨文(ORCL.N)跌3.6%，Salesforce(CRM.N)跌4.6%，Adobe(ADBE.O)跌2.6%，ServiceNow下跌2.7%。",
+          "url": "https://flash.jin10.com/detail/20260806165447421800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "中国黄金协会：2026年上半年我国黄金产量同比下降14.62%，黄金消费量同比增长1.23%",
           "url": "https://wallstreetcn.com/livenews/3145752",
           "source": "华尔街见闻-快讯",
@@ -1184,6 +1267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "在IPO后股票锁定期到期前，SpaceX美股盘前上涨2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3145931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "法拉第未来(FFIE.O)：计划在四个季度内将截至一季度末的2.3亿美元负债削减至1亿美元以下。",
@@ -1217,6 +1311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7515，较上一交易日官方收盘价跌12点，较上日夜盘收盘跌20点。",
+          "url": "https://wallstreetcn.com/livenews/3145930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "加纳央行黄金采购计划2025年亏损19亿美元",
@@ -1261,6 +1366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "中金黄金：A股每股现金红利0.458元",
+          "url": "https://flash.jin10.com/detail/20260806165126323800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日增加4.851吨，当前持仓量为1014.148吨。",
