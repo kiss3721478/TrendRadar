@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T14:09:19.044561+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-08-07T16:13:36.073675+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 50,
+      "match_count": 64,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 14时09分]"
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 16时13分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -52,8 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 14时09分]"
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 16时13分]"
         },
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -61,11 +61,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 14时09分]"
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 16时13分]"
         },
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -119,9 +120,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "现货白银日内涨幅达4.0%，报63.98美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3146561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "一次日元救援行动，意外戳穿美元霸权黄昏？",
@@ -135,6 +147,17 @@
           "time_info": "12时54分"
         },
         {
+          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3146560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "黄金暴涨4%突破4200：最凶的一批买盘还在场外！",
           "url": "https://flash.jin10.com/detail/20260807122029445800",
           "source": "金十数据",
@@ -144,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "现货白银日内大涨4.00%，现报63.99美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260807160702308800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
@@ -157,13 +191,37 @@
           "time_info": "07时58分"
         },
         {
+          "title": "中国央行连续第21个月增持黄金",
+          "url": "https://wallstreetcn.com/livenews/3146556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
+          "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时44分 ~ 16时13分]"
+        },
+        {
           "title": "现货白银日内涨1美元，现报62.53美元/盎司，涨幅1.64%。",
           "url": "https://flash.jin10.com/detail/20260807134215887800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -179,16 +237,15 @@
           "time_info": "10时44分"
         },
         {
-          "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
-          "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
-          "source": "凤凰网",
+          "title": "中国7月外汇储备 34187.8亿美元，前值 34162.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3146554",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 14时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "中国7月贸易帐(按美元计) 1125亿美元，前值 1256.2亿美元。",
@@ -203,6 +260,18 @@
           "time_info": "[10时44分 ~ 12时54分]"
         },
         {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 16时13分]"
+        },
+        {
           "title": "中国7月进口同比(按美元计) 27.5%，前值 36%。",
           "url": "https://wallstreetcn.com/livenews/3146395",
           "source": "华尔街见闻-快讯",
@@ -213,17 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 12时54分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 14时09分]"
         },
         {
           "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
@@ -328,6 +386,28 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "黄金跳涨 沉寂格局被谁打破",
+          "url": "https://www.toutiao.com/trending/7671114069729889846/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "金价完成首轮仓位修复，4300附近进入新碰撞区！",
           "url": "https://flash.jin10.com/detail/20260807120847851800",
           "source": "金十数据",
@@ -337,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "受益于股市上涨 日本政府养老投资基金实现1520亿美元收益",
+          "url": "https://flash.jin10.com/detail/20260807160420120800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.3%，深成指涨1.23%，算力硬件、医药医疗、半导体芯片等方向领涨，沪深京三市上涨个股超1500只。",
@@ -350,15 +441,48 @@
           "time_info": "10时44分"
         },
         {
+          "title": "中国7月外汇储备 34187.8亿美元，预期34220亿美元，前值34162.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260807160402537800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "A股创新药、CRO概念持续走强，义翘神州午后20cm涨停，药康生物、哈三联、百花医药、普洛药业、凯莱英等十余股封板，皓元医药、泓博医药、药石科技等多股涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3146455",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "中国央行连续第21个月增持黄金",
+          "url": "https://flash.jin10.com/detail/20260807160158461800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -416,13 +540,24 @@
           "time_info": "10时44分"
         },
         {
+          "title": "中国台湾7月贸易帐 171.7亿美元，预期164.5亿美元，前值122亿美元。",
+          "url": "https://flash.jin10.com/detail/20260807160024784800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "高盛认为美国挺日元不会损及美元主要储备货币的地位",
           "url": "https://wallstreetcn.com/livenews/3146447",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -455,7 +590,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -480,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）上海金午盘价为932.83元/克，较国际金价(929.4元/克)，高3.43元/克",
+          "url": "https://flash.jin10.com/detail/20260807155143219800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "海关总署公布的数据显示，中国7月集成电路出口金额达387.4亿美元；1-7月累计出口金额达2160亿美元，同比增长99.5%。",
@@ -524,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "SK海力士将在韩国投资380亿美元用于芯片产能扩建",
+          "url": "https://wallstreetcn.com/livenews/3146532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日增加0.571吨，当前持仓量为1014.719吨。",
