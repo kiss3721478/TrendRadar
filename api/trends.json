@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T12:54:59.109831+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-08-07T14:09:19.044561+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 14时09分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 14时09分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 14时09分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -52,8 +52,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 14时09分]"
+        },
+        {
+          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
+          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 14时09分]"
         },
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -67,15 +79,16 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
-          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
-          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
-          "source": "凤凰网",
+          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
+          "url": "https://www.cls.cn/detail/2447915",
+          "source": "财联社热门",
           "ranks": [
-            5
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 14时09分]"
         },
         {
           "title": "日本7月外汇储备 12871亿美元，前值12875亿美元。",
@@ -95,9 +108,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "现货黄金站上4280美元/盎司，日内涨0.94%。现货白银日内涨幅扩大至2.00%，现报62.76美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260807135733338800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "一次日元救援行动，意外戳穿美元霸权黄昏？",
@@ -106,7 +130,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -117,7 +141,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -133,6 +157,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "现货白银日内涨1美元，现报62.53美元/盎司，涨幅1.64%。",
+          "url": "https://flash.jin10.com/detail/20260807134215887800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "中国7月出口同比(按美元计) 23.9%，前值 27%。",
           "url": "https://wallstreetcn.com/livenews/3146394",
           "source": "华尔街见闻-快讯",
@@ -144,16 +179,16 @@
           "time_info": "10时44分"
         },
         {
-          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
-          "url": "https://www.cls.cn/detail/2447915",
-          "source": "财联社热门",
+          "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
+          "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
+          "source": "凤凰网",
           "ranks": [
             7,
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 14时09分]"
         },
         {
           "title": "中国7月贸易帐(按美元计) 1125亿美元，前值 1256.2亿美元。",
@@ -180,6 +215,29 @@
           "time_info": "[10时44分 ~ 12时54分]"
         },
         {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 14时09分]"
+        },
+        {
+          "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
+          "url": "https://www.cls.cn/detail/2447866",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 14时09分]"
+        },
+        {
           "title": "近期人民币兑美元汇率在 6.7-6.8 徘徊，接下来会继续升值还是转向贬值？",
           "url": "https://www.zhihu.com/question/2061473659827627539",
           "source": "知乎",
@@ -190,6 +248,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时57分 ~ 10时44分]"
+        },
+        {
+          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
+          "url": "https://www.cls.cn/detail/2447932",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 14时09分]"
         },
         {
           "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
@@ -203,17 +272,6 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
-          "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
-          "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 12时54分]"
-        },
-        {
           "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
           "url": "https://wallstreetcn.com/articles/3778800",
           "source": "华尔街见闻",
@@ -223,6 +281,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 07时58分]"
+        },
+        {
+          "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
+          "url": "https://wallstreetcn.com/livenews/3146430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时09分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -264,18 +334,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -291,26 +350,15 @@
           "time_info": "10时44分"
         },
         {
-          "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
-          "url": "https://wallstreetcn.com/livenews/3146430",
+          "title": "A股创新药、CRO概念持续走强，义翘神州午后20cm涨停，药康生物、哈三联、百花医药、普洛药业、凯莱英等十余股封板，皓元医药、泓博医药、药石科技等多股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3146455",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
-          "url": "https://www.cls.cn/detail/2447866",
-          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "14时09分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -333,17 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
-        },
-        {
-          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
-          "url": "https://www.cls.cn/detail/2447932",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         },
         {
           "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
@@ -379,13 +416,24 @@
           "time_info": "10时44分"
         },
         {
+          "title": "高盛认为美国挺日元不会损及美元主要储备货币的地位",
+          "url": "https://wallstreetcn.com/livenews/3146447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "决战非农！美元暂时摆脱了最坏的情况，但还没有证明自己足够强",
           "url": "https://flash.jin10.com/detail/20260807115552947800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -399,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "A股创新药板块午后走高，博腾股份涨停，药石科技、皓元医药涨超15%，泓博医药、梅迪西、贝达药业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260807132635748800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "中国7月以美元计算进口年率 27.5%，预期27.70%，前值36.00%。",
@@ -429,7 +488,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -440,7 +499,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -495,7 +554,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
