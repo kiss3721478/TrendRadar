@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T12:56:33.652530+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-08-08T13:42:38.393596+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 111,
+      "match_count": 112,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 12时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 13时42分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 12时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 13时42分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -78,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时34分 ~ 12时56分]"
+          "appearance_count": 8,
+          "time_info": "[06时34分 ~ 13时42分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -132,11 +132,12 @@
             16,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时52分 ~ 12时56分]"
+          "appearance_count": 12,
+          "time_info": "[03时52分 ~ 13时42分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -147,11 +148,36 @@
             19,
             17,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 12时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 13时42分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 13时42分]"
+        },
+        {
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 13时42分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -163,30 +189,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 05时38分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 12时56分]"
-        },
-        {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 12时56分]"
         },
         {
           "title": "泉州市委书记张毅恭被查",
@@ -227,6 +229,32 @@
           "time_info": "[04时39分 ~ 09时26分]"
         },
         {
+          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3146942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时42分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时42分]"
+        },
+        {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
           "url": "https://flash.jin10.com/detail/20260808002305574800",
           "source": "金十数据",
@@ -258,6 +286,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "美铜暗盘跌破6.7美元，日内跌幅1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3146939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时42分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -326,20 +368,6 @@
           "time_info": "01时49分"
         },
         {
-          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
-          "url": "https://wallstreetcn.com/livenews/3146942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时56分]"
-        },
-        {
           "title": "哈塞特称特朗普与沃什经常讨论经济问题",
           "url": "https://flash.jin10.com/detail/20260808011630958800",
           "source": "金十数据",
@@ -405,30 +433,16 @@
           "time_info": "[05时38分 ~ 09时26分]"
         },
         {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
+          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
           "source": "凤凰网",
           "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时56分]"
-        },
-        {
-          "title": "美铜暗盘跌破6.7美元，日内跌幅1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3146939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
             11,
-            21,
-            26
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 13时42分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -504,6 +518,19 @@
           "time_info": "[02时55分 ~ 03时53分]"
         },
         {
+          "title": "为何这次油价跌，黄金涨的传导终于通了？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260808100739912800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时42分]"
+        },
+        {
           "title": "摩根大通上调科技债发行预期，今年供应规模将超过5000亿美元",
           "url": "https://wallstreetcn.com/livenews/3146897",
           "source": "华尔街见闻-快讯",
@@ -545,18 +572,6 @@
           "time_info": "[06时34分 ~ 11时25分]"
         },
         {
-          "title": "为何这次油价跌，黄金涨的传导终于通了？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260808100739912800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时56分]"
-        },
-        {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
           "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
@@ -581,18 +596,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时39分 ~ 07时33分]"
-        },
-        {
-          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
-          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 12时56分]"
         },
         {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
@@ -669,6 +672,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时38分]"
+        },
+        {
+          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3146953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时42分]"
+        },
+        {
+          "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
+          "url": "https://flash.jin10.com/detail/20260808100104329800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时42分]"
         },
         {
           "title": "美元指数在非农日跌0.4%",
@@ -783,6 +811,18 @@
           "time_info": "[11时24分 ~ 12时56分]"
         },
         {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 13时42分]"
+        },
+        {
           "title": "美国国务院：美国与国会合作，计划宣布向哥伦比亚提供10亿美元的安全援助。",
           "url": "https://flash.jin10.com/detail/20260808083739753800",
           "source": "金十数据",
@@ -807,18 +847,6 @@
           "time_info": "[01时49分 ~ 02时55分]"
         },
         {
-          "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
-          "url": "https://flash.jin10.com/detail/20260808100104329800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时56分]"
-        },
-        {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3146852",
           "source": "华尔街见闻-快讯",
@@ -831,16 +859,16 @@
           "time_info": "[01时49分 ~ 02时55分]"
         },
         {
-          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146953",
-          "source": "华尔街见闻-快讯",
+          "title": "金价突破4400美元",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44400%E7%BE%8E%E5%85%83&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            13
+            10,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时56分]"
+          "time_info": "[12时56分 ~ 13时42分]"
         },
         {
           "title": "据The Information：英伟达(NVDA.O)将投资高达30亿美元于黑石集团支持的电力公司。",
@@ -948,17 +976,6 @@
           "time_info": "03时53分"
         },
         {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
           "title": "美国总统特朗普：美国政府已对美国关键矿产供应链进行了“历史性投资”，包括直接持有生产商的股权。政府对MP Materials的4亿美元投资目前价值已接近12亿美元。",
           "url": "https://flash.jin10.com/detail/20260808031826227800",
           "source": "金十数据",
@@ -979,17 +996,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
-        },
-        {
-          "title": "金价突破4400美元",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44400%E7%BE%8E%E5%85%83&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
         },
         {
           "title": "美国总统特朗普在矿业圆桌会议上表示：我们实现了能源独立，现在正在实现经济独立。美国必须在国内开采、提炼并制造关键矿产。",
@@ -1190,6 +1196,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "一次看懂黄金底层逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82%E9%BB%84%E9%87%91%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "美国6月消费信贷 141.7亿美元，预期105亿美元，前值由-1.82亿美元修正为-10.8亿美元。",
           "url": "https://flash.jin10.com/detail/20260808030008298800",
           "source": "金十数据",
@@ -1317,7 +1334,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
