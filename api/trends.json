@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T22:32:03.665889+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-08-08T23:29:22.064516+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 150,
+      "match_count": 153,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 22时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时26分 ~ 23时29分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时56分 ~ 22时32分]"
+          "appearance_count": 14,
+          "time_info": "[12时56分 ~ 23时29分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -83,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时53分 ~ 22时32分]"
+          "appearance_count": 29,
+          "time_info": "[00时53分 ~ 23时29分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -98,8 +98,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时34分 ~ 22时32分]"
+          "appearance_count": 20,
+          "time_info": "[06时34分 ~ 23时29分]"
         },
         {
           "title": "中国央行连续21个月增持黄金，7月购金力度提速",
@@ -127,6 +127,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 03时53分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时37分 ~ 23时29分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -218,18 +230,6 @@
           "time_info": "[00时53分 ~ 05时38分]"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时37分 ~ 22时32分]"
-        },
-        {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
           "url": "https://news.ifeng.com/c/8vPrynBVxqj",
           "source": "凤凰网",
@@ -241,6 +241,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时24分 ~ 16时39分]"
+        },
+        {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时27分 ~ 23时29分]"
         },
         {
           "title": "泉州市委书记张毅恭被查",
@@ -311,15 +322,30 @@
           "time_info": "[07时33分 ~ 14时51分]"
         },
         {
-          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
-          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
-          "source": "凤凰网",
+          "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
+          "url": "https://wallstreetcn.com/articles/3778987",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时27分 ~ 22时32分]"
+          "time_info": "[20时44分 ~ 23时29分]"
+        },
+        {
+          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
+          "url": "https://wallstreetcn.com/articles/3778975",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时44分 ~ 23时29分]"
         },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -368,6 +394,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时25分 ~ 16时39分]"
+        },
+        {
+          "title": "舒默怒斥特朗普：你在哪个星球",
+          "url": "https://www.toutiao.com/trending/7671480510048452651/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            17,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时44分 ~ 23时29分]"
+        },
+        {
+          "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3147026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -471,17 +522,6 @@
           "time_info": "03时53分"
         },
         {
-          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
-          "url": "https://wallstreetcn.com/livenews/3147021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
           "title": "国际金价在非农日涨约2.4%，本周累涨约7.3%",
           "url": "https://wallstreetcn.com/livenews/3146923",
           "source": "华尔街见闻-快讯",
@@ -523,6 +563,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时38分 ~ 09时26分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 23时29分]"
+        },
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时44分 ~ 23时29分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -610,17 +676,17 @@
           "time_info": "[20时44分 ~ 22时32分]"
         },
         {
-          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147006",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
+          "url": "https://flash.jin10.com/detail/20260808205550359800",
+          "source": "金十数据",
           "ranks": [
             4,
             9,
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时44分 ~ 22时32分]"
+          "time_info": "[21时44分 ~ 23时29分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -633,19 +699,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时55分 ~ 03时53分]"
-        },
-        {
-          "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
-          "url": "https://wallstreetcn.com/articles/3778987",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时44分 ~ 22时32分]"
         },
         {
           "title": "伯克希尔哈撒韦A(BRK.A.N)：截至2026年6月30日，保险浮存金约为1775亿美元。",
@@ -686,6 +739,18 @@
           "time_info": "[02时55分 ~ 03时53分]"
         },
         {
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 23时29分]"
+        },
+        {
           "title": "为何这次油价跌，黄金涨的传导终于通了？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260808100739912800",
           "source": "金十数据",
@@ -724,18 +789,6 @@
           "time_info": "[17时37分 ~ 19时28分]"
         },
         {
-          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
-          "url": "https://flash.jin10.com/detail/20260808205550359800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时32分]"
-        },
-        {
           "title": "美联储：美国上周银行存款19.363万亿美元，之前一周19.400万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3146916",
           "source": "华尔街见闻-快讯",
@@ -764,17 +817,18 @@
           "time_info": "[06时34分 ~ 11时25分]"
         },
         {
-          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
-          "url": "https://wallstreetcn.com/articles/3778975",
-          "source": "华尔街见闻",
+          "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147004",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            8
+            6,
+            11,
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时44分 ~ 22时32分]"
+          "time_info": "[20时44分 ~ 23时29分]"
         },
         {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
@@ -803,6 +857,20 @@
           "time_info": "[04时39分 ~ 07时33分]"
         },
         {
+          "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 23时29分]"
+        },
+        {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3146913",
           "source": "华尔街见闻-快讯",
@@ -829,19 +897,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时39分 ~ 07时33分]"
-        },
-        {
-          "title": "舒默怒斥特朗普：你在哪个星球",
-          "url": "https://www.toutiao.com/trending/7671480510048452651/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时44分 ~ 22时32分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，COMEX黄金投机者净多头头寸增加12,070份合约，至132,398份合约。COMEX白银投机者净多头头寸增加2,679份合约，至11,067份合约。COMEX铜投机者净多头头寸增加11,307份合约，至77,796份合约。",
@@ -892,19 +947,6 @@
           "time_info": "[19时28分 ~ 21时44分]"
         },
         {
-          "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 22时32分]"
-        },
-        {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
           "url": "https://wallstreetcn.com/livenews/3146895",
           "source": "华尔街见闻-快讯",
@@ -944,18 +986,6 @@
           "time_info": "[03时53分 ~ 05时38分]"
         },
         {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 22时32分]"
-        },
-        {
           "title": "特朗普政府将向电池及材料企业拨付 20 亿美元",
           "url": "https://wallstreetcn.com/livenews/3146893",
           "source": "华尔街见闻-快讯",
@@ -967,19 +997,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时38分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 22时32分]"
         },
         {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
@@ -1015,6 +1032,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 01时49分]"
+        },
+        {
+          "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时29分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
+          "url": "https://wallstreetcn.com/livenews/3147002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时29分]"
         },
         {
           "title": "SpaceX收涨15.8%，报133.11美元，最近两天涨23%。",
@@ -1174,6 +1217,17 @@
           "time_info": "[01时49分 ~ 02时55分]"
         },
         {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
           "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2净利润为256.67亿美元，较上年同期的123.7亿美元大幅增长。",
           "url": "https://flash.jin10.com/detail/20260808200239743800",
           "source": "金十数据",
@@ -1246,36 +1300,12 @@
           "time_info": "[03时53分 ~ 04时39分]"
         },
         {
-          "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时32分]"
-        },
-        {
           "title": "伯克希尔哈撒韦二季度斥资约45亿美元回购股票 为一年多来首次",
           "url": "https://flash.jin10.com/detail/20260808202446166800",
           "source": "金十数据",
           "ranks": [
             13,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时32分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
-          "url": "https://wallstreetcn.com/livenews/3147002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1351,6 +1381,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时55分]"
+        },
+        {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         },
         {
           "title": "布朗尼球衣真卖了五千万美元吗",
