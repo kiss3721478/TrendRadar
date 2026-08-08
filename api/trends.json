@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-08T17:37:29.217125+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-08-08T19:28:12.532632+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 119,
+      "match_count": 124,
       "titles": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时34分]"
-        },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
           "url": "https://www.cls.cn/detail/2448991",
@@ -28,8 +17,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时26分 ~ 17时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时26分 ~ 19时28分]"
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时34分]"
         },
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -66,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时53分 ~ 17时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时53分 ~ 19时28分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -81,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时34分 ~ 17时37分]"
+          "appearance_count": 14,
+          "time_info": "[06时34分 ~ 19时28分]"
         },
         {
           "title": "中国央行连续21个月增持黄金，7月购金力度提速",
@@ -110,6 +110,22 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 03时53分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 19时28分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -166,8 +182,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时52分 ~ 17时37分]"
+          "appearance_count": 18,
+          "time_info": "[03时52分 ~ 19时28分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -181,11 +197,12 @@
             23,
             24,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时53分 ~ 17时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时53分 ~ 19时28分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -197,21 +214,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 05时38分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 17时37分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -376,17 +378,6 @@
           "time_info": "02时55分"
         },
         {
-          "title": "黄金此处看涨期权明显变动，强势行情能否延续？——增强版同步发布！",
-          "url": "https://flash.jin10.com/detail/20260808165149646800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
           "title": "WTI 9月原油期货收涨0.89美元，涨幅1.15%，报78.18美元/桶，本周累计下跌超过7.66%。 NYMEX 9月天然气期货收报2.6620美元/百万英热单位。 NYMEX 9月汽油期货收报2.9853美元/加仑，NYMEX 9月取暖油期货收报3.9024美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3146871",
           "source": "华尔街见闻-快讯",
@@ -396,6 +387,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时28分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -418,6 +422,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "哈塞特称特朗普与沃什经常讨论经济问题",
@@ -509,6 +525,17 @@
           "time_info": "[04时39分 ~ 09时26分]"
         },
         {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 19时28分]"
+        },
+        {
           "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
           "url": "https://flash.jin10.com/detail/20260808035911250800",
           "source": "金十数据",
@@ -570,18 +597,6 @@
           "time_info": "[02时55分 ~ 03时53分]"
         },
         {
-          "title": "李大霄谈美股三大指数高开",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时37分]"
-        },
-        {
           "title": "为何这次油价跌，黄金涨的传导终于通了？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260808100739912800",
           "source": "金十数据",
@@ -606,6 +621,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时38分]"
+        },
+        {
+          "title": "黄金此处看涨期权明显变动，强势行情能否延续？——增强版同步发布！",
+          "url": "https://flash.jin10.com/detail/20260808165149646800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "美联储：美国上周银行存款19.363万亿美元，之前一周19.400万亿美元。",
@@ -812,17 +839,6 @@
           "time_info": "[00时53分 ~ 01时49分]"
         },
         {
-          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
-          "url": "https://www.cls.cn/detail/2448987",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 17时37分]"
-        },
-        {
           "title": "SpaceX收涨15.8%，报133.11美元，最近两天涨23%。",
           "url": "https://wallstreetcn.com/livenews/3146909",
           "source": "华尔街见闻-快讯",
@@ -872,6 +888,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 12时56分]"
+        },
+        {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
         },
         {
           "title": "美国国务院：美国与国会合作，计划宣布向哥伦比亚提供10亿美元的安全援助。",
@@ -1005,13 +1032,24 @@
           "time_info": "[01时49分 ~ 02时55分]"
         },
         {
+          "title": "黄金价格走势或反转",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B5%B0%E5%8A%BF%E6%88%96%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
+        },
+        {
           "title": "布朗尼球衣真卖了五千万美元吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%B8%83%E6%9C%97%E5%B0%BC%E7%90%83%E8%A1%A3%E7%9C%9F%E5%8D%96%E4%BA%86%E4%BA%94%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1027,15 +1065,15 @@
           "time_info": "03时53分"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
-          "source": "凤凰网",
+          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
+          "url": "https://wallstreetcn.com/livenews/3146989",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "19时28分"
         },
         {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
@@ -1047,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-08）",
+          "url": "https://flash.jin10.com/detail/20260808183100642800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "美国总统特朗普：美国政府已对美国关键矿产供应链进行了“历史性投资”，包括直接持有生产商的股权。政府对MP Materials的4亿美元投资目前价值已接近12亿美元。",
@@ -1102,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "伊拉克石油部长：新巴士拉-费什哈布尔石油管道预计成本不超过150亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808181208435800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
@@ -1374,7 +1434,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
