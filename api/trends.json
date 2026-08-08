@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:51:28.405896+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-08-08T15:49:36.348255+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 14时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 15时49分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -44,6 +44,20 @@
           "time_info": "[00时53分 ~ 05时38分]"
         },
         {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时34分 ~ 15时49分]"
+        },
+        {
           "title": "中国央行连续21个月增持黄金，7月购金力度提速",
           "url": "https://wallstreetcn.com/articles/3778942",
           "source": "华尔街见闻",
@@ -51,24 +65,12 @@
             9,
             7,
             5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 14时51分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时34分 ~ 14时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 15时49分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -91,8 +93,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时49分]"
         },
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -103,8 +105,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时49分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -161,8 +163,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时52分 ~ 14时51分]"
+          "appearance_count": 14,
+          "time_info": "[03时52分 ~ 15时49分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -174,11 +176,12 @@
             17,
             20,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 14时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 15时49分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -206,6 +209,19 @@
           "time_info": "[00时53分 ~ 04时39分]"
         },
         {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时49分]"
+        },
+        {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260808040607361800",
           "source": "金十数据",
@@ -228,18 +244,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时39分 ~ 09时26分]"
-        },
-        {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时51分]"
         },
         {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
@@ -270,6 +274,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时33分 ~ 14时51分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时49分]"
         },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -436,6 +454,20 @@
           "time_info": "[05时38分 ~ 09时26分]"
         },
         {
+          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3146953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 15时49分]"
+        },
+        {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
           "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
           "source": "凤凰网",
@@ -482,19 +514,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时39分 ~ 09时26分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 14时51分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -612,19 +631,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时39分 ~ 07时33分]"
-        },
-        {
-          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 14时51分]"
         },
         {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
@@ -1042,7 +1048,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1361,7 +1367,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
