@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T20:47:08.221217+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-08-09T21:49:23.277977+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 20时47分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 21时49分]"
+        },
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 21时49分]"
         },
         {
           "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
@@ -42,16 +54,17 @@
           "time_info": "[00时32分 ~ 09时38分]"
         },
         {
-          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
-          "url": "https://wallstreetcn.com/articles/3778995",
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            10,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时41分 ~ 20时47分]"
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 21时49分]"
         },
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
@@ -84,19 +97,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时32分 ~ 20时47分]"
-        },
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时41分 ~ 20时47分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -133,6 +133,21 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时32分 ~ 18时33分]"
+        },
+        {
+          "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33747571",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 21时49分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -194,6 +209,19 @@
           "time_info": "[00时32分 ~ 17时38分]"
         },
         {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 21时49分]"
+        },
+        {
           "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
           "url": "https://www.cls.cn/detail/2449090",
           "source": "财联社热门",
@@ -205,6 +233,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 14时54分]"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 21时49分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -219,20 +258,6 @@
           "time_info": "[00时32分 ~ 07时27分]"
         },
         {
-          "title": "网上卖黄金卷入电诈8万元被划扣，驻马店市公安局称新蔡警方程序违法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33747571",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时41分 ~ 20时47分]"
-        },
-        {
           "title": "如何看待华硕将海外用户已付 4607 美元的 5090 订单强行砍单，并随后提价至 5090 美元？",
           "url": "https://www.zhihu.com/question/2069330740664439572",
           "source": "知乎",
@@ -243,29 +268,6 @@
             14,
             13,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时41分 ~ 20时47分]"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时41分 ~ 20时47分]"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -379,11 +381,28 @@
           "ranks": [
             18,
             9,
-            20
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时54分 ~ 21时49分]"
+        },
+        {
+          "title": "伦纳德被曝隐匿收入超5000万美元",
+          "url": "https://www.douyin.com/hot/2602832",
+          "source": "抖音",
+          "ranks": [
+            23,
+            15,
+            10,
+            18,
+            27,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时54分 ~ 20时47分]"
+          "time_info": "[14时54分 ~ 21时49分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -398,19 +417,29 @@
           "time_info": "[00时32分 ~ 04时28分]"
         },
         {
-          "title": "伦纳德被曝隐匿收入超5000万美元",
-          "url": "https://www.douyin.com/hot/2602832",
-          "source": "抖音",
+          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
+          "url": "https://flash.jin10.com/detail/20260809212948063800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            15,
-            10,
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
             18,
-            27
+            15,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时54分 ~ 20时47分]"
+          "time_info": "[17时38分 ~ 21时49分]"
         },
         {
           "title": "特朗普新飞机掉链子了吗",
@@ -438,17 +467,17 @@
           "time_info": "[11时41分 ~ 15时54分]"
         },
         {
-          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            18,
-            15
+            11,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时38分 ~ 20时47分]"
+          "time_info": "[18时33分 ~ 21时49分]"
         },
         {
           "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
@@ -462,6 +491,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时33分 ~ 20时47分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
+          "url": "https://flash.jin10.com/detail/20260809185901644800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时49分]"
         },
         {
           "title": "韩国6月旅行收支实现近6亿美元顺差 创新冠疫情以来最高纪录",
@@ -488,30 +530,6 @@
           "time_info": "[14时54分 ~ 15时54分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
-          "url": "https://flash.jin10.com/detail/20260809185901644800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 20时47分]"
-        },
-        {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 20时47分]"
-        },
-        {
           "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
           "url": "https://flash.jin10.com/detail/20260809093957019800",
           "source": "金十数据",
@@ -525,6 +543,30 @@
           "time_info": "[11时41分 ~ 14时54分]"
         },
         {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时49分]"
+        },
+        {
+          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时49分]"
+        },
+        {
           "title": "美联储失控与日元危机：黄金配置逻辑彻底明牌",
           "url": "https://flash.jin10.com/detail/20260809180804696800",
           "source": "金十数据",
@@ -535,17 +577,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时33分 ~ 19时28分]"
-        },
-        {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -570,17 +601,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 06时28分]"
-        },
-        {
-          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "OpenAI重置Codex付费用户用量限制",
