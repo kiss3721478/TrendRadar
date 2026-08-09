@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-09T22:34:02.426317+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-08-09T23:31:40.827858+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
           "url": "https://www.cls.cn/detail/2449039",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 22时34分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 23时31分]"
         },
         {
           "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
@@ -27,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 23时31分]"
         },
         {
           "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
@@ -63,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 23时31分]"
         },
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
@@ -146,8 +147,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 23时31分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -209,6 +210,24 @@
           "time_info": "[00时32分 ~ 17时38分]"
         },
         {
+          "title": "伦纳德被曝隐匿收入超5000万美元",
+          "url": "https://www.douyin.com/hot/2602832",
+          "source": "抖音",
+          "ranks": [
+            23,
+            15,
+            10,
+            18,
+            27,
+            9,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时54分 ~ 23时31分]"
+        },
+        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -218,8 +237,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 23时31分]"
         },
         {
           "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
@@ -242,8 +261,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 22时34分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 23时31分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -274,21 +293,18 @@
           "time_info": "[11时41分 ~ 20时47分]"
         },
         {
-          "title": "伦纳德被曝隐匿收入超5000万美元",
-          "url": "https://www.douyin.com/hot/2602832",
-          "source": "抖音",
+          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
+          "source": "澎湃新闻",
           "ranks": [
-            23,
-            15,
-            10,
+            19,
             18,
-            27,
-            9,
-            19
+            15,
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[14时54分 ~ 22时34分]"
+          "time_info": "[17时38分 ~ 23时31分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -379,6 +395,20 @@
           "time_info": "[09时38分 ~ 19时28分]"
         },
         {
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时33分 ~ 23时31分]"
+        },
+        {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
           "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
           "source": "澎湃新闻",
@@ -406,45 +436,6 @@
           "time_info": "[14时54分 ~ 21时49分]"
         },
         {
-          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时38分 ~ 22时34分]"
-        },
-        {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时33分 ~ 22时34分]"
-        },
-        {
-          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
-          "url": "https://flash.jin10.com/detail/20260809212948063800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时34分]"
-        },
-        {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
           "url": "https://wallstreetcn.com/articles/3778975",
           "source": "华尔街见闻",
@@ -457,6 +448,32 @@
           "time_info": "[00时32分 ~ 04时28分]"
         },
         {
+          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
+          "url": "https://flash.jin10.com/detail/20260809212948063800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时31分]"
+        },
+        {
+          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时46分 ~ 23时31分]"
+        },
+        {
           "title": "特朗普新飞机掉链子了吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E9%A3%9E%E6%9C%BA%E6%8E%89%E9%93%BE%E5%AD%90%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -466,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
+          "url": "https://flash.jin10.com/detail/20260809224743402800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -480,18 +508,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时41分 ~ 15时54分]"
-        },
-        {
-          "title": "伯克希尔二季度净利润翻倍，净买入200亿美元股票",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时46分 ~ 22时34分]"
         },
         {
           "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
@@ -603,6 +619,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 06时28分]"
+        },
+        {
+          "title": "利润大涨超100%，这一行业，黄金窗口期来了",
+          "url": "https://www.cls.cn/detail/2449206",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "OpenAI重置Codex付费用户用量限制",
