@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T17:20:03.204941+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-08-10T19:08:08.056086+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 68,
+      "match_count": 81,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -79,6 +79,19 @@
           "time_info": "[03时32分 ~ 15时39分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 19时08分]"
+        },
+        {
           "title": "利润大涨超100%，这一行业，黄金窗口期来了",
           "url": "https://www.cls.cn/detail/2449206",
           "source": "财联社热门",
@@ -117,6 +130,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 09时42分]"
+        },
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 19时08分]"
         },
         {
           "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
@@ -159,33 +187,6 @@
           "time_info": "[00时34分 ~ 11时55分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 17时20分]"
-        },
-        {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 17时20分]"
-        },
-        {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
@@ -194,8 +195,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 19时08分]"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 19时08分]"
+        },
+        {
+          "title": "韩国资金抢筹中际旭创！H股上市7天净买4339万美元",
+          "url": "https://www.cls.cn/detail/2449790",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 19时08分]"
+        },
+        {
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 19时08分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -239,17 +274,6 @@
           "time_info": "[01时31分 ~ 05时31分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 17时20分]"
-        },
-        {
           "title": "特朗普会对内塔尼亚胡拒绝加沙和平计划作何反应？",
           "url": "https://flash.jin10.com/detail/20260810113842057800",
           "source": "金十数据",
@@ -259,18 +283,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
-        },
-        {
-          "title": "韩国资金抢筹中际旭创！H股上市7天净买4339万美元",
-          "url": "https://www.cls.cn/detail/2449790",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时20分]"
         },
         {
           "title": "创新药、CRO概念股延续涨势，百花医药5连板，义翘神州涨超10%，泓博医药、近岸蛋白、昭衍新药等多股高开。",
@@ -306,6 +318,17 @@
           "time_info": "09时42分"
         },
         {
+          "title": "苹果美股盘前下跌约1.2%，Jefferies下调其评级至低配。",
+          "url": "https://wallstreetcn.com/livenews/3147454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "现货黄金失守4330美元/盎司，日内跌幅0.26%。",
           "url": "https://flash.jin10.com/detail/20260810090134408800",
           "source": "金十数据",
@@ -323,9 +346,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.5%，报79.36美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 19时08分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -364,6 +411,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
+          "url": "https://wallstreetcn.com/articles/3779046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 19时08分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -426,18 +485,6 @@
           "time_info": "[11时55分 ~ 13时26分]"
         },
         {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时20分]"
-        },
-        {
           "title": "前美国官员：特朗普使美国安全恶化",
           "url": "https://www.toutiao.com/trending/7671249968112173098/",
           "source": "今日头条",
@@ -450,15 +497,15 @@
           "time_info": "[15时39分 ~ 17时20分]"
         },
         {
-          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
-          "url": "https://wallstreetcn.com/articles/3779046",
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "time_info": "[19时07分 ~ 19时08分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -520,6 +567,17 @@
           "time_info": "13时26分"
         },
         {
+          "title": "汇添富黄金LOF：下调大额申购、定期定额投资业务限制金额至100.00元，暂停大额申购起始日为8月12日。",
+          "url": "https://wallstreetcn.com/livenews/3147452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "交易员：印度央行可能在出售美元以支持卢比。",
           "url": "https://flash.jin10.com/detail/20260810130248701800",
           "source": "金十数据",
@@ -564,6 +622,17 @@
           "time_info": "13时26分"
         },
         {
+          "title": "招金黄金：股票交易异常波动 提醒投资者注意风险",
+          "url": "https://wallstreetcn.com/livenews/3147450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "公募机构扎堆调研医药生物行业",
           "url": "https://flash.jin10.com/detail/20260810113041286800",
           "source": "金十数据",
@@ -573,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "特朗普不得已对伊朗降低调门",
+          "url": "https://wallstreetcn.com/livenews/3147448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "黄金上行赔率占优，美联储加息窗口向10月倾斜｜市场赔率数据表",
@@ -625,7 +705,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -658,7 +738,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -696,6 +776,17 @@
           "time_info": "11时55分"
         },
         {
+          "title": "Meta被索赔1.4万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "新闻交易员：特朗普说低调处理，市场可能听得太认真了",
           "url": "https://flash.jin10.com/detail/20260810082438238800",
           "source": "金十数据",
@@ -707,6 +798,17 @@
           "time_info": "09时42分"
         },
         {
+          "title": "百胜中国：2026年上半年总收入64亿美元，同比增长11%",
+          "url": "https://flash.jin10.com/detail/20260810184615487800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "黄金看涨期权有押有撤，分歧之下金价是否还有突破空间？——增强版同步发布！",
           "url": "https://flash.jin10.com/detail/20260810151012200800",
           "source": "金十数据",
@@ -716,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "苹果(AAPL.O)盘前下挫1.3%，杰富瑞将苹果公司评级从“持有”下调至“跑输大盘”；同时将目标股价从285.56美元下调至263.66美元。",
+          "url": "https://flash.jin10.com/detail/20260810184415901800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -735,7 +848,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -773,6 +886,17 @@
           "time_info": "13时26分"
         },
         {
+          "title": "招金黄金：若未来黄金价格大幅波动，将对公司经营业绩产生较大影响",
+          "url": "https://flash.jin10.com/detail/20260810183709330800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "“金虫”没有退场：黄金多头等待债市转向，看涨押注正在升温",
           "url": "https://flash.jin10.com/detail/20260810110204324800",
           "source": "金十数据",
@@ -782,6 +906,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "黄金LOF：下调大额申购、定期定额投资业务限制金额至100.00元，暂停大额申购起始日为8月12日。",
+          "url": "https://flash.jin10.com/detail/20260810183639391800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
@@ -801,9 +936,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克设定9月巴士拉中质原油对亚洲的官方售价较阿曼/迪拜平均价格贴水4美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     }
