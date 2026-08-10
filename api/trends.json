@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-11T06:37:01.949724+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-08-11T07:35:02.425023+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 114,
+      "match_count": 122,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
           "url": "https://news.ifeng.com/c/8vTlIUCd26B",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -26,8 +27,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时35分]"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时35分]"
+        },
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普称要向伊朗索赔",
+          "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时55分 ~ 07时35分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -41,51 +78,28 @@
           "time_info": "[00时01分 ~ 04时41分]"
         },
         {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时37分]"
-        },
-        {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普称要向伊朗索赔",
-          "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 06时37分]"
-        },
-        {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
           "url": "https://wallstreetcn.com/articles/3779046",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时35分]"
+        },
+        {
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "伯克希尔 Q2 净利润 256.67 亿美元，时隔 3 年首次净买入股票，现金储备降至 3655 亿美元，如何解读？",
@@ -95,33 +109,51 @@
             15,
             13,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时37分]"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
           "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时36分 ~ 07时35分]"
+        },
+        {
+          "title": "土耳其为何向乌转让2.8亿美元武器",
+          "url": "https://www.toutiao.com/trending/7672370517101252102/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28,
+            18,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时56分 ~ 07时35分]"
+        },
+        {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 06时37分]"
+          "appearance_count": 4,
+          "time_info": "[06时36分 ~ 07时35分]"
         },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
@@ -168,15 +200,17 @@
           "time_info": "03时55分"
         },
         {
-          "title": "多路资金买入黄金，机构热议新“击球区”出现",
-          "url": "https://wallstreetcn.com/livenews/3147715",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta遭1.4万亿美元天价索赔",
+          "url": "https://www.baidu.com/s?wd=Meta%E9%81%AD1.4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A9%E4%BB%B7%E7%B4%A2%E8%B5%94",
+          "source": "百度热搜",
           "ranks": [
-            1
+            27,
+            25,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 07时35分]"
         },
         {
           "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
@@ -212,6 +246,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
+          "url": "https://flash.jin10.com/detail/20260811071100479800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
           "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
           "url": "https://flash.jin10.com/detail/20260811005131000800",
           "source": "金十数据",
@@ -223,6 +268,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "报道：英特尔拟扩大股票发售规模，筹资约200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
           "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
           "url": "https://flash.jin10.com/detail/20260811005120672800",
           "source": "金十数据",
@@ -232,31 +288,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
-          "url": "https://wallstreetcn.com/livenews/3147708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "土耳其为何向乌转让2.8亿美元武器",
-          "url": "https://www.toutiao.com/trending/7672370517101252102/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时56分 ~ 06时37分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -294,6 +325,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 06时37分]"
+        },
+        {
+          "title": "多路资金买入黄金，机构热议新“击球区”出现",
+          "url": "https://wallstreetcn.com/livenews/3147715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
         },
         {
           "title": "WTI原油日内涨幅达4.0%，报81.33美元/桶。",
@@ -428,16 +471,16 @@
           "time_info": "[04时41分 ~ 06时37分]"
         },
         {
-          "title": "Meta遭1.4万亿美元天价索赔",
-          "url": "https://www.baidu.com/s?wd=Meta%E9%81%AD1.4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A9%E4%BB%B7%E7%B4%A2%E8%B5%94",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
+          "url": "https://wallstreetcn.com/livenews/3147708",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            25
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时55分]"
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
         },
         {
           "title": "美国总统特朗普：几天前与美联储主席沃什通话。",
@@ -452,6 +495,18 @@
           "time_info": "[03时55分 ~ 04时41分]"
         },
         {
+          "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
+          "url": "https://flash.jin10.com/detail/20260811055637856800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
+        },
+        {
           "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
           "url": "https://wallstreetcn.com/livenews/3147680",
           "source": "华尔街见闻-快讯",
@@ -464,15 +519,15 @@
           "time_info": "[04时41分 ~ 06时37分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时36分 ~ 06时37分]"
+          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -496,6 +551,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时41分]"
+        },
+        {
+          "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
+          "url": "https://flash.jin10.com/detail/20260811055607188800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
         },
         {
           "title": "美国总统特朗普：我们已经对整个霍尔木兹海峡进行了扫雷。",
@@ -522,6 +589,18 @@
           "time_info": "[03时55分 ~ 04时41分]"
         },
         {
+          "title": "市场消息：黑石集团(BX.N)即将以20亿美元收购加拿大航空Aeroplan忠诚度计划的少数股权。这笔交易将为加拿大航空注入新的资金以应对燃油成本上升和美国旅游需求疲软。",
+          "url": "https://flash.jin10.com/detail/20260811055058061800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
+        },
+        {
           "title": "OpenAI：GPT‑5.6‑CYBER并未被用于攻击Hugging Face，计划即将发布的其他模型也未参与此事。 强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。 自9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。 OpenAI正在扩大Daybreak项目规模，为开展授权工作的个人及获批机构设立两级访问权限：Daybreak Blue，提供包括 GPT‑5.6 Sol在内的前沿通用模型；Daybreak Red，开放全新GPT‑5.6‑Cyber模型，用于经授权的漏洞研究、漏洞利用验证以及安全测试。",
           "url": "https://wallstreetcn.com/livenews/3147642",
           "source": "华尔街见闻-快讯",
@@ -532,6 +611,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时55分]"
+        },
+        {
+          "title": "周一（8月10日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7460元，较上周五（非农日）纽约尾盘跌31点，日内整体交投于6.7419-6.7481元区间，脱离2023年2月3日（盘中最高位6.7342元）以来最高位6.7401元。",
+          "url": "https://wallstreetcn.com/livenews/3147702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
         },
         {
           "title": "荷兰天然气期货涨10.1%，报61.14美元/MWh。",
@@ -606,6 +697,18 @@
           "time_info": "[03时55分 ~ 04时41分]"
         },
         {
+          "title": "国际金价周一涨1.1%，现货白银涨3.2%",
+          "url": "https://wallstreetcn.com/livenews/3147700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
+        },
+        {
           "title": "美国总统特朗普：（当被问及伊朗战争接下来会发生什么时）你们很快就会知道了。",
           "url": "https://flash.jin10.com/detail/20260811032829058800",
           "source": "金十数据",
@@ -616,6 +719,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时41分]"
+        },
+        {
+          "title": "美股收盘：芯片股、光通信概念重挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E6%A6%82%E5%BF%B5%E9%87%8D%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7495元，较上周五夜盘收盘跌39点。成交量259.38亿美元。",
@@ -654,17 +768,6 @@
           "time_info": "[03时55分 ~ 04时41分]"
         },
         {
-          "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
-          "url": "https://flash.jin10.com/detail/20260811055637856800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
           "title": "特朗普：将赔偿问题纳入未来的谈判",
           "url": "https://wallstreetcn.com/livenews/3147619",
           "source": "华尔街见闻-快讯",
@@ -685,17 +788,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
-          "url": "https://flash.jin10.com/detail/20260811055607188800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
@@ -720,6 +812,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "现货黄金突破4400美元/盎司，为6月5日以来新高，日内涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260811065555735800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
           "url": "https://wallstreetcn.com/livenews/3147676",
           "source": "华尔街见闻-快讯",
@@ -742,17 +845,6 @@
           "time_info": "01时03分"
         },
         {
-          "title": "市场消息：黑石集团(BX.N)即将以20亿美元收购加拿大航空Aeroplan忠诚度计划的少数股权。这笔交易将为加拿大航空注入新的资金以应对燃油成本上升和美国旅游需求疲软。",
-          "url": "https://flash.jin10.com/detail/20260811055058061800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
           "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
           "url": "https://wallstreetcn.com/livenews/3147615",
           "source": "华尔街见闻-快讯",
@@ -762,17 +854,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "周一（8月10日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7460元，较上周五（非农日）纽约尾盘跌31点，日内整体交投于6.7419-6.7481元区间，脱离2023年2月3日（盘中最高位6.7342元）以来最高位6.7401元。",
-          "url": "https://wallstreetcn.com/livenews/3147702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
@@ -830,17 +911,6 @@
           "time_info": "04时41分"
         },
         {
-          "title": "国际金价周一涨1.1%，现货白银涨3.2%",
-          "url": "https://wallstreetcn.com/livenews/3147700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
           "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
           "url": "https://flash.jin10.com/detail/20260811003419512800",
           "source": "金十数据",
@@ -869,7 +939,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -907,6 +977,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
+          "url": "https://wallstreetcn.com/livenews/3147721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
           "title": "美国原油期货结算价为每桶82.13美元，上涨3.95美元，涨幅5.05%。",
           "url": "https://flash.jin10.com/detail/20260811023419436800",
           "source": "金十数据",
@@ -916,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加3.423吨，当前持仓量为1020.96吨。",
+          "url": "https://flash.jin10.com/detail/20260811061924190800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "WTI原油日内涨幅达4.5%，报81.73美元/桶；布伦特原油日内涨幅达4.5%，报87.32美元/桶。",
@@ -935,7 +1027,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -1026,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3147719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "OpenAI：自2026年9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。",
@@ -1144,7 +1247,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -1188,7 +1291,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -1199,7 +1302,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -1232,7 +1335,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -1265,7 +1368,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -1287,7 +1390,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
