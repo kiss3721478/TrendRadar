@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:26:51.170104+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-08-10T15:39:44.573802+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 56,
+      "match_count": 62,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时31分 ~ 13时26分]"
+          "appearance_count": 15,
+          "time_info": "[01时31分 ~ 15时39分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -71,11 +71,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时32分 ~ 13时26分]"
+          "appearance_count": 12,
+          "time_info": "[03时32分 ~ 15时39分]"
         },
         {
           "title": "利润大涨超100%，这一行业，黄金窗口期来了",
@@ -171,6 +172,19 @@
           "time_info": "[09时42分 ~ 13时26分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 15时39分]"
+        },
+        {
           "title": "特朗普称正在“低调处理”伊朗问题",
           "url": "https://wallstreetcn.com/livenews/3147122",
           "source": "华尔街见闻-快讯",
@@ -227,7 +241,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -243,19 +257,6 @@
           "time_info": "09时42分"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 13时26分]"
-        },
-        {
           "title": "现货黄金失守4330美元/盎司，日内跌幅0.26%。",
           "url": "https://flash.jin10.com/detail/20260810090134408800",
           "source": "金十数据",
@@ -265,6 +266,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 15时39分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -341,18 +354,6 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 13时26分]"
-        },
-        {
           "title": "WTI原油周一开盘上涨1.5%，现报77.6美元/桶。",
           "url": "https://flash.jin10.com/detail/20260810060035302800",
           "source": "金十数据",
@@ -382,11 +383,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 15时39分]"
         },
         {
           "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
@@ -396,8 +398,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 15时39分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -448,13 +450,24 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
+          "title": "韩国资金抢筹中际旭创！H股上市7天净买4339万美元",
+          "url": "https://www.cls.cn/detail/2449790",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "印度卢比兑美元最新报95.2275，日内变动不大。",
           "url": "https://flash.jin10.com/detail/20260810130300957800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -465,7 +478,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -487,7 +500,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -498,7 +511,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -512,6 +525,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "黄金上行赔率占优，美联储加息窗口向10月倾斜｜市场赔率数据表",
+          "url": "https://flash.jin10.com/detail/20260810151752044800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "人民币兑美元中间价创2023年2月10日以来新高",
@@ -531,9 +566,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "A股收盘：沪指涨0.67%录得5连阳，医药、消费股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3147342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
@@ -575,7 +621,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -600,6 +646,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "黄金看涨期权有押有撤，分歧之下金价是否还有突破空间？——增强版同步发布！",
+          "url": "https://flash.jin10.com/detail/20260810151012200800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -641,7 +709,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
