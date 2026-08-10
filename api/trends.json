@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T15:39:44.573802+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-08-10T17:20:03.204941+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时31分 ~ 15时39分]"
+          "appearance_count": 17,
+          "time_info": "[01时31分 ~ 17时20分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -159,6 +159,45 @@
           "time_info": "[00时34分 ~ 11时55分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 17时20分]"
+        },
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 17时20分]"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普公布新任总统助理人选",
           "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
           "source": "凤凰网",
@@ -170,19 +209,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时42分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 15时39分]"
         },
         {
           "title": "特朗普称正在“低调处理”伊朗问题",
@@ -213,6 +239,17 @@
           "time_info": "[01时31分 ~ 05时31分]"
         },
         {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普会对内塔尼亚胡拒绝加沙和平计划作何反应？",
           "url": "https://flash.jin10.com/detail/20260810113842057800",
           "source": "金十数据",
@@ -222,6 +259,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "韩国资金抢筹中际旭创！H股上市7天净买4339万美元",
+          "url": "https://www.cls.cn/detail/2449790",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 17时20分]"
         },
         {
           "title": "创新药、CRO概念股延续涨势，百花医药5连板，义翘神州涨超10%，泓博医药、近岸蛋白、昭衍新药等多股高开。",
@@ -268,16 +317,15 @@
           "time_info": "09时42分"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
+          "title": "上海：到2030年 全市服务贸易规模突破3000亿美元",
+          "url": "https://flash.jin10.com/detail/20260810170448368800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 15时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -378,28 +426,39 @@
           "time_info": "[11时55分 ~ 13时26分]"
         },
         {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            7
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 17时20分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
           "ranks": [
-            11
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 17时20分]"
+        },
+        {
+          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
+          "url": "https://wallstreetcn.com/articles/3779046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -448,17 +507,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
-        },
-        {
-          "title": "韩国资金抢筹中际旭创！H股上市7天净买4339万美元",
-          "url": "https://www.cls.cn/detail/2449790",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         },
         {
           "title": "印度卢比兑美元最新报95.2275，日内变动不大。",
@@ -527,24 +575,13 @@
           "time_info": "11时55分"
         },
         {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
           "title": "黄金上行赔率占优，美联储加息窗口向10月倾斜｜市场赔率数据表",
           "url": "https://flash.jin10.com/detail/20260810151752044800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -577,9 +614,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.7442，较上一交易日官方收盘价涨59点，较上日夜盘收盘涨14点。",
+          "url": "https://wallstreetcn.com/livenews/3147385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "黄金走势即将逆袭？华尔街投行：现在是买入的绝佳时机",
@@ -602,6 +650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "城堡证券今年来首次喊多黄金：五大催化剂共振有望引爆金价",
+          "url": "https://flash.jin10.com/detail/20260810165318145800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。",
@@ -654,18 +713,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "前美国官员：特朗普使美国安全恶化",
-          "url": "https://www.toutiao.com/trending/7671249968112173098/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -679,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "巴克莱：日本投资者7月份减持美债 买入欧洲发达市场债券",
+          "url": "https://wallstreetcn.com/livenews/3147365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "现货白银突破64美元/盎司，日内涨0.74%。",
@@ -734,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "美元兑日元USD/JPY日内涨超0.50%，现报158.57。",
+          "url": "https://flash.jin10.com/detail/20260810163418034800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     }
