@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T07:35:02.425023+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-08-11T09:39:02.632416+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 122,
+      "match_count": 136,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 09时39分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -67,6 +67,19 @@
           "time_info": "[03时55分 ~ 07时35分]"
         },
         {
+          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
+          "url": "https://wallstreetcn.com/articles/3779046",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 09时39分]"
+        },
+        {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
@@ -78,16 +91,17 @@
           "time_info": "[00时01分 ~ 04时41分]"
         },
         {
-          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
-          "url": "https://wallstreetcn.com/articles/3779046",
-          "source": "华尔街见闻",
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            8,
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时35分]"
+          "appearance_count": 6,
+          "time_info": "[06时36分 ~ 09时39分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -129,6 +143,17 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
           "title": "土耳其为何向乌转让2.8亿美元武器",
           "url": "https://www.toutiao.com/trending/7672370517101252102/",
           "source": "今日头条",
@@ -144,16 +169,38 @@
           "time_info": "[02时56分 ~ 07时35分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时36分 ~ 07时35分]"
+          "time_info": "[07时34分 ~ 09时39分]"
+        },
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
         },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
@@ -252,7 +299,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -274,7 +321,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -483,6 +530,17 @@
           "time_info": "[06时37分 ~ 07时35分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
           "title": "美国总统特朗普：几天前与美联储主席沃什通话。",
           "url": "https://flash.jin10.com/detail/20260811033643002800",
           "source": "金十数据",
@@ -519,15 +577,37 @@
           "time_info": "[04时41分 ~ 06时37分]"
         },
         {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
+          "title": "现货黄金涨破4400美元/盎司",
+          "url": "https://www.toutiao.com/trending/7672549105893117486/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
+          "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
+          "url": "https://www.cls.cn/detail/2450754",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
+          "time_info": "[09时38分 ~ 09时39分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -539,6 +619,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 01时03分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
         },
         {
           "title": "美国总统特朗普：只有美国才能控制霍尔木兹海峡。",
@@ -623,6 +714,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时35分]"
+        },
+        {
+          "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
+          "url": "https://www.cls.cn/detail/2450613",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
         },
         {
           "title": "荷兰天然气期货涨10.1%，报61.14美元/MWh。",
@@ -768,6 +870,17 @@
           "time_info": "[03时55分 ~ 04时41分]"
         },
         {
+          "title": "现货黄金涨破4400美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E6%B6%A8%E7%A0%B44400%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时38分 ~ 09时39分]"
+        },
+        {
           "title": "特朗普：将赔偿问题纳入未来的谈判",
           "url": "https://wallstreetcn.com/livenews/3147619",
           "source": "华尔街见闻-快讯",
@@ -818,7 +931,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -911,6 +1024,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "人民币兑美元中间价报6.7900，下调16点；上一交易日中间价6.7884，上一交易日官方收盘价6.7442，上日夜盘报收6.7495。",
+          "url": "https://wallstreetcn.com/livenews/3147763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
           "url": "https://flash.jin10.com/detail/20260811003419512800",
           "source": "金十数据",
@@ -983,7 +1107,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1005,7 +1129,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1126,7 +1250,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1230,6 +1354,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 8月11日（周二）早盘盘初上涨1.5%报955.26元/克；<br/>上海黄金交易所白银T+D 8月11日（周二）早盘盘初上涨2.44%报15931.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260811090105909800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "美国总统特朗普将美国琼斯法案针对货轮的豁免措施延长90天，但范围缩小。 特朗普将航运豁免范围限制在能源大宗商品和化肥领域。",
           "url": "https://wallstreetcn.com/livenews/3147630",
           "source": "华尔街见闻-快讯",
@@ -1307,6 +1442,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
+          "url": "https://wallstreetcn.com/livenews/3147748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
+        },
+        {
           "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
           "url": "https://flash.jin10.com/detail/20260811021755846800",
           "source": "金十数据",
@@ -1371,6 +1517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "韩国韩华集团斥资10亿美元进军美国海军造船业",
+          "url": "https://flash.jin10.com/detail/20260811084919872800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时39分"
         },
         {
           "title": "LME期铜收涨84美元，报14160美元/吨。 LME期铝收涨38美元，报3318美元/吨。 LME期锌收涨30美元，报3738美元/吨。 LME期铅收涨16美元，报1903美元/吨。 LME期镍收跌79美元，报16925美元/吨。 LME期锡收涨222美元，报55752美元/吨。 LME期钴收平，报56290美元/吨。",
