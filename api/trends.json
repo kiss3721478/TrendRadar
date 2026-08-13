@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T12:11:35.745591+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-08-13T14:16:51.698130+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 69,
+      "match_count": 76,
       "titles": [
         {
           "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 14时16分]"
         },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 14时16分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -71,8 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 14时16分]"
         },
         {
           "title": "机构：2025年全球商用清洁机器人出货量突破50000台，营收超过4亿美元",
@@ -103,9 +103,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "韩国7月汽车出口超62亿美元，创历年同期新高",
+          "url": "https://wallstreetcn.com/livenews/3148949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
@@ -155,6 +166,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "马士基第二季营收157.6亿美元，市场预估141亿美元。 第二季度EBITDA29.9亿美元，市场预估20.6亿美元。 第二季EBIT15.7亿美元，市场预估5.442亿美元。 预计全年基础EBITDA为105亿至125亿美元，市场预估92.7亿美元。 预计全年基础EBIT45亿至65亿美元，此前预期20亿至40亿美元，市场预估34.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3148946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "消息人士称，谷歌(GOOG.O)联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
           "url": "https://flash.jin10.com/detail/20260813013427834800",
           "source": "金十数据",
@@ -199,6 +221,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "A股黄金概念股午后持续走低，晓程科技跌超8%，招金黄金跌超6%，湖南白银、盛达资源等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260813140302382800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
           "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
           "source": "凤凰网",
@@ -232,6 +265,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 04时01分]"
+        },
+        {
+          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
+          "url": "https://www.cls.cn/detail/2452988",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 14时16分]"
         },
         {
           "title": "特朗普：白宫新闻秘书莱维特将卸任，以便有更多时间陪伴家人。莱维特将成为我的高级外部顾问之一。",
@@ -348,8 +393,31 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 14时16分]"
+        },
+        {
+          "title": "125亿美元天价易手！洛杉矶湖人队刷新职业体育最高估值纪录",
+          "url": "https://www.cls.cn/detail/2452870",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 14时16分]"
+        },
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时52分 ~ 12时11分]"
+          "time_info": "[12时11分 ~ 14时16分]"
         },
         {
           "title": "SpaceX涨幅扩大至8%，总市值达1.9万亿美元，本月已累升逾32%。",
@@ -399,18 +467,6 @@
           "time_info": "[04时01分 ~ 05时44分]"
         },
         {
-          "title": "125亿美元天价易手！洛杉矶湖人队刷新职业体育最高估值纪录",
-          "url": "https://www.cls.cn/detail/2452870",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 12时11分]"
-        },
-        {
           "title": "金价油价全涨了",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B2%B9%E4%BB%B7%E5%85%A8%E6%B6%A8%E4%BA%86&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -433,17 +489,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 12时11分]"
-        },
-        {
-          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
-          "url": "https://www.cls.cn/detail/2452988",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的7.25亿美元。",
@@ -474,18 +519,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -512,6 +546,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "中期选举临近，特朗普资本利得税构想将让最富有人群获益最多",
           "url": "https://wallstreetcn.com/livenews/3148737",
           "source": "华尔街见闻-快讯",
@@ -521,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "谷歌AI健康监测再进化：Pixel Watch 5首推胰岛素抵抗追踪",
+          "url": "https://www.cls.cn/detail/2452850",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "市场消息：Anthropic据悉将斥资60亿美元收购人工智能初创公司Decart。",
@@ -587,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "日元兑美元短线快速拉升20多点，此前据媒体报道，日本首相高市早苗支持日本央行更快加息。",
+          "url": "https://wallstreetcn.com/livenews/3148914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "美国7月政府预算 -4323.08亿美元，预期 -3460亿美元，前值 -2911亿美元。",
@@ -749,7 +816,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -774,6 +841,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "联想集团第一财季营收269.4亿美元，预估224.2亿美元。 第一财季净亏损6.086亿美元，预估收益4.317亿美元。 第一财季营业利润1,920万美元。 第一财季毛利率16.5％，预估16％。",
+          "url": "https://wallstreetcn.com/livenews/3148902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
