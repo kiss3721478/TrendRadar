@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T11:53:25.650017+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-08-16T12:35:16.910685+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "医药 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 泉州",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -16,8 +16,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 12时35分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/livenews/3150029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
+          "url": "https://flash.jin10.com/detail/20260816120240152800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -25,11 +47,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时35分]"
+        },
+        {
+          "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
+          "url": "https://flash.jin10.com/detail/20260816102212922800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时35分]"
         },
         {
           "title": "“AI版金融创新”：英伟达的“5000亿美元大算盘”",
@@ -44,27 +80,29 @@
           "time_info": "[07时19分 ~ 10时59分]"
         },
         {
-          "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
-          "url": "https://flash.jin10.com/detail/20260816102212922800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时53分]"
-        },
-        {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
           "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 12时35分]"
+        },
+        {
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "url": "https://www.cls.cn/detail/2455064",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 12时35分]"
         },
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -75,20 +113,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 11时53分]"
-        },
-        {
-          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
-          "url": "https://www.cls.cn/detail/2455064",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 11时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 12时35分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -99,8 +125,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时35分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -108,11 +134,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时35分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
@@ -120,11 +147,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时35分]"
         },
         {
           "title": "哈佛对SpaceX进行了高达22亿美元的重大投资。（福克斯新闻）",
@@ -132,11 +160,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时35分]"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -144,11 +173,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时35分]"
         },
         {
           "title": "哈佛大学重仓SpaceX，22亿美元投资彰显长期布局",
@@ -156,11 +186,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时35分]"
         },
         {
           "title": "据福克斯新闻：哈佛对SpaceX(SPCX.O)进行了高达22亿美元的重大投资。",
@@ -168,11 +199,34 @@
           "source": "金十数据",
           "ranks": [
             16,
-            21
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 12时35分]"
+        },
+        {
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时53分]"
+          "time_info": "[11时53分 ~ 12时35分]"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时35分]"
         },
         {
           "title": "美国总统特朗普周日日程一览",
@@ -199,26 +253,16 @@
           "time_info": "[10时59分 ~ 11时53分]"
         },
         {
-          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
-          "url": "https://wallstreetcn.com/articles/3779518",
-          "source": "华尔街见闻",
+          "title": "比利时老房翻修翻出价值超7000万黄金",
+          "url": "https://www.toutiao.com/trending/7674232738564931626/",
+          "source": "今日头条",
           "ranks": [
-            9
+            25,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 12时35分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -270,17 +314,6 @@
           "source": "金十数据",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "比利时老房翻修翻出价值超7000万黄金",
-          "url": "https://www.toutiao.com/trending/7674232738564931626/",
-          "source": "今日头条",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
